@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "place_name": "La Massana",
+      "postal_code": "AD400",
+      "country_code": "AD",
+      "latitude": 42.5667,
+      "longitude": 1.4833,
+      "admin_name1": "La Massana"
+    },
+    {
+      "place_name": "Andorra la Vella",
+      "postal_code": "AD500",
+      "country_code": "AD",
+      "latitude": 42.5,
+      "longitude": 1.5,
+      "admin_name1": "Andorra la Vella"
+    },
+    {
+      "place_name": "Ordino",
+      "postal_code": "AD300",
+      "country_code": "AD",
+      "latitude": 42.6,
+      "longitude": 1.55,
+      "admin_name1": "Ordino"
+    },
+    {
+      "place_name": "Encamp",
+      "postal_code": "AD200",
+      "country_code": "AD",
+      "latitude": 42.5333,
+      "longitude": 1.6333,
+      "admin_name1": "Encamp"
+    },
+    {
+      "place_name": "Sant Julià de Lòria",
+      "postal_code": "AD600",
+      "country_code": "AD",
+      "latitude": 42.4667,
+      "longitude": 1.5,
+      "admin_name1": "Sant Julià de Lòria"
+    },
+    {
+      "place_name": "Escaldes-Engordany",
+      "postal_code": "AD700",
+      "country_code": "AD",
+      "latitude": 42.5,
+      "longitude": 1.5667,
+      "admin_name1": "Escaldes-Engordany"
+    }
+  ]
+]
