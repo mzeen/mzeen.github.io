@@ -1,0 +1,172 @@
+[
+  [
+    {
+      "place_name": "Le Tampon",
+      "postal_code": "97418",
+      "country_code": "RE",
+      "latitude": -21.2831,
+      "longitude": 55.518,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "Saint-Denis",
+      "postal_code": "97482 CEDEX",
+      "country_code": "RE",
+      "latitude": -20.8823,
+      "longitude": 55.4504,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "Le Port",
+      "postal_code": "97824 CEDEX",
+      "country_code": "RE",
+      "latitude": -20.9373,
+      "longitude": 55.2919,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "Saint-Leu",
+      "postal_code": "97416",
+      "country_code": "RE",
+      "latitude": -21.1706,
+      "longitude": 55.2882,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "Saint-Joseph",
+      "postal_code": "97480",
+      "country_code": "RE",
+      "latitude": -21.3784,
+      "longitude": 55.6192,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "Saint-Paul",
+      "postal_code": "97867 CEDEX",
+      "country_code": "RE",
+      "latitude": -21.0096,
+      "longitude": 55.2707,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "Saint-Pierre",
+      "postal_code": "97454 CEDEX",
+      "country_code": "RE",
+      "latitude": -21.3393,
+      "longitude": 55.4781,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "Sainte-Clotilde",
+      "postal_code": "97493 CEDEX",
+      "country_code": "RE",
+      "latitude": -20.8916,
+      "longitude": 55.4787,
+      "admin_name1": "Reunion (general)"
+    },
+    {
+      "place_name": "Cilaos",
+      "postal_code": "97413",
+      "country_code": "RE",
+      "latitude": -21.1336,
+      "longitude": 55.4719,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "La Rivière",
+      "postal_code": "97421",
+      "country_code": "RE",
+      "latitude": -21.2595,
+      "longitude": 55.4405,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "Sainte-Rose",
+      "postal_code": "97439",
+      "country_code": "RE",
+      "latitude": -21.1298,
+      "longitude": 55.7963,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "Bras-Panon",
+      "postal_code": "97412",
+      "country_code": "RE",
+      "latitude": -20.9967,
+      "longitude": 55.6782,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "La Plaine-des-Palmistes",
+      "postal_code": "97431",
+      "country_code": "RE",
+      "latitude": -21.1167,
+      "longitude": 55.6333,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "Trois-Bassins",
+      "postal_code": "97426",
+      "country_code": "RE",
+      "latitude": -21.1,
+      "longitude": 55.3,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "Petite-Île",
+      "postal_code": "97429",
+      "country_code": "RE",
+      "latitude": -21.35,
+      "longitude": 55.5667,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "La Possession",
+      "postal_code": "97419",
+      "country_code": "RE",
+      "latitude": -20.9289,
+      "longitude": 55.3351,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "Salazie",
+      "postal_code": "97433",
+      "country_code": "RE",
+      "latitude": -21.0273,
+      "longitude": 55.539,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "L'Entre-Deux",
+      "postal_code": "97414",
+      "country_code": "RE",
+      "latitude": -21.2333,
+      "longitude": 55.4667,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "Les Avirons",
+      "postal_code": "97425",
+      "country_code": "RE",
+      "latitude": -21.2418,
+      "longitude": 55.3394,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "L'Étang-Salé",
+      "postal_code": "97427",
+      "country_code": "RE",
+      "latitude": -21.25,
+      "longitude": 55.3833,
+      "admin_name1": "Réunion"
+    },
+    {
+      "place_name": "Saint-Philippe",
+      "postal_code": "97442",
+      "country_code": "RE",
+      "latitude": -21.3585,
+      "longitude": 55.768,
+      "admin_name1": "Réunion"
+    }
+  ]
+]

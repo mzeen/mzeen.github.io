@@ -1,0 +1,508 @@
+[
+  [
+    {
+      "place_name": "Caguas",
+      "postal_code": "00725",
+      "country_code": "PR",
+      "latitude": 18.2341,
+      "longitude": -66.0485,
+      "admin_name1": "Caguas"
+    },
+    {
+      "place_name": "Carolina",
+      "postal_code": "00988",
+      "country_code": "PR",
+      "latitude": 18.3808,
+      "longitude": -65.9574,
+      "admin_name1": "Carolina"
+    },
+    {
+      "place_name": "Ciales",
+      "postal_code": "00638",
+      "country_code": "PR",
+      "latitude": 18.3361,
+      "longitude": -66.4688,
+      "admin_name1": "Ciales"
+    },
+    {
+      "place_name": "Guaynabo",
+      "postal_code": "00970",
+      "country_code": "PR",
+      "latitude": 18.3575,
+      "longitude": -66.111,
+      "admin_name1": "Guaynabo"
+    },
+    {
+      "place_name": "Hormigueros",
+      "postal_code": "00660",
+      "country_code": "PR",
+      "latitude": 18.1397,
+      "longitude": -67.1274,
+      "admin_name1": "Hormigueros"
+    },
+    {
+      "place_name": "Humacao",
+      "postal_code": "00792",
+      "country_code": "PR",
+      "latitude": 18.1497,
+      "longitude": -65.8274,
+      "admin_name1": "Humacao"
+    },
+    {
+      "place_name": "Jayuya",
+      "postal_code": "00664",
+      "country_code": "PR",
+      "latitude": 18.2186,
+      "longitude": -66.5916,
+      "admin_name1": "Jayuya"
+    },
+    {
+      "place_name": "Mayaguez",
+      "postal_code": "00681",
+      "country_code": "PR",
+      "latitude": 18.2011,
+      "longitude": -67.1396,
+      "admin_name1": "Mayaguez"
+    },
+    {
+      "place_name": "Toa Alta",
+      "postal_code": "00953",
+      "country_code": "PR",
+      "latitude": 18.3883,
+      "longitude": -66.2482,
+      "admin_name1": "Toa Alta"
+    },
+    {
+      "place_name": "Aguadilla",
+      "postal_code": "00603",
+      "country_code": "PR",
+      "latitude": 18.4274,
+      "longitude": -67.1541,
+      "admin_name1": "Aguadilla"
+    },
+    {
+      "place_name": "Arroyo",
+      "postal_code": "00714",
+      "country_code": "PR",
+      "latitude": 17.9658,
+      "longitude": -66.0613,
+      "admin_name1": "Arroyo"
+    },
+    {
+      "place_name": "Cayey",
+      "postal_code": "00737",
+      "country_code": "PR",
+      "latitude": 18.1119,
+      "longitude": -66.166,
+      "admin_name1": "Cayey"
+    },
+    {
+      "place_name": "Vega Alta",
+      "postal_code": "00692",
+      "country_code": "PR",
+      "latitude": 18.4122,
+      "longitude": -66.3313,
+      "admin_name1": "Vega Alta"
+    },
+    {
+      "place_name": "Anasco",
+      "postal_code": "00610",
+      "country_code": "PR",
+      "latitude": 18.2827,
+      "longitude": -67.1396,
+      "admin_name1": "Anasco"
+    },
+    {
+      "place_name": "Fajardo",
+      "postal_code": "00738",
+      "country_code": "PR",
+      "latitude": 18.3258,
+      "longitude": -65.6524,
+      "admin_name1": "Fajardo"
+    },
+    {
+      "place_name": "Punta Santiago",
+      "postal_code": "00741",
+      "country_code": "PR",
+      "latitude": 18.1663,
+      "longitude": -65.7482,
+      "admin_name1": "Humacao"
+    },
+    {
+      "place_name": "St Just",
+      "postal_code": "00978",
+      "country_code": "PR",
+      "latitude": 18.3786,
+      "longitude": -66.05,
+      "admin_name1": "Trujillo Alto"
+    },
+    {
+      "place_name": "Barranquitas",
+      "postal_code": "00794",
+      "country_code": "PR",
+      "latitude": 18.1866,
+      "longitude": -66.3063,
+      "admin_name1": "Barranquitas"
+    },
+    {
+      "place_name": "Aguirre",
+      "postal_code": "00704",
+      "country_code": "PR",
+      "latitude": 17.9529,
+      "longitude": -66.262,
+      "admin_name1": "Guayama"
+    },
+    {
+      "place_name": "Aibonito",
+      "postal_code": "00705",
+      "country_code": "PR",
+      "latitude": 18.14,
+      "longitude": -66.266,
+      "admin_name1": "Aibonito"
+    },
+    {
+      "place_name": "Orocovis",
+      "postal_code": "00720",
+      "country_code": "PR",
+      "latitude": 18.2269,
+      "longitude": -66.391,
+      "admin_name1": "Orocovis"
+    },
+    {
+      "place_name": "Arecibo",
+      "postal_code": "00612",
+      "country_code": "PR",
+      "latitude": 18.4724,
+      "longitude": -66.7157,
+      "admin_name1": "Arecibo"
+    },
+    {
+      "place_name": "Roosevelt Roads",
+      "postal_code": "00742",
+      "country_code": "PR",
+      "latitude": 18.235,
+      "longitude": -65.6291,
+      "admin_name1": "Ceiba"
+    },
+    {
+      "place_name": "Guayama",
+      "postal_code": "00784",
+      "country_code": "PR",
+      "latitude": 17.9841,
+      "longitude": -66.1138,
+      "admin_name1": "Guayama"
+    },
+    {
+      "place_name": "Dorado",
+      "postal_code": "00646",
+      "country_code": "PR",
+      "latitude": 18.4588,
+      "longitude": -66.2677,
+      "admin_name1": "Dorado"
+    },
+    {
+      "place_name": "Rincon",
+      "postal_code": "00677",
+      "country_code": "PR",
+      "latitude": 18.3402,
+      "longitude": -67.2499,
+      "admin_name1": "Rincon"
+    },
+    {
+      "place_name": "Yauco",
+      "postal_code": "00698",
+      "country_code": "PR",
+      "latitude": 18.035,
+      "longitude": -66.8499,
+      "admin_name1": "Yauco"
+    },
+    {
+      "place_name": "Bayamon",
+      "postal_code": "00958",
+      "country_code": "PR",
+      "latitude": 18.3986,
+      "longitude": -66.1557,
+      "admin_name1": "Bayamon"
+    },
+    {
+      "place_name": "Camuy",
+      "postal_code": "00627",
+      "country_code": "PR",
+      "latitude": 18.4838,
+      "longitude": -66.8449,
+      "admin_name1": "Camuy"
+    },
+    {
+      "place_name": "Toa Baja",
+      "postal_code": "00949",
+      "country_code": "PR",
+      "latitude": 18.4438,
+      "longitude": -66.2596,
+      "admin_name1": "Toa Baja"
+    },
+    {
+      "place_name": "Vieques",
+      "postal_code": "00765",
+      "country_code": "PR",
+      "latitude": 18.0859,
+      "longitude": -66.2431,
+      "admin_name1": "Vieques"
+    },
+    {
+      "place_name": "Catano",
+      "postal_code": "00962",
+      "country_code": "PR",
+      "latitude": 18.4413,
+      "longitude": -66.1182,
+      "admin_name1": "Catano"
+    },
+    {
+      "place_name": "Castaner",
+      "postal_code": "00631",
+      "country_code": "PR",
+      "latitude": 18.1805,
+      "longitude": -66.8321,
+      "admin_name1": "Lares"
+    },
+    {
+      "place_name": "Coto Laurel",
+      "postal_code": "00780",
+      "country_code": "PR",
+      "latitude": 18.0497,
+      "longitude": -66.5513,
+      "admin_name1": "Ponce"
+    },
+    {
+      "place_name": "Sabana Hoyos",
+      "postal_code": "00688",
+      "country_code": "PR",
+      "latitude": 18.4338,
+      "longitude": -66.6138,
+      "admin_name1": "Arecibo"
+    },
+    {
+      "place_name": "Cidra",
+      "postal_code": "00739",
+      "country_code": "PR",
+      "latitude": 18.1758,
+      "longitude": -66.1613,
+      "admin_name1": "Cidra"
+    },
+    {
+      "place_name": "Guayanilla",
+      "postal_code": "00656",
+      "country_code": "PR",
+      "latitude": 18.0191,
+      "longitude": -66.7918,
+      "admin_name1": "Guayanilla"
+    },
+    {
+      "place_name": "Aguas Buenas",
+      "postal_code": "00703",
+      "country_code": "PR",
+      "latitude": 18.2569,
+      "longitude": -66.1029,
+      "admin_name1": "Aguas Buenas"
+    },
+    {
+      "place_name": "Morovis",
+      "postal_code": "00687",
+      "country_code": "PR",
+      "latitude": 18.3258,
+      "longitude": -66.4066,
+      "admin_name1": "Morovis"
+    },
+    {
+      "place_name": "Trujillo Alto",
+      "postal_code": "00976",
+      "country_code": "PR",
+      "latitude": 18.3547,
+      "longitude": -66.0074,
+      "admin_name1": "Trujillo Alto"
+    },
+    {
+      "place_name": "Coamo",
+      "postal_code": "00769",
+      "country_code": "PR",
+      "latitude": 18.08,
+      "longitude": -66.3579,
+      "admin_name1": "Coamo"
+    },
+    {
+      "place_name": "Hatillo",
+      "postal_code": "00659",
+      "country_code": "PR",
+      "latitude": 18.4863,
+      "longitude": -66.8255,
+      "admin_name1": "Hatillo"
+    },
+    {
+      "place_name": "Loiza",
+      "postal_code": "00772",
+      "country_code": "PR",
+      "latitude": 18.4313,
+      "longitude": -65.8802,
+      "admin_name1": "Loiza"
+    },
+    {
+      "place_name": "Utuado",
+      "postal_code": "00641",
+      "country_code": "PR",
+      "latitude": 18.2655,
+      "longitude": -66.7005,
+      "admin_name1": "Utuado"
+    },
+    {
+      "place_name": "Vega Baja",
+      "postal_code": "00693",
+      "country_code": "PR",
+      "latitude": 18.4444,
+      "longitude": -66.3877,
+      "admin_name1": "Vega Baja"
+    },
+    {
+      "place_name": "Las Marias",
+      "postal_code": "00670",
+      "country_code": "PR",
+      "latitude": 18.2519,
+      "longitude": -66.9921,
+      "admin_name1": "Las Marias"
+    },
+    {
+      "place_name": "Luquillo",
+      "postal_code": "00773",
+      "country_code": "PR",
+      "latitude": 18.3725,
+      "longitude": -65.7166,
+      "admin_name1": "Luquillo"
+    },
+    {
+      "place_name": "Yabucoa",
+      "postal_code": "00767",
+      "country_code": "PR",
+      "latitude": 18.0505,
+      "longitude": -65.8793,
+      "admin_name1": "Yabucoa"
+    },
+    {
+      "place_name": "Penuelas",
+      "postal_code": "00624",
+      "country_code": "PR",
+      "latitude": 18.0564,
+      "longitude": -66.7216,
+      "admin_name1": "Penuelas"
+    },
+    {
+      "place_name": "Guanica",
+      "postal_code": "00653",
+      "country_code": "PR",
+      "latitude": 17.9716,
+      "longitude": -66.908,
+      "admin_name1": "Guanica"
+    },
+    {
+      "place_name": "Juncos",
+      "postal_code": "00777",
+      "country_code": "PR",
+      "latitude": 18.2275,
+      "longitude": -65.921,
+      "admin_name1": "Juncos"
+    },
+    {
+      "place_name": "Maunabo",
+      "postal_code": "00707",
+      "country_code": "PR",
+      "latitude": 18.0072,
+      "longitude": -65.8993,
+      "admin_name1": "Maunabo"
+    },
+    {
+      "place_name": "Mercedita",
+      "postal_code": "00715",
+      "country_code": "PR",
+      "latitude": 18.011,
+      "longitude": -66.5632,
+      "admin_name1": "Ponce"
+    },
+    {
+      "place_name": "Gurabo",
+      "postal_code": "00778",
+      "country_code": "PR",
+      "latitude": 18.2544,
+      "longitude": -65.9729,
+      "admin_name1": "Gurabo"
+    },
+    {
+      "place_name": "Fort Buchanan",
+      "postal_code": "00934",
+      "country_code": "PR",
+      "latitude": 18.4122,
+      "longitude": -66.1221,
+      "admin_name1": "Bayamon"
+    },
+    {
+      "place_name": "Sabana Seca",
+      "postal_code": "00952",
+      "country_code": "PR",
+      "latitude": 18.4269,
+      "longitude": -66.1846,
+      "admin_name1": "Toa Baja"
+    },
+    {
+      "place_name": "Patillas",
+      "postal_code": "00723",
+      "country_code": "PR",
+      "latitude": 18.0064,
+      "longitude": -66.0157,
+      "admin_name1": "Patillas"
+    },
+    {
+      "place_name": "Canovanas",
+      "postal_code": "00729",
+      "country_code": "PR",
+      "latitude": 18.3751,
+      "longitude": -65.8993,
+      "admin_name1": "Canovanas"
+    },
+    {
+      "place_name": "Maricao",
+      "postal_code": "00606",
+      "country_code": "PR",
+      "latitude": 18.1808,
+      "longitude": -66.9799,
+      "admin_name1": "Maricao"
+    },
+    {
+      "place_name": "Garrochales",
+      "postal_code": "00652",
+      "country_code": "PR",
+      "latitude": 18.4577,
+      "longitude": -66.611,
+      "admin_name1": "Arecibo"
+    },
+    {
+      "place_name": "Bajadero",
+      "postal_code": "00616",
+      "country_code": "PR",
+      "latitude": 18.4266,
+      "longitude": -66.6832,
+      "admin_name1": "Arecibo"
+    },
+    {
+      "place_name": "Juana Diaz",
+      "postal_code": "00795",
+      "country_code": "PR",
+      "latitude": 18.0525,
+      "longitude": -66.5066,
+      "admin_name1": "Juana Diaz"
+    },
+    {
+      "place_name": "Naguabo",
+      "postal_code": "00718",
+      "country_code": "PR",
+      "latitude": 18.2116,
+      "longitude": -65.7349,
+      "admin_name1": "Naguabo"
+    }
+  ]
+]

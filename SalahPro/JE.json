@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "place_name": "Jersey",
+      "postal_code": "JE4",
+      "country_code": "JE",
+      "latitude": 49.2167,
+      "longitude": -2.1167,
+      "admin_name1": null
+    },
+    {
+      "place_name": "St Helier",
+      "postal_code": "JE2",
+      "country_code": "JE",
+      "latitude": 49.2,
+      "longitude": -2.1333,
+      "admin_name1": null
+    },
+    {
+      "place_name": "St Brelades",
+      "postal_code": "JE3",
+      "country_code": "JE",
+      "latitude": 49.2,
+      "longitude": -2.1333,
+      "admin_name1": null
+    }
+  ]
+]

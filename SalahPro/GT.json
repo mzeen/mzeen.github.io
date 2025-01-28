@@ -1,0 +1,4116 @@
+[
+  [
+    {
+      "place_name": "LANQUIN",
+      "postal_code": "16011",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -89.9667,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "SAN MIGUEL CHICAJ",
+      "postal_code": "15002",
+      "country_code": "GT",
+      "latitude": 15.1,
+      "longitude": -90.4,
+      "admin_name1": "DEPTO DE BAJA VERAPAZ"
+    },
+    {
+      "place_name": "PERULHA",
+      "postal_code": "15008",
+      "country_code": "GT",
+      "latitude": 15.0516,
+      "longitude": -90.4148,
+      "admin_name1": "DEPTO DE BAJA VERAPAZ"
+    },
+    {
+      "place_name": "SANTA CRUZ BALANYA",
+      "postal_code": "04010",
+      "country_code": "GT",
+      "latitude": 14.6872,
+      "longitude": -90.915,
+      "admin_name1": "DEPTO DE CHIMALTENANGO"
+    },
+    {
+      "place_name": "ZONA 2",
+      "postal_code": "01002",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "DEPTO DE EL PROGRESO",
+      "postal_code": "02000",
+      "country_code": "GT",
+      "latitude": 14.8515,
+      "longitude": -90.1145,
+      "admin_name1": "DEPTO DE EL PROGRESO"
+    },
+    {
+      "place_name": "PETATAN (CONCEPCION)",
+      "postal_code": "13036",
+      "country_code": "GT",
+      "latitude": 15.4798,
+      "longitude": -91.6645,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "AGUA BLANCA",
+      "postal_code": "22004",
+      "country_code": "GT",
+      "latitude": 14.5,
+      "longitude": -89.65,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "LA ESMERALDA (JEREZ)",
+      "postal_code": "22025",
+      "country_code": "GT",
+      "latitude": 14.2333,
+      "longitude": -89.9667,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "SABANETA (DOLORES)",
+      "postal_code": "17028",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "CHAJUL",
+      "postal_code": "14005",
+      "country_code": "GT",
+      "latitude": 15.4853,
+      "longitude": -91.0342,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "USPANTAN",
+      "postal_code": "14015",
+      "country_code": "GT",
+      "latitude": 15.3833,
+      "longitude": -90.8333,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "CANTABAL",
+      "postal_code": "14023",
+      "country_code": "GT",
+      "latitude": 15.2583,
+      "longitude": -90.5833,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "SAN JOSE LA 20 (USPANTAN-IXCAN)",
+      "postal_code": "14024",
+      "country_code": "GT",
+      "latitude": 15.2583,
+      "longitude": -90.5833,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "CABALLO BLANCO (RETALHULEU)",
+      "postal_code": "11010",
+      "country_code": "GT",
+      "latitude": 14.4833,
+      "longitude": -91.8333,
+      "admin_name1": "DEPTO DE RETALHULEU"
+    },
+    {
+      "place_name": "SINAVBA (EL ASINTAL)",
+      "postal_code": "11012",
+      "country_code": "GT",
+      "latitude": 14.4833,
+      "longitude": -91.8333,
+      "admin_name1": "DEPTO DE RETALHULEU"
+    },
+    {
+      "place_name": "SANTA MARIA DE JESUS",
+      "postal_code": "03011",
+      "country_code": "GT",
+      "latitude": 14.5183,
+      "longitude": -90.7267,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "NUEVO PROGRESO",
+      "postal_code": "12012",
+      "country_code": "GT",
+      "latitude": 14.8,
+      "longitude": -91.9167,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "EL RODEO",
+      "postal_code": "12014",
+      "country_code": "GT",
+      "latitude": 14.9167,
+      "longitude": -91.9667,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "ZANJON SAN LORENZO (TECUN UMAN)",
+      "postal_code": "12031",
+      "country_code": "GT",
+      "latitude": 15.05,
+      "longitude": -91.8167,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "PIEDRA GRANDE (SAN PEDRO SACATEPEQUEZ",
+      "postal_code": "12048",
+      "country_code": "GT",
+      "latitude": 14.9533,
+      "longitude": -91.8938,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "SAN RAFAEL LAS FLORES",
+      "postal_code": "06005",
+      "country_code": "GT",
+      "latitude": 14.4814,
+      "longitude": -90.1733,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "PUEBLO NUEVO VINAS",
+      "postal_code": "06013",
+      "country_code": "GT",
+      "latitude": 14.2258,
+      "longitude": -90.4742,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "LA REFORMA (HUITE)",
+      "postal_code": "19011",
+      "country_code": "GT",
+      "latitude": 14.95,
+      "longitude": -89.6028,
+      "admin_name1": "DEPTO DE ZACAPA"
+    },
+    {
+      "place_name": "DEPTO DE CHIQUIMULA",
+      "postal_code": "20000",
+      "country_code": "GT",
+      "latitude": 14.7019,
+      "longitude": -89.4352,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "TULUMAJE (SAN AGUSTIN ACASAGUASTLAN)",
+      "postal_code": "02011",
+      "country_code": "GT",
+      "latitude": 14.8515,
+      "longitude": -90.1145,
+      "admin_name1": "DEPTO DE EL PROGRESO"
+    },
+    {
+      "place_name": "IXTAHUATAN",
+      "postal_code": "13009",
+      "country_code": "GT",
+      "latitude": 15.5368,
+      "longitude": -91.6565,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "AGUACATAN",
+      "postal_code": "13027",
+      "country_code": "GT",
+      "latitude": 15.3431,
+      "longitude": -91.3117,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "LAS QUEBRADAS (MORALES)",
+      "postal_code": "18011",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "DEPTO DE JALAPA",
+      "postal_code": "21000",
+      "country_code": "GT",
+      "latitude": 14.583,
+      "longitude": -89.8896,
+      "admin_name1": "DEPTO DE JALAPA"
+    },
+    {
+      "place_name": "PASACO",
+      "postal_code": "22015",
+      "country_code": "GT",
+      "latitude": 13.9772,
+      "longitude": -90.2064,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "LA LIBERTAD",
+      "postal_code": "17005",
+      "country_code": "GT",
+      "latitude": 16.7833,
+      "longitude": -90.1167,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "SACPUY (SAN ANDRES)",
+      "postal_code": "17025",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "SALCAJA",
+      "postal_code": "09002",
+      "country_code": "GT",
+      "latitude": 14.8833,
+      "longitude": -91.45,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "CANTEL",
+      "postal_code": "09014",
+      "country_code": "GT",
+      "latitude": 14.8167,
+      "longitude": -91.45,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "CHUATUJ (SAN CARLOS SIJA)",
+      "postal_code": "09031",
+      "country_code": "GT",
+      "latitude": 14.8542,
+      "longitude": -91.6097,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "SANTA ROSA CHUJUYUB (SANTA CRUZ DEL QUICHE)",
+      "postal_code": "14021",
+      "country_code": "GT",
+      "latitude": 15.2583,
+      "longitude": -90.5833,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "DEPTO DE SANTA ROSA",
+      "postal_code": "06000",
+      "country_code": "GT",
+      "latitude": 14.2605,
+      "longitude": -90.2946,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "SANTA CATARINA IXTAHUACAN",
+      "postal_code": "07006",
+      "country_code": "GT",
+      "latitude": 14.8,
+      "longitude": -91.3667,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "COCALES (PATULUL)",
+      "postal_code": "10021",
+      "country_code": "GT",
+      "latitude": 14.4,
+      "longitude": -91.3167,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "CONCEPCION",
+      "postal_code": "13022",
+      "country_code": "GT",
+      "latitude": 15.6167,
+      "longitude": -91.6833,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "SAN SEBASTIAN COSTAN",
+      "postal_code": "13025",
+      "country_code": "GT",
+      "latitude": 15.5033,
+      "longitude": -91.6136,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "MORALES",
+      "postal_code": "18004",
+      "country_code": "GT",
+      "latitude": 15.4833,
+      "longitude": -88.8167,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "LOS AMATES",
+      "postal_code": "18005",
+      "country_code": "GT",
+      "latitude": 15.2667,
+      "longitude": -89.1,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "SANTO TOMAS DE CASTILLA (PUERTO BARRIOS)",
+      "postal_code": "18013",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "COMAPA",
+      "postal_code": "22011",
+      "country_code": "GT",
+      "latitude": 14.1167,
+      "longitude": -89.9167,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "SAN FRANCISCO LA UNION",
+      "postal_code": "09018",
+      "country_code": "GT",
+      "latitude": 14.9167,
+      "longitude": -91.5333,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "CUICALBA (SIBILIA)",
+      "postal_code": "09028",
+      "country_code": "GT",
+      "latitude": 14.7778,
+      "longitude": -91.7306,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "SAN LUCAS SACATEPEQUEZ",
+      "postal_code": "03008",
+      "country_code": "GT",
+      "latitude": 14.6097,
+      "longitude": -90.6569,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "SANTA LUCIA MILPAS ALTAS",
+      "postal_code": "03009",
+      "country_code": "GT",
+      "latitude": 14.5758,
+      "longitude": -90.6786,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "GODINEZ (SAN ANDRES SEMETABAJ)",
+      "postal_code": "07021",
+      "country_code": "GT",
+      "latitude": 14.8444,
+      "longitude": -91.1889,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "SAN FRANCISCO ZAPOTITLAN",
+      "postal_code": "10003",
+      "country_code": "GT",
+      "latitude": 14.5833,
+      "longitude": -91.5167,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "TECULUTAN",
+      "postal_code": "19005",
+      "country_code": "GT",
+      "latitude": 14.9833,
+      "longitude": -89.7167,
+      "admin_name1": "DEPTO DE ZACAPA"
+    },
+    {
+      "place_name": "SAN JOSE (TECULUTAN)",
+      "postal_code": "19012",
+      "country_code": "GT",
+      "latitude": 14.95,
+      "longitude": -89.6028,
+      "admin_name1": "DEPTO DE ZACAPA"
+    },
+    {
+      "place_name": "SAN JORGE (ZACAPA)",
+      "postal_code": "19013",
+      "country_code": "GT",
+      "latitude": 14.9333,
+      "longitude": -89.5833,
+      "admin_name1": "DEPTO DE ZACAPA"
+    },
+    {
+      "place_name": "SAN JERONIMO",
+      "postal_code": "15007",
+      "country_code": "GT",
+      "latitude": 15.05,
+      "longitude": -90.2,
+      "admin_name1": "DEPTO DE BAJA VERAPAZ"
+    },
+    {
+      "place_name": "QUETZALTEPEQUE",
+      "postal_code": "20009",
+      "country_code": "GT",
+      "latitude": 14.6333,
+      "longitude": -89.45,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "EL AMATILLO (JOCOTAN)",
+      "postal_code": "20013",
+      "country_code": "GT",
+      "latitude": 14.6875,
+      "longitude": -89.5333,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "EL FLORIDO (CAMOTAN)",
+      "postal_code": "20014",
+      "country_code": "GT",
+      "latitude": 14.6875,
+      "longitude": -89.5333,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "AGUA CALIENTE ( ESQUIPULAS)",
+      "postal_code": "20019",
+      "country_code": "GT",
+      "latitude": 14.6875,
+      "longitude": -89.5333,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "TIQUISATE",
+      "postal_code": "05006",
+      "country_code": "GT",
+      "latitude": 14.2833,
+      "longitude": -91.3667,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "ZONA 14",
+      "postal_code": "01014",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "EL CHOL",
+      "postal_code": "15006",
+      "country_code": "GT",
+      "latitude": 14.9642,
+      "longitude": -90.4806,
+      "admin_name1": "DEPTO DE BAJA VERAPAZ"
+    },
+    {
+      "place_name": "SALTAN (GRANADOS)",
+      "postal_code": "15011",
+      "country_code": "GT",
+      "latitude": 15.0516,
+      "longitude": -90.4148,
+      "admin_name1": "DEPTO DE BAJA VERAPAZ"
+    },
+    {
+      "place_name": "CHIMALTENANGO",
+      "postal_code": "04001",
+      "country_code": "GT",
+      "latitude": 14.6686,
+      "longitude": -90.8167,
+      "admin_name1": "DEPTO DE CHIMALTENANGO"
+    },
+    {
+      "place_name": "PATZUN",
+      "postal_code": "04007",
+      "country_code": "GT",
+      "latitude": 14.6833,
+      "longitude": -91.0167,
+      "admin_name1": "DEPTO DE CHIMALTENANGO"
+    },
+    {
+      "place_name": "TIERRA COLORADA ( SAN JOSE LA ARADA)",
+      "postal_code": "20018",
+      "country_code": "GT",
+      "latitude": 14.6875,
+      "longitude": -89.5333,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "ZONA 19",
+      "postal_code": "01019",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "EL MITCHAL (MORALES)",
+      "postal_code": "18014",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "SAN LUIS",
+      "postal_code": "17009",
+      "country_code": "GT",
+      "latitude": 16.1989,
+      "longitude": -89.4403,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "HUITAN",
+      "postal_code": "09015",
+      "country_code": "GT",
+      "latitude": 15.1,
+      "longitude": -91.6167,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "LAS PALMAS (COATEPEQUE)",
+      "postal_code": "09027",
+      "country_code": "GT",
+      "latitude": 14.7778,
+      "longitude": -91.7306,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "SUMPANGO",
+      "postal_code": "03004",
+      "country_code": "GT",
+      "latitude": 14.6464,
+      "longitude": -90.7339,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "ALOTENANGO",
+      "postal_code": "03014",
+      "country_code": "GT",
+      "latitude": 14.4803,
+      "longitude": -90.8075,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "EL QUETZAL",
+      "postal_code": "12020",
+      "country_code": "GT",
+      "latitude": 14.7667,
+      "longitude": -91.8167,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "PAJAPITA",
+      "postal_code": "12022",
+      "country_code": "GT",
+      "latitude": 14.7167,
+      "longitude": -92.0333,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "SAN JOSE OJETEPAN",
+      "postal_code": "12024",
+      "country_code": "GT",
+      "latitude": 14.9229,
+      "longitude": -91.8208,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "SAN GABRIEL",
+      "postal_code": "10012",
+      "country_code": "GT",
+      "latitude": 14.5167,
+      "longitude": -91.5167,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "LA MAQUINA (CUYOTENANGO)",
+      "postal_code": "10030",
+      "country_code": "GT",
+      "latitude": 14.4926,
+      "longitude": -91.3981,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "USUMATLAN",
+      "postal_code": "19006",
+      "country_code": "GT",
+      "latitude": 14.95,
+      "longitude": -89.7833,
+      "admin_name1": "DEPTO DE ZACAPA"
+    },
+    {
+      "place_name": "TAMAHU",
+      "postal_code": "16005",
+      "country_code": "GT",
+      "latitude": 15.3333,
+      "longitude": -90.1667,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "JOCOTAN",
+      "postal_code": "20004",
+      "country_code": "GT",
+      "latitude": 14.8167,
+      "longitude": -89.3833,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "SAN JACINTO",
+      "postal_code": "20010",
+      "country_code": "GT",
+      "latitude": 14.6667,
+      "longitude": -89.5,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "BRITO (GUANAGAZAPA)",
+      "postal_code": "05015",
+      "country_code": "GT",
+      "latitude": 14.4104,
+      "longitude": -90.8704,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "ZONA 4",
+      "postal_code": "01004",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "AMATITLAN",
+      "postal_code": "01063",
+      "country_code": "GT",
+      "latitude": 14.4875,
+      "longitude": -90.6153,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "PUERTA PARADA (SANTA CATARINA PINULA)",
+      "postal_code": "01073",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "SAN MATEO IXTATAN",
+      "postal_code": "13018",
+      "country_code": "GT",
+      "latitude": 15.8319,
+      "longitude": -91.4781,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "SAN FRANCISCO",
+      "postal_code": "17006",
+      "country_code": "GT",
+      "latitude": 16.8,
+      "longitude": -89.9333,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "SAN BARTOLOME MILPAS ALTAS",
+      "postal_code": "03007",
+      "country_code": "GT",
+      "latitude": 14.6061,
+      "longitude": -90.68,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "OCOS",
+      "postal_code": "12018",
+      "country_code": "GT",
+      "latitude": 14.5094,
+      "longitude": -92.1933,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "LA REFORMA",
+      "postal_code": "12021",
+      "country_code": "GT",
+      "latitude": 14.8,
+      "longitude": -91.8167,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "SIPACANA",
+      "postal_code": "12026",
+      "country_code": "GT",
+      "latitude": 14.9229,
+      "longitude": -91.8208,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "TOCAHE(SAN PABLO)",
+      "postal_code": "12045",
+      "country_code": "GT",
+      "latitude": 14.9533,
+      "longitude": -91.8938,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "EL SITIO (CATARINA )",
+      "postal_code": "12050",
+      "country_code": "GT",
+      "latitude": 14.9533,
+      "longitude": -91.8938,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "SAN JUAN BAUTISTA",
+      "postal_code": "10016",
+      "country_code": "GT",
+      "latitude": 14.4167,
+      "longitude": -91.1833,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "ESTANZUELA",
+      "postal_code": "19002",
+      "country_code": "GT",
+      "latitude": 15.0,
+      "longitude": -89.5667,
+      "admin_name1": "DEPTO DE ZACAPA"
+    },
+    {
+      "place_name": "BOCA DEL MONTE (VILLA CANALES)",
+      "postal_code": "01069",
+      "country_code": "GT",
+      "latitude": 14.5786,
+      "longitude": -90.5473,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "JACALTENANGO",
+      "postal_code": "13007",
+      "country_code": "GT",
+      "latitude": 15.6667,
+      "longitude": -91.7333,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "TECTITAN",
+      "postal_code": "13021",
+      "country_code": "GT",
+      "latitude": 15.3333,
+      "longitude": -92.0333,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "GRACIAS A DIOS (NENTON)",
+      "postal_code": "13032",
+      "country_code": "GT",
+      "latitude": 15.4798,
+      "longitude": -91.6645,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "SAN LORENZO (HUEHUETENANGO)",
+      "postal_code": "13033",
+      "country_code": "GT",
+      "latitude": 15.2894,
+      "longitude": -91.4603,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "MARISCOS (LOS AMATES)",
+      "postal_code": "18022",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "HORCONES (STA. CAT. MITA)",
+      "postal_code": "22022",
+      "country_code": "GT",
+      "latitude": 14.2333,
+      "longitude": -89.9667,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "DOS LAGUNAS (FLORES)",
+      "postal_code": "17014",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "MACHAQUILA (DOLORES)",
+      "postal_code": "17019",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "CONCEPCION CHIQUIRICHAPA",
+      "postal_code": "09011",
+      "country_code": "GT",
+      "latitude": 14.85,
+      "longitude": -91.6167,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "SAN MIGUEL DUENAS",
+      "postal_code": "03013",
+      "country_code": "GT",
+      "latitude": 14.5239,
+      "longitude": -90.7983,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "CUILAPA",
+      "postal_code": "06001",
+      "country_code": "GT",
+      "latitude": 14.2764,
+      "longitude": -90.3003,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "MONTERREY (SANTO DOMINGO SUCHITEPEQUEZ)",
+      "postal_code": "10029",
+      "country_code": "GT",
+      "latitude": 14.4,
+      "longitude": -91.3167,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "CHISET",
+      "postal_code": "16013",
+      "country_code": "GT",
+      "latitude": 15.5792,
+      "longitude": -89.9208,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "TELEMAN (PANZOS)",
+      "postal_code": "16017",
+      "country_code": "GT",
+      "latitude": 15.5792,
+      "longitude": -89.9208,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "CHIQUIMULA",
+      "postal_code": "20001",
+      "country_code": "GT",
+      "latitude": 14.8,
+      "longitude": -89.55,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "SANTA LUCIA COTZUMALGUAPA",
+      "postal_code": "05002",
+      "country_code": "GT",
+      "latitude": 14.3333,
+      "longitude": -91.0167,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "SANTA ANA MIXTAN (NUEVA CONCEPCION)",
+      "postal_code": "05016",
+      "country_code": "GT",
+      "latitude": 14.4104,
+      "longitude": -90.8704,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "EL NARANJO (MASAGUA)",
+      "postal_code": "05017",
+      "country_code": "GT",
+      "latitude": 14.4104,
+      "longitude": -90.8704,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "ZONA 10",
+      "postal_code": "01010",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "SAN JOSE DEL GOLFO",
+      "postal_code": "01053",
+      "country_code": "GT",
+      "latitude": 14.7628,
+      "longitude": -90.3764,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "CHINAUTLA",
+      "postal_code": "01055",
+      "country_code": "GT",
+      "latitude": 14.7083,
+      "longitude": -90.4994,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "FRAY BARTOLOME DE LAS CASAS",
+      "postal_code": "16015",
+      "country_code": "GT",
+      "latitude": 15.5792,
+      "longitude": -89.9208,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "CAMOTAN",
+      "postal_code": "20005",
+      "country_code": "GT",
+      "latitude": 14.8167,
+      "longitude": -89.3667,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "LA DEMOCRACIA",
+      "postal_code": "05003",
+      "country_code": "GT",
+      "latitude": 14.2308,
+      "longitude": -90.9472,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "SIQUINALA",
+      "postal_code": "05004",
+      "country_code": "GT",
+      "latitude": 14.3061,
+      "longitude": -90.965,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "NUEVA CONCEPCION",
+      "postal_code": "05013",
+      "country_code": "GT",
+      "latitude": 14.2,
+      "longitude": -91.3,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "CUYUTA (MASAGUA)",
+      "postal_code": "05019",
+      "country_code": "GT",
+      "latitude": 14.4104,
+      "longitude": -90.8704,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "ZONA 9",
+      "postal_code": "01009",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "ESTANCIA DE LA VIRGEN (SAN CRISTOBAL ACASAGUASTLAN)",
+      "postal_code": "02012",
+      "country_code": "GT",
+      "latitude": 14.8515,
+      "longitude": -90.1145,
+      "admin_name1": "DEPTO DE EL PROGRESO"
+    },
+    {
+      "place_name": "BARILLAS",
+      "postal_code": "13026",
+      "country_code": "GT",
+      "latitude": 15.8036,
+      "longitude": -91.3158,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "JALPATAGUA",
+      "postal_code": "22012",
+      "country_code": "GT",
+      "latitude": 14.1417,
+      "longitude": -90.0086,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "HORCONES (ATESCATEMPA)",
+      "postal_code": "22026",
+      "country_code": "GT",
+      "latitude": 14.2333,
+      "longitude": -89.9667,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "EL REMATE (FLORES)",
+      "postal_code": "17022",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "DEPTO DE QUETZALTENANGO",
+      "postal_code": "09000",
+      "country_code": "GT",
+      "latitude": 14.9375,
+      "longitude": -91.5625,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "FLORES COSTA CUCA",
+      "postal_code": "09022",
+      "country_code": "GT",
+      "latitude": 14.65,
+      "longitude": -91.8167,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "SACAPULAS",
+      "postal_code": "14016",
+      "country_code": "GT",
+      "latitude": 15.2867,
+      "longitude": -91.0872,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "CANILLA",
+      "postal_code": "14018",
+      "country_code": "GT",
+      "latitude": 15.1667,
+      "longitude": -90.85,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "DEPTO DE SACATEPEQUEZ",
+      "postal_code": "03000",
+      "country_code": "GT",
+      "latitude": 14.6101,
+      "longitude": -90.7063,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "SAN FRANCISCO ( EL RODEO)",
+      "postal_code": "12035",
+      "country_code": "GT",
+      "latitude": 15.05,
+      "longitude": -91.8167,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "PLATANARES (OCOS)",
+      "postal_code": "12042",
+      "country_code": "GT",
+      "latitude": 14.9533,
+      "longitude": -91.8938,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "SAN JUAN DE ARANA (CUILAPA)",
+      "postal_code": "06025",
+      "country_code": "GT",
+      "latitude": 14.2574,
+      "longitude": -90.3188,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "SANTA LUCIA UTATLAN",
+      "postal_code": "07004",
+      "country_code": "GT",
+      "latitude": 14.7667,
+      "longitude": -91.2667,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "SANTA CATARINA PALOPO",
+      "postal_code": "07011",
+      "country_code": "GT",
+      "latitude": 14.7167,
+      "longitude": -91.1333,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "MAZATENANGO",
+      "postal_code": "10001",
+      "country_code": "GT",
+      "latitude": 14.5333,
+      "longitude": -91.5,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "SANTA MARIA CHIQUIMULA",
+      "postal_code": "08006",
+      "country_code": "GT",
+      "latitude": 15.0303,
+      "longitude": -91.3292,
+      "admin_name1": "DEPTO DE TOTONICAPAN"
+    },
+    {
+      "place_name": "SAN JUAN ATITAN",
+      "postal_code": "13016",
+      "country_code": "GT",
+      "latitude": 15.4333,
+      "longitude": -91.6333,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "SAN PEDRO PINULA",
+      "postal_code": "21002",
+      "country_code": "GT",
+      "latitude": 14.6667,
+      "longitude": -89.85,
+      "admin_name1": "DEPTO DE JALAPA"
+    },
+    {
+      "place_name": "JUTIAPA",
+      "postal_code": "22001",
+      "country_code": "GT",
+      "latitude": 14.2833,
+      "longitude": -89.9,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "VALLE NUEVO JALPATAGUA",
+      "postal_code": "22020",
+      "country_code": "GT",
+      "latitude": 14.2333,
+      "longitude": -89.9667,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "CONTEPEQUE (ATESCATEMPA)",
+      "postal_code": "22024",
+      "country_code": "GT",
+      "latitude": 14.2333,
+      "longitude": -89.9667,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "EL NARANJO (LA LIBERTAD)",
+      "postal_code": "17024",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "QUETZALTENANGO",
+      "postal_code": "09001",
+      "country_code": "GT",
+      "latitude": 14.8333,
+      "longitude": -91.5167,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "SAN MATEO",
+      "postal_code": "09010",
+      "country_code": "GT",
+      "latitude": 14.8667,
+      "longitude": -91.5833,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "EL TAMBOR (EL PALMAR)",
+      "postal_code": "09032",
+      "country_code": "GT",
+      "latitude": 14.8542,
+      "longitude": -91.6097,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "SAN BARTOLOME JOCOTENANGO",
+      "postal_code": "14017",
+      "country_code": "GT",
+      "latitude": 15.1928,
+      "longitude": -91.0772,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "CIUDAD VIEJA",
+      "postal_code": "03012",
+      "country_code": "GT",
+      "latitude": 14.5264,
+      "longitude": -90.7597,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "SANTA MARIA CAUQUE (SANTIAGO SACATEPEQUEZ)",
+      "postal_code": "03017",
+      "country_code": "GT",
+      "latitude": 14.5261,
+      "longitude": -90.7608,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "EL TUMBADOR",
+      "postal_code": "12013",
+      "country_code": "GT",
+      "latitude": 14.8667,
+      "longitude": -91.9333,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "LOS LIMINES (OCOS)",
+      "postal_code": "12038",
+      "country_code": "GT",
+      "latitude": 15.05,
+      "longitude": -91.8167,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "CASILLAS",
+      "postal_code": "06004",
+      "country_code": "GT",
+      "latitude": 14.4222,
+      "longitude": -90.2442,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "AYARZA (CASILLAS)",
+      "postal_code": "06018",
+      "country_code": "GT",
+      "latitude": 14.2518,
+      "longitude": -90.3623,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "SAN BERNARDINO",
+      "postal_code": "10004",
+      "country_code": "GT",
+      "latitude": 14.5333,
+      "longitude": -91.45,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "SAN RAFAEL PANAN (SANTA BARBARA)",
+      "postal_code": "10026",
+      "country_code": "GT",
+      "latitude": 14.4,
+      "longitude": -91.3167,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "CHAHAL",
+      "postal_code": "16014",
+      "country_code": "GT",
+      "latitude": 15.75,
+      "longitude": -89.5667,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "TECPAN GUATEMALA",
+      "postal_code": "04006",
+      "country_code": "GT",
+      "latitude": 14.7669,
+      "longitude": -90.9942,
+      "admin_name1": "DEPTO DE CHIMALTENANGO"
+    },
+    {
+      "place_name": "ZONA 13",
+      "postal_code": "01013",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "MIXCO",
+      "postal_code": "01057",
+      "country_code": "GT",
+      "latitude": 14.6333,
+      "longitude": -90.6064,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "SAN CRISTOBAL VERAPAZ",
+      "postal_code": "16003",
+      "country_code": "GT",
+      "latitude": 15.3833,
+      "longitude": -90.4,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "SAN VICENTE PACAYA",
+      "postal_code": "05012",
+      "country_code": "GT",
+      "latitude": 14.4161,
+      "longitude": -90.6392,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "ZONA 1",
+      "postal_code": "01001",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "ZONA 6",
+      "postal_code": "01006",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "SANARATE",
+      "postal_code": "02007",
+      "country_code": "GT",
+      "latitude": 14.795,
+      "longitude": -90.1922,
+      "admin_name1": "DEPTO DE EL PROGRESO"
+    },
+    {
+      "place_name": "SAN SEBASTIAN HUEHUETENANGO",
+      "postal_code": "13020",
+      "country_code": "GT",
+      "latitude": 15.3833,
+      "longitude": -91.5833,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "BUENOS AIRES (MORALES)",
+      "postal_code": "18023",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "SAN MANUEL CHAPARRON",
+      "postal_code": "21004",
+      "country_code": "GT",
+      "latitude": 14.5167,
+      "longitude": -89.7667,
+      "admin_name1": "DEPTO DE JALAPA"
+    },
+    {
+      "place_name": "SAN CARLOS ALZATATE",
+      "postal_code": "21005",
+      "country_code": "GT",
+      "latitude": 14.4978,
+      "longitude": -90.0603,
+      "admin_name1": "DEPTO DE JALAPA"
+    },
+    {
+      "place_name": "ASUNCION MITA",
+      "postal_code": "22005",
+      "country_code": "GT",
+      "latitude": 14.3308,
+      "longitude": -89.7108,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "EL ADELANTO",
+      "postal_code": "22009",
+      "country_code": "GT",
+      "latitude": 14.1667,
+      "longitude": -89.8333,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "SAN CRSITOBAL FRONTERA (ATESCATEMPA)",
+      "postal_code": "22019",
+      "country_code": "GT",
+      "latitude": 14.1347,
+      "longitude": -90.0304,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "LA FELICIDAD (SAYAXCHE)",
+      "postal_code": "17023",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "JOYABAJ",
+      "postal_code": "14012",
+      "country_code": "GT",
+      "latitude": 14.995,
+      "longitude": -90.8061,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "CHAMPERICO",
+      "postal_code": "11007",
+      "country_code": "GT",
+      "latitude": 14.3,
+      "longitude": -91.9167,
+      "admin_name1": "DEPTO DE RETALHULEU"
+    },
+    {
+      "place_name": "LA CONQUISTA (NUEVO PROGRESO)",
+      "postal_code": "12046",
+      "country_code": "GT",
+      "latitude": 14.9533,
+      "longitude": -91.8938,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "GUAZACAPAN",
+      "postal_code": "06011",
+      "country_code": "GT",
+      "latitude": 14.0742,
+      "longitude": -90.4167,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "NAHUALA",
+      "postal_code": "07005",
+      "country_code": "GT",
+      "latitude": 14.85,
+      "longitude": -91.3167,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "SAN ANTONIO PALOPO",
+      "postal_code": "07012",
+      "country_code": "GT",
+      "latitude": 14.7,
+      "longitude": -91.1167,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "PIXABAJ (SOLOLA)",
+      "postal_code": "07024",
+      "country_code": "GT",
+      "latitude": 14.8667,
+      "longitude": -91.1833,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "PATULUL",
+      "postal_code": "10014",
+      "country_code": "GT",
+      "latitude": 14.4167,
+      "longitude": -91.1667,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "ZUNULITO",
+      "postal_code": "10018",
+      "country_code": "GT",
+      "latitude": 14.4778,
+      "longitude": -91.3278,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "SAN PABLO (ZACAPA)",
+      "postal_code": "19017",
+      "country_code": "GT",
+      "latitude": 15.05,
+      "longitude": -89.5,
+      "admin_name1": "DEPTO DE ZACAPA"
+    },
+    {
+      "place_name": "CAHABON",
+      "postal_code": "16012",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -89.8167,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "NUEVA ANGUIATU (CONCEP. LAS MINAS)",
+      "postal_code": "20020",
+      "country_code": "GT",
+      "latitude": 14.6974,
+      "longitude": -89.4654,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "VILLA CANALES",
+      "postal_code": "01065",
+      "country_code": "GT",
+      "latitude": 14.4814,
+      "longitude": -90.5317,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "ESTACION JALAPA (SANSARE)",
+      "postal_code": "02010",
+      "country_code": "GT",
+      "latitude": 14.8515,
+      "longitude": -90.1145,
+      "admin_name1": "DEPTO DE EL PROGRESO"
+    },
+    {
+      "place_name": "DEPTO DE HUEHUETENANGO",
+      "postal_code": "13000",
+      "country_code": "GT",
+      "latitude": 15.5368,
+      "longitude": -91.6565,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "BANANERA (MORALES)",
+      "postal_code": "18020",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "EL CHAL ( DOLORES )",
+      "postal_code": "17020",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "OLINTEPEQUE",
+      "postal_code": "09003",
+      "country_code": "GT",
+      "latitude": 14.8833,
+      "longitude": -91.5167,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "DEPTO DE RETALHULEU",
+      "postal_code": "11000",
+      "country_code": "GT",
+      "latitude": 14.5519,
+      "longitude": -91.6759,
+      "admin_name1": "DEPTO DE RETALHULEU"
+    },
+    {
+      "place_name": "EL ASINTAL",
+      "postal_code": "11009",
+      "country_code": "GT",
+      "latitude": 14.6,
+      "longitude": -91.7333,
+      "admin_name1": "DEPTO DE RETALHULEU"
+    },
+    {
+      "place_name": "MALACATAN",
+      "postal_code": "12015",
+      "country_code": "GT",
+      "latitude": 14.9,
+      "longitude": -92.05,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "LA BLANCA (OCOS)",
+      "postal_code": "12039",
+      "country_code": "GT",
+      "latitude": 15.05,
+      "longitude": -91.8167,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "LAS DELICIAS (EL TUMBADOR)",
+      "postal_code": "12043",
+      "country_code": "GT",
+      "latitude": 14.9533,
+      "longitude": -91.8938,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "CASAS VIEJAS (CHIQUIMULILLA)",
+      "postal_code": "06017",
+      "country_code": "GT",
+      "latitude": 14.2518,
+      "longitude": -90.3623,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "SANTA CRUZ LA LAGUNA",
+      "postal_code": "07014",
+      "country_code": "GT",
+      "latitude": 14.75,
+      "longitude": -91.2167,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "SAN JOSE EL IDOLO",
+      "postal_code": "10005",
+      "country_code": "GT",
+      "latitude": 14.45,
+      "longitude": -91.4167,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "SANTO TOMAS LA UNION",
+      "postal_code": "10017",
+      "country_code": "GT",
+      "latitude": 14.6333,
+      "longitude": -91.3833,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "RIO BRAVO",
+      "postal_code": "10020",
+      "country_code": "GT",
+      "latitude": 14.4,
+      "longitude": -91.3167,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "DEPTO DE ALTA VERAPAZ",
+      "postal_code": "16000",
+      "country_code": "GT",
+      "latitude": 15.387,
+      "longitude": -90.1667,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "RABINAL",
+      "postal_code": "15003",
+      "country_code": "GT",
+      "latitude": 15.1,
+      "longitude": -90.45,
+      "admin_name1": "DEPTO DE BAJA VERAPAZ"
+    },
+    {
+      "place_name": "ZONA 7",
+      "postal_code": "01007",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "FRAIJANES",
+      "postal_code": "01062",
+      "country_code": "GT",
+      "latitude": 14.4653,
+      "longitude": -90.4408,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "EL FISCAL (PALENCIA)",
+      "postal_code": "01068",
+      "country_code": "GT",
+      "latitude": 14.5786,
+      "longitude": -90.5473,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "TULUMAJILLO (SAN AGUSTIN ACASAGUASTLAN)",
+      "postal_code": "02009",
+      "country_code": "GT",
+      "latitude": 14.8515,
+      "longitude": -90.1145,
+      "admin_name1": "DEPTO DE EL PROGRESO"
+    },
+    {
+      "place_name": "EL ESTOR",
+      "postal_code": "18003",
+      "country_code": "GT",
+      "latitude": 15.5333,
+      "longitude": -89.35,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "CABRICAN",
+      "postal_code": "09006",
+      "country_code": "GT",
+      "latitude": 15.1333,
+      "longitude": -91.6167,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "PALMIRA (COLOMBA)",
+      "postal_code": "09034",
+      "country_code": "GT",
+      "latitude": 14.8542,
+      "longitude": -91.6097,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "SAN PEDRO JOCOPILAS",
+      "postal_code": "14009",
+      "country_code": "GT",
+      "latitude": 15.0944,
+      "longitude": -91.1514,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "SAN ANDRES VILLA SECA",
+      "postal_code": "11006",
+      "country_code": "GT",
+      "latitude": 14.5667,
+      "longitude": -91.5833,
+      "admin_name1": "DEPTO DE RETALHULEU"
+    },
+    {
+      "place_name": "JOCOTENANGO",
+      "postal_code": "03002",
+      "country_code": "GT",
+      "latitude": 14.5819,
+      "longitude": -90.7436,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "SAN MIGUEL AROCHE (CHIQUIMULILLA)",
+      "postal_code": "06021",
+      "country_code": "GT",
+      "latitude": 14.2574,
+      "longitude": -90.3188,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "MONTERICO (TAXISCO)",
+      "postal_code": "06024",
+      "country_code": "GT",
+      "latitude": 14.2574,
+      "longitude": -90.3188,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "DEPTO DE SOLOLA",
+      "postal_code": "07000",
+      "country_code": "GT",
+      "latitude": 14.7708,
+      "longitude": -91.2646,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "DEPTO DE SUCHITEPEQUEZ",
+      "postal_code": "10000",
+      "country_code": "GT",
+      "latitude": 14.5208,
+      "longitude": -91.4875,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "SAN MIGUEL PANAN",
+      "postal_code": "10011",
+      "country_code": "GT",
+      "latitude": 14.5333,
+      "longitude": -91.3667,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "SANTA ROSALIA (ZACAPA)",
+      "postal_code": "19014",
+      "country_code": "GT",
+      "latitude": 14.95,
+      "longitude": -89.6028,
+      "admin_name1": "DEPTO DE ZACAPA"
+    },
+    {
+      "place_name": "SAN ANDRES ITZAPA",
+      "postal_code": "04013",
+      "country_code": "GT",
+      "latitude": 14.62,
+      "longitude": -90.8442,
+      "admin_name1": "DEPTO DE CHIMALTENANGO"
+    },
+    {
+      "place_name": "IPALA",
+      "postal_code": "20011",
+      "country_code": "GT",
+      "latitude": 14.6167,
+      "longitude": -89.6167,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "ESCUINTLA",
+      "postal_code": "05001",
+      "country_code": "GT",
+      "latitude": 14.305,
+      "longitude": -90.785,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "MASAGUA",
+      "postal_code": "05005",
+      "country_code": "GT",
+      "latitude": 14.2031,
+      "longitude": -90.8481,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "OBERO (MASAGUA)",
+      "postal_code": "05014",
+      "country_code": "GT",
+      "latitude": 14.4104,
+      "longitude": -90.8704,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "EL PORVENIR TICANLU (TIQUISATE)",
+      "postal_code": "05020",
+      "country_code": "GT",
+      "latitude": 14.276,
+      "longitude": -90.9404,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "CHUARRANCHO",
+      "postal_code": "01061",
+      "country_code": "GT",
+      "latitude": 14.8217,
+      "longitude": -90.5086,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "EL JICARO",
+      "postal_code": "02005",
+      "country_code": "GT",
+      "latitude": 14.8667,
+      "longitude": -90.2667,
+      "admin_name1": "DEPTO DE EL PROGRESO"
+    },
+    {
+      "place_name": "SAN ANTONIO LA PAZ",
+      "postal_code": "02008",
+      "country_code": "GT",
+      "latitude": 14.7497,
+      "longitude": -90.2867,
+      "admin_name1": "DEPTO DE EL PROGRESO"
+    },
+    {
+      "place_name": "SAN PEDRO NECTA",
+      "postal_code": "13006",
+      "country_code": "GT",
+      "latitude": 15.5,
+      "longitude": -91.7667,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "LLANO GRANDE",
+      "postal_code": "21008",
+      "country_code": "GT",
+      "latitude": 14.6167,
+      "longitude": -89.9667,
+      "admin_name1": "DEPTO DE JALAPA"
+    },
+    {
+      "place_name": "SAN MARTIN SACATEPEQUEZ",
+      "postal_code": "09012",
+      "country_code": "GT",
+      "latitude": 14.8167,
+      "longitude": -91.65,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "CHICHICASTENANGO",
+      "postal_code": "14006",
+      "country_code": "GT",
+      "latitude": 14.9333,
+      "longitude": -91.1167,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "DEPTO DE SAN MARCOS",
+      "postal_code": "12000",
+      "country_code": "GT",
+      "latitude": 15.0896,
+      "longitude": -91.8521,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "CONCEPCION TUTUAPA",
+      "postal_code": "12006",
+      "country_code": "GT",
+      "latitude": 15.2833,
+      "longitude": -91.7833,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "TACANA",
+      "postal_code": "12007",
+      "country_code": "GT",
+      "latitude": 15.2333,
+      "longitude": -92.0833,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "EL AMPARO (EL TUMBADOR)",
+      "postal_code": "12036",
+      "country_code": "GT",
+      "latitude": 15.05,
+      "longitude": -91.8167,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "NANCINTA (CHIQUIMULILLA)",
+      "postal_code": "06020",
+      "country_code": "GT",
+      "latitude": 14.2574,
+      "longitude": -90.3188,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "EL RINCONCITO (SANTA ROSA DE LIMA)",
+      "postal_code": "06026",
+      "country_code": "GT",
+      "latitude": 14.2574,
+      "longitude": -90.3188,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "DEPTO DE BAJA VERAPAZ",
+      "postal_code": "15000",
+      "country_code": "GT",
+      "latitude": 15.0516,
+      "longitude": -90.4148,
+      "admin_name1": "DEPTO DE BAJA VERAPAZ"
+    },
+    {
+      "place_name": "DEPTO DE CHIMALTENANGO",
+      "postal_code": "04000",
+      "country_code": "GT",
+      "latitude": 14.7156,
+      "longitude": -90.9328,
+      "admin_name1": "DEPTO DE CHIMALTENANGO"
+    },
+    {
+      "place_name": "CANALITOS (ZONA 21)",
+      "postal_code": "01067",
+      "country_code": "GT",
+      "latitude": 14.5786,
+      "longitude": -90.5473,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "VUELTA GRANDE (SAN RAYMUNDO)",
+      "postal_code": "01070",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "CHIANTLA",
+      "postal_code": "13002",
+      "country_code": "GT",
+      "latitude": 15.3547,
+      "longitude": -91.4583,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "CUILCO",
+      "postal_code": "13004",
+      "country_code": "GT",
+      "latitude": 15.4,
+      "longitude": -91.9667,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "NENTON",
+      "postal_code": "13005",
+      "country_code": "GT",
+      "latitude": 15.8,
+      "longitude": -91.75,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "CIUDAD PEDRO DE ALVARADO (MOYUTA)",
+      "postal_code": "22018",
+      "country_code": "GT",
+      "latitude": 14.1347,
+      "longitude": -90.0304,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "DOLORES",
+      "postal_code": "17008",
+      "country_code": "GT",
+      "latitude": 16.5142,
+      "longitude": -89.4158,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "CUNEN",
+      "postal_code": "14010",
+      "country_code": "GT",
+      "latitude": 15.3375,
+      "longitude": -91.0269,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "IXCHIGUAN",
+      "postal_code": "12023",
+      "country_code": "GT",
+      "latitude": 15.2,
+      "longitude": -91.8833,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "CALAPTE (IXCHIGUAN)",
+      "postal_code": "12044",
+      "country_code": "GT",
+      "latitude": 14.9533,
+      "longitude": -91.8938,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "TAXISCO",
+      "postal_code": "06009",
+      "country_code": "GT",
+      "latitude": 14.0708,
+      "longitude": -90.4631,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "EL SERINAL (BARBERENA)",
+      "postal_code": "06023",
+      "country_code": "GT",
+      "latitude": 14.2574,
+      "longitude": -90.3188,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "SANTA MARIA VISITACION",
+      "postal_code": "07003",
+      "country_code": "GT",
+      "latitude": 14.7167,
+      "longitude": -91.3167,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "CUYOTENANGO",
+      "postal_code": "10002",
+      "country_code": "GT",
+      "latitude": 14.5333,
+      "longitude": -91.5667,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "CHICACAO",
+      "postal_code": "10013",
+      "country_code": "GT",
+      "latitude": 14.5333,
+      "longitude": -91.3167,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "CHOCOLA (SAN PABLO JOCOPILAS)",
+      "postal_code": "10022",
+      "country_code": "GT",
+      "latitude": 14.4,
+      "longitude": -91.3167,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "TAHUEXCO (MAZATENANGO)",
+      "postal_code": "10023",
+      "country_code": "GT",
+      "latitude": 14.4,
+      "longitude": -91.3167,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "SAN ESTEBAN (CHIQUIMULA)",
+      "postal_code": "20017",
+      "country_code": "GT",
+      "latitude": 14.75,
+      "longitude": -89.5167,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "SANTA ANA HUISTA",
+      "postal_code": "13031",
+      "country_code": "GT",
+      "latitude": 15.6833,
+      "longitude": -91.8167,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "SANTA INES (LOS AMATES)",
+      "postal_code": "18017",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "JERES",
+      "postal_code": "22008",
+      "country_code": "GT",
+      "latitude": 14.3069,
+      "longitude": -89.7775,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "PASO CABALLOS (SAN ANDRES)",
+      "postal_code": "17016",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "SANTA CRUZ DEL QUICHE",
+      "postal_code": "14001",
+      "country_code": "GT",
+      "latitude": 15.0306,
+      "longitude": -91.1489,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "SANTA CRUZ MULUA",
+      "postal_code": "11003",
+      "country_code": "GT",
+      "latitude": 14.5833,
+      "longitude": -91.6167,
+      "admin_name1": "DEPTO DE RETALHULEU"
+    },
+    {
+      "place_name": "PASTORES",
+      "postal_code": "03003",
+      "country_code": "GT",
+      "latitude": 14.5967,
+      "longitude": -90.7547,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "SAN RAFAEL PIE DE LA CUESTA",
+      "postal_code": "12011",
+      "country_code": "GT",
+      "latitude": 14.9333,
+      "longitude": -91.9167,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "SAN MARCOS LA LAGUNA",
+      "postal_code": "07016",
+      "country_code": "GT",
+      "latitude": 14.7167,
+      "longitude": -91.2667,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "PANCAJCHE (TUCURU)",
+      "postal_code": "16018",
+      "country_code": "GT",
+      "latitude": 15.5792,
+      "longitude": -89.9208,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "SANTA APOLONIA",
+      "postal_code": "04005",
+      "country_code": "GT",
+      "latitude": 14.7914,
+      "longitude": -90.9708,
+      "admin_name1": "DEPTO DE CHIMALTENANGO"
+    },
+    {
+      "place_name": "ZONA 16",
+      "postal_code": "01016",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "SANTA CATARINA PINULA",
+      "postal_code": "01051",
+      "country_code": "GT",
+      "latitude": 14.5689,
+      "longitude": -90.4953,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "COBAN",
+      "postal_code": "16001",
+      "country_code": "GT",
+      "latitude": 15.4833,
+      "longitude": -90.3667,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "SAN PEDRO CARCHA",
+      "postal_code": "16009",
+      "country_code": "GT",
+      "latitude": 15.4833,
+      "longitude": -90.2667,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "SAN JOSE LA ARADA",
+      "postal_code": "20002",
+      "country_code": "GT",
+      "latitude": 14.7167,
+      "longitude": -89.5833,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "ESQUIPULAS",
+      "postal_code": "20007",
+      "country_code": "GT",
+      "latitude": 14.5667,
+      "longitude": -89.35,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "ZONA 18",
+      "postal_code": "01018",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "ZONA 21",
+      "postal_code": "01021",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "SANTA ELENA BARILLAS (VILLA CANALES)",
+      "postal_code": "01072",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "PUERTO BARRIOS",
+      "postal_code": "18001",
+      "country_code": "GT",
+      "latitude": 15.7167,
+      "longitude": -88.6,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "SAN LUIS JILOTEPEQUE",
+      "postal_code": "21003",
+      "country_code": "GT",
+      "latitude": 14.65,
+      "longitude": -89.7333,
+      "admin_name1": "DEPTO DE JALAPA"
+    },
+    {
+      "place_name": "SANTA CATARINA MITA",
+      "postal_code": "22003",
+      "country_code": "GT",
+      "latitude": 14.45,
+      "longitude": -89.75,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "ATESCATEMPA",
+      "postal_code": "22007",
+      "country_code": "GT",
+      "latitude": 14.1744,
+      "longitude": -89.7425,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "MACANCHE (DOLORES)",
+      "postal_code": "17021",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "ALMOLONGA",
+      "postal_code": "09013",
+      "country_code": "GT",
+      "latitude": 14.8167,
+      "longitude": -91.5,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "DEPTO DEL QUICHE",
+      "postal_code": "14000",
+      "country_code": "GT",
+      "latitude": 15.0926,
+      "longitude": -91.1044,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "PATZITE",
+      "postal_code": "14007",
+      "country_code": "GT",
+      "latitude": 14.9667,
+      "longitude": -91.2167,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "PACHALUM",
+      "postal_code": "14022",
+      "country_code": "GT",
+      "latitude": 15.1167,
+      "longitude": -90.4,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "SIBINAL",
+      "postal_code": "12008",
+      "country_code": "GT",
+      "latitude": 15.1333,
+      "longitude": -92.05,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "SAN JUAN TECUACO",
+      "postal_code": "06007",
+      "country_code": "GT",
+      "latitude": 14.0822,
+      "longitude": -90.2611,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "SOLOLA",
+      "postal_code": "07001",
+      "country_code": "GT",
+      "latitude": 14.7667,
+      "longitude": -91.1833,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "LOS ENCUENTROS SOLOLA",
+      "postal_code": "07020",
+      "country_code": "GT",
+      "latitude": 14.85,
+      "longitude": -91.15,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "SAN ANTONIO SUCHITEPEQUEZ",
+      "postal_code": "10010",
+      "country_code": "GT",
+      "latitude": 14.5333,
+      "longitude": -91.4167,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "DEPTO DE TOTONICAPAN",
+      "postal_code": "08000",
+      "country_code": "GT",
+      "latitude": 14.9962,
+      "longitude": -91.3953,
+      "admin_name1": "DEPTO DE TOTONICAPAN"
+    },
+    {
+      "place_name": "SAN MIGUEL ACATAN",
+      "postal_code": "13013",
+      "country_code": "GT",
+      "latitude": 15.7,
+      "longitude": -91.6167,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "CAYUGA (MORALES)",
+      "postal_code": "18008",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "EL CINCHADO (PUERTO BARRIOS)",
+      "postal_code": "18010",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "LAS VINAS (MORALES)",
+      "postal_code": "18015",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "SAN FELIPE (LIVINGSTON)",
+      "postal_code": "18019",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "FRONTERAS (LIVINGSTON)",
+      "postal_code": "18021",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "MOYUTA",
+      "postal_code": "22014",
+      "country_code": "GT",
+      "latitude": 14.0386,
+      "longitude": -90.0808,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "SAN JOSE ACATEMPA",
+      "postal_code": "22016",
+      "country_code": "GT",
+      "latitude": 14.2653,
+      "longitude": -90.1269,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "ZUNIL",
+      "postal_code": "09016",
+      "country_code": "GT",
+      "latitude": 14.7833,
+      "longitude": -91.4833,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "XACBAL",
+      "postal_code": "14025",
+      "country_code": "GT",
+      "latitude": 15.2583,
+      "longitude": -90.5833,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "LA MAQUINA (SAN ANDRES VILLA SECA)",
+      "postal_code": "11014",
+      "country_code": "GT",
+      "latitude": 14.4833,
+      "longitude": -91.8333,
+      "admin_name1": "DEPTO DE RETALHULEU"
+    },
+    {
+      "place_name": "NUEVA SANTA ROSA",
+      "postal_code": "06014",
+      "country_code": "GT",
+      "latitude": 14.3811,
+      "longitude": -90.2761,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "CERRO GORDO (SANTA ROSA DE LIMA)",
+      "postal_code": "06027",
+      "country_code": "GT",
+      "latitude": 14.2574,
+      "longitude": -90.3188,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "AGUA ESCONDIDA ( SAN ANTONIO PALOPO)",
+      "postal_code": "07022",
+      "country_code": "GT",
+      "latitude": 14.8444,
+      "longitude": -91.1889,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "SAMAYAO",
+      "postal_code": "10008",
+      "country_code": "GT",
+      "latitude": 14.5208,
+      "longitude": -91.4875,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "LA TINTA (PANZOS)",
+      "postal_code": "16016",
+      "country_code": "GT",
+      "latitude": 15.5792,
+      "longitude": -89.9208,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "CAMPUR (SAN PEDRO CARCHA)",
+      "postal_code": "16021",
+      "country_code": "GT",
+      "latitude": 15.4462,
+      "longitude": -90.091,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "ZONA 15",
+      "postal_code": "01015",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "GUASTATOYA",
+      "postal_code": "02001",
+      "country_code": "GT",
+      "latitude": 14.8539,
+      "longitude": -90.0647,
+      "admin_name1": "DEPTO DE EL PROGRESO"
+    },
+    {
+      "place_name": "SANSARE",
+      "postal_code": "02006",
+      "country_code": "GT",
+      "latitude": 14.7472,
+      "longitude": -90.1125,
+      "admin_name1": "DEPTO DE EL PROGRESO"
+    },
+    {
+      "place_name": "EL RANCHO ( SAN AGUSTIN ACASAGUASTLAN)",
+      "postal_code": "02015",
+      "country_code": "GT",
+      "latitude": 14.8515,
+      "longitude": -90.1145,
+      "admin_name1": "DEPTO DE EL PROGRESO"
+    },
+    {
+      "place_name": "MICHICOY (SAN PEDRO NECTA)",
+      "postal_code": "13038",
+      "country_code": "GT",
+      "latitude": 15.4798,
+      "longitude": -91.6645,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "DEPTO DE IZABAL",
+      "postal_code": "18000",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "EL REFUGIO (LOS AMATES)",
+      "postal_code": "18016",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "TENEDORES (MORALES)",
+      "postal_code": "18018",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "SAYAXCHE",
+      "postal_code": "17010",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "COLOMBA",
+      "postal_code": "09017",
+      "country_code": "GT",
+      "latitude": 14.7167,
+      "longitude": -91.7333,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "ESQUIPULAS PALO GORDO",
+      "postal_code": "12027",
+      "country_code": "GT",
+      "latitude": 14.9333,
+      "longitude": -91.8167,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "EL CARMEN (MALACATAN)",
+      "postal_code": "12030",
+      "country_code": "GT",
+      "latitude": 15.05,
+      "longitude": -91.8167,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "SAN SEBASTIAN (SAN MARCOS)",
+      "postal_code": "12037",
+      "country_code": "GT",
+      "latitude": 15.0667,
+      "longitude": -91.8333,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "SANTA CRUZ NARANJO",
+      "postal_code": "06012",
+      "country_code": "GT",
+      "latitude": 14.3881,
+      "longitude": -90.3697,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "EL AHUMADO (CHIQUIMULILLA)",
+      "postal_code": "06015",
+      "country_code": "GT",
+      "latitude": 14.2518,
+      "longitude": -90.3623,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "PALO GORDO (SAN ANTONIO SUCHITEPEQUEZ)",
+      "postal_code": "10025",
+      "country_code": "GT",
+      "latitude": 14.4,
+      "longitude": -91.3167,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "BRACITOS (MAZATENANGO)",
+      "postal_code": "10027",
+      "country_code": "GT",
+      "latitude": 14.4,
+      "longitude": -91.3167,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "TOTONICAPAN",
+      "postal_code": "08001",
+      "country_code": "GT",
+      "latitude": 14.9167,
+      "longitude": -91.3667,
+      "admin_name1": "DEPTO DE TOTONICAPAN"
+    },
+    {
+      "place_name": "SANTA LUCIA (ZACAPA)",
+      "postal_code": "19015",
+      "country_code": "GT",
+      "latitude": 14.9167,
+      "longitude": -89.5167,
+      "admin_name1": "DEPTO DE ZACAPA"
+    },
+    {
+      "place_name": "RAXRUHA (CHISEC)",
+      "postal_code": "16026",
+      "country_code": "GT",
+      "latitude": 15.4462,
+      "longitude": -90.091,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "CONCEPCION LAS MINAS",
+      "postal_code": "20008",
+      "country_code": "GT",
+      "latitude": 14.5167,
+      "longitude": -89.45,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "ITZAPA",
+      "postal_code": "05010",
+      "country_code": "GT",
+      "latitude": 14.62,
+      "longitude": -90.8442,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "ZONA 8",
+      "postal_code": "01008",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "SAN PEDRO AYAMPUC",
+      "postal_code": "01056",
+      "country_code": "GT",
+      "latitude": 14.7867,
+      "longitude": -90.4511,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "SAN PEDRO SACATEPEQUEZ",
+      "postal_code": "01058",
+      "country_code": "GT",
+      "latitude": 14.6842,
+      "longitude": -90.6442,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "LAS CRUCES (LA LIBERTAD)",
+      "postal_code": "17027",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "SAN MIGUEL SIQUINALA",
+      "postal_code": "09008",
+      "country_code": "GT",
+      "latitude": 14.9375,
+      "longitude": -91.5625,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "OSTUNCALCO",
+      "postal_code": "09009",
+      "country_code": "GT",
+      "latitude": 14.8667,
+      "longitude": -91.6167,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "SANTIAGO ATITLAN",
+      "postal_code": "07019",
+      "country_code": "GT",
+      "latitude": 14.6382,
+      "longitude": -91.229,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "SANTO DOMINGO SUCHITEPEQUEZ",
+      "postal_code": "10006",
+      "country_code": "GT",
+      "latitude": 14.4667,
+      "longitude": -91.4833,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "SANTA LUCIA LA REFORMA",
+      "postal_code": "08007",
+      "country_code": "GT",
+      "latitude": 15.1283,
+      "longitude": -91.2356,
+      "admin_name1": "DEPTO DE TOTONICAPAN"
+    },
+    {
+      "place_name": "SAN JUAN CHAMELCO",
+      "postal_code": "16010",
+      "country_code": "GT",
+      "latitude": 15.4333,
+      "longitude": -90.3333,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "SEBOL (FRAY BARTOLOME)",
+      "postal_code": "16019",
+      "country_code": "GT",
+      "latitude": 15.5792,
+      "longitude": -89.9208,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "SAN GABRIEL PANTZUY (SAN MIGUEL CHICAJ)",
+      "postal_code": "15012",
+      "country_code": "GT",
+      "latitude": 15.0516,
+      "longitude": -90.4148,
+      "admin_name1": "DEPTO DE BAJA VERAPAZ"
+    },
+    {
+      "place_name": "ZONA 17",
+      "postal_code": "01017",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "TRAPICHE GRANDE (CHUARRANCHO)",
+      "postal_code": "01071",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "SAN MARCOS HUISTA (JACALTENANGO)",
+      "postal_code": "13035",
+      "country_code": "GT",
+      "latitude": 15.4798,
+      "longitude": -91.6645,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "TIUCAL (ASUNCION MITA)",
+      "postal_code": "22027",
+      "country_code": "GT",
+      "latitude": 14.2333,
+      "longitude": -89.9667,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "MELCHOR DE MENCOS",
+      "postal_code": "17011",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "POPTUN",
+      "postal_code": "17012",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "EL EDEN (PALESTINA DE LOS ALTOS)",
+      "postal_code": "09030",
+      "country_code": "GT",
+      "latitude": 14.8542,
+      "longitude": -91.6097,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "SAN ANTONIO ILOTENANGO",
+      "postal_code": "14008",
+      "country_code": "GT",
+      "latitude": 15.0547,
+      "longitude": -91.2297,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "SANTA LUCIA IXCAMAL (SAN MARCOS)",
+      "postal_code": "12049",
+      "country_code": "GT",
+      "latitude": 14.9533,
+      "longitude": -91.8938,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "ZACAPA",
+      "postal_code": "19001",
+      "country_code": "GT",
+      "latitude": 14.9667,
+      "longitude": -89.5333,
+      "admin_name1": "DEPTO DE ZACAPA"
+    },
+    {
+      "place_name": "SAN JOSE POAQUIL",
+      "postal_code": "04002",
+      "country_code": "GT",
+      "latitude": 14.8197,
+      "longitude": -90.9064,
+      "admin_name1": "DEPTO DE CHIMALTENANGO"
+    },
+    {
+      "place_name": "SAN MARTIN JILOTEPEQUE",
+      "postal_code": "04003",
+      "country_code": "GT",
+      "latitude": 14.7878,
+      "longitude": -90.7925,
+      "admin_name1": "DEPTO DE CHIMALTENANGO"
+    },
+    {
+      "place_name": "COMALAPA",
+      "postal_code": "04004",
+      "country_code": "GT",
+      "latitude": 14.7411,
+      "longitude": -90.8875,
+      "admin_name1": "DEPTO DE CHIMALTENANGO"
+    },
+    {
+      "place_name": "PALENCIA",
+      "postal_code": "01054",
+      "country_code": "GT",
+      "latitude": 14.6647,
+      "longitude": -90.3586,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "SAN JUAN SACATEPEQUEZ",
+      "postal_code": "01059",
+      "country_code": "GT",
+      "latitude": 14.7189,
+      "longitude": -90.6442,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "JALAPA",
+      "postal_code": "21001",
+      "country_code": "GT",
+      "latitude": 14.6333,
+      "longitude": -89.9833,
+      "admin_name1": "DEPTO DE JALAPA"
+    },
+    {
+      "place_name": "MONJAS",
+      "postal_code": "21006",
+      "country_code": "GT",
+      "latitude": 14.5,
+      "longitude": -89.8667,
+      "admin_name1": "DEPTO DE JALAPA"
+    },
+    {
+      "place_name": "ZAPOTITLAN",
+      "postal_code": "22010",
+      "country_code": "GT",
+      "latitude": 14.1333,
+      "longitude": -89.8333,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "DEPTO DE PETEN",
+      "postal_code": "17000",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "CARMELITA (SAN ANDRES)",
+      "postal_code": "17018",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "QUICHE",
+      "postal_code": "14002",
+      "country_code": "GT",
+      "latitude": 15.0926,
+      "longitude": -91.1044,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "SAN ANDRES SAJCABAJA",
+      "postal_code": "14014",
+      "country_code": "GT",
+      "latitude": 15.2167,
+      "longitude": -90.9167,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "CANDELARIA XOLHUITZ (NUEVO SAN CARLOS)",
+      "postal_code": "11011",
+      "country_code": "GT",
+      "latitude": 14.4833,
+      "longitude": -91.8333,
+      "admin_name1": "DEPTO DE RETALHULEU"
+    },
+    {
+      "place_name": "SANTO DOMINGO XENACOJ",
+      "postal_code": "03005",
+      "country_code": "GT",
+      "latitude": 14.6778,
+      "longitude": -90.6978,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "MAGDALENA MILPAS ALTAS",
+      "postal_code": "03010",
+      "country_code": "GT",
+      "latitude": 14.5453,
+      "longitude": -90.6753,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "SAN ANTONIO SACATEPEQUEZ",
+      "postal_code": "12003",
+      "country_code": "GT",
+      "latitude": 14.9667,
+      "longitude": -91.7333,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "SANTA MARIA IXHUATAN",
+      "postal_code": "06010",
+      "country_code": "GT",
+      "latitude": 14.19,
+      "longitude": -90.2747,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "SAN ANDRES XECUL",
+      "postal_code": "08004",
+      "country_code": "GT",
+      "latitude": 14.9,
+      "longitude": -91.4833,
+      "admin_name1": "DEPTO DE TOTONICAPAN"
+    },
+    {
+      "place_name": "DEPTO DE ZACAPA",
+      "postal_code": "19000",
+      "country_code": "GT",
+      "latitude": 14.9759,
+      "longitude": -89.6019,
+      "admin_name1": "DEPTO DE ZACAPA"
+    },
+    {
+      "place_name": "SANTA CRUZ VERAPAZ",
+      "postal_code": "16002",
+      "country_code": "GT",
+      "latitude": 15.3667,
+      "longitude": -90.4333,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "GRANADOS",
+      "postal_code": "15005",
+      "country_code": "GT",
+      "latitude": 14.9136,
+      "longitude": -90.5228,
+      "admin_name1": "DEPTO DE BAJA VERAPAZ"
+    },
+    {
+      "place_name": "PATZICIA",
+      "postal_code": "04009",
+      "country_code": "GT",
+      "latitude": 14.6317,
+      "longitude": -90.9269,
+      "admin_name1": "DEPTO DE CHIMALTENANGO"
+    },
+    {
+      "place_name": "ZONA 5",
+      "postal_code": "01005",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "SAN ANTONIO HUISTA",
+      "postal_code": "13024",
+      "country_code": "GT",
+      "latitude": 15.65,
+      "longitude": -91.7667,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "CONGUANCO",
+      "postal_code": "22013",
+      "country_code": "GT",
+      "latitude": 14.1347,
+      "longitude": -90.0304,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "QUESADA",
+      "postal_code": "22017",
+      "country_code": "GT",
+      "latitude": 14.2703,
+      "longitude": -90.0403,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "SANTA MARIA DE JESUS (ZUNIL)",
+      "postal_code": "09025",
+      "country_code": "GT",
+      "latitude": 14.7778,
+      "longitude": -91.7306,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "CHIQUIBAL (SAN CARLOS SIJA)",
+      "postal_code": "09026",
+      "country_code": "GT",
+      "latitude": 14.7778,
+      "longitude": -91.7306,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "SAN JOSE CHIQUILAJA (QUETZALTENANGO)",
+      "postal_code": "09029",
+      "country_code": "GT",
+      "latitude": 14.8833,
+      "longitude": -91.4833,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "RETALHULEU",
+      "postal_code": "11001",
+      "country_code": "GT",
+      "latitude": 14.5333,
+      "longitude": -91.6833,
+      "admin_name1": "DEPTO DE RETALHULEU"
+    },
+    {
+      "place_name": "ANTIGUA GUATEMALA",
+      "postal_code": "03001",
+      "country_code": "GT",
+      "latitude": 14.5611,
+      "longitude": -90.7344,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "SAN JERONIMO (EL TUMBADOR)",
+      "postal_code": "12032",
+      "country_code": "GT",
+      "latitude": 15.05,
+      "longitude": -91.8167,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "CHIQUIMULILLA",
+      "postal_code": "06008",
+      "country_code": "GT",
+      "latitude": 14.0858,
+      "longitude": -90.3767,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "GUALAN",
+      "postal_code": "19004",
+      "country_code": "GT",
+      "latitude": 15.1333,
+      "longitude": -89.3667,
+      "admin_name1": "DEPTO DE ZACAPA"
+    },
+    {
+      "place_name": "PANZOS",
+      "postal_code": "16007",
+      "country_code": "GT",
+      "latitude": 15.4,
+      "longitude": -89.6667,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "LAS CASAS",
+      "postal_code": "16022",
+      "country_code": "GT",
+      "latitude": 15.4462,
+      "longitude": -90.091,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "SALACUIN",
+      "postal_code": "16023",
+      "country_code": "GT",
+      "latitude": 15.4462,
+      "longitude": -90.091,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "SALAMA",
+      "postal_code": "15001",
+      "country_code": "GT",
+      "latitude": 15.1,
+      "longitude": -90.2667,
+      "admin_name1": "DEPTO DE BAJA VERAPAZ"
+    },
+    {
+      "place_name": "LOS AMATES (EL CHOL)",
+      "postal_code": "15009",
+      "country_code": "GT",
+      "latitude": 15.0516,
+      "longitude": -90.4148,
+      "admin_name1": "DEPTO DE BAJA VERAPAZ"
+    },
+    {
+      "place_name": "LA CANOA (SALAMA)",
+      "postal_code": "15010",
+      "country_code": "GT",
+      "latitude": 15.0516,
+      "longitude": -90.4148,
+      "admin_name1": "DEPTO DE BAJA VERAPAZ"
+    },
+    {
+      "place_name": "PARRAMOS",
+      "postal_code": "04014",
+      "country_code": "GT",
+      "latitude": 14.6078,
+      "longitude": -90.8031,
+      "admin_name1": "DEPTO DE CHIMALTENANGO"
+    },
+    {
+      "place_name": "SAN JUAN ERMITA",
+      "postal_code": "20003",
+      "country_code": "GT",
+      "latitude": 14.7667,
+      "longitude": -89.4333,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "DEPTO DE ESCUINTLA",
+      "postal_code": "05000",
+      "country_code": "GT",
+      "latitude": 14.2088,
+      "longitude": -90.9754,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "ZONA 11",
+      "postal_code": "01011",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "HUEHUETENANGO",
+      "postal_code": "13001",
+      "country_code": "GT",
+      "latitude": 15.3197,
+      "longitude": -91.4708,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "SAN RAFAEL LA INDEPENDENCIA",
+      "postal_code": "13014",
+      "country_code": "GT",
+      "latitude": 15.7167,
+      "longitude": -91.5333,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "COLOTENANGO",
+      "postal_code": "13019",
+      "country_code": "GT",
+      "latitude": 15.4167,
+      "longitude": -91.7167,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "SAN RAFAEL PETZAL",
+      "postal_code": "13028",
+      "country_code": "GT",
+      "latitude": 15.4167,
+      "longitude": -91.6667,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "SAN GASPAR IXCHIL",
+      "postal_code": "13029",
+      "country_code": "GT",
+      "latitude": 15.3833,
+      "longitude": -91.7167,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "YUPILTEPEQUE",
+      "postal_code": "22006",
+      "country_code": "GT",
+      "latitude": 14.2,
+      "longitude": -89.7833,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "PALESTINA DE LOS ALTOS",
+      "postal_code": "09024",
+      "country_code": "GT",
+      "latitude": 14.9333,
+      "longitude": -91.7,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "NEBAJ",
+      "postal_code": "14013",
+      "country_code": "GT",
+      "latitude": 15.4058,
+      "longitude": -91.1461,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "CHICAMAN",
+      "postal_code": "14020",
+      "country_code": "GT",
+      "latitude": 15.4,
+      "longitude": -90.7667,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "NUEVO SAN CARLOS",
+      "postal_code": "11008",
+      "country_code": "GT",
+      "latitude": 14.6,
+      "longitude": -91.7,
+      "admin_name1": "DEPTO DE RETALHULEU"
+    },
+    {
+      "place_name": "COMITANCILLO",
+      "postal_code": "12004",
+      "country_code": "GT",
+      "latitude": 15.0833,
+      "longitude": -91.7167,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "SAN MIGUEL IXTAGUACAN",
+      "postal_code": "12005",
+      "country_code": "GT",
+      "latitude": 15.0896,
+      "longitude": -91.8521,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "TAJUMULCO",
+      "postal_code": "12009",
+      "country_code": "GT",
+      "latitude": 15.0833,
+      "longitude": -91.8833,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "TEJUTLA",
+      "postal_code": "12010",
+      "country_code": "GT",
+      "latitude": 15.1167,
+      "longitude": -91.8,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "SAN JOSE IXTAL (NUEVO PROGRESO)",
+      "postal_code": "12041",
+      "country_code": "GT",
+      "latitude": 14.9533,
+      "longitude": -91.8938,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "SAN JOSE CHACAYA",
+      "postal_code": "07002",
+      "country_code": "GT",
+      "latitude": 14.7667,
+      "longitude": -91.2167,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "GUATALON (RIO BRAVO)",
+      "postal_code": "10024",
+      "country_code": "GT",
+      "latitude": 14.4,
+      "longitude": -91.3167,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "SAN CRISTOBAL TOTONICAPAN",
+      "postal_code": "08002",
+      "country_code": "GT",
+      "latitude": 14.9167,
+      "longitude": -91.4333,
+      "admin_name1": "DEPTO DE TOTONICAPAN"
+    },
+    {
+      "place_name": "RIO HONDO",
+      "postal_code": "19003",
+      "country_code": "GT",
+      "latitude": 15.0667,
+      "longitude": -89.5833,
+      "admin_name1": "DEPTO DE ZACAPA"
+    },
+    {
+      "place_name": "YEPOCAPA",
+      "postal_code": "04012",
+      "country_code": "GT",
+      "latitude": 14.5042,
+      "longitude": -90.9569,
+      "admin_name1": "DEPTO DE CHIMALTENANGO"
+    },
+    {
+      "place_name": "VALDO HONDO (CHIQUIMULA)",
+      "postal_code": "20016",
+      "country_code": "GT",
+      "latitude": 14.6875,
+      "longitude": -89.5333,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "LA GOMERA",
+      "postal_code": "05007",
+      "country_code": "GT",
+      "latitude": 14.0833,
+      "longitude": -91.05,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "SAN AGUSTIN ACASAGUASTLAN",
+      "postal_code": "02003",
+      "country_code": "GT",
+      "latitude": 14.95,
+      "longitude": -89.9667,
+      "admin_name1": "DEPTO DE EL PROGRESO"
+    },
+    {
+      "place_name": "SAN MARTIN CUCHUMATAN (TODOS SANTOS CUCHUMATAN)",
+      "postal_code": "13034",
+      "country_code": "GT",
+      "latitude": 15.4798,
+      "longitude": -91.6645,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "PLAYITAS (MORALES)",
+      "postal_code": "18006",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "QUIRIGUA (LOS AMATES)",
+      "postal_code": "18009",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "DEPTO DE JUTIAPA",
+      "postal_code": "22000",
+      "country_code": "GT",
+      "latitude": 14.3069,
+      "longitude": -89.7775,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "SANTO TORIBIO (DOLORES)",
+      "postal_code": "17015",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "SIBILIA",
+      "postal_code": "09005",
+      "country_code": "GT",
+      "latitude": 15.0,
+      "longitude": -91.6167,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "CAJOLA",
+      "postal_code": "09007",
+      "country_code": "GT",
+      "latitude": 14.9167,
+      "longitude": -91.6167,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "SAN ANTONIO AGUAS CALIENTES",
+      "postal_code": "03015",
+      "country_code": "GT",
+      "latitude": 14.5397,
+      "longitude": -90.7694,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "EL MOLINO (CUILAPA)",
+      "postal_code": "06019",
+      "country_code": "GT",
+      "latitude": 14.2518,
+      "longitude": -90.3623,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "SAN ANDRES SEMETATABAJ",
+      "postal_code": "07009",
+      "country_code": "GT",
+      "latitude": 14.7708,
+      "longitude": -91.2646,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "PANAJACHEL",
+      "postal_code": "07010",
+      "country_code": "GT",
+      "latitude": 14.7333,
+      "longitude": -91.15,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "SAN LUCAS TOLIMAN",
+      "postal_code": "07013",
+      "country_code": "GT",
+      "latitude": 14.6333,
+      "longitude": -91.1333,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "SENAHU",
+      "postal_code": "16008",
+      "country_code": "GT",
+      "latitude": 15.4,
+      "longitude": -89.8333,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "ZONA 3",
+      "postal_code": "01003",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "MALACANCITO",
+      "postal_code": "13003",
+      "country_code": "GT",
+      "latitude": 15.5368,
+      "longitude": -91.6565,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "PAXCAMAN (FLORES)",
+      "postal_code": "17026",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "COATEPEQUE",
+      "postal_code": "09020",
+      "country_code": "GT",
+      "latitude": 14.7,
+      "longitude": -91.8667,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "CATARINA",
+      "postal_code": "12016",
+      "country_code": "GT",
+      "latitude": 14.85,
+      "longitude": -92.0833,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "CHAMPOLLAP (SAN PEDRO SACATEPEQUEZ)",
+      "postal_code": "12047",
+      "country_code": "GT",
+      "latitude": 14.9533,
+      "longitude": -91.8938,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "SAN JUAN LA LAGUNA",
+      "postal_code": "07017",
+      "country_code": "GT",
+      "latitude": 14.7,
+      "longitude": -91.2833,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "SAN PEDRO LA LAGUNA",
+      "postal_code": "07018",
+      "country_code": "GT",
+      "latitude": 14.6833,
+      "longitude": -91.2667,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "SAN PABLO JOCOPILAS",
+      "postal_code": "10009",
+      "country_code": "GT",
+      "latitude": 14.5833,
+      "longitude": -91.45,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "HUITE",
+      "postal_code": "19010",
+      "country_code": "GT",
+      "latitude": 14.9333,
+      "longitude": -89.7167,
+      "admin_name1": "DEPTO DE ZACAPA"
+    },
+    {
+      "place_name": "LA FRAGUA (ZACAPA)",
+      "postal_code": "19016",
+      "country_code": "GT",
+      "latitude": 14.9667,
+      "longitude": -89.55,
+      "admin_name1": "DEPTO DE ZACAPA"
+    },
+    {
+      "place_name": "OLOPA",
+      "postal_code": "20006",
+      "country_code": "GT",
+      "latitude": 14.6833,
+      "longitude": -89.35,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "ANGUIATU (CONCEP. LAS MINAS )",
+      "postal_code": "20012",
+      "country_code": "GT",
+      "latitude": 14.6875,
+      "longitude": -89.5333,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "PAQUIX (CHIANTLA)",
+      "postal_code": "13037",
+      "country_code": "GT",
+      "latitude": 15.4798,
+      "longitude": -91.6645,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "MATATESCUINTLA",
+      "postal_code": "21007",
+      "country_code": "GT",
+      "latitude": 14.583,
+      "longitude": -89.8896,
+      "admin_name1": "DEPTO DE JALAPA"
+    },
+    {
+      "place_name": "TIKAL (FLORES)",
+      "postal_code": "17013",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "UAXACTUN (FLORES)",
+      "postal_code": "17017",
+      "country_code": "GT",
+      "latitude": 16.7663,
+      "longitude": -89.8155,
+      "admin_name1": "DEPTO DE PETEN"
+    },
+    {
+      "place_name": "SAN CARLOS SIJA",
+      "postal_code": "09004",
+      "country_code": "GT",
+      "latitude": 14.9833,
+      "longitude": -91.55,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "ZACUALPA",
+      "postal_code": "14004",
+      "country_code": "GT",
+      "latitude": 15.0833,
+      "longitude": -90.8333,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "PLAYA GRANDE (IXCAN)",
+      "postal_code": "14019",
+      "country_code": "GT",
+      "latitude": 15.2687,
+      "longitude": -90.9753,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "SERCHIL ( SAN MARCOS)",
+      "postal_code": "12033",
+      "country_code": "GT",
+      "latitude": 15.0333,
+      "longitude": -91.8,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "SANTA ROSA DE LIMA",
+      "postal_code": "06003",
+      "country_code": "GT",
+      "latitude": 14.3881,
+      "longitude": -90.2956,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "SAN FRANCISCO EL ALTO",
+      "postal_code": "08003",
+      "country_code": "GT",
+      "latitude": 14.95,
+      "longitude": -91.45,
+      "admin_name1": "DEPTO DE TOTONICAPAN"
+    },
+    {
+      "place_name": "BOLONCO (FRAY BARTOLOME)",
+      "postal_code": "16020",
+      "country_code": "GT",
+      "latitude": 15.4462,
+      "longitude": -90.091,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "ZARAGOZA",
+      "postal_code": "04015",
+      "country_code": "GT",
+      "latitude": 14.6544,
+      "longitude": -90.8894,
+      "admin_name1": "DEPTO DE CHIMALTENANGO"
+    },
+    {
+      "place_name": "ZONA 12",
+      "postal_code": "01012",
+      "country_code": "GT",
+      "latitude": 14.6328,
+      "longitude": -90.5199,
+      "admin_name1": "Ciudad de Guatemala"
+    },
+    {
+      "place_name": "SAN JOSE PINULA",
+      "postal_code": "01052",
+      "country_code": "GT",
+      "latitude": 14.5461,
+      "longitude": -90.4114,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "PETAPA",
+      "postal_code": "01066",
+      "country_code": "GT",
+      "latitude": 14.5028,
+      "longitude": -90.5517,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "PASO DE LOS JALAPAS (EL JICARO)",
+      "postal_code": "02013",
+      "country_code": "GT",
+      "latitude": 14.8515,
+      "longitude": -90.1145,
+      "admin_name1": "DEPTO DE EL PROGRESO"
+    },
+    {
+      "place_name": "SOLOMA",
+      "postal_code": "13008",
+      "country_code": "GT",
+      "latitude": 15.7167,
+      "longitude": -91.45,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "SAN JUAN IXCOY",
+      "postal_code": "13023",
+      "country_code": "GT",
+      "latitude": 15.5997,
+      "longitude": -91.4453,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "LIVINGSTON",
+      "postal_code": "18002",
+      "country_code": "GT",
+      "latitude": 15.8333,
+      "longitude": -88.75,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "ENTRE RIOS (PUERTO BARRIOS)",
+      "postal_code": "18012",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "EL OVEJERO (EL PROGRESO)",
+      "postal_code": "22023",
+      "country_code": "GT",
+      "latitude": 14.2333,
+      "longitude": -89.9667,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "GENOVA",
+      "postal_code": "09021",
+      "country_code": "GT",
+      "latitude": 14.6167,
+      "longitude": -91.8333,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "LOS ESCLAVOS (CUILAPA)",
+      "postal_code": "06022",
+      "country_code": "GT",
+      "latitude": 14.2574,
+      "longitude": -90.3188,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "SANTA CLARA LA LAGUNA",
+      "postal_code": "07007",
+      "country_code": "GT",
+      "latitude": 14.7167,
+      "longitude": -91.3,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "SAN PABLO LA LAGUNA",
+      "postal_code": "07015",
+      "country_code": "GT",
+      "latitude": 14.7167,
+      "longitude": -91.2667,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "CABANAS",
+      "postal_code": "19007",
+      "country_code": "GT",
+      "latitude": 14.9333,
+      "longitude": -89.8,
+      "admin_name1": "DEPTO DE ZACAPA"
+    },
+    {
+      "place_name": "CUBULCO",
+      "postal_code": "15004",
+      "country_code": "GT",
+      "latitude": 15.1333,
+      "longitude": -90.5833,
+      "admin_name1": "DEPTO DE BAJA VERAPAZ"
+    },
+    {
+      "place_name": "SANTA ELENA (CHIQUIMULA)",
+      "postal_code": "20015",
+      "country_code": "GT",
+      "latitude": 14.7167,
+      "longitude": -89.5,
+      "admin_name1": "DEPTO DE CHIQUIMULA"
+    },
+    {
+      "place_name": "SAN ANDRES OSUMA (ESCUINTLA)",
+      "postal_code": "05018",
+      "country_code": "GT",
+      "latitude": 14.4104,
+      "longitude": -90.8704,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "SIPACATE (LA GOMERA)",
+      "postal_code": "05021",
+      "country_code": "GT",
+      "latitude": 14.276,
+      "longitude": -90.9404,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "SAN RAYMUNDO",
+      "postal_code": "01060",
+      "country_code": "GT",
+      "latitude": 14.7647,
+      "longitude": -90.5956,
+      "admin_name1": "DEPTO DE GUATEMALA"
+    },
+    {
+      "place_name": "TODOS SANTOS CUCHUMATAN",
+      "postal_code": "13015",
+      "country_code": "GT",
+      "latitude": 15.5167,
+      "longitude": -91.6167,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "SANTA EULALIA",
+      "postal_code": "13017",
+      "country_code": "GT",
+      "latitude": 15.7331,
+      "longitude": -91.4569,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "SANTIAGO CHIMALTENANGO",
+      "postal_code": "13030",
+      "country_code": "GT",
+      "latitude": 15.4667,
+      "longitude": -91.7167,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "CHALUM (LA LIBERTAD)",
+      "postal_code": "13040",
+      "country_code": "GT",
+      "latitude": 15.6167,
+      "longitude": -91.9833,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "EL RICO (LOS AMATES)",
+      "postal_code": "18007",
+      "country_code": "GT",
+      "latitude": 15.5667,
+      "longitude": -88.9233,
+      "admin_name1": "DEPTO DE IZABAL"
+    },
+    {
+      "place_name": "RIO DE PAZ",
+      "postal_code": "22021",
+      "country_code": "GT",
+      "latitude": 14.2333,
+      "longitude": -89.9667,
+      "admin_name1": "DEPTO DE JUTIAPA"
+    },
+    {
+      "place_name": "CHINISQUE",
+      "postal_code": "14003",
+      "country_code": "GT",
+      "latitude": 15.0926,
+      "longitude": -91.1044,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "SANTIAGO SACATEPEQUEZ",
+      "postal_code": "03006",
+      "country_code": "GT",
+      "latitude": 14.6353,
+      "longitude": -90.6764,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "SANTA CATARINA BARAHONA",
+      "postal_code": "03016",
+      "country_code": "GT",
+      "latitude": 14.5489,
+      "longitude": -90.7883,
+      "admin_name1": "DEPTO DE SACATEPEQUEZ"
+    },
+    {
+      "place_name": "LA DEMOCRACIA (EL TUMBADOR)",
+      "postal_code": "12034",
+      "country_code": "GT",
+      "latitude": 15.05,
+      "longitude": -91.8167,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "EL CIELO (EL TUMBADOR)",
+      "postal_code": "12040",
+      "country_code": "GT",
+      "latitude": 14.9533,
+      "longitude": -91.8938,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "BARBERENA",
+      "postal_code": "06002",
+      "country_code": "GT",
+      "latitude": 14.3094,
+      "longitude": -90.3611,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "LOS CERRITOS (CHIQUIMULILLA)",
+      "postal_code": "06016",
+      "country_code": "GT",
+      "latitude": 14.2518,
+      "longitude": -90.3623,
+      "admin_name1": "DEPTO DE SANTA ROSA"
+    },
+    {
+      "place_name": "ARGUETA (SOLOLA)",
+      "postal_code": "07023",
+      "country_code": "GT",
+      "latitude": 14.8167,
+      "longitude": -91.2333,
+      "admin_name1": "DEPTO DE SOLOLA"
+    },
+    {
+      "place_name": "TACTIC",
+      "postal_code": "16004",
+      "country_code": "GT",
+      "latitude": 15.3333,
+      "longitude": -90.3,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "LAS CONCHAS",
+      "postal_code": "16025",
+      "country_code": "GT",
+      "latitude": 15.4462,
+      "longitude": -90.091,
+      "admin_name1": "DEPTO DE ALTA VERAPAZ"
+    },
+    {
+      "place_name": "POCHUTA",
+      "postal_code": "04008",
+      "country_code": "GT",
+      "latitude": 14.55,
+      "longitude": -91.0833,
+      "admin_name1": "DEPTO DE CHIMALTENANGO"
+    },
+    {
+      "place_name": "ACATENANGO",
+      "postal_code": "04011",
+      "country_code": "GT",
+      "latitude": 14.5519,
+      "longitude": -90.9422,
+      "admin_name1": "DEPTO DE CHIMALTENANGO"
+    },
+    {
+      "place_name": "PALIN",
+      "postal_code": "05011",
+      "country_code": "GT",
+      "latitude": 14.4056,
+      "longitude": -90.6983,
+      "admin_name1": "DEPTO DE ESCUINTLA"
+    },
+    {
+      "place_name": "MORAZAN",
+      "postal_code": "02002",
+      "country_code": "GT",
+      "latitude": 14.9328,
+      "longitude": -90.1431,
+      "admin_name1": "DEPTO DE EL PROGRESO"
+    },
+    {
+      "place_name": "SAN CRISTOBAL ACASAGUASTLAN",
+      "postal_code": "02004",
+      "country_code": "GT",
+      "latitude": 14.9167,
+      "longitude": -89.8833,
+      "admin_name1": "DEPTO DE EL PROGRESO"
+    },
+    {
+      "place_name": "SANTA RITA (GUASTATOYA)",
+      "postal_code": "02014",
+      "country_code": "GT",
+      "latitude": 14.8515,
+      "longitude": -90.1145,
+      "admin_name1": "DEPTO DE EL PROGRESO"
+    },
+    {
+      "place_name": "SAN ANDRES HIUISTA (JACALTENANGO)",
+      "postal_code": "13039",
+      "country_code": "GT",
+      "latitude": 15.4798,
+      "longitude": -91.6645,
+      "admin_name1": "DEPTO DE HUEHUETENANGO"
+    },
+    {
+      "place_name": "LAS MERCEDES (COLOMBA)",
+      "postal_code": "09033",
+      "country_code": "GT",
+      "latitude": 14.8542,
+      "longitude": -91.6097,
+      "admin_name1": "DEPTO DE QUETZALTENANGO"
+    },
+    {
+      "place_name": "SAN JUAN COTZAL",
+      "postal_code": "14011",
+      "country_code": "GT",
+      "latitude": 15.4342,
+      "longitude": -91.0342,
+      "admin_name1": "DEPTO DEL QUICHE"
+    },
+    {
+      "place_name": "SAN MARTIN ZAPOTITLAN",
+      "postal_code": "11004",
+      "country_code": "GT",
+      "latitude": 14.6,
+      "longitude": -91.6,
+      "admin_name1": "DEPTO DE RETALHULEU"
+    },
+    {
+      "place_name": "EL XAB (EL ASINTAL)",
+      "postal_code": "11013",
+      "country_code": "GT",
+      "latitude": 14.4833,
+      "longitude": -91.8333,
+      "admin_name1": "DEPTO DE RETALHULEU"
+    },
+    {
+      "place_name": "TECUN UMAN",
+      "postal_code": "12017",
+      "country_code": "GT",
+      "latitude": 14.6667,
+      "longitude": -92.15,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "SAN CRISTOBAL CUCHO",
+      "postal_code": "12025",
+      "country_code": "GT",
+      "latitude": 14.9,
+      "longitude": -91.7833,
+      "admin_name1": "DEPTO DE SAN MARCOS"
+    },
+    {
+      "place_name": "BOLIVIA (SANTO DOMINGO SUCHITEPEQUEZ)",
+      "postal_code": "10028",
+      "country_code": "GT",
+      "latitude": 14.4,
+      "longitude": -91.3167,
+      "admin_name1": "DEPTO DE SUCHITEPEQUEZ"
+    },
+    {
+      "place_name": "MOMOSTENANGO",
+      "postal_code": "08005",
+      "country_code": "GT",
+      "latitude": 15.0436,
+      "longitude": -91.4086,
+      "admin_name1": "DEPTO DE TOTONICAPAN"
+    }
+  ]
+]

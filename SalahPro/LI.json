@@ -1,0 +1,108 @@
+[
+  [
+    {
+      "place_name": "Balzers",
+      "postal_code": "9496",
+      "country_code": "LI",
+      "latitude": 47.067,
+      "longitude": 9.5078,
+      "admin_name1": "Balzers"
+    },
+    {
+      "place_name": "Triesenberg",
+      "postal_code": "9497",
+      "country_code": "LI",
+      "latitude": 47.115,
+      "longitude": 9.5831,
+      "admin_name1": "Triesenberg"
+    },
+    {
+      "place_name": "Nendeln",
+      "postal_code": "9485",
+      "country_code": "LI",
+      "latitude": 47.1984,
+      "longitude": 9.5501,
+      "admin_name1": "Eschen"
+    },
+    {
+      "place_name": "Schaanwald",
+      "postal_code": "9486",
+      "country_code": "LI",
+      "latitude": 47.2151,
+      "longitude": 9.562,
+      "admin_name1": "Mauren"
+    },
+    {
+      "place_name": "Schaan",
+      "postal_code": "9494",
+      "country_code": "LI",
+      "latitude": 47.1746,
+      "longitude": 9.5247,
+      "admin_name1": "Schaan"
+    },
+    {
+      "place_name": "Mauren FL",
+      "postal_code": "9493",
+      "country_code": "LI",
+      "latitude": 47.2191,
+      "longitude": 9.5464,
+      "admin_name1": "Mauren"
+    },
+    {
+      "place_name": "Triesen",
+      "postal_code": "9495",
+      "country_code": "LI",
+      "latitude": 47.0805,
+      "longitude": 9.5515,
+      "admin_name1": "Triesen"
+    },
+    {
+      "place_name": "Vaduz",
+      "postal_code": "9490",
+      "country_code": "LI",
+      "latitude": 47.1431,
+      "longitude": 9.5256,
+      "admin_name1": "Vaduz"
+    },
+    {
+      "place_name": "Planken",
+      "postal_code": "9498",
+      "country_code": "LI",
+      "latitude": 47.1821,
+      "longitude": 9.5574,
+      "admin_name1": "Planken"
+    },
+    {
+      "place_name": "Ruggell",
+      "postal_code": "9491",
+      "country_code": "LI",
+      "latitude": 47.2484,
+      "longitude": 9.5345,
+      "admin_name1": "Ruggell"
+    },
+    {
+      "place_name": "Gamprin-Bendern",
+      "postal_code": "9487",
+      "country_code": "LI",
+      "latitude": 47.2249,
+      "longitude": 9.5135,
+      "admin_name1": "Gamprin"
+    },
+    {
+      "place_name": "Schellenberg",
+      "postal_code": "9488",
+      "country_code": "LI",
+      "latitude": 47.2318,
+      "longitude": 9.5478,
+      "admin_name1": "Schellenberg"
+    },
+    {
+      "place_name": "Eschen",
+      "postal_code": "9492",
+      "country_code": "LI",
+      "latitude": 47.209,
+      "longitude": 9.5223,
+      "admin_name1": "Eschen"
+    }
+  ]
+]

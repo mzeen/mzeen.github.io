@@ -1,0 +1,6412 @@
+[
+  [
+    {
+      "place_name": "Leticia",
+      "postal_code": "910007",
+      "country_code": "CO",
+      "latitude": -4.2153,
+      "longitude": -69.9406,
+      "admin_name1": "Amazonas"
+    },
+    {
+      "place_name": "Medellin",
+      "postal_code": "050034",
+      "country_code": "CO",
+      "latitude": 6.2518,
+      "longitude": -75.5636,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Amaga",
+      "postal_code": "055847",
+      "country_code": "CO",
+      "latitude": 6.04,
+      "longitude": -75.7032,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Armenia",
+      "postal_code": "055860",
+      "country_code": "CO",
+      "latitude": 6.1564,
+      "longitude": -75.7872,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Betulia",
+      "postal_code": "056860",
+      "country_code": "CO",
+      "latitude": 6.1128,
+      "longitude": -75.9838,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Ciudad Bolivar",
+      "postal_code": "056467",
+      "country_code": "CO",
+      "latitude": 5.8539,
+      "longitude": -76.0253,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Briceño",
+      "postal_code": "052067",
+      "country_code": "CO",
+      "latitude": 7.111,
+      "longitude": -75.5515,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Carepa",
+      "postal_code": "057858",
+      "country_code": "CO",
+      "latitude": 7.7585,
+      "longitude": -76.6525,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Cisneros",
+      "postal_code": "053050",
+      "country_code": "CO",
+      "latitude": 6.5383,
+      "longitude": -75.0886,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Giraldo",
+      "postal_code": "057047",
+      "country_code": "CO",
+      "latitude": 6.6831,
+      "longitude": -75.9892,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Rionegro",
+      "postal_code": "054040",
+      "country_code": "CO",
+      "latitude": 6.1551,
+      "longitude": -75.3737,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Sabanalarga",
+      "postal_code": "057020",
+      "country_code": "CO",
+      "latitude": 6.8489,
+      "longitude": -75.8171,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Barranquilla",
+      "postal_code": "080007",
+      "country_code": "CO",
+      "latitude": 10.9685,
+      "longitude": -74.7813,
+      "admin_name1": "Atlantico"
+    },
+    {
+      "place_name": "Campo De La Cruz",
+      "postal_code": "084040",
+      "country_code": "CO",
+      "latitude": 10.3781,
+      "longitude": -74.8836,
+      "admin_name1": "Atlantico"
+    },
+    {
+      "place_name": "Malambo",
+      "postal_code": "083028",
+      "country_code": "CO",
+      "latitude": 10.8595,
+      "longitude": -74.7739,
+      "admin_name1": "Atlantico"
+    },
+    {
+      "place_name": "Repelon",
+      "postal_code": "085040",
+      "country_code": "CO",
+      "latitude": 10.4919,
+      "longitude": -75.1292,
+      "admin_name1": "Atlantico"
+    },
+    {
+      "place_name": "Albania",
+      "postal_code": "186030",
+      "country_code": "CO",
+      "latitude": 1.3287,
+      "longitude": -75.8782,
+      "admin_name1": "Caqueta"
+    },
+    {
+      "place_name": "El Doncello",
+      "postal_code": "181019",
+      "country_code": "CO",
+      "latitude": 1.6782,
+      "longitude": -75.2847,
+      "admin_name1": "Caqueta"
+    },
+    {
+      "place_name": "El Paujil",
+      "postal_code": "181030",
+      "country_code": "CO",
+      "latitude": 1.5701,
+      "longitude": -75.3286,
+      "admin_name1": "Caqueta"
+    },
+    {
+      "place_name": "Popayan",
+      "postal_code": "190001",
+      "country_code": "CO",
+      "latitude": 2.4382,
+      "longitude": -76.6132,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Cajibio",
+      "postal_code": "190501",
+      "country_code": "CO",
+      "latitude": 2.6227,
+      "longitude": -76.5704,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Caldono",
+      "postal_code": "192048",
+      "country_code": "CO",
+      "latitude": 2.7974,
+      "longitude": -76.4832,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Mercaderes",
+      "postal_code": "195060",
+      "country_code": "CO",
+      "latitude": 1.8017,
+      "longitude": -77.1703,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Patia",
+      "postal_code": "195509",
+      "country_code": "CO",
+      "latitude": 2.0689,
+      "longitude": -77.0527,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Astrea",
+      "postal_code": "201048",
+      "country_code": "CO",
+      "latitude": 9.4983,
+      "longitude": -73.9759,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "Curumani",
+      "postal_code": "203067",
+      "country_code": "CO",
+      "latitude": 9.1999,
+      "longitude": -73.5427,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "Pueblo Bello",
+      "postal_code": "201001",
+      "country_code": "CO",
+      "latitude": 10.4171,
+      "longitude": -73.5804,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "La Paz",
+      "postal_code": "202010",
+      "country_code": "CO",
+      "latitude": 10.3844,
+      "longitude": -73.1733,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "Bahia Solano",
+      "postal_code": "276038",
+      "country_code": "CO",
+      "latitude": 6.2262,
+      "longitude": -77.4044,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Condoto",
+      "postal_code": "273037",
+      "country_code": "CO",
+      "latitude": 5.0935,
+      "longitude": -76.6497,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Riosucio",
+      "postal_code": "277010",
+      "country_code": "CO",
+      "latitude": 7.4435,
+      "longitude": -77.1196,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Chima",
+      "postal_code": "232010",
+      "country_code": "CO",
+      "latitude": 9.1489,
+      "longitude": -75.6284,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "Cotorra",
+      "postal_code": "230507",
+      "country_code": "CO",
+      "latitude": 9.0389,
+      "longitude": -75.7897,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "Tierralta",
+      "postal_code": "234517",
+      "country_code": "CO",
+      "latitude": 8.1736,
+      "longitude": -76.0592,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "San Jose Del Guaviare",
+      "postal_code": "950008",
+      "country_code": "CO",
+      "latitude": 2.5729,
+      "longitude": -72.6459,
+      "admin_name1": "Guaviare"
+    },
+    {
+      "place_name": "Inirida",
+      "postal_code": "940028",
+      "country_code": "CO",
+      "latitude": 3.8653,
+      "longitude": -67.9239,
+      "admin_name1": "Guainia"
+    },
+    {
+      "place_name": "Morichal",
+      "postal_code": "943057",
+      "country_code": "CO",
+      "latitude": 2.4298,
+      "longitude": -69.8328,
+      "admin_name1": "Guainia"
+    },
+    {
+      "place_name": "Rivera",
+      "postal_code": "413001",
+      "country_code": "CO",
+      "latitude": 2.7772,
+      "longitude": -75.2564,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Villavieja",
+      "postal_code": "411028",
+      "country_code": "CO",
+      "latitude": 3.2205,
+      "longitude": -75.2186,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Uribia",
+      "postal_code": "441028",
+      "country_code": "CO",
+      "latitude": 11.7139,
+      "longitude": -72.266,
+      "admin_name1": "La Guajira"
+    },
+    {
+      "place_name": "Lejanias",
+      "postal_code": "506068",
+      "country_code": "CO",
+      "latitude": 3.5276,
+      "longitude": -74.0234,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "Puerto Lleras",
+      "postal_code": "503001",
+      "country_code": "CO",
+      "latitude": 2.8118,
+      "longitude": -73.0279,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "Puerto Rico",
+      "postal_code": "503067",
+      "country_code": "CO",
+      "latitude": 2.9383,
+      "longitude": -73.2083,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "San Carlos De Guaroa",
+      "postal_code": "507011",
+      "country_code": "CO",
+      "latitude": 3.7116,
+      "longitude": -73.2434,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "San Juan De Arama",
+      "postal_code": "504047",
+      "country_code": "CO",
+      "latitude": 3.3699,
+      "longitude": -73.8727,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "Aldana",
+      "postal_code": "524540",
+      "country_code": "CO",
+      "latitude": 0.8828,
+      "longitude": -77.701,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Cumbal",
+      "postal_code": "525009",
+      "country_code": "CO",
+      "latitude": 0.9087,
+      "longitude": -77.7915,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "El Charco",
+      "postal_code": "527529",
+      "country_code": "CO",
+      "latitude": 2.4769,
+      "longitude": -78.1105,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "El Tablon De Gomez",
+      "postal_code": "520539",
+      "country_code": "CO",
+      "latitude": 1.412,
+      "longitude": -76.9853,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Guachucal",
+      "postal_code": "524587",
+      "country_code": "CO",
+      "latitude": 0.9609,
+      "longitude": -77.7316,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Guaitarilla",
+      "postal_code": "525507",
+      "country_code": "CO",
+      "latitude": 1.131,
+      "longitude": -77.5481,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Linares",
+      "postal_code": "522507",
+      "country_code": "CO",
+      "latitude": 1.3578,
+      "longitude": -77.5272,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Magüi",
+      "postal_code": "528007",
+      "country_code": "CO",
+      "latitude": 1.905,
+      "longitude": -78.0492,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Potosi",
+      "postal_code": "524039",
+      "country_code": "CO",
+      "latitude": 0.8074,
+      "longitude": -77.5722,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Puerres",
+      "postal_code": "523547",
+      "country_code": "CO",
+      "latitude": 0.8837,
+      "longitude": -77.5032,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Samaniego",
+      "postal_code": "526047",
+      "country_code": "CO",
+      "latitude": 1.3385,
+      "longitude": -77.5957,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "San Andres De Tumaco",
+      "postal_code": "528539",
+      "country_code": "CO",
+      "latitude": 1.7986,
+      "longitude": -78.8156,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Tuquerres",
+      "postal_code": "525528",
+      "country_code": "CO",
+      "latitude": 1.0888,
+      "longitude": -77.6183,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Cucuta",
+      "postal_code": "540007",
+      "country_code": "CO",
+      "latitude": 7.8939,
+      "longitude": -72.5078,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Bochalema",
+      "postal_code": "543017",
+      "country_code": "CO",
+      "latitude": 7.611,
+      "longitude": -72.6477,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Hacari",
+      "postal_code": "546510",
+      "country_code": "CO",
+      "latitude": 8.3233,
+      "longitude": -73.1489,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "San Cayetano",
+      "postal_code": "545010",
+      "country_code": "CO",
+      "latitude": 7.8771,
+      "longitude": -72.6243,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Puerto Guzman",
+      "postal_code": "863007",
+      "country_code": "CO",
+      "latitude": 0.9645,
+      "longitude": -76.408,
+      "admin_name1": "Putumayo"
+    },
+    {
+      "place_name": "Calarca",
+      "postal_code": "632007",
+      "country_code": "CO",
+      "latitude": 4.5295,
+      "longitude": -75.6409,
+      "admin_name1": "Quindio"
+    },
+    {
+      "place_name": "Cordoba",
+      "postal_code": "632020",
+      "country_code": "CO",
+      "latitude": 4.3932,
+      "longitude": -75.6894,
+      "admin_name1": "Quindio"
+    },
+    {
+      "place_name": "San Andres",
+      "postal_code": "880007",
+      "country_code": "CO",
+      "latitude": 12.5847,
+      "longitude": -81.7006,
+      "admin_name1": "Archipielago De San Andres"
+    },
+    {
+      "place_name": "Bucaramanga",
+      "postal_code": "680008",
+      "country_code": "CO",
+      "latitude": 7.1254,
+      "longitude": -73.1198,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Cepita",
+      "postal_code": "682061",
+      "country_code": "CO",
+      "latitude": 6.7543,
+      "longitude": -72.9744,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Charala",
+      "postal_code": "682551",
+      "country_code": "CO",
+      "latitude": 6.2858,
+      "longitude": -73.1472,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Concepcion",
+      "postal_code": "681519",
+      "country_code": "CO",
+      "latitude": 6.7662,
+      "longitude": -72.694,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "El Peñon",
+      "postal_code": "685027",
+      "country_code": "CO",
+      "latitude": 6.0549,
+      "longitude": -73.8152,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Floridablanca",
+      "postal_code": "681003",
+      "country_code": "CO",
+      "latitude": 7.0622,
+      "longitude": -73.0864,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Gambita",
+      "postal_code": "683039",
+      "country_code": "CO",
+      "latitude": 5.946,
+      "longitude": -73.3443,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Lebrija",
+      "postal_code": "687579",
+      "country_code": "CO",
+      "latitude": 7.1132,
+      "longitude": -73.2178,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Oiba",
+      "postal_code": "683019",
+      "country_code": "CO",
+      "latitude": 6.2639,
+      "longitude": -73.2988,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Sabana De Torres",
+      "postal_code": "687008",
+      "country_code": "CO",
+      "latitude": 7.3915,
+      "longitude": -73.4957,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Vetas",
+      "postal_code": "680531",
+      "country_code": "CO",
+      "latitude": 7.3091,
+      "longitude": -72.8712,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Los Palmitos",
+      "postal_code": "701057",
+      "country_code": "CO",
+      "latitude": 9.379,
+      "longitude": -75.2677,
+      "admin_name1": "Sucre"
+    },
+    {
+      "place_name": "Cunday",
+      "postal_code": "734048",
+      "country_code": "CO",
+      "latitude": 4.06,
+      "longitude": -74.6921,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Falan",
+      "postal_code": "732001",
+      "country_code": "CO",
+      "latitude": 5.1156,
+      "longitude": -74.9489,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Icononzo",
+      "postal_code": "734028",
+      "country_code": "CO",
+      "latitude": 4.177,
+      "longitude": -74.5325,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Libano",
+      "postal_code": "731040",
+      "country_code": "CO",
+      "latitude": 4.9218,
+      "longitude": -75.0623,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Purificacion",
+      "postal_code": "734507",
+      "country_code": "CO",
+      "latitude": 3.8587,
+      "longitude": -74.9313,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Roncesvalles",
+      "postal_code": "735550",
+      "country_code": "CO",
+      "latitude": 4.0108,
+      "longitude": -75.6049,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Cali",
+      "postal_code": "760046",
+      "country_code": "CO",
+      "latitude": 3.4372,
+      "longitude": -76.5225,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Ansermanuevo",
+      "postal_code": "762018",
+      "country_code": "CO",
+      "latitude": 4.7972,
+      "longitude": -75.995,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Bugalagrande",
+      "postal_code": "763007",
+      "country_code": "CO",
+      "latitude": 4.2121,
+      "longitude": -76.1556,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Jamundi",
+      "postal_code": "764007",
+      "country_code": "CO",
+      "latitude": 3.2607,
+      "longitude": -76.535,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Obando",
+      "postal_code": "762507",
+      "country_code": "CO",
+      "latitude": 4.5758,
+      "longitude": -75.9739,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Riofrio",
+      "postal_code": "761038",
+      "country_code": "CO",
+      "latitude": 4.1571,
+      "longitude": -76.2885,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Versalles",
+      "postal_code": "761537",
+      "country_code": "CO",
+      "latitude": 4.5754,
+      "longitude": -76.1981,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Yumbo",
+      "postal_code": "760502",
+      "country_code": "CO",
+      "latitude": 3.5861,
+      "longitude": -76.5011,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Puerto Carreño",
+      "postal_code": "990001",
+      "country_code": "CO",
+      "latitude": 6.189,
+      "longitude": -67.4859,
+      "admin_name1": "Vichada"
+    },
+    {
+      "place_name": "Tamara",
+      "postal_code": "851057",
+      "country_code": "CO",
+      "latitude": 5.8297,
+      "longitude": -72.1633,
+      "admin_name1": "Casanare"
+    },
+    {
+      "place_name": "Cogua",
+      "postal_code": "250407",
+      "country_code": "CO",
+      "latitude": 5.0605,
+      "longitude": -73.9793,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Cota",
+      "postal_code": "250017",
+      "country_code": "CO",
+      "latitude": 4.8094,
+      "longitude": -74.098,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Cucunuba",
+      "postal_code": "250450",
+      "country_code": "CO",
+      "latitude": 5.2496,
+      "longitude": -73.7661,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Guaduas",
+      "postal_code": "253440",
+      "country_code": "CO",
+      "latitude": 5.0669,
+      "longitude": -74.595,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Paratebueno",
+      "postal_code": "251401",
+      "country_code": "CO",
+      "latitude": 4.3758,
+      "longitude": -73.2155,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Soacha",
+      "postal_code": "250057",
+      "country_code": "CO",
+      "latitude": 4.5794,
+      "longitude": -74.2168,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Susa",
+      "postal_code": "250637",
+      "country_code": "CO",
+      "latitude": 5.4519,
+      "longitude": -73.8144,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Tabio",
+      "postal_code": "250237",
+      "country_code": "CO",
+      "latitude": 4.9173,
+      "longitude": -74.0936,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Tocancipa",
+      "postal_code": "251010",
+      "country_code": "CO",
+      "latitude": 4.9653,
+      "longitude": -73.913,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Ubala",
+      "postal_code": "251260",
+      "country_code": "CO",
+      "latitude": 4.7592,
+      "longitude": -73.4082,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Tunjuelito",
+      "postal_code": "110611",
+      "country_code": "CO",
+      "latitude": 4.5865,
+      "longitude": -74.1414,
+      "admin_name1": "Bogota, D.C."
+    },
+    {
+      "place_name": "Bosa",
+      "postal_code": "110711",
+      "country_code": "CO",
+      "latitude": 4.6369,
+      "longitude": -74.1885,
+      "admin_name1": "Bogota, D.C."
+    },
+    {
+      "place_name": "Suba",
+      "postal_code": "111111",
+      "country_code": "CO",
+      "latitude": 4.7101,
+      "longitude": -74.0627,
+      "admin_name1": "Bogota, D.C."
+    },
+    {
+      "place_name": "Calamar",
+      "postal_code": "131547",
+      "country_code": "CO",
+      "latitude": 10.2226,
+      "longitude": -74.9969,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Tunja",
+      "postal_code": "150002",
+      "country_code": "CO",
+      "latitude": 5.5353,
+      "longitude": -73.3678,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Boavita",
+      "postal_code": "151067",
+      "country_code": "CO",
+      "latitude": 6.3303,
+      "longitude": -72.585,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Campohermoso",
+      "postal_code": "152640",
+      "country_code": "CO",
+      "latitude": 5.0313,
+      "longitude": -73.1033,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Garagoa",
+      "postal_code": "152860",
+      "country_code": "CO",
+      "latitude": 5.0824,
+      "longitude": -73.3633,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Quipama",
+      "postal_code": "155027",
+      "country_code": "CO",
+      "latitude": 5.5194,
+      "longitude": -74.1777,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Manizales",
+      "postal_code": "170006",
+      "country_code": "CO",
+      "latitude": 5.0689,
+      "longitude": -75.5174,
+      "admin_name1": "Caldas"
+    },
+    {
+      "place_name": "Santa Marta",
+      "postal_code": "470005",
+      "country_code": "CO",
+      "latitude": 11.2408,
+      "longitude": -74.199,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "Aracataca",
+      "postal_code": "472008",
+      "country_code": "CO",
+      "latitude": 10.5918,
+      "longitude": -74.1898,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "Chibolo",
+      "postal_code": "476067",
+      "country_code": "CO",
+      "latitude": 10.025,
+      "longitude": -74.6228,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "Cienaga",
+      "postal_code": "478008",
+      "country_code": "CO",
+      "latitude": 11.007,
+      "longitude": -74.2476,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "Pivijay",
+      "postal_code": "477050",
+      "country_code": "CO",
+      "latitude": 10.4617,
+      "longitude": -74.6162,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "Sitionuevo",
+      "postal_code": "477007",
+      "country_code": "CO",
+      "latitude": 10.8916,
+      "longitude": -74.6297,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "Tenerife",
+      "postal_code": "475050",
+      "country_code": "CO",
+      "latitude": 9.9009,
+      "longitude": -74.8599,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "Anza",
+      "postal_code": "056858",
+      "country_code": "CO",
+      "latitude": 6.3032,
+      "longitude": -75.8538,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Girardota",
+      "postal_code": "051030",
+      "country_code": "CO",
+      "latitude": 6.3771,
+      "longitude": -75.4478,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Liborina",
+      "postal_code": "051468",
+      "country_code": "CO",
+      "latitude": 6.6779,
+      "longitude": -75.8122,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Remedios",
+      "postal_code": "052827",
+      "country_code": "CO",
+      "latitude": 7.0308,
+      "longitude": -74.5333,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Valdivia",
+      "postal_code": "052017",
+      "country_code": "CO",
+      "latitude": 7.2889,
+      "longitude": -75.3978,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Yondo",
+      "postal_code": "053410",
+      "country_code": "CO",
+      "latitude": 6.2859,
+      "longitude": -74.6188,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Saravena",
+      "postal_code": "815018",
+      "country_code": "CO",
+      "latitude": 6.9632,
+      "longitude": -71.8823,
+      "admin_name1": "Arauca"
+    },
+    {
+      "place_name": "Cartagena Del Chaira",
+      "postal_code": "183018",
+      "country_code": "CO",
+      "latitude": 1.3349,
+      "longitude": -74.8429,
+      "admin_name1": "Caqueta"
+    },
+    {
+      "place_name": "La Montañita",
+      "postal_code": "181058",
+      "country_code": "CO",
+      "latitude": 1.4766,
+      "longitude": -75.4398,
+      "admin_name1": "Caqueta"
+    },
+    {
+      "place_name": "Bolivar",
+      "postal_code": "195008",
+      "country_code": "CO",
+      "latitude": 1.8399,
+      "longitude": -76.9689,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Florencia",
+      "postal_code": "195047",
+      "country_code": "CO",
+      "latitude": 1.6832,
+      "longitude": -77.0733,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Inza",
+      "postal_code": "192547",
+      "country_code": "CO",
+      "latitude": 2.5545,
+      "longitude": -76.0672,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Miranda",
+      "postal_code": "191529",
+      "country_code": "CO",
+      "latitude": 3.2499,
+      "longitude": -76.2281,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Silvia",
+      "postal_code": "192070",
+      "country_code": "CO",
+      "latitude": 2.6156,
+      "longitude": -76.3826,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Valledupar",
+      "postal_code": "200004",
+      "country_code": "CO",
+      "latitude": 10.4631,
+      "longitude": -73.2532,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "Agustin Codazzi",
+      "postal_code": "202057",
+      "country_code": "CO",
+      "latitude": 10.0367,
+      "longitude": -73.2356,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "Bajo Baudo",
+      "postal_code": "275038",
+      "country_code": "CO",
+      "latitude": 4.9533,
+      "longitude": -77.366,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "El Carmen De Atrato",
+      "postal_code": "271018",
+      "country_code": "CO",
+      "latitude": 5.8108,
+      "longitude": -76.192,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Jurado",
+      "postal_code": "276019",
+      "country_code": "CO",
+      "latitude": 7.1042,
+      "longitude": -77.762,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Medio Baudo",
+      "postal_code": "275010",
+      "country_code": "CO",
+      "latitude": 5.1107,
+      "longitude": -76.9962,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Medio San Juan",
+      "postal_code": "274030",
+      "country_code": "CO",
+      "latitude": 4.8113,
+      "longitude": -76.8044,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Cerete",
+      "postal_code": "230559",
+      "country_code": "CO",
+      "latitude": 8.8848,
+      "longitude": -75.7905,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "Sahagun",
+      "postal_code": "232549",
+      "country_code": "CO",
+      "latitude": 8.9462,
+      "longitude": -75.4427,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "San Antero",
+      "postal_code": "231527",
+      "country_code": "CO",
+      "latitude": 9.3741,
+      "longitude": -75.7589,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "El Retorno",
+      "postal_code": "951007",
+      "country_code": "CO",
+      "latitude": 2.3302,
+      "longitude": -72.6276,
+      "admin_name1": "Guaviare"
+    },
+    {
+      "place_name": "Baraya",
+      "postal_code": "411060",
+      "country_code": "CO",
+      "latitude": 3.1533,
+      "longitude": -75.0531,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Garzon",
+      "postal_code": "414029",
+      "country_code": "CO",
+      "latitude": 2.1959,
+      "longitude": -75.6278,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Isnos",
+      "postal_code": "418047",
+      "country_code": "CO",
+      "latitude": 1.9287,
+      "longitude": -76.211,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Pitalito",
+      "postal_code": "417037",
+      "country_code": "CO",
+      "latitude": 1.8537,
+      "longitude": -76.0507,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Tesalia",
+      "postal_code": "415008",
+      "country_code": "CO",
+      "latitude": 2.4859,
+      "longitude": -75.7292,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Riohacha",
+      "postal_code": "440001",
+      "country_code": "CO",
+      "latitude": 11.5444,
+      "longitude": -72.9072,
+      "admin_name1": "La Guajira"
+    },
+    {
+      "place_name": "Maicao",
+      "postal_code": "442009",
+      "country_code": "CO",
+      "latitude": 11.3832,
+      "longitude": -72.2432,
+      "admin_name1": "La Guajira"
+    },
+    {
+      "place_name": "Manaure",
+      "postal_code": "441008",
+      "country_code": "CO",
+      "latitude": 11.775,
+      "longitude": -72.4445,
+      "admin_name1": "La Guajira"
+    },
+    {
+      "place_name": "Castilla La Nueva",
+      "postal_code": "507047",
+      "country_code": "CO",
+      "latitude": 3.8272,
+      "longitude": -73.6883,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "Guamal",
+      "postal_code": "507058",
+      "country_code": "CO",
+      "latitude": 3.8804,
+      "longitude": -73.7657,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "San Juanito",
+      "postal_code": "501051",
+      "country_code": "CO",
+      "latitude": 4.461,
+      "longitude": -73.6805,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "Ipiales",
+      "postal_code": "524069",
+      "country_code": "CO",
+      "latitude": 0.8302,
+      "longitude": -77.6496,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Olaya Herrera",
+      "postal_code": "527568",
+      "country_code": "CO",
+      "latitude": 2.286,
+      "longitude": -78.2933,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Francisco Pizarro",
+      "postal_code": "528568",
+      "country_code": "CO",
+      "latitude": 2.0965,
+      "longitude": -78.5857,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Taminango",
+      "postal_code": "521567",
+      "country_code": "CO",
+      "latitude": 1.5749,
+      "longitude": -77.2867,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "El Tarra",
+      "postal_code": "548050",
+      "country_code": "CO",
+      "latitude": 8.5756,
+      "longitude": -73.0949,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Salazar",
+      "postal_code": "544578",
+      "country_code": "CO",
+      "latitude": 7.7736,
+      "longitude": -72.8679,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Salento",
+      "postal_code": "631020",
+      "country_code": "CO",
+      "latitude": 4.6375,
+      "longitude": -75.5703,
+      "admin_name1": "Quindio"
+    },
+    {
+      "place_name": "Santuario",
+      "postal_code": "663001",
+      "country_code": "CO",
+      "latitude": 5.0724,
+      "longitude": -75.9634,
+      "admin_name1": "Risaralda"
+    },
+    {
+      "place_name": "Barrancabermeja",
+      "postal_code": "687031",
+      "country_code": "CO",
+      "latitude": 7.0653,
+      "longitude": -73.8547,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Carcasi",
+      "postal_code": "681527",
+      "country_code": "CO",
+      "latitude": 6.6271,
+      "longitude": -72.6262,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Coromoro",
+      "postal_code": "682537",
+      "country_code": "CO",
+      "latitude": 6.2946,
+      "longitude": -73.0402,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Guavata",
+      "postal_code": "684501",
+      "country_code": "CO",
+      "latitude": 5.955,
+      "longitude": -73.7002,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "San Vicente De Chucuri",
+      "postal_code": "686537",
+      "country_code": "CO",
+      "latitude": 6.881,
+      "longitude": -73.4098,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Suaita",
+      "postal_code": "683047",
+      "country_code": "CO",
+      "latitude": 6.159,
+      "longitude": -73.4476,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Zapatoca",
+      "postal_code": "684068",
+      "country_code": "CO",
+      "latitude": 6.8153,
+      "longitude": -73.2677,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Coveñas",
+      "postal_code": "706050",
+      "country_code": "CO",
+      "latitude": 9.4041,
+      "longitude": -75.6963,
+      "admin_name1": "Sucre"
+    },
+    {
+      "place_name": "Ibague",
+      "postal_code": "730002",
+      "country_code": "CO",
+      "latitude": 4.4389,
+      "longitude": -75.2322,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Alvarado",
+      "postal_code": "730528",
+      "country_code": "CO",
+      "latitude": 4.5661,
+      "longitude": -74.9623,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Coello",
+      "postal_code": "733507",
+      "country_code": "CO",
+      "latitude": 4.2891,
+      "longitude": -74.8982,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Coyaima",
+      "postal_code": "735028",
+      "country_code": "CO",
+      "latitude": 3.7994,
+      "longitude": -75.1947,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Saldaña",
+      "postal_code": "733570",
+      "country_code": "CO",
+      "latitude": 3.9292,
+      "longitude": -75.0152,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Buenaventura",
+      "postal_code": "764501",
+      "country_code": "CO",
+      "latitude": 3.5833,
+      "longitude": -77.0,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Ginebra",
+      "postal_code": "763510",
+      "country_code": "CO",
+      "latitude": 3.7246,
+      "longitude": -76.2667,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Yavarate",
+      "postal_code": "971008",
+      "country_code": "CO",
+      "latitude": 0.615,
+      "longitude": -69.2081,
+      "admin_name1": "Vaupes"
+    },
+    {
+      "place_name": "Santa Rosalia",
+      "postal_code": "992050",
+      "country_code": "CO",
+      "latitude": 5.3493,
+      "longitude": -70.6773,
+      "admin_name1": "Vichada"
+    },
+    {
+      "place_name": "Yopal",
+      "postal_code": "850001",
+      "country_code": "CO",
+      "latitude": 5.3378,
+      "longitude": -72.3959,
+      "admin_name1": "Casanare"
+    },
+    {
+      "place_name": "Recetor",
+      "postal_code": "856050",
+      "country_code": "CO",
+      "latitude": 5.2318,
+      "longitude": -72.7604,
+      "admin_name1": "Casanare"
+    },
+    {
+      "place_name": "Tauramena",
+      "postal_code": "854037",
+      "country_code": "CO",
+      "latitude": 5.0183,
+      "longitude": -72.7492,
+      "admin_name1": "Casanare"
+    },
+    {
+      "place_name": "Anapoima",
+      "postal_code": "252648",
+      "country_code": "CO",
+      "latitude": 4.5203,
+      "longitude": -74.5394,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Cabrera",
+      "postal_code": "252040",
+      "country_code": "CO",
+      "latitude": 3.986,
+      "longitude": -74.4828,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Chipaque",
+      "postal_code": "251801",
+      "country_code": "CO",
+      "latitude": 4.4425,
+      "longitude": -74.0442,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Choachi",
+      "postal_code": "251628",
+      "country_code": "CO",
+      "latitude": 4.529,
+      "longitude": -73.9227,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Nimaima",
+      "postal_code": "253630",
+      "country_code": "CO",
+      "latitude": 5.1261,
+      "longitude": -74.3849,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Pandi",
+      "postal_code": "252017",
+      "country_code": "CO",
+      "latitude": 4.1911,
+      "longitude": -74.4875,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Sibate",
+      "postal_code": "250078",
+      "country_code": "CO",
+      "latitude": 4.4842,
+      "longitude": -74.245,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Barrios Unidos",
+      "postal_code": "111221",
+      "country_code": "CO",
+      "latitude": 4.6617,
+      "longitude": -74.078,
+      "admin_name1": "Bogota, D.C."
+    },
+    {
+      "place_name": "Rafael Uribe Uribe",
+      "postal_code": "111811",
+      "country_code": "CO",
+      "latitude": 4.5825,
+      "longitude": -74.1185,
+      "admin_name1": "Bogota, D.C."
+    },
+    {
+      "place_name": "Clemencia",
+      "postal_code": "130510",
+      "country_code": "CO",
+      "latitude": 10.5665,
+      "longitude": -75.325,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Cerinza",
+      "postal_code": "150627",
+      "country_code": "CO",
+      "latitude": 5.9557,
+      "longitude": -72.9478,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Cubara",
+      "postal_code": "151427",
+      "country_code": "CO",
+      "latitude": 6.9989,
+      "longitude": -72.1092,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Pauna",
+      "postal_code": "154807",
+      "country_code": "CO",
+      "latitude": 5.6586,
+      "longitude": -73.9825,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Saboya",
+      "postal_code": "154608",
+      "country_code": "CO",
+      "latitude": 5.6964,
+      "longitude": -73.7693,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Santa Rosa De Viterbo",
+      "postal_code": "150480",
+      "country_code": "CO",
+      "latitude": 5.874,
+      "longitude": -72.9822,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Sativasur",
+      "postal_code": "150801",
+      "country_code": "CO",
+      "latitude": 6.0896,
+      "longitude": -72.7243,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Soraca",
+      "postal_code": "153487",
+      "country_code": "CO",
+      "latitude": 5.5005,
+      "longitude": -73.333,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Toca",
+      "postal_code": "150267",
+      "country_code": "CO",
+      "latitude": 5.5639,
+      "longitude": -73.184,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Togüi",
+      "postal_code": "154401",
+      "country_code": "CO",
+      "latitude": 5.9204,
+      "longitude": -73.4885,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Ventaquemada",
+      "postal_code": "153648",
+      "country_code": "CO",
+      "latitude": 5.3675,
+      "longitude": -73.5207,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Viracacha",
+      "postal_code": "153450",
+      "country_code": "CO",
+      "latitude": 5.4364,
+      "longitude": -73.2961,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Villamaria",
+      "postal_code": "176001",
+      "country_code": "CO",
+      "latitude": 5.0449,
+      "longitude": -75.5146,
+      "admin_name1": "Caldas"
+    },
+    {
+      "place_name": "Zona Bananera",
+      "postal_code": "478028",
+      "country_code": "CO",
+      "latitude": 10.7964,
+      "longitude": -74.178,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "Puerto Arica",
+      "postal_code": "912019",
+      "country_code": "CO",
+      "latitude": -2.1485,
+      "longitude": -71.7548,
+      "admin_name1": "Amazonas"
+    },
+    {
+      "place_name": "Abriaqui",
+      "postal_code": "057467",
+      "country_code": "CO",
+      "latitude": 6.6315,
+      "longitude": -76.0644,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Andes",
+      "postal_code": "056068",
+      "country_code": "CO",
+      "latitude": 5.6561,
+      "longitude": -75.8788,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Don Matias",
+      "postal_code": "051850",
+      "country_code": "CO",
+      "latitude": 6.4857,
+      "longitude": -75.395,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "El Bagre",
+      "postal_code": "052437",
+      "country_code": "CO",
+      "latitude": 7.6035,
+      "longitude": -74.8095,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Frontino",
+      "postal_code": "057458",
+      "country_code": "CO",
+      "latitude": 6.7713,
+      "longitude": -76.1332,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Nariño",
+      "postal_code": "054840",
+      "country_code": "CO",
+      "latitude": 5.6089,
+      "longitude": -75.1766,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Nechi",
+      "postal_code": "052427",
+      "country_code": "CO",
+      "latitude": 8.0942,
+      "longitude": -74.7757,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Turbo",
+      "postal_code": "057860",
+      "country_code": "CO",
+      "latitude": 8.0926,
+      "longitude": -76.7282,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Yarumal",
+      "postal_code": "052038",
+      "country_code": "CO",
+      "latitude": 7.0303,
+      "longitude": -75.5906,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Arauquita",
+      "postal_code": "816010",
+      "country_code": "CO",
+      "latitude": 7.0292,
+      "longitude": -71.4281,
+      "admin_name1": "Arauca"
+    },
+    {
+      "place_name": "Puerto Rondon",
+      "postal_code": "813010",
+      "country_code": "CO",
+      "latitude": 6.2805,
+      "longitude": -71.1,
+      "admin_name1": "Arauca"
+    },
+    {
+      "place_name": "Tame",
+      "postal_code": "814017",
+      "country_code": "CO",
+      "latitude": 6.4606,
+      "longitude": -71.7362,
+      "admin_name1": "Arauca"
+    },
+    {
+      "place_name": "Piojo",
+      "postal_code": "081067",
+      "country_code": "CO",
+      "latitude": 10.7485,
+      "longitude": -75.1078,
+      "admin_name1": "Atlantico"
+    },
+    {
+      "place_name": "Usiacuri",
+      "postal_code": "082060",
+      "country_code": "CO",
+      "latitude": 10.75,
+      "longitude": -74.9833,
+      "admin_name1": "Atlantico"
+    },
+    {
+      "place_name": "San Vicente Del Caguan",
+      "postal_code": "182019",
+      "country_code": "CO",
+      "latitude": 2.1217,
+      "longitude": -74.7661,
+      "admin_name1": "Caqueta"
+    },
+    {
+      "place_name": "Jambalo",
+      "postal_code": "192029",
+      "country_code": "CO",
+      "latitude": 2.7798,
+      "longitude": -76.3282,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Sucre",
+      "postal_code": "194067",
+      "country_code": "CO",
+      "latitude": 2.038,
+      "longitude": -76.9245,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Timbio",
+      "postal_code": "193520",
+      "country_code": "CO",
+      "latitude": 2.3502,
+      "longitude": -76.6834,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Chimichagua",
+      "postal_code": "201050",
+      "country_code": "CO",
+      "latitude": 9.2578,
+      "longitude": -73.8123,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "Tamalameque",
+      "postal_code": "204020",
+      "country_code": "CO",
+      "latitude": 8.8522,
+      "longitude": -73.8123,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "El Litoral Del San Juan",
+      "postal_code": "275058",
+      "country_code": "CO",
+      "latitude": 4.251,
+      "longitude": -76.9682,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Monteria",
+      "postal_code": "230007",
+      "country_code": "CO",
+      "latitude": 8.748,
+      "longitude": -75.8814,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "Planeta Rica",
+      "postal_code": "233047",
+      "country_code": "CO",
+      "latitude": 8.4115,
+      "longitude": -75.5851,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "Aipe",
+      "postal_code": "411007",
+      "country_code": "CO",
+      "latitude": 3.2222,
+      "longitude": -75.2367,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Teruel",
+      "postal_code": "412047",
+      "country_code": "CO",
+      "latitude": 2.7419,
+      "longitude": -75.5674,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Timana",
+      "postal_code": "417017",
+      "country_code": "CO",
+      "latitude": 1.9714,
+      "longitude": -75.9312,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Hatonuevo",
+      "postal_code": "443020",
+      "country_code": "CO",
+      "latitude": 11.0694,
+      "longitude": -72.7669,
+      "admin_name1": "La Guajira"
+    },
+    {
+      "place_name": "Acacias",
+      "postal_code": "507017",
+      "country_code": "CO",
+      "latitude": 3.7116,
+      "longitude": -73.2434,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "Barbacoas",
+      "postal_code": "528067",
+      "country_code": "CO",
+      "latitude": 1.6715,
+      "longitude": -78.1398,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Buesaco",
+      "postal_code": "520518",
+      "country_code": "CO",
+      "latitude": 1.3902,
+      "longitude": -77.1598,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Cachira",
+      "postal_code": "546038",
+      "country_code": "CO",
+      "latitude": 7.741,
+      "longitude": -73.0483,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Chitaga",
+      "postal_code": "544037",
+      "country_code": "CO",
+      "latitude": 7.1378,
+      "longitude": -72.6646,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "El Zulia",
+      "postal_code": "545510",
+      "country_code": "CO",
+      "latitude": 7.9325,
+      "longitude": -72.6013,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Mutiscua",
+      "postal_code": "544077",
+      "country_code": "CO",
+      "latitude": 7.3006,
+      "longitude": -72.7467,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Teorama",
+      "postal_code": "547038",
+      "country_code": "CO",
+      "latitude": 8.7637,
+      "longitude": -73.1569,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Tibu",
+      "postal_code": "548010",
+      "country_code": "CO",
+      "latitude": 8.639,
+      "longitude": -72.7358,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Pijao",
+      "postal_code": "632060",
+      "country_code": "CO",
+      "latitude": 4.3342,
+      "longitude": -75.7035,
+      "admin_name1": "Quindio"
+    },
+    {
+      "place_name": "Belen De Umbria",
+      "postal_code": "664047",
+      "country_code": "CO",
+      "latitude": 5.2009,
+      "longitude": -75.8687,
+      "admin_name1": "Risaralda"
+    },
+    {
+      "place_name": "Guatica",
+      "postal_code": "664010",
+      "country_code": "CO",
+      "latitude": 5.3157,
+      "longitude": -75.7983,
+      "admin_name1": "Risaralda"
+    },
+    {
+      "place_name": "Mistrato",
+      "postal_code": "664020",
+      "country_code": "CO",
+      "latitude": 5.2962,
+      "longitude": -75.8839,
+      "admin_name1": "Risaralda"
+    },
+    {
+      "place_name": "Pueblo Rico",
+      "postal_code": "663018",
+      "country_code": "CO",
+      "latitude": 5.2383,
+      "longitude": -76.0364,
+      "admin_name1": "Risaralda"
+    },
+    {
+      "place_name": "Capitanejo",
+      "postal_code": "681541",
+      "country_code": "CO",
+      "latitude": 6.5288,
+      "longitude": -72.6959,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "El Guacamayo",
+      "postal_code": "683067",
+      "country_code": "CO",
+      "latitude": 6.2452,
+      "longitude": -73.4966,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Encino",
+      "postal_code": "682548",
+      "country_code": "CO",
+      "latitude": 6.1373,
+      "longitude": -73.0985,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Guaca",
+      "postal_code": "681048",
+      "country_code": "CO",
+      "latitude": 6.8762,
+      "longitude": -72.8559,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Macaravita",
+      "postal_code": "681537",
+      "country_code": "CO",
+      "latitude": 6.5057,
+      "longitude": -72.593,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Onzaga",
+      "postal_code": "682529",
+      "country_code": "CO",
+      "latitude": 6.3443,
+      "longitude": -72.8173,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Puerto Wilches",
+      "postal_code": "687069",
+      "country_code": "CO",
+      "latitude": 7.3483,
+      "longitude": -73.896,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "San Joaquin",
+      "postal_code": "682511",
+      "country_code": "CO",
+      "latitude": 6.43,
+      "longitude": -72.8677,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Santa Helena Del Opon",
+      "postal_code": "685501",
+      "country_code": "CO",
+      "latitude": 6.34,
+      "longitude": -73.617,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Tona",
+      "postal_code": "680541",
+      "country_code": "CO",
+      "latitude": 7.2022,
+      "longitude": -72.965,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "San Benito Abad",
+      "postal_code": "703018",
+      "country_code": "CO",
+      "latitude": 8.929,
+      "longitude": -75.0271,
+      "admin_name1": "Sucre"
+    },
+    {
+      "place_name": "Rioblanco",
+      "postal_code": "735589",
+      "country_code": "CO",
+      "latitude": 3.5308,
+      "longitude": -75.6806,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Guadalajara De Buga",
+      "postal_code": "763047",
+      "country_code": "CO",
+      "latitude": 3.9009,
+      "longitude": -76.2978,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Cumaribo",
+      "postal_code": "991017",
+      "country_code": "CO",
+      "latitude": 4.4455,
+      "longitude": -69.799,
+      "admin_name1": "Vichada"
+    },
+    {
+      "place_name": "Aguazul",
+      "postal_code": "856010",
+      "country_code": "CO",
+      "latitude": 5.1728,
+      "longitude": -72.5471,
+      "admin_name1": "Casanare"
+    },
+    {
+      "place_name": "Orocue",
+      "postal_code": "853057",
+      "country_code": "CO",
+      "latitude": 4.7912,
+      "longitude": -71.3354,
+      "admin_name1": "Casanare"
+    },
+    {
+      "place_name": "Pore",
+      "postal_code": "852058",
+      "country_code": "CO",
+      "latitude": 5.7299,
+      "longitude": -72.0016,
+      "admin_name1": "Casanare"
+    },
+    {
+      "place_name": "Fusagasuga",
+      "postal_code": "252218",
+      "country_code": "CO",
+      "latitude": 4.3365,
+      "longitude": -74.3638,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Guataqui",
+      "postal_code": "252820",
+      "country_code": "CO",
+      "latitude": 4.5157,
+      "longitude": -74.7894,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Guatavita",
+      "postal_code": "251060",
+      "country_code": "CO",
+      "latitude": 4.9366,
+      "longitude": -73.8331,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Sasaima",
+      "postal_code": "253408",
+      "country_code": "CO",
+      "latitude": 4.9671,
+      "longitude": -74.4351,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Viani",
+      "postal_code": "253230",
+      "country_code": "CO",
+      "latitude": 4.8738,
+      "longitude": -74.5624,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Zipaquira",
+      "postal_code": "250257",
+      "country_code": "CO",
+      "latitude": 5.0221,
+      "longitude": -74.0048,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Usaquen",
+      "postal_code": "110151",
+      "country_code": "CO",
+      "latitude": 4.8044,
+      "longitude": -74.0222,
+      "admin_name1": "Bogota, D.C."
+    },
+    {
+      "place_name": "Barranco De Loba",
+      "postal_code": "133518",
+      "country_code": "CO",
+      "latitude": 8.946,
+      "longitude": -74.1065,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Magangue",
+      "postal_code": "132511",
+      "country_code": "CO",
+      "latitude": 9.242,
+      "longitude": -74.7547,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "La Uvita",
+      "postal_code": "150860",
+      "country_code": "CO",
+      "latitude": 6.3206,
+      "longitude": -72.5628,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Muzo",
+      "postal_code": "154887",
+      "country_code": "CO",
+      "latitude": 5.5353,
+      "longitude": -74.1078,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Soata",
+      "postal_code": "151007",
+      "country_code": "CO",
+      "latitude": 6.3337,
+      "longitude": -72.6828,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Umbita",
+      "postal_code": "153247",
+      "country_code": "CO",
+      "latitude": 5.2184,
+      "longitude": -73.3931,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Aguadas",
+      "postal_code": "172029",
+      "country_code": "CO",
+      "latitude": 5.6116,
+      "longitude": -75.4562,
+      "admin_name1": "Caldas"
+    },
+    {
+      "place_name": "Marquetalia",
+      "postal_code": "173047",
+      "country_code": "CO",
+      "latitude": 5.2966,
+      "longitude": -75.055,
+      "admin_name1": "Caldas"
+    },
+    {
+      "place_name": "San Sebastian De Buenavista",
+      "postal_code": "473001",
+      "country_code": "CO",
+      "latitude": 9.2378,
+      "longitude": -74.3517,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "La Pedrera",
+      "postal_code": "917017",
+      "country_code": "CO",
+      "latitude": -1.3239,
+      "longitude": -69.5744,
+      "admin_name1": "Amazonas"
+    },
+    {
+      "place_name": "Puerto Santander",
+      "postal_code": "915017",
+      "country_code": "CO",
+      "latitude": -0.6217,
+      "longitude": -72.384,
+      "admin_name1": "Amazonas"
+    },
+    {
+      "place_name": "Anori",
+      "postal_code": "052850",
+      "country_code": "CO",
+      "latitude": 7.1833,
+      "longitude": -75.0667,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Dabeiba",
+      "postal_code": "057430",
+      "country_code": "CO",
+      "latitude": 7.0002,
+      "longitude": -76.2691,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Entrerrios",
+      "postal_code": "051430",
+      "country_code": "CO",
+      "latitude": 6.5654,
+      "longitude": -75.5169,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "San Pedro De Uraba",
+      "postal_code": "057830",
+      "country_code": "CO",
+      "latitude": 8.2751,
+      "longitude": -76.3764,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Uramita",
+      "postal_code": "057440",
+      "country_code": "CO",
+      "latitude": 6.8994,
+      "longitude": -76.1742,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Juan De Acosta",
+      "postal_code": "081040",
+      "country_code": "CO",
+      "latitude": 10.8281,
+      "longitude": -75.0334,
+      "admin_name1": "Atlantico"
+    },
+    {
+      "place_name": "Ponedera",
+      "postal_code": "084008",
+      "country_code": "CO",
+      "latitude": 10.641,
+      "longitude": -74.7503,
+      "admin_name1": "Atlantico"
+    },
+    {
+      "place_name": "Solita",
+      "postal_code": "185077",
+      "country_code": "CO",
+      "latitude": 0.874,
+      "longitude": -75.6188,
+      "admin_name1": "Caqueta"
+    },
+    {
+      "place_name": "Almaguer",
+      "postal_code": "194080",
+      "country_code": "CO",
+      "latitude": 1.917,
+      "longitude": -76.8523,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Santander De Quilichao",
+      "postal_code": "191047",
+      "country_code": "CO",
+      "latitude": 3.0095,
+      "longitude": -76.4849,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Quibdo",
+      "postal_code": "270009",
+      "country_code": "CO",
+      "latitude": 5.6919,
+      "longitude": -76.6583,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Alto Baudo",
+      "postal_code": "276077",
+      "country_code": "CO",
+      "latitude": 5.516,
+      "longitude": -76.9745,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Bojaya",
+      "postal_code": "277050",
+      "country_code": "CO",
+      "latitude": 6.5213,
+      "longitude": -76.9723,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Istmina",
+      "postal_code": "274019",
+      "country_code": "CO",
+      "latitude": 5.1605,
+      "longitude": -76.684,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Lloro",
+      "postal_code": "271037",
+      "country_code": "CO",
+      "latitude": 5.496,
+      "longitude": -76.5494,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Lorica",
+      "postal_code": "231048",
+      "country_code": "CO",
+      "latitude": 9.2365,
+      "longitude": -75.8135,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "Momil",
+      "postal_code": "232001",
+      "country_code": "CO",
+      "latitude": 9.2377,
+      "longitude": -75.6749,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "San Andres Sotavento",
+      "postal_code": "232039",
+      "country_code": "CO",
+      "latitude": 9.1218,
+      "longitude": -75.5163,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "San Jose De Ure",
+      "postal_code": "234010",
+      "country_code": "CO",
+      "latitude": 7.7533,
+      "longitude": -75.5659,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "Mapiripana",
+      "postal_code": "944059",
+      "country_code": "CO",
+      "latitude": 2.8101,
+      "longitude": -70.2856,
+      "admin_name1": "Guainia"
+    },
+    {
+      "place_name": "Pana Pana",
+      "postal_code": "943018",
+      "country_code": "CO",
+      "latitude": 1.8442,
+      "longitude": -69.0064,
+      "admin_name1": "Guainia"
+    },
+    {
+      "place_name": "Paicol",
+      "postal_code": "415047",
+      "country_code": "CO",
+      "latitude": 2.4496,
+      "longitude": -75.775,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Tello",
+      "postal_code": "411047",
+      "country_code": "CO",
+      "latitude": 3.0669,
+      "longitude": -75.1378,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Yaguara",
+      "postal_code": "412087",
+      "country_code": "CO",
+      "latitude": 2.6635,
+      "longitude": -75.5175,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Barranca De Upia",
+      "postal_code": "501007",
+      "country_code": "CO",
+      "latitude": 4.5696,
+      "longitude": -72.9668,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "Mapiripan",
+      "postal_code": "503027",
+      "country_code": "CO",
+      "latitude": 2.8118,
+      "longitude": -73.0279,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "Puerto Concordia",
+      "postal_code": "503041",
+      "country_code": "CO",
+      "latitude": 2.6221,
+      "longitude": -72.7572,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "San Jose De Alban",
+      "postal_code": "520557",
+      "country_code": "CO",
+      "latitude": 1.4769,
+      "longitude": -77.0829,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Arboleda - Berruecos",
+      "postal_code": "520570",
+      "country_code": "CO",
+      "latitude": 1.4977,
+      "longitude": -77.1359,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Imues",
+      "postal_code": "523020",
+      "country_code": "CO",
+      "latitude": 1.0529,
+      "longitude": -77.5017,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Circasia",
+      "postal_code": "631001",
+      "country_code": "CO",
+      "latitude": 4.6189,
+      "longitude": -75.6358,
+      "admin_name1": "Quindio"
+    },
+    {
+      "place_name": "Dosquebradas",
+      "postal_code": "661007",
+      "country_code": "CO",
+      "latitude": 4.8417,
+      "longitude": -75.6701,
+      "admin_name1": "Risaralda"
+    },
+    {
+      "place_name": "Enciso",
+      "postal_code": "681567",
+      "country_code": "CO",
+      "latitude": 6.6681,
+      "longitude": -72.6999,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Giron",
+      "postal_code": "687542",
+      "country_code": "CO",
+      "latitude": 7.0682,
+      "longitude": -73.1698,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Guapota",
+      "postal_code": "683017",
+      "country_code": "CO",
+      "latitude": 6.308,
+      "longitude": -73.3202,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Ocamonte",
+      "postal_code": "682568",
+      "country_code": "CO",
+      "latitude": 6.34,
+      "longitude": -73.1221,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Palmas Del Socorro",
+      "postal_code": "683541",
+      "country_code": "CO",
+      "latitude": 6.4076,
+      "longitude": -73.2882,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Piedecuesta",
+      "postal_code": "681018",
+      "country_code": "CO",
+      "latitude": 6.9879,
+      "longitude": -73.0495,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Simacota",
+      "postal_code": "683568",
+      "country_code": "CO",
+      "latitude": 6.4429,
+      "longitude": -73.3369,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Valle De San Jose",
+      "postal_code": "682571",
+      "country_code": "CO",
+      "latitude": 6.4475,
+      "longitude": -73.1436,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Sampues",
+      "postal_code": "705077",
+      "country_code": "CO",
+      "latitude": 9.1836,
+      "longitude": -75.3817,
+      "admin_name1": "Sucre"
+    },
+    {
+      "place_name": "San Juan De Betulia",
+      "postal_code": "705018",
+      "country_code": "CO",
+      "latitude": 9.2735,
+      "longitude": -75.241,
+      "admin_name1": "Sucre"
+    },
+    {
+      "place_name": "San Luis De Since",
+      "postal_code": "702070",
+      "country_code": "CO",
+      "latitude": 9.3068,
+      "longitude": -75.0339,
+      "admin_name1": "Sucre"
+    },
+    {
+      "place_name": "Ortega",
+      "postal_code": "735517",
+      "country_code": "CO",
+      "latitude": 3.9361,
+      "longitude": -75.2217,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Planadas",
+      "postal_code": "735077",
+      "country_code": "CO",
+      "latitude": 3.197,
+      "longitude": -75.6451,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Vijes",
+      "postal_code": "760550",
+      "country_code": "CO",
+      "latitude": 3.6993,
+      "longitude": -76.4423,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Zarzal",
+      "postal_code": "762528",
+      "country_code": "CO",
+      "latitude": 4.3946,
+      "longitude": -76.0715,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "San Luis De Palenque",
+      "postal_code": "853038",
+      "country_code": "CO",
+      "latitude": 5.4214,
+      "longitude": -71.7317,
+      "admin_name1": "Casanare"
+    },
+    {
+      "place_name": "Carmen De Carupa",
+      "postal_code": "250420",
+      "country_code": "CO",
+      "latitude": 5.3486,
+      "longitude": -73.9017,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Guayabetal",
+      "postal_code": "251850",
+      "country_code": "CO",
+      "latitude": 4.2147,
+      "longitude": -73.8172,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Pasca",
+      "postal_code": "252207",
+      "country_code": "CO",
+      "latitude": 4.3072,
+      "longitude": -74.3006,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Tenjo",
+      "postal_code": "250201",
+      "country_code": "CO",
+      "latitude": 4.8727,
+      "longitude": -74.1444,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Chapinero",
+      "postal_code": "110211",
+      "country_code": "CO",
+      "latitude": 4.6687,
+      "longitude": -74.0263,
+      "admin_name1": "Bogota, D.C."
+    },
+    {
+      "place_name": "Kennedy",
+      "postal_code": "110881",
+      "country_code": "CO",
+      "latitude": 4.6388,
+      "longitude": -74.1757,
+      "admin_name1": "Bogota, D.C."
+    },
+    {
+      "place_name": "Fontibon",
+      "postal_code": "110931",
+      "country_code": "CO",
+      "latitude": 4.657,
+      "longitude": -74.12,
+      "admin_name1": "Bogota, D.C."
+    },
+    {
+      "place_name": "San Juan Nepomuceno",
+      "postal_code": "132010",
+      "country_code": "CO",
+      "latitude": 9.9516,
+      "longitude": -75.082,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "San Martin De Loba",
+      "postal_code": "133530",
+      "country_code": "CO",
+      "latitude": 8.8191,
+      "longitude": -74.0575,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Simiti",
+      "postal_code": "135020",
+      "country_code": "CO",
+      "latitude": 7.9579,
+      "longitude": -73.9436,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Villanueva",
+      "postal_code": "130530",
+      "country_code": "CO",
+      "latitude": 10.4436,
+      "longitude": -75.2731,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Berbeo",
+      "postal_code": "152610",
+      "country_code": "CO",
+      "latitude": 5.2268,
+      "longitude": -73.1261,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Chivor",
+      "postal_code": "153007",
+      "country_code": "CO",
+      "latitude": 4.8856,
+      "longitude": -73.3689,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Iza",
+      "postal_code": "152247",
+      "country_code": "CO",
+      "latitude": 5.612,
+      "longitude": -72.9793,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Labranzagrande",
+      "postal_code": "151840",
+      "country_code": "CO",
+      "latitude": 5.5622,
+      "longitude": -72.575,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Otanche",
+      "postal_code": "155068",
+      "country_code": "CO",
+      "latitude": 5.6567,
+      "longitude": -74.1825,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Pesca",
+      "postal_code": "152467",
+      "country_code": "CO",
+      "latitude": 5.55,
+      "longitude": -73.05,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Raquira",
+      "postal_code": "153808",
+      "country_code": "CO",
+      "latitude": 5.5379,
+      "longitude": -73.632,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "San Jose De Pare",
+      "postal_code": "154460",
+      "country_code": "CO",
+      "latitude": 6.0175,
+      "longitude": -73.547,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Tunungua",
+      "postal_code": "154680",
+      "country_code": "CO",
+      "latitude": 5.7297,
+      "longitude": -73.9414,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "La Dorada",
+      "postal_code": "175031",
+      "country_code": "CO",
+      "latitude": 5.4478,
+      "longitude": -74.6631,
+      "admin_name1": "Caldas"
+    },
+    {
+      "place_name": "Pensilvania",
+      "postal_code": "173067",
+      "country_code": "CO",
+      "latitude": 5.3835,
+      "longitude": -75.1612,
+      "admin_name1": "Caldas"
+    },
+    {
+      "place_name": "Supia",
+      "postal_code": "178027",
+      "country_code": "CO",
+      "latitude": 5.453,
+      "longitude": -75.6507,
+      "admin_name1": "Caldas"
+    },
+    {
+      "place_name": "Nueva Granada",
+      "postal_code": "475020",
+      "country_code": "CO",
+      "latitude": 9.8017,
+      "longitude": -74.393,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "Santafe De Antioquia",
+      "postal_code": "057057",
+      "country_code": "CO",
+      "latitude": 6.5332,
+      "longitude": -75.9028,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Chigorodo",
+      "postal_code": "057410",
+      "country_code": "CO",
+      "latitude": 7.6664,
+      "longitude": -76.6811,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Hispania",
+      "postal_code": "056457",
+      "country_code": "CO",
+      "latitude": 5.7993,
+      "longitude": -75.9072,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Ituango",
+      "postal_code": "052078",
+      "country_code": "CO",
+      "latitude": 7.1712,
+      "longitude": -75.764,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Puerto Triunfo",
+      "postal_code": "053447",
+      "country_code": "CO",
+      "latitude": 5.8726,
+      "longitude": -74.6403,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "San Juan De Uraba",
+      "postal_code": "057817",
+      "country_code": "CO",
+      "latitude": 8.7592,
+      "longitude": -76.5297,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Vegachi",
+      "postal_code": "052830",
+      "country_code": "CO",
+      "latitude": 6.8361,
+      "longitude": -74.7532,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Vigia Del Fuerte",
+      "postal_code": "056827",
+      "country_code": "CO",
+      "latitude": 6.5789,
+      "longitude": -76.8863,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Tubara",
+      "postal_code": "081028",
+      "country_code": "CO",
+      "latitude": 10.8756,
+      "longitude": -74.9787,
+      "admin_name1": "Atlantico"
+    },
+    {
+      "place_name": "San Jose Del Fragua",
+      "postal_code": "186070",
+      "country_code": "CO",
+      "latitude": 1.332,
+      "longitude": -75.973,
+      "admin_name1": "Caqueta"
+    },
+    {
+      "place_name": "Solano",
+      "postal_code": "184010",
+      "country_code": "CO",
+      "latitude": 0.6994,
+      "longitude": -75.2535,
+      "admin_name1": "Caqueta"
+    },
+    {
+      "place_name": "Totoro",
+      "postal_code": "192577",
+      "country_code": "CO",
+      "latitude": 2.5159,
+      "longitude": -76.4044,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Becerril",
+      "postal_code": "203001",
+      "country_code": "CO",
+      "latitude": 9.7041,
+      "longitude": -73.2793,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "Sipi",
+      "postal_code": "274057",
+      "country_code": "CO",
+      "latitude": 4.6581,
+      "longitude": -76.4767,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Moñitos",
+      "postal_code": "231008",
+      "country_code": "CO",
+      "latitude": 9.2455,
+      "longitude": -76.1302,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "Hobo",
+      "postal_code": "413060",
+      "country_code": "CO",
+      "latitude": 2.5833,
+      "longitude": -75.45,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "La Argentina",
+      "postal_code": "415088",
+      "country_code": "CO",
+      "latitude": 2.1976,
+      "longitude": -75.9799,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Oporapa",
+      "postal_code": "418008",
+      "country_code": "CO",
+      "latitude": 2.0501,
+      "longitude": -75.9767,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Fonseca",
+      "postal_code": "444017",
+      "country_code": "CO",
+      "latitude": 10.8861,
+      "longitude": -72.8487,
+      "admin_name1": "La Guajira"
+    },
+    {
+      "place_name": "La Jagua Del Pilar",
+      "postal_code": "445040",
+      "country_code": "CO",
+      "latitude": 10.5167,
+      "longitude": -73.0833,
+      "admin_name1": "La Guajira"
+    },
+    {
+      "place_name": "Uribe",
+      "postal_code": "505041",
+      "country_code": "CO",
+      "latitude": 3.0264,
+      "longitude": -74.4361,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "Puerto Gaitan",
+      "postal_code": "502041",
+      "country_code": "CO",
+      "latitude": 4.3133,
+      "longitude": -72.0816,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "Gualmatan",
+      "postal_code": "524501",
+      "country_code": "CO",
+      "latitude": 0.9189,
+      "longitude": -77.5665,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Roberto Payan",
+      "postal_code": "528047",
+      "country_code": "CO",
+      "latitude": 1.6966,
+      "longitude": -78.2448,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Tangua",
+      "postal_code": "523501",
+      "country_code": "CO",
+      "latitude": 1.0947,
+      "longitude": -77.3948,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Cucutilla",
+      "postal_code": "544529",
+      "country_code": "CO",
+      "latitude": 7.5394,
+      "longitude": -72.7724,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Sardinata",
+      "postal_code": "545537",
+      "country_code": "CO",
+      "latitude": 8.0829,
+      "longitude": -72.8007,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Villa Caro",
+      "postal_code": "546010",
+      "country_code": "CO",
+      "latitude": 7.9143,
+      "longitude": -72.9714,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "El Playon",
+      "postal_code": "687508",
+      "country_code": "CO",
+      "latitude": 7.4713,
+      "longitude": -73.2031,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Pinchote",
+      "postal_code": "683518",
+      "country_code": "CO",
+      "latitude": 6.5323,
+      "longitude": -73.1731,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Puerto Parra",
+      "postal_code": "686007",
+      "country_code": "CO",
+      "latitude": 6.6515,
+      "longitude": -74.0573,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Sincelejo",
+      "postal_code": "700009",
+      "country_code": "CO",
+      "latitude": 9.3047,
+      "longitude": -75.3978,
+      "admin_name1": "Sucre"
+    },
+    {
+      "place_name": "Alpujarra",
+      "postal_code": "734567",
+      "country_code": "CO",
+      "latitude": 3.3918,
+      "longitude": -74.9334,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Lerida",
+      "postal_code": "731020",
+      "country_code": "CO",
+      "latitude": 4.8624,
+      "longitude": -74.9098,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Melgar",
+      "postal_code": "734007",
+      "country_code": "CO",
+      "latitude": 4.2047,
+      "longitude": -74.6407,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Villarrica",
+      "postal_code": "734060",
+      "country_code": "CO",
+      "latitude": 3.935,
+      "longitude": -74.6004,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Caicedonia",
+      "postal_code": "762547",
+      "country_code": "CO",
+      "latitude": 4.3324,
+      "longitude": -75.8267,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Calima",
+      "postal_code": "760538",
+      "country_code": "CO",
+      "latitude": 3.9509,
+      "longitude": -76.6288,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Guacari",
+      "postal_code": "763507",
+      "country_code": "CO",
+      "latitude": 3.7638,
+      "longitude": -76.3329,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Yotoco",
+      "postal_code": "761047",
+      "country_code": "CO",
+      "latitude": 3.8605,
+      "longitude": -76.3836,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Mani",
+      "postal_code": "854017",
+      "country_code": "CO",
+      "latitude": 4.8172,
+      "longitude": -72.2886,
+      "admin_name1": "Casanare"
+    },
+    {
+      "place_name": "Funza",
+      "postal_code": "250020",
+      "country_code": "CO",
+      "latitude": 4.7164,
+      "longitude": -74.212,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Lenguazaque",
+      "postal_code": "250601",
+      "country_code": "CO",
+      "latitude": 5.3071,
+      "longitude": -73.7115,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Apulo",
+      "postal_code": "252657",
+      "country_code": "CO",
+      "latitude": 4.5195,
+      "longitude": -74.5929,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Turbaco",
+      "postal_code": "131008",
+      "country_code": "CO",
+      "latitude": 10.3294,
+      "longitude": -75.4114,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Chivata",
+      "postal_code": "150247",
+      "country_code": "CO",
+      "latitude": 5.5582,
+      "longitude": -73.282,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Maripi",
+      "postal_code": "154827",
+      "country_code": "CO",
+      "latitude": 5.5519,
+      "longitude": -74.0086,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Moniquira",
+      "postal_code": "154269",
+      "country_code": "CO",
+      "latitude": 5.8764,
+      "longitude": -73.5728,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Paipa",
+      "postal_code": "150447",
+      "country_code": "CO",
+      "latitude": 5.7801,
+      "longitude": -73.1171,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Pajarito",
+      "postal_code": "152407",
+      "country_code": "CO",
+      "latitude": 5.3842,
+      "longitude": -72.697,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Sativanorte",
+      "postal_code": "150827",
+      "country_code": "CO",
+      "latitude": 6.1316,
+      "longitude": -72.7089,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Socota",
+      "postal_code": "151620",
+      "country_code": "CO",
+      "latitude": 6.0403,
+      "longitude": -72.6351,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Sogamoso",
+      "postal_code": "152211",
+      "country_code": "CO",
+      "latitude": 5.7143,
+      "longitude": -72.9339,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Turmeque",
+      "postal_code": "153630",
+      "country_code": "CO",
+      "latitude": 5.3236,
+      "longitude": -73.4907,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Tutaza",
+      "postal_code": "150660",
+      "country_code": "CO",
+      "latitude": 6.0323,
+      "longitude": -72.8564,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Neira",
+      "postal_code": "171008",
+      "country_code": "CO",
+      "latitude": 5.1665,
+      "longitude": -75.52,
+      "admin_name1": "Caldas"
+    },
+    {
+      "place_name": "Salamina",
+      "postal_code": "172008",
+      "country_code": "CO",
+      "latitude": 5.4073,
+      "longitude": -75.4875,
+      "admin_name1": "Caldas"
+    },
+    {
+      "place_name": "Ariguani",
+      "postal_code": "475019",
+      "country_code": "CO",
+      "latitude": 9.8497,
+      "longitude": -74.2363,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "San Zenon",
+      "postal_code": "474068",
+      "country_code": "CO",
+      "latitude": 9.3315,
+      "longitude": -74.3471,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "Caicedo",
+      "postal_code": "056847",
+      "country_code": "CO",
+      "latitude": 6.4051,
+      "longitude": -75.9825,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Caracoli",
+      "postal_code": "053457",
+      "country_code": "CO",
+      "latitude": 6.4119,
+      "longitude": -74.7606,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Murindo",
+      "postal_code": "056818",
+      "country_code": "CO",
+      "latitude": 6.9848,
+      "longitude": -76.7544,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Puerto Berrio",
+      "postal_code": "053420",
+      "country_code": "CO",
+      "latitude": 6.4916,
+      "longitude": -74.4033,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Sopetran",
+      "postal_code": "051440",
+      "country_code": "CO",
+      "latitude": 6.5213,
+      "longitude": -75.7455,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Taraza",
+      "postal_code": "052468",
+      "country_code": "CO",
+      "latitude": 7.5836,
+      "longitude": -75.4007,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Titiribi",
+      "postal_code": "055857",
+      "country_code": "CO",
+      "latitude": 6.0628,
+      "longitude": -75.7937,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Luruaco",
+      "postal_code": "085067",
+      "country_code": "CO",
+      "latitude": 10.6171,
+      "longitude": -75.1515,
+      "admin_name1": "Atlantico"
+    },
+    {
+      "place_name": "Belen De Los Andaquies",
+      "postal_code": "186010",
+      "country_code": "CO",
+      "latitude": 1.4183,
+      "longitude": -75.8775,
+      "admin_name1": "Caqueta"
+    },
+    {
+      "place_name": "El Copey",
+      "postal_code": "201010",
+      "country_code": "CO",
+      "latitude": 10.1503,
+      "longitude": -73.9614,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "El Canton Del San Pablo",
+      "postal_code": "272047",
+      "country_code": "CO",
+      "latitude": 5.3596,
+      "longitude": -76.7723,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Canalete",
+      "postal_code": "235048",
+      "country_code": "CO",
+      "latitude": 8.7856,
+      "longitude": -76.2406,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "Puerto Libertador",
+      "postal_code": "234037",
+      "country_code": "CO",
+      "latitude": 7.7097,
+      "longitude": -75.7688,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "San Pelayo",
+      "postal_code": "230529",
+      "country_code": "CO",
+      "latitude": 8.9583,
+      "longitude": -75.8363,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "Tuchin",
+      "postal_code": "232027",
+      "country_code": "CO",
+      "latitude": 9.1866,
+      "longitude": -75.5547,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "Vistahermosa",
+      "postal_code": "504068",
+      "country_code": "CO",
+      "latitude": 2.8245,
+      "longitude": -73.6837,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "Mosquera",
+      "postal_code": "527588",
+      "country_code": "CO",
+      "latitude": 2.5086,
+      "longitude": -78.4511,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Policarpa",
+      "postal_code": "527008",
+      "country_code": "CO",
+      "latitude": 1.6323,
+      "longitude": -77.462,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Villagarzon",
+      "postal_code": "861080",
+      "country_code": "CO",
+      "latitude": 1.0375,
+      "longitude": -76.6267,
+      "admin_name1": "Putumayo"
+    },
+    {
+      "place_name": "Aratoca",
+      "postal_code": "682058",
+      "country_code": "CO",
+      "latitude": 6.6935,
+      "longitude": -73.0208,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "El Carmen De Chucuri",
+      "postal_code": "686569",
+      "country_code": "CO",
+      "latitude": 6.6637,
+      "longitude": -73.5628,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Florian",
+      "postal_code": "684541",
+      "country_code": "CO",
+      "latitude": 5.8049,
+      "longitude": -73.9703,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "San Jose De Miranda",
+      "postal_code": "682021",
+      "country_code": "CO",
+      "latitude": 6.6587,
+      "longitude": -72.7334,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Santiago De Tolu",
+      "postal_code": "706010",
+      "country_code": "CO",
+      "latitude": 9.5239,
+      "longitude": -75.5814,
+      "admin_name1": "Sucre"
+    },
+    {
+      "place_name": "Anzoategui",
+      "postal_code": "730540",
+      "country_code": "CO",
+      "latitude": 4.63,
+      "longitude": -75.0954,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Valle De San Juan",
+      "postal_code": "733027",
+      "country_code": "CO",
+      "latitude": 4.1987,
+      "longitude": -75.1173,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Gutierrez",
+      "postal_code": "251867",
+      "country_code": "CO",
+      "latitude": 4.2547,
+      "longitude": -74.0025,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Nilo",
+      "postal_code": "252407",
+      "country_code": "CO",
+      "latitude": 4.306,
+      "longitude": -74.6208,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Nocaima",
+      "postal_code": "253627",
+      "country_code": "CO",
+      "latitude": 5.067,
+      "longitude": -74.3844,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Subachoque",
+      "postal_code": "250228",
+      "country_code": "CO",
+      "latitude": 4.9261,
+      "longitude": -74.173,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Usme",
+      "postal_code": "110571",
+      "country_code": "CO",
+      "latitude": 4.3329,
+      "longitude": -74.1873,
+      "admin_name1": "Bogota, D.C."
+    },
+    {
+      "place_name": "Los Martires",
+      "postal_code": "111411",
+      "country_code": "CO",
+      "latitude": 4.6071,
+      "longitude": -74.0879,
+      "admin_name1": "Bogota, D.C."
+    },
+    {
+      "place_name": "Mahates",
+      "postal_code": "131047",
+      "country_code": "CO",
+      "latitude": 10.2329,
+      "longitude": -75.1898,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Santa Rosa Del Sur",
+      "postal_code": "135001",
+      "country_code": "CO",
+      "latitude": 7.9644,
+      "longitude": -74.0544,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Duitama",
+      "postal_code": "150469",
+      "country_code": "CO",
+      "latitude": 5.8245,
+      "longitude": -73.0341,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "El Cocuy",
+      "postal_code": "151287",
+      "country_code": "CO",
+      "latitude": 6.4115,
+      "longitude": -72.4488,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Guateque",
+      "postal_code": "153050",
+      "country_code": "CO",
+      "latitude": 5.0062,
+      "longitude": -73.4727,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Guayata",
+      "postal_code": "153040",
+      "country_code": "CO",
+      "latitude": 4.9642,
+      "longitude": -73.4875,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Macanal",
+      "postal_code": "152847",
+      "country_code": "CO",
+      "latitude": 4.9721,
+      "longitude": -73.3196,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Nobsa",
+      "postal_code": "152280",
+      "country_code": "CO",
+      "latitude": 5.7698,
+      "longitude": -72.941,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Paz De Rio",
+      "postal_code": "150680",
+      "country_code": "CO",
+      "latitude": 5.9845,
+      "longitude": -72.7505,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Pisba",
+      "postal_code": "151807",
+      "country_code": "CO",
+      "latitude": 5.724,
+      "longitude": -72.4865,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Puerto Boyaca",
+      "postal_code": "155208",
+      "country_code": "CO",
+      "latitude": 5.9758,
+      "longitude": -74.5885,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "San Eduardo",
+      "postal_code": "152601",
+      "country_code": "CO",
+      "latitude": 5.2,
+      "longitude": -73.05,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Siachoque",
+      "postal_code": "153460",
+      "country_code": "CO",
+      "latitude": 5.5124,
+      "longitude": -73.2444,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Susacon",
+      "postal_code": "150880",
+      "country_code": "CO",
+      "latitude": 6.2298,
+      "longitude": -72.6901,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "El Piñon",
+      "postal_code": "476007",
+      "country_code": "CO",
+      "latitude": 10.4028,
+      "longitude": -74.8242,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "Sabanas De San Angel",
+      "postal_code": "475008",
+      "country_code": "CO",
+      "latitude": 10.1108,
+      "longitude": -74.2601,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "Buritica",
+      "postal_code": "057038",
+      "country_code": "CO",
+      "latitude": 6.7187,
+      "longitude": -75.9073,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Bosconia",
+      "postal_code": "201027",
+      "country_code": "CO",
+      "latitude": 9.9689,
+      "longitude": -73.8836,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "Novita",
+      "postal_code": "273050",
+      "country_code": "CO",
+      "latitude": 4.9551,
+      "longitude": -76.6053,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Nuqui",
+      "postal_code": "276058",
+      "country_code": "CO",
+      "latitude": 5.6741,
+      "longitude": -77.2909,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Union Panamericana",
+      "postal_code": "272037",
+      "country_code": "CO",
+      "latitude": 5.2854,
+      "longitude": -76.645,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Los Cordobas",
+      "postal_code": "235027",
+      "country_code": "CO",
+      "latitude": 8.894,
+      "longitude": -76.3546,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "Barranco Minas",
+      "postal_code": "944017",
+      "country_code": "CO",
+      "latitude": 3.4842,
+      "longitude": -69.8108,
+      "admin_name1": "Guainia"
+    },
+    {
+      "place_name": "Cubarral",
+      "postal_code": "506001",
+      "country_code": "CO",
+      "latitude": 3.7954,
+      "longitude": -73.8406,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "San Pedro De Cartago",
+      "postal_code": "521507",
+      "country_code": "CO",
+      "latitude": 1.5368,
+      "longitude": -77.1014,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Abrego",
+      "postal_code": "546079",
+      "country_code": "CO",
+      "latitude": 8.0806,
+      "longitude": -73.2205,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Chinacota",
+      "postal_code": "541070",
+      "country_code": "CO",
+      "latitude": 7.6073,
+      "longitude": -72.6011,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Orito",
+      "postal_code": "862007",
+      "country_code": "CO",
+      "latitude": 0.6675,
+      "longitude": -76.873,
+      "admin_name1": "Putumayo"
+    },
+    {
+      "place_name": "Quinchia",
+      "postal_code": "664001",
+      "country_code": "CO",
+      "latitude": 5.3396,
+      "longitude": -75.7302,
+      "admin_name1": "Risaralda"
+    },
+    {
+      "place_name": "Chipata",
+      "postal_code": "685557",
+      "country_code": "CO",
+      "latitude": 6.062,
+      "longitude": -73.6372,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Coloso",
+      "postal_code": "707037",
+      "country_code": "CO",
+      "latitude": 9.4915,
+      "longitude": -75.3615,
+      "admin_name1": "Sucre"
+    },
+    {
+      "place_name": "Mariquita",
+      "postal_code": "732028",
+      "country_code": "CO",
+      "latitude": 5.1989,
+      "longitude": -74.8929,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Palocabildo",
+      "postal_code": "731580",
+      "country_code": "CO",
+      "latitude": 5.117,
+      "longitude": -75.0173,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Dagua",
+      "postal_code": "760529",
+      "country_code": "CO",
+      "latitude": 3.6569,
+      "longitude": -76.6886,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Pradera",
+      "postal_code": "763557",
+      "country_code": "CO",
+      "latitude": 3.4211,
+      "longitude": -76.2447,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Trujillo",
+      "postal_code": "761027",
+      "country_code": "CO",
+      "latitude": 4.2122,
+      "longitude": -76.3195,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Taraira",
+      "postal_code": "972040",
+      "country_code": "CO",
+      "latitude": -0.5636,
+      "longitude": -69.6336,
+      "admin_name1": "Vaupes"
+    },
+    {
+      "place_name": "Nunchia",
+      "postal_code": "851078",
+      "country_code": "CO",
+      "latitude": 5.6406,
+      "longitude": -72.1986,
+      "admin_name1": "Casanare"
+    },
+    {
+      "place_name": "Bojaca",
+      "postal_code": "253001",
+      "country_code": "CO",
+      "latitude": 4.7318,
+      "longitude": -74.3413,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Chaguani",
+      "postal_code": "253240",
+      "country_code": "CO",
+      "latitude": 4.9483,
+      "longitude": -74.5939,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Suesca",
+      "postal_code": "251048",
+      "country_code": "CO",
+      "latitude": 5.1029,
+      "longitude": -73.7985,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Villeta",
+      "postal_code": "253417",
+      "country_code": "CO",
+      "latitude": 5.0089,
+      "longitude": -74.4723,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Viota",
+      "postal_code": "252668",
+      "country_code": "CO",
+      "latitude": 4.4371,
+      "longitude": -74.5216,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Antonio Nariño",
+      "postal_code": "111511",
+      "country_code": "CO",
+      "latitude": 4.5889,
+      "longitude": -74.103,
+      "admin_name1": "Bogota, D.C."
+    },
+    {
+      "place_name": "El Carmen De Bolivar",
+      "postal_code": "132059",
+      "country_code": "CO",
+      "latitude": 9.7174,
+      "longitude": -75.1202,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Soplaviento",
+      "postal_code": "131501",
+      "country_code": "CO",
+      "latitude": 10.3875,
+      "longitude": -75.1356,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Mongui",
+      "postal_code": "152207",
+      "country_code": "CO",
+      "latitude": 5.7215,
+      "longitude": -72.8491,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Oicata",
+      "postal_code": "150227",
+      "country_code": "CO",
+      "latitude": 5.5955,
+      "longitude": -73.3082,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Ramiriqui",
+      "postal_code": "153401",
+      "country_code": "CO",
+      "latitude": 5.4002,
+      "longitude": -73.3354,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "San Luis De Gaceno",
+      "postal_code": "152807",
+      "country_code": "CO",
+      "latitude": 4.8205,
+      "longitude": -73.1685,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Sotaquira",
+      "postal_code": "150428",
+      "country_code": "CO",
+      "latitude": 5.7648,
+      "longitude": -73.2476,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Norcasia",
+      "postal_code": "175001",
+      "country_code": "CO",
+      "latitude": 5.5778,
+      "longitude": -74.8852,
+      "admin_name1": "Caldas"
+    },
+    {
+      "place_name": "Pijiño Del Carmen",
+      "postal_code": "474040",
+      "country_code": "CO",
+      "latitude": 9.5353,
+      "longitude": -74.1199,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "Abejorral",
+      "postal_code": "055038",
+      "country_code": "CO",
+      "latitude": 5.7893,
+      "longitude": -75.4273,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Alejandria",
+      "postal_code": "053827",
+      "country_code": "CO",
+      "latitude": 6.3774,
+      "longitude": -75.1406,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Urrao",
+      "postal_code": "056837",
+      "country_code": "CO",
+      "latitude": 6.317,
+      "longitude": -76.1342,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Chiriguana",
+      "postal_code": "203047",
+      "country_code": "CO",
+      "latitude": 9.3624,
+      "longitude": -73.6031,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "Rio De Oro",
+      "postal_code": "205047",
+      "country_code": "CO",
+      "latitude": 8.2919,
+      "longitude": -73.3849,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "Puerto Colombia",
+      "postal_code": "941047",
+      "country_code": "CO",
+      "latitude": 2.7221,
+      "longitude": -67.5658,
+      "admin_name1": "Guainia"
+    },
+    {
+      "place_name": "Villavicencio",
+      "postal_code": "500009",
+      "country_code": "CO",
+      "latitude": 4.142,
+      "longitude": -73.6266,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "Cabuyaro",
+      "postal_code": "501011",
+      "country_code": "CO",
+      "latitude": 4.2817,
+      "longitude": -72.794,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "La Llanada",
+      "postal_code": "526501",
+      "country_code": "CO",
+      "latitude": 1.49,
+      "longitude": -77.5835,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Bucarasica",
+      "postal_code": "545558",
+      "country_code": "CO",
+      "latitude": 8.041,
+      "longitude": -72.8654,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Pamplonita",
+      "postal_code": "543037",
+      "country_code": "CO",
+      "latitude": 7.4364,
+      "longitude": -72.6381,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Santa Rosa De Cabal",
+      "postal_code": "661028",
+      "country_code": "CO",
+      "latitude": 4.8681,
+      "longitude": -75.6214,
+      "admin_name1": "Risaralda"
+    },
+    {
+      "place_name": "Morroa",
+      "postal_code": "701077",
+      "country_code": "CO",
+      "latitude": 9.3335,
+      "longitude": -75.3054,
+      "admin_name1": "Sucre"
+    },
+    {
+      "place_name": "La Salina",
+      "postal_code": "851017",
+      "country_code": "CO",
+      "latitude": 6.1316,
+      "longitude": -72.3384,
+      "admin_name1": "Casanare"
+    },
+    {
+      "place_name": "Anolaima",
+      "postal_code": "253048",
+      "country_code": "CO",
+      "latitude": 4.7897,
+      "longitude": -74.4618,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Arbelaez",
+      "postal_code": "252007",
+      "country_code": "CO",
+      "latitude": 4.2725,
+      "longitude": -74.4151,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Cajica",
+      "postal_code": "250240",
+      "country_code": "CO",
+      "latitude": 4.9186,
+      "longitude": -74.028,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Choconta",
+      "postal_code": "250808",
+      "country_code": "CO",
+      "latitude": 5.1447,
+      "longitude": -73.6858,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Ubaque",
+      "postal_code": "251607",
+      "country_code": "CO",
+      "latitude": 4.4867,
+      "longitude": -73.9375,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Villapinzon",
+      "postal_code": "250810",
+      "country_code": "CO",
+      "latitude": 5.2162,
+      "longitude": -73.5949,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Engativa",
+      "postal_code": "111071",
+      "country_code": "CO",
+      "latitude": 4.6756,
+      "longitude": -74.1089,
+      "admin_name1": "Bogota, D.C."
+    },
+    {
+      "place_name": "Achi",
+      "postal_code": "134027",
+      "country_code": "CO",
+      "latitude": 8.5682,
+      "longitude": -74.5541,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Aquitania",
+      "postal_code": "152429",
+      "country_code": "CO",
+      "latitude": 5.5197,
+      "longitude": -72.8875,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Guacamayas",
+      "postal_code": "151220",
+      "country_code": "CO",
+      "latitude": 6.4624,
+      "longitude": -72.5047,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Jenesano",
+      "postal_code": "153608",
+      "country_code": "CO",
+      "latitude": 5.3854,
+      "longitude": -73.3636,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Zapayan",
+      "postal_code": "476057",
+      "country_code": "CO",
+      "latitude": 10.1186,
+      "longitude": -74.6914,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "Apartado",
+      "postal_code": "057840",
+      "country_code": "CO",
+      "latitude": 7.883,
+      "longitude": -76.6259,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Arboletes",
+      "postal_code": "057827",
+      "country_code": "CO",
+      "latitude": 8.8505,
+      "longitude": -76.4269,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Caucasia",
+      "postal_code": "052418",
+      "country_code": "CO",
+      "latitude": 7.9865,
+      "longitude": -75.1935,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Envigado",
+      "postal_code": "055428",
+      "country_code": "CO",
+      "latitude": 6.1759,
+      "longitude": -75.5917,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Gomez Plata",
+      "postal_code": "051838",
+      "country_code": "CO",
+      "latitude": 6.6818,
+      "longitude": -75.2191,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Heliconia",
+      "postal_code": "055827",
+      "country_code": "CO",
+      "latitude": 6.2083,
+      "longitude": -75.7357,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Santa Rosa De Osos",
+      "postal_code": "051860",
+      "country_code": "CO",
+      "latitude": 6.6474,
+      "longitude": -75.4603,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Corinto",
+      "postal_code": "191569",
+      "country_code": "CO",
+      "latitude": 3.173,
+      "longitude": -76.2627,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Paez",
+      "postal_code": "192509",
+      "country_code": "CO",
+      "latitude": 2.6547,
+      "longitude": -75.9928,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Piendamo",
+      "postal_code": "190539",
+      "country_code": "CO",
+      "latitude": 2.6392,
+      "longitude": -76.5306,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Timbiqui",
+      "postal_code": "196037",
+      "country_code": "CO",
+      "latitude": 2.7717,
+      "longitude": -77.6654,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Gamarra",
+      "postal_code": "205008",
+      "country_code": "CO",
+      "latitude": 8.3228,
+      "longitude": -73.7427,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "San Bernardo Del Viento",
+      "postal_code": "231501",
+      "country_code": "CO",
+      "latitude": 9.3533,
+      "longitude": -75.9524,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "Agrado",
+      "postal_code": "414040",
+      "country_code": "CO",
+      "latitude": 2.2573,
+      "longitude": -75.7714,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Distraccion",
+      "postal_code": "444008",
+      "country_code": "CO",
+      "latitude": 10.8969,
+      "longitude": -72.8861,
+      "admin_name1": "La Guajira"
+    },
+    {
+      "place_name": "Cuaspud",
+      "postal_code": "524567",
+      "country_code": "CO",
+      "latitude": 0.8757,
+      "longitude": -77.7364,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Yacuanquer",
+      "postal_code": "523008",
+      "country_code": "CO",
+      "latitude": 1.1158,
+      "longitude": -77.4017,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Confines",
+      "postal_code": "683537",
+      "country_code": "CO",
+      "latitude": 6.3636,
+      "longitude": -73.244,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Roldanillo",
+      "postal_code": "761558",
+      "country_code": "CO",
+      "latitude": 4.4126,
+      "longitude": -76.1546,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Tulua",
+      "postal_code": "763029",
+      "country_code": "CO",
+      "latitude": 4.0847,
+      "longitude": -76.1954,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Hato Corozal",
+      "postal_code": "852010",
+      "country_code": "CO",
+      "latitude": 6.109,
+      "longitude": -71.1377,
+      "admin_name1": "Casanare"
+    },
+    {
+      "place_name": "Beltran",
+      "postal_code": "253267",
+      "country_code": "CO",
+      "latitude": 4.8017,
+      "longitude": -74.7418,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Caparrapi",
+      "postal_code": "253460",
+      "country_code": "CO",
+      "latitude": 5.3464,
+      "longitude": -74.4915,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Gachala",
+      "postal_code": "251257",
+      "country_code": "CO",
+      "latitude": 4.6924,
+      "longitude": -73.5204,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Gachancipa",
+      "postal_code": "251027",
+      "country_code": "CO",
+      "latitude": 4.9911,
+      "longitude": -73.8715,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Girardot",
+      "postal_code": "252431",
+      "country_code": "CO",
+      "latitude": 4.3008,
+      "longitude": -74.8075,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "San Juan De Rio Seco",
+      "postal_code": "253258",
+      "country_code": "CO",
+      "latitude": 4.8402,
+      "longitude": -74.6592,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "San Jacinto Del Cauca",
+      "postal_code": "134067",
+      "country_code": "CO",
+      "latitude": 8.2373,
+      "longitude": -74.6677,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Arcabuco",
+      "postal_code": "154207",
+      "country_code": "CO",
+      "latitude": 5.7546,
+      "longitude": -73.4367,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Chiquiza",
+      "postal_code": "154020",
+      "country_code": "CO",
+      "latitude": 5.6041,
+      "longitude": -73.4852,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Güican",
+      "postal_code": "151448",
+      "country_code": "CO",
+      "latitude": 6.4655,
+      "longitude": -72.4154,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Motavita",
+      "postal_code": "154080",
+      "country_code": "CO",
+      "latitude": 5.5765,
+      "longitude": -73.367,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Cerro San Antonio",
+      "postal_code": "476020",
+      "country_code": "CO",
+      "latitude": 10.3259,
+      "longitude": -74.8693,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "El Reten",
+      "postal_code": "478067",
+      "country_code": "CO",
+      "latitude": 10.6114,
+      "longitude": -74.2682,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "Jardin",
+      "postal_code": "056050",
+      "country_code": "CO",
+      "latitude": 5.599,
+      "longitude": -75.8198,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Puerto Nare",
+      "postal_code": "053430",
+      "country_code": "CO",
+      "latitude": 6.2053,
+      "longitude": -74.5997,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Cravo Norte",
+      "postal_code": "812019",
+      "country_code": "CO",
+      "latitude": 6.3017,
+      "longitude": -70.2042,
+      "admin_name1": "Arauca"
+    },
+    {
+      "place_name": "La Jagua De Ibirico",
+      "postal_code": "203027",
+      "country_code": "CO",
+      "latitude": 9.5623,
+      "longitude": -73.3341,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "Montelibano",
+      "postal_code": "234001",
+      "country_code": "CO",
+      "latitude": 7.9792,
+      "longitude": -75.4202,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "Suaza",
+      "postal_code": "416087",
+      "country_code": "CO",
+      "latitude": 1.9761,
+      "longitude": -75.7945,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Tarqui",
+      "postal_code": "416001",
+      "country_code": "CO",
+      "latitude": 2.1125,
+      "longitude": -75.8242,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Restrepo",
+      "postal_code": "501031",
+      "country_code": "CO",
+      "latitude": 4.2583,
+      "longitude": -73.5614,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "Chachagüi",
+      "postal_code": "522007",
+      "country_code": "CO",
+      "latitude": 1.3594,
+      "longitude": -77.2837,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Pupiales",
+      "postal_code": "524527",
+      "country_code": "CO",
+      "latitude": 0.8714,
+      "longitude": -77.6403,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Sapuyes",
+      "postal_code": "525558",
+      "country_code": "CO",
+      "latitude": 1.0333,
+      "longitude": -77.6,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Cacota",
+      "postal_code": "544010",
+      "country_code": "CO",
+      "latitude": 7.2679,
+      "longitude": -72.642,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Filandia",
+      "postal_code": "634008",
+      "country_code": "CO",
+      "latitude": 4.6747,
+      "longitude": -75.6583,
+      "admin_name1": "Quindio"
+    },
+    {
+      "place_name": "Barichara",
+      "postal_code": "684047",
+      "country_code": "CO",
+      "latitude": 6.6357,
+      "longitude": -73.2228,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Matanza",
+      "postal_code": "680568",
+      "country_code": "CO",
+      "latitude": 7.3223,
+      "longitude": -73.0152,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Paramo",
+      "postal_code": "683521",
+      "country_code": "CO",
+      "latitude": 6.4164,
+      "longitude": -73.17,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Ovejas",
+      "postal_code": "701037",
+      "country_code": "CO",
+      "latitude": 9.5325,
+      "longitude": -75.2238,
+      "admin_name1": "Sucre"
+    },
+    {
+      "place_name": "Papunaua",
+      "postal_code": "973048",
+      "country_code": "CO",
+      "latitude": 1.75,
+      "longitude": -70.1167,
+      "admin_name1": "Vaupes"
+    },
+    {
+      "place_name": "Agua De Dios",
+      "postal_code": "252850",
+      "country_code": "CO",
+      "latitude": 4.3765,
+      "longitude": -74.67,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Fomeque",
+      "postal_code": "251647",
+      "country_code": "CO",
+      "latitude": 4.488,
+      "longitude": -73.8975,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Silvania",
+      "postal_code": "252248",
+      "country_code": "CO",
+      "latitude": 4.4037,
+      "longitude": -74.3867,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Beteitiva",
+      "postal_code": "150617",
+      "country_code": "CO",
+      "latitude": 5.911,
+      "longitude": -72.8093,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Chiscas",
+      "postal_code": "151401",
+      "country_code": "CO",
+      "latitude": 6.5564,
+      "longitude": -72.5038,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Sachica",
+      "postal_code": "153880",
+      "country_code": "CO",
+      "latitude": 5.5845,
+      "longitude": -73.5418,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Tenza",
+      "postal_code": "153201",
+      "country_code": "CO",
+      "latitude": 5.0708,
+      "longitude": -73.4246,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Tibana",
+      "postal_code": "153260",
+      "country_code": "CO",
+      "latitude": 5.3173,
+      "longitude": -73.3965,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Cañasgordas",
+      "postal_code": "057060",
+      "country_code": "CO",
+      "latitude": 6.7499,
+      "longitude": -76.0254,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Caramanta",
+      "postal_code": "056047",
+      "country_code": "CO",
+      "latitude": 5.5478,
+      "longitude": -75.6437,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Guatape",
+      "postal_code": "053840",
+      "country_code": "CO",
+      "latitude": 6.2343,
+      "longitude": -75.1633,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "San Jose De La Montaña",
+      "postal_code": "051417",
+      "country_code": "CO",
+      "latitude": 6.8503,
+      "longitude": -75.6833,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Suan",
+      "postal_code": "084067",
+      "country_code": "CO",
+      "latitude": 10.3335,
+      "longitude": -74.8802,
+      "admin_name1": "Atlantico"
+    },
+    {
+      "place_name": "Purace",
+      "postal_code": "193001",
+      "country_code": "CO",
+      "latitude": 2.3425,
+      "longitude": -76.4958,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Aguachica",
+      "postal_code": "205018",
+      "country_code": "CO",
+      "latitude": 8.3084,
+      "longitude": -73.6166,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "Medio Atrato",
+      "postal_code": "270077",
+      "country_code": "CO",
+      "latitude": 6.0265,
+      "longitude": -76.6945,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Rio Iro",
+      "postal_code": "273017",
+      "country_code": "CO",
+      "latitude": 5.1767,
+      "longitude": -76.4802,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Rio Quito",
+      "postal_code": "272058",
+      "country_code": "CO",
+      "latitude": 5.5665,
+      "longitude": -76.8134,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Cienaga De Oro",
+      "postal_code": "232538",
+      "country_code": "CO",
+      "latitude": 8.8744,
+      "longitude": -75.6203,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "Campoalegre",
+      "postal_code": "413027",
+      "country_code": "CO",
+      "latitude": 2.6849,
+      "longitude": -75.3231,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Consaca",
+      "postal_code": "522548",
+      "country_code": "CO",
+      "latitude": 1.2081,
+      "longitude": -77.4655,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Puerto Caicedo",
+      "postal_code": "862080",
+      "country_code": "CO",
+      "latitude": 0.6836,
+      "longitude": -76.6044,
+      "admin_name1": "Putumayo"
+    },
+    {
+      "place_name": "Leguizamo",
+      "postal_code": "864001",
+      "country_code": "CO",
+      "latitude": -0.1934,
+      "longitude": -74.7819,
+      "admin_name1": "Putumayo"
+    },
+    {
+      "place_name": "Valle Del Guamuez",
+      "postal_code": "862020",
+      "country_code": "CO",
+      "latitude": 0.4525,
+      "longitude": -76.9192,
+      "admin_name1": "Putumayo"
+    },
+    {
+      "place_name": "Quimbaya",
+      "postal_code": "634020",
+      "country_code": "CO",
+      "latitude": 4.6231,
+      "longitude": -75.7628,
+      "admin_name1": "Quindio"
+    },
+    {
+      "place_name": "Curiti",
+      "postal_code": "682041",
+      "country_code": "CO",
+      "latitude": 6.6052,
+      "longitude": -73.0681,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Güepsa",
+      "postal_code": "685547",
+      "country_code": "CO",
+      "latitude": 6.0251,
+      "longitude": -73.5731,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Majagual",
+      "postal_code": "703058",
+      "country_code": "CO",
+      "latitude": 8.5389,
+      "longitude": -74.6204,
+      "admin_name1": "Sucre"
+    },
+    {
+      "place_name": "Murillo",
+      "postal_code": "731067",
+      "country_code": "CO",
+      "latitude": 4.8739,
+      "longitude": -75.1715,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Piedras",
+      "postal_code": "730501",
+      "country_code": "CO",
+      "latitude": 4.5383,
+      "longitude": -74.8817,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Cachipay",
+      "postal_code": "253020",
+      "country_code": "CO",
+      "latitude": 4.7231,
+      "longitude": -74.4592,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Facatativa",
+      "postal_code": "253052",
+      "country_code": "CO",
+      "latitude": 4.8137,
+      "longitude": -74.3545,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Gacheta",
+      "postal_code": "251237",
+      "country_code": "CO",
+      "latitude": 4.8208,
+      "longitude": -73.64,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Simijaca",
+      "postal_code": "250640",
+      "country_code": "CO",
+      "latitude": 5.5029,
+      "longitude": -73.8523,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Tausa",
+      "postal_code": "250418",
+      "country_code": "CO",
+      "latitude": 5.199,
+      "longitude": -73.8913,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Puente Aranda",
+      "postal_code": "111611",
+      "country_code": "CO",
+      "latitude": 4.6239,
+      "longitude": -74.1057,
+      "admin_name1": "Bogota, D.C."
+    },
+    {
+      "place_name": "Altos Del Rosario",
+      "postal_code": "133508",
+      "country_code": "CO",
+      "latitude": 8.7944,
+      "longitude": -74.1658,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Hatillo De Loba",
+      "postal_code": "133047",
+      "country_code": "CO",
+      "latitude": 8.9564,
+      "longitude": -74.0782,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Nuevo Colon",
+      "postal_code": "153627",
+      "country_code": "CO",
+      "latitude": 5.3537,
+      "longitude": -73.4566,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Tuta",
+      "postal_code": "150407",
+      "country_code": "CO",
+      "latitude": 5.6897,
+      "longitude": -73.2278,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Zetaquira",
+      "postal_code": "152680",
+      "country_code": "CO",
+      "latitude": 5.2822,
+      "longitude": -73.169,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Yolombo",
+      "postal_code": "053028",
+      "country_code": "CO",
+      "latitude": 6.5984,
+      "longitude": -75.0114,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Baranoa",
+      "postal_code": "082020",
+      "country_code": "CO",
+      "latitude": 10.7941,
+      "longitude": -74.9164,
+      "admin_name1": "Atlantico"
+    },
+    {
+      "place_name": "Curillo",
+      "postal_code": "186058",
+      "country_code": "CO",
+      "latitude": 1.0333,
+      "longitude": -75.9191,
+      "admin_name1": "Caqueta"
+    },
+    {
+      "place_name": "Guapi",
+      "postal_code": "196007",
+      "country_code": "CO",
+      "latitude": 2.5708,
+      "longitude": -77.8854,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Sotara",
+      "postal_code": "193501",
+      "country_code": "CO",
+      "latitude": 2.2546,
+      "longitude": -76.6109,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Pelaya",
+      "postal_code": "204040",
+      "country_code": "CO",
+      "latitude": 8.6882,
+      "longitude": -73.6645,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "Acandi",
+      "postal_code": "278018",
+      "country_code": "CO",
+      "latitude": 8.5116,
+      "longitude": -77.2772,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Atrato",
+      "postal_code": "272018",
+      "country_code": "CO",
+      "latitude": 5.5514,
+      "longitude": -76.6138,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Carmen Del Darien",
+      "postal_code": "277037",
+      "country_code": "CO",
+      "latitude": 7.0746,
+      "longitude": -77.0607,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "San Juan Del Cesar",
+      "postal_code": "444030",
+      "country_code": "CO",
+      "latitude": 10.7711,
+      "longitude": -73.0031,
+      "admin_name1": "La Guajira"
+    },
+    {
+      "place_name": "Cumaral",
+      "postal_code": "501021",
+      "country_code": "CO",
+      "latitude": 4.2708,
+      "longitude": -73.4867,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "Mocoa",
+      "postal_code": "860008",
+      "country_code": "CO",
+      "latitude": 1.1528,
+      "longitude": -76.6521,
+      "admin_name1": "Putumayo"
+    },
+    {
+      "place_name": "Puerto Asis",
+      "postal_code": "862067",
+      "country_code": "CO",
+      "latitude": 0.5133,
+      "longitude": -76.5007,
+      "admin_name1": "Putumayo"
+    },
+    {
+      "place_name": "Sibundoy",
+      "postal_code": "861027",
+      "country_code": "CO",
+      "latitude": 1.203,
+      "longitude": -76.9227,
+      "admin_name1": "Putumayo"
+    },
+    {
+      "place_name": "Cimitarra",
+      "postal_code": "686049",
+      "country_code": "CO",
+      "latitude": 6.3142,
+      "longitude": -73.9497,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Molagavita",
+      "postal_code": "682037",
+      "country_code": "CO",
+      "latitude": 6.6732,
+      "longitude": -72.8087,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Cartago",
+      "postal_code": "762022",
+      "country_code": "CO",
+      "latitude": 4.7464,
+      "longitude": -75.9117,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "Alban",
+      "postal_code": "253201",
+      "country_code": "CO",
+      "latitude": 4.8766,
+      "longitude": -74.4377,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Villa De San Diego De Ubate",
+      "postal_code": "250430",
+      "country_code": "CO",
+      "latitude": 5.3154,
+      "longitude": -73.8204,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Sumapaz",
+      "postal_code": "112041",
+      "country_code": "CO",
+      "latitude": 3.8584,
+      "longitude": -74.3534,
+      "admin_name1": "Bogota, D.C."
+    },
+    {
+      "place_name": "Cicuco",
+      "postal_code": "132557",
+      "country_code": "CO",
+      "latitude": 9.2631,
+      "longitude": -74.6569,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Maria La Baja",
+      "postal_code": "131069",
+      "country_code": "CO",
+      "latitude": 9.9832,
+      "longitude": -75.3016,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Cucaita",
+      "postal_code": "154067",
+      "country_code": "CO",
+      "latitude": 5.5437,
+      "longitude": -73.4543,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Sutamarchan",
+      "postal_code": "153860",
+      "country_code": "CO",
+      "latitude": 5.6154,
+      "longitude": -73.617,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Belalcazar",
+      "postal_code": "177007",
+      "country_code": "CO",
+      "latitude": 4.9953,
+      "longitude": -75.8128,
+      "admin_name1": "Caldas"
+    },
+    {
+      "place_name": "Marulanda",
+      "postal_code": "173007",
+      "country_code": "CO",
+      "latitude": 5.2839,
+      "longitude": -75.2602,
+      "admin_name1": "Caldas"
+    },
+    {
+      "place_name": "Belmira",
+      "postal_code": "051420",
+      "country_code": "CO",
+      "latitude": 6.6051,
+      "longitude": -75.6662,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Marinilla",
+      "postal_code": "054020",
+      "country_code": "CO",
+      "latitude": 6.1736,
+      "longitude": -75.3362,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Tamesis",
+      "postal_code": "056020",
+      "country_code": "CO",
+      "latitude": 5.6646,
+      "longitude": -75.7134,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "La Apartada",
+      "postal_code": "233501",
+      "country_code": "CO",
+      "latitude": 8.0479,
+      "longitude": -75.301,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "Urumita",
+      "postal_code": "445027",
+      "country_code": "CO",
+      "latitude": 10.5589,
+      "longitude": -73.0123,
+      "admin_name1": "La Guajira"
+    },
+    {
+      "place_name": "Fuente De Oro",
+      "postal_code": "504027",
+      "country_code": "CO",
+      "latitude": 3.4626,
+      "longitude": -73.6216,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "Herran",
+      "postal_code": "542018",
+      "country_code": "CO",
+      "latitude": 7.5061,
+      "longitude": -72.4833,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Guamo",
+      "postal_code": "733549",
+      "country_code": "CO",
+      "latitude": 4.0308,
+      "longitude": -74.9701,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Sesquile",
+      "postal_code": "251058",
+      "country_code": "CO",
+      "latitude": 5.0446,
+      "longitude": -73.7972,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Tibirita",
+      "postal_code": "250827",
+      "country_code": "CO",
+      "latitude": 5.0523,
+      "longitude": -73.5046,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Topaipi",
+      "postal_code": "253827",
+      "country_code": "CO",
+      "latitude": 5.3346,
+      "longitude": -74.3029,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Mompos",
+      "postal_code": "132568",
+      "country_code": "CO",
+      "latitude": 9.2419,
+      "longitude": -74.4267,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Gameza",
+      "postal_code": "152020",
+      "country_code": "CO",
+      "latitude": 5.8026,
+      "longitude": -72.8059,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Villa De Leyva",
+      "postal_code": "154001",
+      "country_code": "CO",
+      "latitude": 5.6667,
+      "longitude": -73.5119,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Tasco",
+      "postal_code": "151660",
+      "country_code": "CO",
+      "latitude": 5.9104,
+      "longitude": -72.78,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Risaralda",
+      "postal_code": "177060",
+      "country_code": "CO",
+      "latitude": 5.1665,
+      "longitude": -75.766,
+      "admin_name1": "Caldas"
+    },
+    {
+      "place_name": "Santa Barbara De Pinto",
+      "postal_code": "474001",
+      "country_code": "CO",
+      "latitude": 9.5211,
+      "longitude": -74.6491,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "Cocorna",
+      "postal_code": "054447",
+      "country_code": "CO",
+      "latitude": 6.0573,
+      "longitude": -75.1852,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Itagüi",
+      "postal_code": "055413",
+      "country_code": "CO",
+      "latitude": 6.1846,
+      "longitude": -75.5991,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Fortul",
+      "postal_code": "814058",
+      "country_code": "CO",
+      "latitude": 6.6965,
+      "longitude": -71.8569,
+      "admin_name1": "Arauca"
+    },
+    {
+      "place_name": "Bagado",
+      "postal_code": "271058",
+      "country_code": "CO",
+      "latitude": 5.4116,
+      "longitude": -76.4152,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Ayapel",
+      "postal_code": "233537",
+      "country_code": "CO",
+      "latitude": 8.3137,
+      "longitude": -75.1398,
+      "admin_name1": "Cordoba"
+    },
+    {
+      "place_name": "Mesetas",
+      "postal_code": "505007",
+      "country_code": "CO",
+      "latitude": 3.3846,
+      "longitude": -74.0442,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "Mallama",
+      "postal_code": "525068",
+      "country_code": "CO",
+      "latitude": 1.1374,
+      "longitude": -77.8489,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Silos",
+      "postal_code": "544050",
+      "country_code": "CO",
+      "latitude": 7.2052,
+      "longitude": -72.7564,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Tolu Viejo",
+      "postal_code": "707057",
+      "country_code": "CO",
+      "latitude": 9.6381,
+      "longitude": -75.4603,
+      "admin_name1": "Sucre"
+    },
+    {
+      "place_name": "Carmen De Apicala",
+      "postal_code": "733590",
+      "country_code": "CO",
+      "latitude": 4.1473,
+      "longitude": -74.7201,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Mitu",
+      "postal_code": "970001",
+      "country_code": "CO",
+      "latitude": 1.2578,
+      "longitude": -70.2347,
+      "admin_name1": "Vaupes"
+    },
+    {
+      "place_name": "Chameza",
+      "postal_code": "856037",
+      "country_code": "CO",
+      "latitude": 5.2142,
+      "longitude": -72.8695,
+      "admin_name1": "Casanare"
+    },
+    {
+      "place_name": "Paz De Ariporo",
+      "postal_code": "852039",
+      "country_code": "CO",
+      "latitude": 5.8836,
+      "longitude": -71.8973,
+      "admin_name1": "Casanare"
+    },
+    {
+      "place_name": "Macheta",
+      "postal_code": "250848",
+      "country_code": "CO",
+      "latitude": 5.0815,
+      "longitude": -73.6076,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Supata",
+      "postal_code": "253660",
+      "country_code": "CO",
+      "latitude": 5.061,
+      "longitude": -74.2372,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Zipacon",
+      "postal_code": "253010",
+      "country_code": "CO",
+      "latitude": 4.7588,
+      "longitude": -74.3802,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Arroyohondo",
+      "postal_code": "131560",
+      "country_code": "CO",
+      "latitude": 10.2522,
+      "longitude": -75.0198,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Norosi",
+      "postal_code": "134510",
+      "country_code": "CO",
+      "latitude": 8.5269,
+      "longitude": -74.0374,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Talaigua Nuevo",
+      "postal_code": "132540",
+      "country_code": "CO",
+      "latitude": 9.3035,
+      "longitude": -74.5648,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Combita",
+      "postal_code": "150207",
+      "country_code": "CO",
+      "latitude": 5.6333,
+      "longitude": -73.3167,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "San Pablo De Borbur",
+      "postal_code": "155040",
+      "country_code": "CO",
+      "latitude": 5.6603,
+      "longitude": -74.0621,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Plato",
+      "postal_code": "475030",
+      "country_code": "CO",
+      "latitude": 9.7903,
+      "longitude": -74.7824,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "Necocli",
+      "postal_code": "057870",
+      "country_code": "CO",
+      "latitude": 8.4263,
+      "longitude": -76.7893,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Arauca",
+      "postal_code": "810008",
+      "country_code": "CO",
+      "latitude": 7.0847,
+      "longitude": -70.7591,
+      "admin_name1": "Arauca"
+    },
+    {
+      "place_name": "Caloto",
+      "postal_code": "191077",
+      "country_code": "CO",
+      "latitude": 3.0359,
+      "longitude": -76.4079,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "San Jose Del Palmar",
+      "postal_code": "273070",
+      "country_code": "CO",
+      "latitude": 4.8885,
+      "longitude": -76.2965,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Unguia",
+      "postal_code": "278038",
+      "country_code": "CO",
+      "latitude": 8.0436,
+      "longitude": -77.0914,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "La Tebaida",
+      "postal_code": "633020",
+      "country_code": "CO",
+      "latitude": 4.4526,
+      "longitude": -75.7875,
+      "admin_name1": "Quindio"
+    },
+    {
+      "place_name": "Apia",
+      "postal_code": "663038",
+      "country_code": "CO",
+      "latitude": 5.1064,
+      "longitude": -75.9432,
+      "admin_name1": "Risaralda"
+    },
+    {
+      "place_name": "Herveo",
+      "postal_code": "731548",
+      "country_code": "CO",
+      "latitude": 5.0833,
+      "longitude": -75.1667,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Rovira",
+      "postal_code": "733048",
+      "country_code": "CO",
+      "latitude": 4.2392,
+      "longitude": -75.24,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Venadillo",
+      "postal_code": "730580",
+      "country_code": "CO",
+      "latitude": 4.7193,
+      "longitude": -74.9292,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Caruru",
+      "postal_code": "973007",
+      "country_code": "CO",
+      "latitude": 1.014,
+      "longitude": -71.2962,
+      "admin_name1": "Vaupes"
+    },
+    {
+      "place_name": "Guayabal De Siquima",
+      "postal_code": "253210",
+      "country_code": "CO",
+      "latitude": 4.8774,
+      "longitude": -74.4674,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "San Antonio Del Tequendama",
+      "postal_code": "252620",
+      "country_code": "CO",
+      "latitude": 4.6189,
+      "longitude": -74.3539,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Yacopi",
+      "postal_code": "253847",
+      "country_code": "CO",
+      "latitude": 5.4595,
+      "longitude": -74.3382,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Coper",
+      "postal_code": "154860",
+      "country_code": "CO",
+      "latitude": 5.4768,
+      "longitude": -74.0442,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Socha",
+      "postal_code": "151640",
+      "country_code": "CO",
+      "latitude": 5.9817,
+      "longitude": -72.715,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Tibasosa",
+      "postal_code": "152267",
+      "country_code": "CO",
+      "latitude": 5.7463,
+      "longitude": -72.9983,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Anserma",
+      "postal_code": "177087",
+      "country_code": "CO",
+      "latitude": 5.2006,
+      "longitude": -75.7531,
+      "admin_name1": "Caldas"
+    },
+    {
+      "place_name": "Fundacion",
+      "postal_code": "472028",
+      "country_code": "CO",
+      "latitude": 10.5207,
+      "longitude": -74.185,
+      "admin_name1": "Magdalena"
+    },
+    {
+      "place_name": "El Carmen De Viboral",
+      "postal_code": "054030",
+      "country_code": "CO",
+      "latitude": 6.0824,
+      "longitude": -75.3351,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Olaya",
+      "postal_code": "051450",
+      "country_code": "CO",
+      "latitude": 6.6299,
+      "longitude": -75.803,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Peñol",
+      "postal_code": "053857",
+      "country_code": "CO",
+      "latitude": 6.2464,
+      "longitude": -75.221,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Manati",
+      "postal_code": "085027",
+      "country_code": "CO",
+      "latitude": 10.4459,
+      "longitude": -74.9587,
+      "admin_name1": "Atlantico"
+    },
+    {
+      "place_name": "Certegui",
+      "postal_code": "272027",
+      "country_code": "CO",
+      "latitude": 5.3707,
+      "longitude": -76.6044,
+      "admin_name1": "Choco"
+    },
+    {
+      "place_name": "Iles",
+      "postal_code": "523067",
+      "country_code": "CO",
+      "latitude": 0.9749,
+      "longitude": -77.5274,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Puente Nacional",
+      "postal_code": "684527",
+      "country_code": "CO",
+      "latitude": 5.8774,
+      "longitude": -73.6781,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Surata",
+      "postal_code": "680501",
+      "country_code": "CO",
+      "latitude": 7.3663,
+      "longitude": -72.9836,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Ambalema",
+      "postal_code": "731001",
+      "country_code": "CO",
+      "latitude": 4.784,
+      "longitude": -74.7627,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Armero",
+      "postal_code": "732067",
+      "country_code": "CO",
+      "latitude": 5.031,
+      "longitude": -74.8868,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Natagaima",
+      "postal_code": "735001",
+      "country_code": "CO",
+      "latitude": 3.6206,
+      "longitude": -75.0941,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Bituima",
+      "postal_code": "253220",
+      "country_code": "CO",
+      "latitude": 4.8725,
+      "longitude": -74.5393,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Caqueza",
+      "postal_code": "251827",
+      "country_code": "CO",
+      "latitude": 4.4057,
+      "longitude": -73.9468,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Fuquene",
+      "postal_code": "250627",
+      "country_code": "CO",
+      "latitude": 5.4043,
+      "longitude": -73.7964,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Guacheta",
+      "postal_code": "250617",
+      "country_code": "CO",
+      "latitude": 5.3842,
+      "longitude": -73.6862,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Guasca",
+      "postal_code": "251217",
+      "country_code": "CO",
+      "latitude": 4.866,
+      "longitude": -73.8775,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Pacho",
+      "postal_code": "254001",
+      "country_code": "CO",
+      "latitude": 5.1328,
+      "longitude": -74.1598,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Quebradanegra",
+      "postal_code": "253427",
+      "country_code": "CO",
+      "latitude": 5.1174,
+      "longitude": -74.4794,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Sopo",
+      "postal_code": "251001",
+      "country_code": "CO",
+      "latitude": 4.9075,
+      "longitude": -73.9384,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Tocaima",
+      "postal_code": "252847",
+      "country_code": "CO",
+      "latitude": 4.4582,
+      "longitude": -74.6343,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Pachavita",
+      "postal_code": "153217",
+      "country_code": "CO",
+      "latitude": 5.1486,
+      "longitude": -73.3994,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Samaca",
+      "postal_code": "153660",
+      "country_code": "CO",
+      "latitude": 5.4927,
+      "longitude": -73.4854,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Somondoco",
+      "postal_code": "153037",
+      "country_code": "CO",
+      "latitude": 4.9854,
+      "longitude": -73.4327,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Pueblorrico",
+      "postal_code": "056440",
+      "country_code": "CO",
+      "latitude": 5.7918,
+      "longitude": -75.841,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "San Andres De Cuerquia",
+      "postal_code": "052040",
+      "country_code": "CO",
+      "latitude": 6.9189,
+      "longitude": -75.6641,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "San Pedro De Los Milagros",
+      "postal_code": "051017",
+      "country_code": "CO",
+      "latitude": 6.4582,
+      "longitude": -75.5638,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Palmar De Varela",
+      "postal_code": "083087",
+      "country_code": "CO",
+      "latitude": 10.7405,
+      "longitude": -74.7544,
+      "admin_name1": "Atlantico"
+    },
+    {
+      "place_name": "Pital",
+      "postal_code": "414060",
+      "country_code": "CO",
+      "latitude": 2.2665,
+      "longitude": -75.8044,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "La Tola",
+      "postal_code": "527548",
+      "country_code": "CO",
+      "latitude": 2.4808,
+      "longitude": -78.1912,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Ospina",
+      "postal_code": "523047",
+      "country_code": "CO",
+      "latitude": 1.0595,
+      "longitude": -77.5655,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "La Celia",
+      "postal_code": "662030",
+      "country_code": "CO",
+      "latitude": 4.9878,
+      "longitude": -76.0084,
+      "admin_name1": "Risaralda"
+    },
+    {
+      "place_name": "Nemocon",
+      "postal_code": "251038",
+      "country_code": "CO",
+      "latitude": 5.05,
+      "longitude": -73.8833,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "San Estanislao",
+      "postal_code": "130540",
+      "country_code": "CO",
+      "latitude": 10.3983,
+      "longitude": -75.1511,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Tiquisio",
+      "postal_code": "134048",
+      "country_code": "CO",
+      "latitude": 8.5597,
+      "longitude": -74.2669,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Covarachia",
+      "postal_code": "151040",
+      "country_code": "CO",
+      "latitude": 6.5056,
+      "longitude": -72.7331,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Mutata",
+      "postal_code": "057428",
+      "country_code": "CO",
+      "latitude": 7.2441,
+      "longitude": -76.4356,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Nataga",
+      "postal_code": "415027",
+      "country_code": "CO",
+      "latitude": 2.5436,
+      "longitude": -75.8085,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Saladoblanco",
+      "postal_code": "418027",
+      "country_code": "CO",
+      "latitude": 1.9924,
+      "longitude": -76.0434,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Labateca",
+      "postal_code": "542050",
+      "country_code": "CO",
+      "latitude": 7.2989,
+      "longitude": -72.4947,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Pacoa",
+      "postal_code": "972007",
+      "country_code": "CO",
+      "latitude": 0.1814,
+      "longitude": -70.91,
+      "admin_name1": "Vaupes"
+    },
+    {
+      "place_name": "Paime",
+      "postal_code": "254040",
+      "country_code": "CO",
+      "latitude": 5.3636,
+      "longitude": -74.1458,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Quipile",
+      "postal_code": "253037",
+      "country_code": "CO",
+      "latitude": 4.7481,
+      "longitude": -74.5631,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Tibacuy",
+      "postal_code": "252237",
+      "country_code": "CO",
+      "latitude": 4.3206,
+      "longitude": -74.4872,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Turbana",
+      "postal_code": "131010",
+      "country_code": "CO",
+      "latitude": 10.2717,
+      "longitude": -75.4422,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Chinavita",
+      "postal_code": "153287",
+      "country_code": "CO",
+      "latitude": 5.1672,
+      "longitude": -73.3682,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Topaga",
+      "postal_code": "152047",
+      "country_code": "CO",
+      "latitude": 5.7598,
+      "longitude": -72.8258,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Puerto Tejada",
+      "postal_code": "191501",
+      "country_code": "CO",
+      "latitude": 3.2311,
+      "longitude": -76.4167,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Cacahual",
+      "postal_code": "941010",
+      "country_code": "CO",
+      "latitude": 3.5142,
+      "longitude": -67.4153,
+      "admin_name1": "Guainia"
+    },
+    {
+      "place_name": "Iquira",
+      "postal_code": "412068",
+      "country_code": "CO",
+      "latitude": 2.6487,
+      "longitude": -75.6346,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Convencion",
+      "postal_code": "547058",
+      "country_code": "CO",
+      "latitude": 8.4641,
+      "longitude": -73.3447,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Puerto Salgar",
+      "postal_code": "253487",
+      "country_code": "CO",
+      "latitude": 5.463,
+      "longitude": -74.6544,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Teusaquillo",
+      "postal_code": "111321",
+      "country_code": "CO",
+      "latitude": 4.6439,
+      "longitude": -74.092,
+      "admin_name1": "Bogota, D.C."
+    },
+    {
+      "place_name": "San Miguel De Sema",
+      "postal_code": "153820",
+      "country_code": "CO",
+      "latitude": 5.5185,
+      "longitude": -73.7224,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Tinjaca",
+      "postal_code": "153847",
+      "country_code": "CO",
+      "latitude": 5.5792,
+      "longitude": -73.6449,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Tipacoque",
+      "postal_code": "151020",
+      "country_code": "CO",
+      "latitude": 6.4203,
+      "longitude": -72.6918,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Dibulla",
+      "postal_code": "446009",
+      "country_code": "CO",
+      "latitude": 11.2725,
+      "longitude": -73.3091,
+      "admin_name1": "La Guajira"
+    },
+    {
+      "place_name": "Sandona",
+      "postal_code": "522520",
+      "country_code": "CO",
+      "latitude": 1.2863,
+      "longitude": -77.4692,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Villa Del Rosario",
+      "postal_code": "541030",
+      "country_code": "CO",
+      "latitude": 7.8339,
+      "longitude": -72.4742,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Landazuri",
+      "postal_code": "686021",
+      "country_code": "CO",
+      "latitude": 6.2183,
+      "longitude": -73.8112,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Velez",
+      "postal_code": "685569",
+      "country_code": "CO",
+      "latitude": 6.0134,
+      "longitude": -73.6735,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Ataco",
+      "postal_code": "735050",
+      "country_code": "CO",
+      "latitude": 3.5915,
+      "longitude": -75.3818,
+      "admin_name1": "Tolima"
+    },
+    {
+      "place_name": "Quetame",
+      "postal_code": "251840",
+      "country_code": "CO",
+      "latitude": 4.3323,
+      "longitude": -73.8614,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Chitaraque",
+      "postal_code": "154420",
+      "country_code": "CO",
+      "latitude": 5.9828,
+      "longitude": -73.4254,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Panqueba",
+      "postal_code": "151267",
+      "country_code": "CO",
+      "latitude": 6.4453,
+      "longitude": -72.4627,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Marmato",
+      "postal_code": "178001",
+      "country_code": "CO",
+      "latitude": 5.4784,
+      "longitude": -75.5927,
+      "admin_name1": "Caldas"
+    },
+    {
+      "place_name": "Miriti - Parana",
+      "postal_code": "916057",
+      "country_code": "CO",
+      "latitude": -0.6853,
+      "longitude": -71.1859,
+      "admin_name1": "Amazonas"
+    },
+    {
+      "place_name": "Tarapaca",
+      "postal_code": "911037",
+      "country_code": "CO",
+      "latitude": -2.8786,
+      "longitude": -69.7442,
+      "admin_name1": "Amazonas"
+    },
+    {
+      "place_name": "Polonuevo",
+      "postal_code": "082047",
+      "country_code": "CO",
+      "latitude": 10.777,
+      "longitude": -74.8534,
+      "admin_name1": "Atlantico"
+    },
+    {
+      "place_name": "Guachene",
+      "postal_code": "191087",
+      "country_code": "CO",
+      "latitude": 3.1333,
+      "longitude": -76.3927,
+      "admin_name1": "Cauca"
+    },
+    {
+      "place_name": "Pailitas",
+      "postal_code": "204007",
+      "country_code": "CO",
+      "latitude": 8.9565,
+      "longitude": -73.6255,
+      "admin_name1": "Cesar"
+    },
+    {
+      "place_name": "La Macarena",
+      "postal_code": "505028",
+      "country_code": "CO",
+      "latitude": 2.1837,
+      "longitude": -73.7848,
+      "admin_name1": "Meta"
+    },
+    {
+      "place_name": "Cumbitara",
+      "postal_code": "526567",
+      "country_code": "CO",
+      "latitude": 1.6517,
+      "longitude": -77.5822,
+      "admin_name1": "Nariño"
+    },
+    {
+      "place_name": "Contratacion",
+      "postal_code": "683071",
+      "country_code": "CO",
+      "latitude": 6.2901,
+      "longitude": -73.4735,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "Firavitoba",
+      "postal_code": "152250",
+      "country_code": "CO",
+      "latitude": 5.6688,
+      "longitude": -72.9929,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Mongua",
+      "postal_code": "152007",
+      "country_code": "CO",
+      "latitude": 5.7508,
+      "longitude": -72.8034,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Tota",
+      "postal_code": "152448",
+      "country_code": "CO",
+      "latitude": 5.5583,
+      "longitude": -72.9876,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Puerto Nariño",
+      "postal_code": "911010",
+      "country_code": "CO",
+      "latitude": -3.7889,
+      "longitude": -70.3558,
+      "admin_name1": "Amazonas"
+    },
+    {
+      "place_name": "Sacama",
+      "postal_code": "851038",
+      "country_code": "CO",
+      "latitude": 6.1023,
+      "longitude": -72.2528,
+      "admin_name1": "Casanare"
+    },
+    {
+      "place_name": "Fosca",
+      "postal_code": "251830",
+      "country_code": "CO",
+      "latitude": 4.3392,
+      "longitude": -73.9385,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Puli",
+      "postal_code": "252801",
+      "country_code": "CO",
+      "latitude": 4.6812,
+      "longitude": -74.7141,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Villagomez",
+      "postal_code": "254037",
+      "country_code": "CO",
+      "latitude": 5.2737,
+      "longitude": -74.1961,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Gachantiva",
+      "postal_code": "154227",
+      "country_code": "CO",
+      "latitude": 5.7566,
+      "longitude": -73.5395,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Sutatenza",
+      "postal_code": "153060",
+      "country_code": "CO",
+      "latitude": 5.0264,
+      "longitude": -73.4337,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Ebejico",
+      "postal_code": "055817",
+      "country_code": "CO",
+      "latitude": 6.326,
+      "longitude": -75.7683,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Ragonvalia",
+      "postal_code": "541050",
+      "country_code": "CO",
+      "latitude": 7.5775,
+      "longitude": -72.4757,
+      "admin_name1": "Norte De Santander"
+    },
+    {
+      "place_name": "Chiquinquira",
+      "postal_code": "154647",
+      "country_code": "CO",
+      "latitude": 5.6164,
+      "longitude": -73.8175,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Guarne",
+      "postal_code": "054057",
+      "country_code": "CO",
+      "latitude": 6.2805,
+      "longitude": -75.4435,
+      "admin_name1": "Antioquia"
+    },
+    {
+      "place_name": "Charta",
+      "postal_code": "680551",
+      "country_code": "CO",
+      "latitude": 7.2803,
+      "longitude": -72.9678,
+      "admin_name1": "Santander"
+    },
+    {
+      "place_name": "El Dovio",
+      "postal_code": "761560",
+      "country_code": "CO",
+      "latitude": 4.5079,
+      "longitude": -76.2362,
+      "admin_name1": "Valle Del Cauca"
+    },
+    {
+      "place_name": "El Guamo",
+      "postal_code": "132007",
+      "country_code": "CO",
+      "latitude": 10.0316,
+      "longitude": -74.9761,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Regidor",
+      "postal_code": "133560",
+      "country_code": "CO",
+      "latitude": 8.6657,
+      "longitude": -73.8215,
+      "admin_name1": "Bolivar"
+    },
+    {
+      "place_name": "Galapa",
+      "postal_code": "082001",
+      "country_code": "CO",
+      "latitude": 10.8969,
+      "longitude": -74.886,
+      "admin_name1": "Atlantico"
+    },
+    {
+      "place_name": "Elias",
+      "postal_code": "417001",
+      "country_code": "CO",
+      "latitude": 2.0117,
+      "longitude": -75.9397,
+      "admin_name1": "Huila"
+    },
+    {
+      "place_name": "Sutatausa",
+      "postal_code": "250447",
+      "country_code": "CO",
+      "latitude": 5.2478,
+      "longitude": -73.8524,
+      "admin_name1": "Cundinamarca"
+    },
+    {
+      "place_name": "Busbanza",
+      "postal_code": "152080",
+      "country_code": "CO",
+      "latitude": 5.8305,
+      "longitude": -72.8842,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Cuitiva",
+      "postal_code": "152230",
+      "country_code": "CO",
+      "latitude": 5.5801,
+      "longitude": -72.9669,
+      "admin_name1": "Boyaca"
+    },
+    {
+      "place_name": "Durania",
+      "postal_code": "544510",
+      "country_code": "CO",
+      "latitude": 7.7131,
+      "longitude": -72.6576,
+      "admin_name1": "Norte De Santander"
+    }
+  ]
+]

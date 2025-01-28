@@ -1,0 +1,1620 @@
+[
+  [
+    {
+      "place_name": "Zelenikovo",
+      "postal_code": "1053",
+      "country_code": "MK",
+      "latitude": 41.8867,
+      "longitude": 21.5869,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zelino",
+      "postal_code": "1226",
+      "country_code": "MK",
+      "latitude": 41.9803,
+      "longitude": 21.0642,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vrutok",
+      "postal_code": "1231",
+      "country_code": "MK",
+      "latitude": 41.7686,
+      "longitude": 20.8392,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Golem Papradnik",
+      "postal_code": "1258",
+      "country_code": "MK",
+      "latitude": 41.4767,
+      "longitude": 20.5444,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Miravci",
+      "postal_code": "1489",
+      "country_code": "MK",
+      "latitude": 41.3078,
+      "longitude": 22.435,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sveti Nikole",
+      "postal_code": "2220",
+      "country_code": "MK",
+      "latitude": 41.865,
+      "longitude": 21.9428,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bitola",
+      "postal_code": "7000",
+      "country_code": "MK",
+      "latitude": 41.0311,
+      "longitude": 21.3403,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jurumleri",
+      "postal_code": "1047",
+      "country_code": "MK",
+      "latitude": 41.9672,
+      "longitude": 21.5569,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mala Recica",
+      "postal_code": "1201",
+      "country_code": "MK",
+      "latitude": 41.9925,
+      "longitude": 20.9578,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gostivar",
+      "postal_code": "1230",
+      "country_code": "MK",
+      "latitude": 41.7972,
+      "longitude": 20.9083,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dobri Dol",
+      "postal_code": "1236",
+      "country_code": "MK",
+      "latitude": 41.8658,
+      "longitude": 20.8875,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Romanovce",
+      "postal_code": "1322",
+      "country_code": "MK",
+      "latitude": 42.0947,
+      "longitude": 21.6931,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stip",
+      "postal_code": "2000",
+      "country_code": "MK",
+      "latitude": 41.7458,
+      "longitude": 22.1958,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kuklis",
+      "postal_code": "2410",
+      "country_code": "MK",
+      "latitude": 41.4053,
+      "longitude": 22.6653,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vasilevo",
+      "postal_code": "2411",
+      "country_code": "MK",
+      "latitude": 41.4761,
+      "longitude": 22.6417,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vranestica",
+      "postal_code": "6258",
+      "country_code": "MK",
+      "latitude": 41.4453,
+      "longitude": 21.0267,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lukovo",
+      "postal_code": "6337",
+      "country_code": "MK",
+      "latitude": 41.3494,
+      "longitude": 20.6047,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ivanjevci",
+      "postal_code": "7245",
+      "country_code": "MK",
+      "latitude": 41.2064,
+      "longitude": 21.3589,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nerashte",
+      "postal_code": "1203",
+      "country_code": "MK",
+      "latitude": 42.1067,
+      "longitude": 21.1089,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jazince",
+      "postal_code": "1206",
+      "country_code": "MK",
+      "latitude": 42.1644,
+      "longitude": 21.1761,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dobroste",
+      "postal_code": "1211",
+      "country_code": "MK",
+      "latitude": 42.1033,
+      "longitude": 21.0778,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kamenjane",
+      "postal_code": "1221",
+      "country_code": "MK",
+      "latitude": 41.9444,
+      "longitude": 20.9267,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ivankovci",
+      "postal_code": "1407",
+      "country_code": "MK",
+      "latitude": 41.8489,
+      "longitude": 21.8203,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sirkovo",
+      "postal_code": "1421",
+      "country_code": "MK",
+      "latitude": 41.5064,
+      "longitude": 21.8886,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bogdanci",
+      "postal_code": "1484",
+      "country_code": "MK",
+      "latitude": 41.2031,
+      "longitude": 22.5756,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zletovo",
+      "postal_code": "2212",
+      "country_code": "MK",
+      "latitude": 41.9886,
+      "longitude": 22.2361,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kocani",
+      "postal_code": "2300",
+      "country_code": "MK",
+      "latitude": 41.9164,
+      "longitude": 22.4128,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veljusa",
+      "postal_code": "2414",
+      "country_code": "MK",
+      "latitude": 41.4761,
+      "longitude": 22.5675,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rakotnici",
+      "postal_code": "1054",
+      "country_code": "MK",
+      "latitude": 41.3161,
+      "longitude": 21.1898,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rostusa",
+      "postal_code": "1254",
+      "country_code": "MK",
+      "latitude": 41.61,
+      "longitude": 20.6,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kratovo",
+      "postal_code": "1360",
+      "country_code": "MK",
+      "latitude": 42.0792,
+      "longitude": 22.1814,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Demir Kapija",
+      "postal_code": "1442",
+      "country_code": "MK",
+      "latitude": 41.405,
+      "longitude": 22.2489,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gevgelija",
+      "postal_code": "1480",
+      "country_code": "MK",
+      "latitude": 41.1392,
+      "longitude": 22.5025,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rusinovo",
+      "postal_code": "2315",
+      "country_code": "MK",
+      "latitude": 41.6833,
+      "longitude": 22.8083,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Turnovo",
+      "postal_code": "2433",
+      "country_code": "MK",
+      "latitude": 41.4383,
+      "longitude": 22.7736,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brzdani",
+      "postal_code": "6255",
+      "country_code": "MK",
+      "latitude": 41.4467,
+      "longitude": 20.9069,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Samokov",
+      "postal_code": "6535",
+      "country_code": "MK",
+      "latitude": 41.6836,
+      "longitude": 21.1442,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Skopje",
+      "postal_code": "1000",
+      "country_code": "MK",
+      "latitude": 42.0,
+      "longitude": 21.4333,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Shemshevo",
+      "postal_code": "1228",
+      "country_code": "MK",
+      "latitude": 42.0247,
+      "longitude": 21.0797,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Slupcane",
+      "postal_code": "1325",
+      "country_code": "MK",
+      "latitude": 42.1733,
+      "longitude": 21.6278,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mozdivnjak",
+      "postal_code": "1333",
+      "country_code": "MK",
+      "latitude": 42.1578,
+      "longitude": 22.2539,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Basino Selo",
+      "postal_code": "1406",
+      "country_code": "MK",
+      "latitude": 41.7483,
+      "longitude": 21.76,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vevcani",
+      "postal_code": "6335",
+      "country_code": "MK",
+      "latitude": 41.2406,
+      "longitude": 20.5933,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lopatica",
+      "postal_code": "7242",
+      "country_code": "MK",
+      "latitude": 41.1594,
+      "longitude": 21.2539,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Topolcani",
+      "postal_code": "7512",
+      "country_code": "MK",
+      "latitude": 41.2286,
+      "longitude": 21.4314,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bogovinje",
+      "postal_code": "1220",
+      "country_code": "MK",
+      "latitude": 41.9236,
+      "longitude": 20.9136,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Srbinovo",
+      "postal_code": "1239",
+      "country_code": "MK",
+      "latitude": 41.7058,
+      "longitude": 20.9603,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mavrovi Anovi",
+      "postal_code": "1256",
+      "country_code": "MK",
+      "latitude": 41.7006,
+      "longitude": 20.7556,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Oblavce",
+      "postal_code": "1314",
+      "country_code": "MK",
+      "latitude": 42.1572,
+      "longitude": 21.9067,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pcinja",
+      "postal_code": "1323",
+      "country_code": "MK",
+      "latitude": 42.0397,
+      "longitude": 21.7561,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Caska",
+      "postal_code": "1413",
+      "country_code": "MK",
+      "latitude": 41.6506,
+      "longitude": 21.6622,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gradsko",
+      "postal_code": "1420",
+      "country_code": "MK",
+      "latitude": 41.5775,
+      "longitude": 21.9428,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Konopiste",
+      "postal_code": "1437",
+      "country_code": "MK",
+      "latitude": 41.2472,
+      "longitude": 22.0772,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dobrasinci",
+      "postal_code": "2416",
+      "country_code": "MK",
+      "latitude": 41.5253,
+      "longitude": 22.6753,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bosilovo",
+      "postal_code": "2431",
+      "country_code": "MK",
+      "latitude": 41.4406,
+      "longitude": 22.7278,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dihovo",
+      "postal_code": "7205",
+      "country_code": "MK",
+      "latitude": 41.0303,
+      "longitude": 21.2639,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vitoliste",
+      "postal_code": "7508",
+      "country_code": "MK",
+      "latitude": 41.1808,
+      "longitude": 21.8267,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Aracinovo",
+      "postal_code": "1045",
+      "country_code": "MK",
+      "latitude": 42.0264,
+      "longitude": 21.5619,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zirovnica",
+      "postal_code": "1255",
+      "country_code": "MK",
+      "latitude": 41.6744,
+      "longitude": 20.5858,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zeglane",
+      "postal_code": "1302",
+      "country_code": "MK",
+      "latitude": 42.2625,
+      "longitude": 21.9108,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veles",
+      "postal_code": "1400",
+      "country_code": "MK",
+      "latitude": 41.7156,
+      "longitude": 21.7756,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pepeliste",
+      "postal_code": "1441",
+      "country_code": "MK",
+      "latitude": 41.5189,
+      "longitude": 22.1283,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Negorci",
+      "postal_code": "1483",
+      "country_code": "MK",
+      "latitude": 41.1836,
+      "longitude": 22.4847,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Radovis",
+      "postal_code": "2420",
+      "country_code": "MK",
+      "latitude": 41.6383,
+      "longitude": 22.4647,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Konce",
+      "postal_code": "2424",
+      "country_code": "MK",
+      "latitude": 41.4958,
+      "longitude": 22.385,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Drugovo",
+      "postal_code": "6261",
+      "country_code": "MK",
+      "latitude": 41.4842,
+      "longitude": 20.9233,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Labunista",
+      "postal_code": "6336",
+      "country_code": "MK",
+      "latitude": 41.2686,
+      "longitude": 20.5961,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Capari",
+      "postal_code": "7313",
+      "country_code": "MK",
+      "latitude": 41.0561,
+      "longitude": 21.1783,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Tearce",
+      "postal_code": "1224",
+      "country_code": "MK",
+      "latitude": 42.0744,
+      "longitude": 21.0525,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kumanovo",
+      "postal_code": "1300",
+      "country_code": "MK",
+      "latitude": 42.1322,
+      "longitude": 21.7144,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bogomila",
+      "postal_code": "1415",
+      "country_code": "MK",
+      "latitude": 41.5931,
+      "longitude": 21.4717,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Probishtip",
+      "postal_code": "2210",
+      "country_code": "MK",
+      "latitude": 42.0031,
+      "longitude": 22.1786,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Orizari",
+      "postal_code": "2302",
+      "country_code": "MK",
+      "latitude": 41.9228,
+      "longitude": 22.4469,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zrnovci",
+      "postal_code": "2305",
+      "country_code": "MK",
+      "latitude": 41.8542,
+      "longitude": 22.4444,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dracevo",
+      "postal_code": "2436",
+      "country_code": "MK",
+      "latitude": 41.9367,
+      "longitude": 21.5217,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Celopeci",
+      "postal_code": "6259",
+      "country_code": "MK",
+      "latitude": 41.4725,
+      "longitude": 21.0286,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rastanski Pat",
+      "postal_code": "6260",
+      "country_code": "MK",
+      "latitude": 41.716,
+      "longitude": 21.7641,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dedebalci",
+      "postal_code": "7212",
+      "country_code": "MK",
+      "latitude": 41.1164,
+      "longitude": 21.4842,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mogila",
+      "postal_code": "7216",
+      "country_code": "MK",
+      "latitude": 41.1083,
+      "longitude": 21.3786,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jankovec",
+      "postal_code": "7320",
+      "country_code": "MK",
+      "latitude": 41.1103,
+      "longitude": 21.0114,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dunje",
+      "postal_code": "7506",
+      "country_code": "MK",
+      "latitude": 41.2575,
+      "longitude": 21.6922,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dzepciste",
+      "postal_code": "1212",
+      "country_code": "MK",
+      "latitude": 42.0328,
+      "longitude": 21.0,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rankovce",
+      "postal_code": "1316",
+      "country_code": "MK",
+      "latitude": 42.1819,
+      "longitude": 22.1228,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Cesinovo",
+      "postal_code": "2333",
+      "country_code": "MK",
+      "latitude": 41.8714,
+      "longitude": 22.2892,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vrapciste",
+      "postal_code": "1238",
+      "country_code": "MK",
+      "latitude": 41.8339,
+      "longitude": 20.8853,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Makedonski Brod",
+      "postal_code": "6530",
+      "country_code": "MK",
+      "latitude": 41.5136,
+      "longitude": 21.2153,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Resen",
+      "postal_code": "7310",
+      "country_code": "MK",
+      "latitude": 41.0889,
+      "longitude": 21.0122,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Otesevo",
+      "postal_code": "7319",
+      "country_code": "MK",
+      "latitude": 40.9833,
+      "longitude": 20.9167,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dolni Disan",
+      "postal_code": "1443",
+      "country_code": "MK",
+      "latitude": 41.4283,
+      "longitude": 22.0956,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Makedonska Kamenica",
+      "postal_code": "2304",
+      "country_code": "MK",
+      "latitude": 42.02,
+      "longitude": 22.5919,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Istibanja",
+      "postal_code": "2312",
+      "country_code": "MK",
+      "latitude": 41.9297,
+      "longitude": 22.5025,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Delcevo",
+      "postal_code": "2320",
+      "country_code": "MK",
+      "latitude": 41.9672,
+      "longitude": 22.7694,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trabotiviste",
+      "postal_code": "2325",
+      "country_code": "MK",
+      "latitude": 41.8875,
+      "longitude": 22.8167,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Petralinci",
+      "postal_code": "2430",
+      "country_code": "MK",
+      "latitude": 41.4706,
+      "longitude": 22.7269,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Calakli",
+      "postal_code": "2461",
+      "country_code": "MK",
+      "latitude": 41.3033,
+      "longitude": 22.64,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bistrica",
+      "postal_code": "7221",
+      "country_code": "MK",
+      "latitude": 40.9833,
+      "longitude": 21.3667,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krivogastani",
+      "postal_code": "7524",
+      "country_code": "MK",
+      "latitude": 41.3361,
+      "longitude": 21.3331,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pirok",
+      "postal_code": "1214",
+      "country_code": "MK",
+      "latitude": 41.9108,
+      "longitude": 20.9106,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Matejce",
+      "postal_code": "1306",
+      "country_code": "MK",
+      "latitude": 42.1256,
+      "longitude": 21.5978,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Izvor",
+      "postal_code": "1414",
+      "country_code": "MK",
+      "latitude": 41.5547,
+      "longitude": 21.6972,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dragobraste",
+      "postal_code": "2316",
+      "country_code": "MK",
+      "latitude": 41.8972,
+      "longitude": 22.5994,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Budinarci",
+      "postal_code": "2332",
+      "country_code": "MK",
+      "latitude": 41.7642,
+      "longitude": 22.7756,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ohrid",
+      "postal_code": "6000",
+      "country_code": "MK",
+      "latitude": 41.1172,
+      "longitude": 20.8019,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velesta",
+      "postal_code": "6334",
+      "country_code": "MK",
+      "latitude": 41.2408,
+      "longitude": 20.6439,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Slivovo",
+      "postal_code": "6346",
+      "country_code": "MK",
+      "latitude": 41.4056,
+      "longitude": 20.845,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kostinci",
+      "postal_code": "7505",
+      "country_code": "MK",
+      "latitude": 41.5017,
+      "longitude": 21.4069,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Skopje-Gjorce Petrov",
+      "postal_code": "1060",
+      "country_code": "MK",
+      "latitude": 42.0609,
+      "longitude": 21.3193,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mlado Nagoricane",
+      "postal_code": "1312",
+      "country_code": "MK",
+      "latitude": 42.1703,
+      "longitude": 21.8017,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Oblesevo",
+      "postal_code": "2301",
+      "country_code": "MK",
+      "latitude": 41.8833,
+      "longitude": 22.3339,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Malo Crsko",
+      "postal_code": "6245",
+      "country_code": "MK",
+      "latitude": 41.4028,
+      "longitude": 21.0017,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Skopje-Dracevo",
+      "postal_code": "1050",
+      "country_code": "MK",
+      "latitude": 41.9367,
+      "longitude": 21.5217,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zidilovo",
+      "postal_code": "1335",
+      "country_code": "MK",
+      "latitude": 42.225,
+      "longitude": 22.3958,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nov Dojran",
+      "postal_code": "1485",
+      "country_code": "MK",
+      "latitude": 41.2206,
+      "longitude": 22.7061,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Udovo",
+      "postal_code": "2464",
+      "country_code": "MK",
+      "latitude": 41.3431,
+      "longitude": 22.4428,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Delgozda",
+      "postal_code": "6338",
+      "country_code": "MK",
+      "latitude": 41.2573,
+      "longitude": 20.7218,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Valandovo",
+      "postal_code": "2460",
+      "country_code": "MK",
+      "latitude": 41.3169,
+      "longitude": 22.5611,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Strelci",
+      "postal_code": "6262",
+      "country_code": "MK",
+      "latitude": 41.5372,
+      "longitude": 21.0036,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kukurecani",
+      "postal_code": "7241",
+      "country_code": "MK",
+      "latitude": 41.0956,
+      "longitude": 21.3256,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kazani",
+      "postal_code": "7314",
+      "country_code": "MK",
+      "latitude": 41.0653,
+      "longitude": 21.1472,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Asamati",
+      "postal_code": "7316",
+      "country_code": "MK",
+      "latitude": 40.9864,
+      "longitude": 21.0511,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dolneni",
+      "postal_code": "7504",
+      "country_code": "MK",
+      "latitude": 41.4253,
+      "longitude": 21.4547,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kanatlarci",
+      "postal_code": "7514",
+      "country_code": "MK",
+      "latitude": 41.2103,
+      "longitude": 21.5033,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Skopje-Karpos 3",
+      "postal_code": "1020",
+      "country_code": "MK",
+      "latitude": 41.9367,
+      "longitude": 21.5217,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Miladinovci",
+      "postal_code": "1042",
+      "country_code": "MK",
+      "latitude": 41.9781,
+      "longitude": 21.6494,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Radusa",
+      "postal_code": "1062",
+      "country_code": "MK",
+      "latitude": 42.085,
+      "longitude": 21.2106,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zerovjane",
+      "postal_code": "1213",
+      "country_code": "MK",
+      "latitude": 41.9153,
+      "longitude": 20.9478,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jegunovce",
+      "postal_code": "1215",
+      "country_code": "MK",
+      "latitude": 42.0736,
+      "longitude": 21.1236,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grupcin",
+      "postal_code": "1218",
+      "country_code": "MK",
+      "latitude": 41.9678,
+      "longitude": 21.1303,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Drenovo",
+      "postal_code": "1423",
+      "country_code": "MK",
+      "latitude": 41.4194,
+      "longitude": 21.89,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kosturino",
+      "postal_code": "2413",
+      "country_code": "MK",
+      "latitude": 41.3572,
+      "longitude": 22.6094,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Oslomej",
+      "postal_code": "6254",
+      "country_code": "MK",
+      "latitude": 41.5772,
+      "longitude": 21.0,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Belcista",
+      "postal_code": "6344",
+      "country_code": "MK",
+      "latitude": 41.3028,
+      "longitude": 20.8303,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zvan",
+      "postal_code": "7244",
+      "country_code": "MK",
+      "latitude": 41.2878,
+      "longitude": 21.1208,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Cegrane",
+      "postal_code": "1237",
+      "country_code": "MK",
+      "latitude": 41.8389,
+      "longitude": 20.9758,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pehcevo",
+      "postal_code": "2326",
+      "country_code": "MK",
+      "latitude": 41.7594,
+      "longitude": 22.8906,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podares",
+      "postal_code": "2423",
+      "country_code": "MK",
+      "latitude": 41.6139,
+      "longitude": 22.5422,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Demir Hisar",
+      "postal_code": "7240",
+      "country_code": "MK",
+      "latitude": 41.2217,
+      "longitude": 21.2031,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krani",
+      "postal_code": "7317",
+      "country_code": "MK",
+      "latitude": 40.9394,
+      "longitude": 21.1086,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Katlanovo",
+      "postal_code": "1044",
+      "country_code": "MK",
+      "latitude": 41.8944,
+      "longitude": 21.6831,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Golema Recica",
+      "postal_code": "1219",
+      "country_code": "MK",
+      "latitude": 41.9903,
+      "longitude": 20.9458,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dubrovnica",
+      "postal_code": "1334",
+      "country_code": "MK",
+      "latitude": 42.2772,
+      "longitude": 22.3239,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lozovo",
+      "postal_code": "2208",
+      "country_code": "MK",
+      "latitude": 41.7839,
+      "longitude": 21.9056,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Amzabegovo",
+      "postal_code": "2227",
+      "country_code": "MK",
+      "latitude": 41.8119,
+      "longitude": 21.9947,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trebenista",
+      "postal_code": "6341",
+      "country_code": "MK",
+      "latitude": 41.2064,
+      "longitude": 20.755,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Carev Dvor",
+      "postal_code": "7315",
+      "country_code": "MK",
+      "latitude": 41.0431,
+      "longitude": 21.0072,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lazani",
+      "postal_code": "7507",
+      "country_code": "MK",
+      "latitude": 41.4422,
+      "longitude": 21.3158,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kuceviste",
+      "postal_code": "1011",
+      "country_code": "MK",
+      "latitude": 42.1097,
+      "longitude": 21.4181,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brvenica",
+      "postal_code": "1216",
+      "country_code": "MK",
+      "latitude": 41.9672,
+      "longitude": 20.9808,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stracin",
+      "postal_code": "1361",
+      "country_code": "MK",
+      "latitude": 42.1506,
+      "longitude": 22.0322,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Oktisi",
+      "postal_code": "6339",
+      "country_code": "MK",
+      "latitude": 41.2325,
+      "longitude": 20.6072,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dolni Manastirec",
+      "postal_code": "6533",
+      "country_code": "MK",
+      "latitude": 41.6269,
+      "longitude": 21.2106,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dvorci",
+      "postal_code": "6539",
+      "country_code": "MK",
+      "latitude": 41.4647,
+      "longitude": 21.0928,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vratnica",
+      "postal_code": "1225",
+      "country_code": "MK",
+      "latitude": 42.1433,
+      "longitude": 21.1169,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Skudrinje",
+      "postal_code": "1257",
+      "country_code": "MK",
+      "latitude": 41.5656,
+      "longitude": 20.6094,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kriva Palanka",
+      "postal_code": "1330",
+      "country_code": "MK",
+      "latitude": 42.2019,
+      "longitude": 22.3319,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Karbinci",
+      "postal_code": "2207",
+      "country_code": "MK",
+      "latitude": 41.8167,
+      "longitude": 22.2375,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mokrievo",
+      "postal_code": "2435",
+      "country_code": "MK",
+      "latitude": 41.375,
+      "longitude": 22.8386,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dlapkin Dol",
+      "postal_code": "6257",
+      "country_code": "MK",
+      "latitude": 41.5592,
+      "longitude": 20.9353,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Tabanovce",
+      "postal_code": "1308",
+      "country_code": "MK",
+      "latitude": 42.2147,
+      "longitude": 21.7083,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Star Dojran",
+      "postal_code": "1487",
+      "country_code": "MK",
+      "latitude": 41.1875,
+      "longitude": 22.7208,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zajas",
+      "postal_code": "6253",
+      "country_code": "MK",
+      "latitude": 41.6072,
+      "longitude": 20.9383,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Meseista",
+      "postal_code": "6342",
+      "country_code": "MK",
+      "latitude": 41.2386,
+      "longitude": 20.7767,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vodani",
+      "postal_code": "7525",
+      "country_code": "MK",
+      "latitude": 41.2836,
+      "longitude": 21.3394,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krusevo",
+      "postal_code": "7550",
+      "country_code": "MK",
+      "latitude": 41.3689,
+      "longitude": 21.2489,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Klecovce",
+      "postal_code": "1304",
+      "country_code": "MK",
+      "latitude": 42.1161,
+      "longitude": 21.8572,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vaksince",
+      "postal_code": "1324",
+      "country_code": "MK",
+      "latitude": 42.2061,
+      "longitude": 21.6631,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rosoman",
+      "postal_code": "1422",
+      "country_code": "MK",
+      "latitude": 41.5161,
+      "longitude": 21.9497,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Erdzelija",
+      "postal_code": "2225",
+      "country_code": "MK",
+      "latitude": 41.8353,
+      "longitude": 22.0356,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Radolista",
+      "postal_code": "6333",
+      "country_code": "MK",
+      "latitude": 41.1642,
+      "longitude": 20.6233,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Staravina",
+      "postal_code": "7214",
+      "country_code": "MK",
+      "latitude": 41.0897,
+      "longitude": 21.7339,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dobrusevo",
+      "postal_code": "7215",
+      "country_code": "MK",
+      "latitude": 41.1686,
+      "longitude": 21.4825,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Negotino-Gostivarsko",
+      "postal_code": "1235",
+      "country_code": "MK",
+      "latitude": 41.4846,
+      "longitude": 22.0906,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vozarci",
+      "postal_code": "1424",
+      "country_code": "MK",
+      "latitude": 41.43,
+      "longitude": 21.9247,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kavadarci",
+      "postal_code": "1430",
+      "country_code": "MK",
+      "latitude": 41.4331,
+      "longitude": 22.0119,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Resava",
+      "postal_code": "1434",
+      "country_code": "MK",
+      "latitude": 41.3881,
+      "longitude": 21.9781,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dolno Orizari",
+      "postal_code": "7204",
+      "country_code": "MK",
+      "latitude": 41.0503,
+      "longitude": 21.3794,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Orasec",
+      "postal_code": "1305",
+      "country_code": "MK",
+      "latitude": 42.0625,
+      "longitude": 21.7997,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Berovo",
+      "postal_code": "2330",
+      "country_code": "MK",
+      "latitude": 41.7031,
+      "longitude": 22.8578,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Petralnica",
+      "postal_code": "1332",
+      "country_code": "MK",
+      "latitude": 42.2083,
+      "longitude": 22.1872,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stojakovo",
+      "postal_code": "1488",
+      "country_code": "MK",
+      "latitude": 41.1556,
+      "longitude": 22.5775,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gorni Podlog",
+      "postal_code": "2307",
+      "country_code": "MK",
+      "latitude": 41.8881,
+      "longitude": 22.3814,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vladevci / Radicevo sobiraliste",
+      "postal_code": "2412",
+      "country_code": "MK",
+      "latitude": 41.5208,
+      "longitude": 22.5914,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Smilevo",
+      "postal_code": "7202",
+      "country_code": "MK",
+      "latitude": 41.155,
+      "longitude": 21.1111,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ilinden",
+      "postal_code": "1041",
+      "country_code": "MK",
+      "latitude": 41.9961,
+      "longitude": 21.5822,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Tetovo",
+      "postal_code": "1200",
+      "country_code": "MK",
+      "latitude": 42.0106,
+      "longitude": 20.9714,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Staro Negoricane",
+      "postal_code": "1303",
+      "country_code": "MK",
+      "latitude": 42.1981,
+      "longitude": 21.8286,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gorno Orizari",
+      "postal_code": "1408",
+      "country_code": "MK",
+      "latitude": 41.6858,
+      "longitude": 21.7336,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Debreshe",
+      "postal_code": "1234",
+      "country_code": "MK",
+      "latitude": 41.8159,
+      "longitude": 20.8842,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Strumica",
+      "postal_code": "2400",
+      "country_code": "MK",
+      "latitude": 41.4375,
+      "longitude": 22.6433,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Makovo",
+      "postal_code": "7213",
+      "country_code": "MK",
+      "latitude": 41.1186,
+      "longitude": 21.6094,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Keremenica",
+      "postal_code": "7224",
+      "country_code": "MK",
+      "latitude": 40.9242,
+      "longitude": 21.4585,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljubojno",
+      "postal_code": "7318",
+      "country_code": "MK",
+      "latitude": 40.8942,
+      "longitude": 21.1408,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Golemo Konjari",
+      "postal_code": "7509",
+      "country_code": "MK",
+      "latitude": 41.3431,
+      "longitude": 21.4403,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Debreste",
+      "postal_code": "7537",
+      "country_code": "MK",
+      "latitude": 41.4797,
+      "longitude": 21.3153,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Celopek",
+      "postal_code": "1227",
+      "country_code": "MK",
+      "latitude": 41.9317,
+      "longitude": 21.0133,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lipkovo",
+      "postal_code": "1307",
+      "country_code": "MK",
+      "latitude": 42.1564,
+      "longitude": 21.5853,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Otlja",
+      "postal_code": "1315",
+      "country_code": "MK",
+      "latitude": 42.1439,
+      "longitude": 21.5878,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Negotino",
+      "postal_code": "1440",
+      "country_code": "MK",
+      "latitude": 41.4839,
+      "longitude": 22.0892,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vladimirovo",
+      "postal_code": "2331",
+      "country_code": "MK",
+      "latitude": 41.71,
+      "longitude": 22.7928,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Murtino",
+      "postal_code": "2432",
+      "country_code": "MK",
+      "latitude": 41.4153,
+      "longitude": 22.7267,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kicevo",
+      "postal_code": "6250",
+      "country_code": "MK",
+      "latitude": 41.5144,
+      "longitude": 20.9633,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Prilep",
+      "postal_code": "7500",
+      "country_code": "MK",
+      "latitude": 41.3464,
+      "longitude": 21.5544,
+      "admin_name1": null
+    }
+  ]
+]

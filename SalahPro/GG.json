@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "place_name": "Torteval",
+      "postal_code": "GY8",
+      "country_code": "GG",
+      "latitude": 49.4333,
+      "longitude": -2.65,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Alderney",
+      "postal_code": "GY9",
+      "country_code": "GG",
+      "latitude": 49.71,
+      "longitude": -2.2,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Forest",
+      "postal_code": "GY8",
+      "country_code": "GG",
+      "latitude": 49.4258,
+      "longitude": -2.5919,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Saint Andrew",
+      "postal_code": "GY6",
+      "country_code": "GG",
+      "latitude": 49.4519,
+      "longitude": -2.5729,
+      "admin_name1": null
+    },
+    {
+      "place_name": "St Sampsons",
+      "postal_code": "GY2",
+      "country_code": "GG",
+      "latitude": 49.45,
+      "longitude": -2.6,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Delancey",
+      "postal_code": "GY2",
+      "country_code": "GG",
+      "latitude": 49.45,
+      "longitude": -2.6,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Saint Saviour",
+      "postal_code": "GY7",
+      "country_code": "GG",
+      "latitude": 49.4569,
+      "longitude": -2.6358,
+      "admin_name1": null
+    }
+  ]
+]

@@ -1,0 +1,8228 @@
+[
+  [
+    {
+      "place_name": "Smederevo",
+      "postal_code": "11300",
+      "country_code": "RS",
+      "latitude": 44.6644,
+      "longitude": 20.9276,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Osipaonica",
+      "postal_code": "11314",
+      "country_code": "RS",
+      "latitude": 44.5461,
+      "longitude": 21.0548,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ratari",
+      "postal_code": "11411",
+      "country_code": "RS",
+      "latitude": 44.3537,
+      "longitude": 20.8298,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Beljina",
+      "postal_code": "11461",
+      "country_code": "RS",
+      "latitude": 44.5153,
+      "longitude": 20.406,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Braničevo",
+      "postal_code": "12222",
+      "country_code": "RS",
+      "latitude": 44.705,
+      "longitude": 21.5383,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bare",
+      "postal_code": "12227",
+      "country_code": "RS",
+      "latitude": 44.6468,
+      "longitude": 21.3306,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vinci",
+      "postal_code": "12229",
+      "country_code": "RS",
+      "latitude": 44.711,
+      "longitude": 21.6061,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Voluja",
+      "postal_code": "12256",
+      "country_code": "RS",
+      "latitude": 44.4915,
+      "longitude": 21.765,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Osanica",
+      "postal_code": "12317",
+      "country_code": "RS",
+      "latitude": 44.2813,
+      "longitude": 21.6677,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ub",
+      "postal_code": "14210",
+      "country_code": "RS",
+      "latitude": 44.4561,
+      "longitude": 20.0739,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Debrc",
+      "postal_code": "15214",
+      "country_code": "RS",
+      "latitude": 44.6227,
+      "longitude": 19.9027,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Cerovac",
+      "postal_code": "15224",
+      "country_code": "RS",
+      "latitude": 44.6771,
+      "longitude": 19.7514,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vladimirci",
+      "postal_code": "15225",
+      "country_code": "RS",
+      "latitude": 44.6147,
+      "longitude": 19.7853,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Badovinci",
+      "postal_code": "15358",
+      "country_code": "RS",
+      "latitude": 44.7853,
+      "longitude": 19.3715,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Radovnica",
+      "postal_code": "17561",
+      "country_code": "RS",
+      "latitude": 42.4336,
+      "longitude": 22.2286,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Guševac",
+      "postal_code": "18208",
+      "country_code": "RS",
+      "latitude": 43.3914,
+      "longitude": 22.2752,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donja Trnava",
+      "postal_code": "18421",
+      "country_code": "RS",
+      "latitude": 43.2541,
+      "longitude": 21.5327,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kuršumlijska Banja",
+      "postal_code": "18435",
+      "country_code": "RS",
+      "latitude": 43.1896,
+      "longitude": 21.2124,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gamzigradska Banja",
+      "postal_code": "19228",
+      "country_code": "RS",
+      "latitude": 44.1452,
+      "longitude": 22.2265,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vratarnica",
+      "postal_code": "19344",
+      "country_code": "RS",
+      "latitude": 43.7949,
+      "longitude": 22.3034,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Boljevac",
+      "postal_code": "19370",
+      "country_code": "RS",
+      "latitude": 43.8303,
+      "longitude": 21.9531,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Savinac",
+      "postal_code": "19377",
+      "country_code": "RS",
+      "latitude": 43.9056,
+      "longitude": 22.0423,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vajska",
+      "postal_code": "21426",
+      "country_code": "RS",
+      "latitude": 45.4108,
+      "longitude": 19.1119,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Privina Glava",
+      "postal_code": "22257",
+      "country_code": "RS",
+      "latitude": 45.1419,
+      "longitude": 19.2958,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vrdnik",
+      "postal_code": "22408",
+      "country_code": "RS",
+      "latitude": 45.1217,
+      "longitude": 19.7923,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stajićevo",
+      "postal_code": "23204",
+      "country_code": "RS",
+      "latitude": 45.2949,
+      "longitude": 20.4584,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lukićevo",
+      "postal_code": "23261",
+      "country_code": "RS",
+      "latitude": 45.3382,
+      "longitude": 20.4989,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sanad",
+      "postal_code": "23331",
+      "country_code": "RS",
+      "latitude": 45.976,
+      "longitude": 20.1082,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stari Žednik",
+      "postal_code": "24224",
+      "country_code": "RS",
+      "latitude": 45.9486,
+      "longitude": 19.6303,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Glogonj",
+      "postal_code": "26202",
+      "country_code": "RS",
+      "latitude": 44.9864,
+      "longitude": 20.5275,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vršac",
+      "postal_code": "26300",
+      "country_code": "RS",
+      "latitude": 45.1167,
+      "longitude": 21.3036,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gudurica",
+      "postal_code": "26335",
+      "country_code": "RS",
+      "latitude": 45.1682,
+      "longitude": 21.4426,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jasenovo",
+      "postal_code": "26346",
+      "country_code": "RS",
+      "latitude": 44.9359,
+      "longitude": 21.3014,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bresnica",
+      "postal_code": "32213",
+      "country_code": "RS",
+      "latitude": 43.8745,
+      "longitude": 20.5901,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ovčar Banja",
+      "postal_code": "32242",
+      "country_code": "RS",
+      "latitude": 43.8981,
+      "longitude": 20.1858,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornja Sabanta",
+      "postal_code": "34206",
+      "country_code": "RS",
+      "latitude": 43.942,
+      "longitude": 21.0037,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bukurovac",
+      "postal_code": "34217",
+      "country_code": "RS",
+      "latitude": 44.0178,
+      "longitude": 21.0629,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ranilović",
+      "postal_code": "34302",
+      "country_code": "RS",
+      "latitude": 44.3981,
+      "longitude": 20.5168,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Potočac",
+      "postal_code": "35207",
+      "country_code": "RS",
+      "latitude": 43.8148,
+      "longitude": 21.3153,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donja Mutnica",
+      "postal_code": "35255",
+      "country_code": "RS",
+      "latitude": 43.8517,
+      "longitude": 21.5613,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Glavinci",
+      "postal_code": "35261",
+      "country_code": "RS",
+      "latitude": 43.9248,
+      "longitude": 21.251,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vitkovac",
+      "postal_code": "36207",
+      "country_code": "RS",
+      "latitude": 43.7948,
+      "longitude": 20.7836,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Deževa",
+      "postal_code": "36305",
+      "country_code": "RS",
+      "latitude": 43.2038,
+      "longitude": 20.4797,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donji Krčin",
+      "postal_code": "37258",
+      "country_code": "RS",
+      "latitude": 43.7351,
+      "longitude": 21.1836,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Beograd",
+      "postal_code": "11000",
+      "country_code": "RS",
+      "latitude": 44.804,
+      "longitude": 20.4651,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Azanja",
+      "postal_code": "11423",
+      "country_code": "RS",
+      "latitude": 44.4331,
+      "longitude": 20.8797,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Junkovac",
+      "postal_code": "11562",
+      "country_code": "RS",
+      "latitude": 44.4496,
+      "longitude": 20.3492,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Leskovac",
+      "postal_code": "16000",
+      "country_code": "RS",
+      "latitude": 42.9981,
+      "longitude": 21.9461,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ruplje",
+      "postal_code": "16223",
+      "country_code": "RS",
+      "latitude": 42.8395,
+      "longitude": 22.2255,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vladičin Han",
+      "postal_code": "17510",
+      "country_code": "RS",
+      "latitude": 42.7078,
+      "longitude": 22.0633,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bistar",
+      "postal_code": "17546",
+      "country_code": "RS",
+      "latitude": 42.3744,
+      "longitude": 22.4394,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sečanica",
+      "postal_code": "18203",
+      "country_code": "RS",
+      "latitude": 43.3737,
+      "longitude": 21.75,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krivi Vir",
+      "postal_code": "19375",
+      "country_code": "RS",
+      "latitude": 43.8231,
+      "longitude": 21.749,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rumenka",
+      "postal_code": "21201",
+      "country_code": "RS",
+      "latitude": 45.294,
+      "longitude": 19.7431,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sremska Kamenica",
+      "postal_code": "21208",
+      "country_code": "RS",
+      "latitude": 45.2233,
+      "longitude": 19.8426,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Turija",
+      "postal_code": "21215",
+      "country_code": "RS",
+      "latitude": 45.5386,
+      "longitude": 19.8564,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bač",
+      "postal_code": "21420",
+      "country_code": "RS",
+      "latitude": 45.3919,
+      "longitude": 19.2367,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Erdevik",
+      "postal_code": "22230",
+      "country_code": "RS",
+      "latitude": 45.1172,
+      "longitude": 19.4088,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gibarac",
+      "postal_code": "22258",
+      "country_code": "RS",
+      "latitude": 45.1039,
+      "longitude": 19.2637,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sremski Mihaljevci",
+      "postal_code": "22413",
+      "country_code": "RS",
+      "latitude": 44.8587,
+      "longitude": 20.0408,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sibač",
+      "postal_code": "22440",
+      "country_code": "RS",
+      "latitude": 44.906,
+      "longitude": 19.9334,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Srpski Itebej",
+      "postal_code": "23233",
+      "country_code": "RS",
+      "latitude": 45.5672,
+      "longitude": 20.7135,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Međa",
+      "postal_code": "23234",
+      "country_code": "RS",
+      "latitude": 45.5381,
+      "longitude": 20.8068,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pobeda",
+      "postal_code": "24313",
+      "country_code": "RS",
+      "latitude": 45.7613,
+      "longitude": 19.7906,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kevi",
+      "postal_code": "24407",
+      "country_code": "RS",
+      "latitude": 45.8503,
+      "longitude": 19.8803,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šupljak",
+      "postal_code": "24418",
+      "country_code": "RS",
+      "latitude": 46.1128,
+      "longitude": 19.8129,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lalić",
+      "postal_code": "25234",
+      "country_code": "RS",
+      "latitude": 45.5193,
+      "longitude": 19.3658,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pločica",
+      "postal_code": "26229",
+      "country_code": "RS",
+      "latitude": 44.7203,
+      "longitude": 20.8842,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vojvodinci",
+      "postal_code": "26338",
+      "country_code": "RS",
+      "latitude": 45.0156,
+      "longitude": 21.3479,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Seleuš",
+      "postal_code": "26351",
+      "country_code": "RS",
+      "latitude": 45.1277,
+      "longitude": 20.9146,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Požega",
+      "postal_code": "31210",
+      "country_code": "RS",
+      "latitude": 43.8489,
+      "longitude": 20.0363,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kokin Brod",
+      "postal_code": "31318",
+      "country_code": "RS",
+      "latitude": 43.5144,
+      "longitude": 19.8014,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kaona",
+      "postal_code": "32234",
+      "country_code": "RS",
+      "latitude": 43.7118,
+      "longitude": 20.4064,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Boljkovci",
+      "postal_code": "32312",
+      "country_code": "RS",
+      "latitude": 44.1435,
+      "longitude": 20.3456,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Knić",
+      "postal_code": "34240",
+      "country_code": "RS",
+      "latitude": 43.9269,
+      "longitude": 20.7189,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bobovo",
+      "postal_code": "35217",
+      "country_code": "RS",
+      "latitude": 44.237,
+      "longitude": 21.2751,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ribare",
+      "postal_code": "35220",
+      "country_code": "RS",
+      "latitude": 44.0101,
+      "longitude": 21.2851,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kolare",
+      "postal_code": "35242",
+      "country_code": "RS",
+      "latitude": 43.9012,
+      "longitude": 21.2416,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Plana",
+      "postal_code": "35247",
+      "country_code": "RS",
+      "latitude": 43.8204,
+      "longitude": 21.5474,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dragocvet",
+      "postal_code": "35272",
+      "country_code": "RS",
+      "latitude": 43.9404,
+      "longitude": 21.2139,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novi Pazar",
+      "postal_code": "36300",
+      "country_code": "RS",
+      "latitude": 43.1367,
+      "longitude": 20.5122,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rudnica",
+      "postal_code": "36353",
+      "country_code": "RS",
+      "latitude": 43.2368,
+      "longitude": 20.6844,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Razbojna",
+      "postal_code": "37223",
+      "country_code": "RS",
+      "latitude": 43.3471,
+      "longitude": 21.1659,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velika Drenova",
+      "postal_code": "37245",
+      "country_code": "RS",
+      "latitude": 43.6269,
+      "longitude": 21.1299,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kriva Reka",
+      "postal_code": "37282",
+      "country_code": "RS",
+      "latitude": 43.3747,
+      "longitude": 20.8799,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Leštane",
+      "postal_code": "11309",
+      "country_code": "RS",
+      "latitude": 44.7312,
+      "longitude": 20.5757,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vranovo",
+      "postal_code": "11329",
+      "country_code": "RS",
+      "latitude": 44.601,
+      "longitude": 20.9945,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velika Ivanča",
+      "postal_code": "11414",
+      "country_code": "RS",
+      "latitude": 44.4264,
+      "longitude": 20.5803,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veliki Crljeni",
+      "postal_code": "11563",
+      "country_code": "RS",
+      "latitude": 44.4722,
+      "longitude": 20.2907,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Melnica",
+      "postal_code": "12305",
+      "country_code": "RS",
+      "latitude": 44.3921,
+      "longitude": 21.5336,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljig",
+      "postal_code": "14240",
+      "country_code": "RS",
+      "latitude": 44.2301,
+      "longitude": 20.2382,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brežđe",
+      "postal_code": "14244",
+      "country_code": "RS",
+      "latitude": 44.1726,
+      "longitude": 20.0606,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krupanj",
+      "postal_code": "15314",
+      "country_code": "RS",
+      "latitude": 44.3656,
+      "longitude": 19.3619,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velika Reka",
+      "postal_code": "15322",
+      "country_code": "RS",
+      "latitude": 44.27,
+      "longitude": 19.2281,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Drlače",
+      "postal_code": "15324",
+      "country_code": "RS",
+      "latitude": 44.1432,
+      "longitude": 19.4889,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Orane",
+      "postal_code": "16233",
+      "country_code": "RS",
+      "latitude": 42.9863,
+      "longitude": 21.6278,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vranje",
+      "postal_code": "17501",
+      "country_code": "RS",
+      "latitude": 42.5514,
+      "longitude": 21.9003,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornja Lisina",
+      "postal_code": "17538",
+      "country_code": "RS",
+      "latitude": 42.5579,
+      "longitude": 22.3632,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dugo Polje",
+      "postal_code": "18237",
+      "country_code": "RS",
+      "latitude": 43.6286,
+      "longitude": 21.9523,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jugbogdanovac",
+      "postal_code": "18253",
+      "country_code": "RS",
+      "latitude": 43.2855,
+      "longitude": 21.7795,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velika Plana",
+      "postal_code": "18403",
+      "country_code": "RS",
+      "latitude": 43.3209,
+      "longitude": 21.4405,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rudna Glava",
+      "postal_code": "19257",
+      "country_code": "RS",
+      "latitude": 44.3406,
+      "longitude": 22.0642,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podvrška",
+      "postal_code": "19321",
+      "country_code": "RS",
+      "latitude": 44.5852,
+      "longitude": 22.4994,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Knjaževac",
+      "postal_code": "19350",
+      "country_code": "RS",
+      "latitude": 43.5663,
+      "longitude": 22.257,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šarbanovac",
+      "postal_code": "19373",
+      "country_code": "RS",
+      "latitude": 43.9613,
+      "longitude": 22.0752,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čerević",
+      "postal_code": "21311",
+      "country_code": "RS",
+      "latitude": 45.2201,
+      "longitude": 19.6625,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Plavna",
+      "postal_code": "21428",
+      "country_code": "RS",
+      "latitude": 45.3491,
+      "longitude": 19.1269,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Parage",
+      "postal_code": "21434",
+      "country_code": "RS",
+      "latitude": 45.4147,
+      "longitude": 19.4031,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kucura",
+      "postal_code": "21466",
+      "country_code": "RS",
+      "latitude": 45.5205,
+      "longitude": 19.5887,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kukujevci",
+      "postal_code": "22224",
+      "country_code": "RS",
+      "latitude": 45.0697,
+      "longitude": 19.3407,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Berkasovo",
+      "postal_code": "22242",
+      "country_code": "RS",
+      "latitude": 45.1459,
+      "longitude": 19.2527,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Višnjićevo",
+      "postal_code": "22246",
+      "country_code": "RS",
+      "latitude": 44.9673,
+      "longitude": 19.2899,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Surduk",
+      "postal_code": "22307",
+      "country_code": "RS",
+      "latitude": 45.0712,
+      "longitude": 20.3251,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novi Karlovci",
+      "postal_code": "22322",
+      "country_code": "RS",
+      "latitude": 45.0764,
+      "longitude": 20.1795,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nova Pazova",
+      "postal_code": "22330",
+      "country_code": "RS",
+      "latitude": 44.9437,
+      "longitude": 20.2193,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hrtkovci",
+      "postal_code": "22427",
+      "country_code": "RS",
+      "latitude": 44.8815,
+      "longitude": 19.7637,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jarkovac",
+      "postal_code": "23250",
+      "country_code": "RS",
+      "latitude": 45.2698,
+      "longitude": 20.7608,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Boka",
+      "postal_code": "23252",
+      "country_code": "RS",
+      "latitude": 45.3554,
+      "longitude": 20.8299,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jazovo",
+      "postal_code": "23327",
+      "country_code": "RS",
+      "latitude": 45.8988,
+      "longitude": 20.2213,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Đurđin",
+      "postal_code": "24213",
+      "country_code": "RS",
+      "latitude": 46.0136,
+      "longitude": 19.493,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mali Iđoš",
+      "postal_code": "24321",
+      "country_code": "RS",
+      "latitude": 45.7083,
+      "longitude": 19.6653,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bajša",
+      "postal_code": "24331",
+      "country_code": "RS",
+      "latitude": 45.7799,
+      "longitude": 19.5852,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trešnjevac",
+      "postal_code": "24426",
+      "country_code": "RS",
+      "latitude": 45.9789,
+      "longitude": 19.9863,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Svetozar Miletić",
+      "postal_code": "25211",
+      "country_code": "RS",
+      "latitude": 45.8522,
+      "longitude": 19.2058,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dobrica",
+      "postal_code": "26354",
+      "country_code": "RS",
+      "latitude": 45.2134,
+      "longitude": 20.8499,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velika Greda",
+      "postal_code": "26366",
+      "country_code": "RS",
+      "latitude": 45.2438,
+      "longitude": 21.035,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Takovo",
+      "postal_code": "32304",
+      "country_code": "RS",
+      "latitude": 44.0428,
+      "longitude": 20.3875,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornja Trnava",
+      "postal_code": "34324",
+      "country_code": "RS",
+      "latitude": 44.1848,
+      "longitude": 20.765,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krušar",
+      "postal_code": "35227",
+      "country_code": "RS",
+      "latitude": 44.0176,
+      "longitude": 21.3351,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sjenica",
+      "postal_code": "36310",
+      "country_code": "RS",
+      "latitude": 43.2731,
+      "longitude": 19.9994,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Konarevo",
+      "postal_code": "36340",
+      "country_code": "RS",
+      "latitude": 43.702,
+      "longitude": 20.6123,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Baljevac na Ibru",
+      "postal_code": "36344",
+      "country_code": "RS",
+      "latitude": 43.5159,
+      "longitude": 20.6346,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velika Moštanica",
+      "postal_code": "11262",
+      "country_code": "RS",
+      "latitude": 44.6649,
+      "longitude": 20.3539,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Surčin",
+      "postal_code": "11271",
+      "country_code": "RS",
+      "latitude": 44.7931,
+      "longitude": 20.2803,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mladenovac",
+      "postal_code": "11400",
+      "country_code": "RS",
+      "latitude": 44.4386,
+      "longitude": 20.6992,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velika Krsna",
+      "postal_code": "11408",
+      "country_code": "RS",
+      "latitude": 44.4784,
+      "longitude": 20.8052,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Topolovnik",
+      "postal_code": "12226",
+      "country_code": "RS",
+      "latitude": 44.7197,
+      "longitude": 21.4423,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Srednjevo",
+      "postal_code": "12253",
+      "country_code": "RS",
+      "latitude": 44.6449,
+      "longitude": 21.4893,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Malo Crniće",
+      "postal_code": "12311",
+      "country_code": "RS",
+      "latitude": 44.5561,
+      "longitude": 21.2856,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brankovina",
+      "postal_code": "14201",
+      "country_code": "RS",
+      "latitude": 44.3466,
+      "longitude": 19.8984,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljubovija",
+      "postal_code": "15320",
+      "country_code": "RS",
+      "latitude": 44.1894,
+      "longitude": 19.3767,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bogatić",
+      "postal_code": "15350",
+      "country_code": "RS",
+      "latitude": 44.8375,
+      "longitude": 19.4806,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vlasotince",
+      "postal_code": "16210",
+      "country_code": "RS",
+      "latitude": 42.967,
+      "longitude": 22.134,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brestovac",
+      "postal_code": "16253",
+      "country_code": "RS",
+      "latitude": 43.1532,
+      "longitude": 21.8777,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Borski Brestovac",
+      "postal_code": "19229",
+      "country_code": "RS",
+      "latitude": 44.1452,
+      "longitude": 22.2265,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ečka",
+      "postal_code": "23203",
+      "country_code": "RS",
+      "latitude": 45.3233,
+      "longitude": 20.4429,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banatski Despotovac",
+      "postal_code": "23242",
+      "country_code": "RS",
+      "latitude": 45.3661,
+      "longitude": 20.6641,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sutjeska",
+      "postal_code": "23244",
+      "country_code": "RS",
+      "latitude": 45.3831,
+      "longitude": 20.6962,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Knićanin",
+      "postal_code": "23265",
+      "country_code": "RS",
+      "latitude": 45.19,
+      "longitude": 20.3222,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rusko Selo",
+      "postal_code": "23314",
+      "country_code": "RS",
+      "latitude": 45.7629,
+      "longitude": 20.5712,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novi Kneževac",
+      "postal_code": "23330",
+      "country_code": "RS",
+      "latitude": 46.05,
+      "longitude": 20.1,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mokra Gora",
+      "postal_code": "31243",
+      "country_code": "RS",
+      "latitude": 43.7885,
+      "longitude": 19.5003,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mačkat",
+      "postal_code": "31312",
+      "country_code": "RS",
+      "latitude": 43.7918,
+      "longitude": 19.782,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mrčajevci",
+      "postal_code": "32210",
+      "country_code": "RS",
+      "latitude": 43.868,
+      "longitude": 20.5269,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornja Trepča",
+      "postal_code": "32215",
+      "country_code": "RS",
+      "latitude": 43.941,
+      "longitude": 20.4833,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ježevica",
+      "postal_code": "32222",
+      "country_code": "RS",
+      "latitude": 43.8205,
+      "longitude": 20.4029,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Markovica",
+      "postal_code": "32243",
+      "country_code": "RS",
+      "latitude": 43.8541,
+      "longitude": 20.2151,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Beršići",
+      "postal_code": "32305",
+      "country_code": "RS",
+      "latitude": 44.0568,
+      "longitude": 20.313,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gruža",
+      "postal_code": "34230",
+      "country_code": "RS",
+      "latitude": 43.899,
+      "longitude": 20.7694,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kaluđerica",
+      "postal_code": "11130",
+      "country_code": "RS",
+      "latitude": 44.7542,
+      "longitude": 20.5541,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ripanj",
+      "postal_code": "11232",
+      "country_code": "RS",
+      "latitude": 44.6386,
+      "longitude": 20.5214,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Saraorci",
+      "postal_code": "11315",
+      "country_code": "RS",
+      "latitude": 44.4905,
+      "longitude": 21.0816,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lozovik",
+      "postal_code": "11317",
+      "country_code": "RS",
+      "latitude": 44.4673,
+      "longitude": 21.1015,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Skela",
+      "postal_code": "11509",
+      "country_code": "RS",
+      "latitude": 44.682,
+      "longitude": 20.0576,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mirosaljci",
+      "postal_code": "11567",
+      "country_code": "RS",
+      "latitude": 44.4374,
+      "longitude": 20.4176,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kličevac",
+      "postal_code": "12209",
+      "country_code": "RS",
+      "latitude": 44.7593,
+      "longitude": 21.2904,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kladurovo",
+      "postal_code": "12304",
+      "country_code": "RS",
+      "latitude": 44.4369,
+      "longitude": 21.5441,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rašanac",
+      "postal_code": "12315",
+      "country_code": "RS",
+      "latitude": 44.4609,
+      "longitude": 21.3623,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Poćuta",
+      "postal_code": "14206",
+      "country_code": "RS",
+      "latitude": 44.2106,
+      "longitude": 19.7327,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stave",
+      "postal_code": "14255",
+      "country_code": "RS",
+      "latitude": 44.2588,
+      "longitude": 19.6916,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Orid",
+      "postal_code": "15213",
+      "country_code": "RS",
+      "latitude": 44.7103,
+      "longitude": 19.7997,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ristovac",
+      "postal_code": "17521",
+      "country_code": "RS",
+      "latitude": 42.4666,
+      "longitude": 21.8412,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Muhovac",
+      "postal_code": "17529",
+      "country_code": "RS",
+      "latitude": 42.5696,
+      "longitude": 21.7542,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Božica",
+      "postal_code": "17537",
+      "country_code": "RS",
+      "latitude": 42.6151,
+      "longitude": 22.4035,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pukovac",
+      "postal_code": "18255",
+      "country_code": "RS",
+      "latitude": 43.1644,
+      "longitude": 21.8525,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dimitrovgrad",
+      "postal_code": "18320",
+      "country_code": "RS",
+      "latitude": 43.0142,
+      "longitude": 22.7756,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornja Draguša",
+      "postal_code": "18425",
+      "country_code": "RS",
+      "latitude": 43.2795,
+      "longitude": 21.3603,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Majdanpek",
+      "postal_code": "19250",
+      "country_code": "RS",
+      "latitude": 44.4277,
+      "longitude": 21.946,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velesnica",
+      "postal_code": "19328",
+      "country_code": "RS",
+      "latitude": 44.5189,
+      "longitude": 22.5522,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljuba",
+      "postal_code": "22255",
+      "country_code": "RS",
+      "latitude": 45.1578,
+      "longitude": 19.389,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dobrinci",
+      "postal_code": "22412",
+      "country_code": "RS",
+      "latitude": 44.9537,
+      "longitude": 19.9266,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nikinci",
+      "postal_code": "22422",
+      "country_code": "RS",
+      "latitude": 44.8502,
+      "longitude": 19.8232,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Popinci",
+      "postal_code": "22428",
+      "country_code": "RS",
+      "latitude": 44.9283,
+      "longitude": 20.007,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mihajlovo",
+      "postal_code": "23202",
+      "country_code": "RS",
+      "latitude": 45.4708,
+      "longitude": 20.4151,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lukino Selo",
+      "postal_code": "23224",
+      "country_code": "RS",
+      "latitude": 45.3024,
+      "longitude": 20.4263,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novi Bečej",
+      "postal_code": "23272",
+      "country_code": "RS",
+      "latitude": 45.5986,
+      "longitude": 20.1356,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banatsko Aranđelovo",
+      "postal_code": "23332",
+      "country_code": "RS",
+      "latitude": 46.0645,
+      "longitude": 20.2424,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Višnjevac",
+      "postal_code": "24222",
+      "country_code": "RS",
+      "latitude": 45.9515,
+      "longitude": 19.7427,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kupusina",
+      "postal_code": "25262",
+      "country_code": "RS",
+      "latitude": 45.7376,
+      "longitude": 19.0108,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Padina",
+      "postal_code": "26215",
+      "country_code": "RS",
+      "latitude": 45.1199,
+      "longitude": 20.7286,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Alibunar",
+      "postal_code": "26310",
+      "country_code": "RS",
+      "latitude": 45.0808,
+      "longitude": 20.9658,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Viča",
+      "postal_code": "32233",
+      "country_code": "RS",
+      "latitude": 43.7402,
+      "longitude": 20.2913,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ribarska Banja",
+      "postal_code": "37205",
+      "country_code": "RS",
+      "latitude": 43.5291,
+      "longitude": 21.3944,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Počekovina",
+      "postal_code": "37243",
+      "country_code": "RS",
+      "latitude": 43.5924,
+      "longitude": 21.0835,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jasika",
+      "postal_code": "37252",
+      "country_code": "RS",
+      "latitude": 43.6147,
+      "longitude": 21.298,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rogača (Sopot)",
+      "postal_code": "11453",
+      "country_code": "RS",
+      "latitude": 44.492,
+      "longitude": 20.5135,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dudovica",
+      "postal_code": "11561",
+      "country_code": "RS",
+      "latitude": 44.2983,
+      "longitude": 20.2631,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Osečina",
+      "postal_code": "14253",
+      "country_code": "RS",
+      "latitude": 44.3731,
+      "longitude": 19.6014,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Razgojna",
+      "postal_code": "16252",
+      "country_code": "RS",
+      "latitude": 43.1171,
+      "longitude": 21.955,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stubal",
+      "postal_code": "17512",
+      "country_code": "RS",
+      "latitude": 42.633,
+      "longitude": 22.0334,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vlasina Rid",
+      "postal_code": "17533",
+      "country_code": "RS",
+      "latitude": 42.731,
+      "longitude": 22.3219,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Visoka Ržana",
+      "postal_code": "18306",
+      "country_code": "RS",
+      "latitude": 43.1555,
+      "longitude": 22.8107,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Niševac",
+      "postal_code": "18366",
+      "country_code": "RS",
+      "latitude": 43.4586,
+      "longitude": 22.0985,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veliki Izvor",
+      "postal_code": "19206",
+      "country_code": "RS",
+      "latitude": 43.9184,
+      "longitude": 22.3329,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krivelj",
+      "postal_code": "19219",
+      "country_code": "RS",
+      "latitude": 44.1294,
+      "longitude": 22.0961,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čenej",
+      "postal_code": "21233",
+      "country_code": "RS",
+      "latitude": 45.3683,
+      "longitude": 19.8042,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lug",
+      "postal_code": "21315",
+      "country_code": "RS",
+      "latitude": 45.1822,
+      "longitude": 19.5452,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Selenča",
+      "postal_code": "21425",
+      "country_code": "RS",
+      "latitude": 45.4096,
+      "longitude": 19.3002,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Savino Selo",
+      "postal_code": "21467",
+      "country_code": "RS",
+      "latitude": 45.5066,
+      "longitude": 19.5223,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pivnice",
+      "postal_code": "21469",
+      "country_code": "RS",
+      "latitude": 45.4704,
+      "longitude": 19.4554,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Maradik",
+      "postal_code": "22327",
+      "country_code": "RS",
+      "latitude": 45.1014,
+      "longitude": 19.9928,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stari Slankamen",
+      "postal_code": "22329",
+      "country_code": "RS",
+      "latitude": 45.1425,
+      "longitude": 20.2577,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ašanja",
+      "postal_code": "22418",
+      "country_code": "RS",
+      "latitude": 44.7564,
+      "longitude": 20.0759,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Begejci",
+      "postal_code": "23232",
+      "country_code": "RS",
+      "latitude": 45.5093,
+      "longitude": 20.609,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bočar",
+      "postal_code": "23274",
+      "country_code": "RS",
+      "latitude": 45.7699,
+      "longitude": 20.2839,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sajan",
+      "postal_code": "23324",
+      "country_code": "RS",
+      "latitude": 45.8423,
+      "longitude": 20.2782,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bački Sokolac",
+      "postal_code": "24343",
+      "country_code": "RS",
+      "latitude": 45.8496,
+      "longitude": 19.5402,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kanjiža",
+      "postal_code": "24420",
+      "country_code": "RS",
+      "latitude": 46.0667,
+      "longitude": 20.05,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Srpski Miletić",
+      "postal_code": "25244",
+      "country_code": "RS",
+      "latitude": 45.5594,
+      "longitude": 19.2038,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bački Monoštor",
+      "postal_code": "25272",
+      "country_code": "RS",
+      "latitude": 45.7944,
+      "longitude": 18.934,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banatsko Novo Selo",
+      "postal_code": "26314",
+      "country_code": "RS",
+      "latitude": 44.9894,
+      "longitude": 20.7836,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kusić",
+      "postal_code": "26349",
+      "country_code": "RS",
+      "latitude": 44.8767,
+      "longitude": 21.4792,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ravni",
+      "postal_code": "31206",
+      "country_code": "RS",
+      "latitude": 43.7397,
+      "longitude": 19.898,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Prilički Kiseljak",
+      "postal_code": "32252",
+      "country_code": "RS",
+      "latitude": 43.5195,
+      "longitude": 20.2792,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kragujevac",
+      "postal_code": "34000",
+      "country_code": "RS",
+      "latitude": 44.0167,
+      "longitude": 20.9167,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Siokovac",
+      "postal_code": "35203",
+      "country_code": "RS",
+      "latitude": 43.9771,
+      "longitude": 21.1803,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kruševac",
+      "postal_code": "37000",
+      "country_code": "RS",
+      "latitude": 43.58,
+      "longitude": 21.3339,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čitluk",
+      "postal_code": "37208",
+      "country_code": "RS",
+      "latitude": 43.594,
+      "longitude": 21.2719,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brograd",
+      "postal_code": "11031",
+      "country_code": "RS",
+      "latitude": 44.8249,
+      "longitude": 20.4331,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Radinac",
+      "postal_code": "11311",
+      "country_code": "RS",
+      "latitude": 44.6273,
+      "longitude": 20.968,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Koraćica",
+      "postal_code": "11415",
+      "country_code": "RS",
+      "latitude": 44.451,
+      "longitude": 20.6201,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Barič",
+      "postal_code": "11504",
+      "country_code": "RS",
+      "latitude": 44.6507,
+      "longitude": 20.2594,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Simićevo",
+      "postal_code": "12373",
+      "country_code": "RS",
+      "latitude": 44.3933,
+      "longitude": 21.2107,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Popučke",
+      "postal_code": "14221",
+      "country_code": "RS",
+      "latitude": 44.2928,
+      "longitude": 19.9542,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kosančić",
+      "postal_code": "16206",
+      "country_code": "RS",
+      "latitude": 43.0883,
+      "longitude": 21.7779,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljuberađa",
+      "postal_code": "18217",
+      "country_code": "RS",
+      "latitude": 43.4528,
+      "longitude": 21.703,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Doljevac",
+      "postal_code": "18410",
+      "country_code": "RS",
+      "latitude": 43.1982,
+      "longitude": 21.8326,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Žitorađa",
+      "postal_code": "18412",
+      "country_code": "RS",
+      "latitude": 43.19,
+      "longitude": 21.7131,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Merdare",
+      "postal_code": "18445",
+      "country_code": "RS",
+      "latitude": 42.9291,
+      "longitude": 21.263,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Koprivnica",
+      "postal_code": "19223",
+      "country_code": "RS",
+      "latitude": 44.0478,
+      "longitude": 22.3255,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Oštrelj",
+      "postal_code": "19226",
+      "country_code": "RS",
+      "latitude": 44.0704,
+      "longitude": 22.1593,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sremski Karlovci",
+      "postal_code": "21205",
+      "country_code": "RS",
+      "latitude": 45.2028,
+      "longitude": 19.9337,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kać",
+      "postal_code": "21241",
+      "country_code": "RS",
+      "latitude": 45.3041,
+      "longitude": 19.943,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Beočin",
+      "postal_code": "21300",
+      "country_code": "RS",
+      "latitude": 45.2083,
+      "longitude": 19.7206,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šimanovci",
+      "postal_code": "22310",
+      "country_code": "RS",
+      "latitude": 44.8739,
+      "longitude": 20.0918,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Žitište",
+      "postal_code": "23210",
+      "country_code": "RS",
+      "latitude": 45.485,
+      "longitude": 20.5497,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vojvoda Stepa",
+      "postal_code": "23219",
+      "country_code": "RS",
+      "latitude": 45.6854,
+      "longitude": 20.6554,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hetin",
+      "postal_code": "23235",
+      "country_code": "RS",
+      "latitude": 45.662,
+      "longitude": 20.7914,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Totovo Selo",
+      "postal_code": "24427",
+      "country_code": "RS",
+      "latitude": 45.9638,
+      "longitude": 19.9174,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kačarevo",
+      "postal_code": "26212",
+      "country_code": "RS",
+      "latitude": 44.9672,
+      "longitude": 20.6996,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Plandište",
+      "postal_code": "26360",
+      "country_code": "RS",
+      "latitude": 45.2272,
+      "longitude": 21.1217,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stari Lec",
+      "postal_code": "26371",
+      "country_code": "RS",
+      "latitude": 45.284,
+      "longitude": 20.9643,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brodarevo",
+      "postal_code": "31305",
+      "country_code": "RS",
+      "latitude": 43.229,
+      "longitude": 19.7196,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zlatibor",
+      "postal_code": "31315",
+      "country_code": "RS",
+      "latitude": 43.729,
+      "longitude": 19.7003,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Erdeč",
+      "postal_code": "34207",
+      "country_code": "RS",
+      "latitude": 43.9714,
+      "longitude": 20.8999,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Malo Krčmare",
+      "postal_code": "34212",
+      "country_code": "RS",
+      "latitude": 44.155,
+      "longitude": 20.9268,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Venčane",
+      "postal_code": "34306",
+      "country_code": "RS",
+      "latitude": 44.4067,
+      "longitude": 20.4678,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stojnik",
+      "postal_code": "34307",
+      "country_code": "RS",
+      "latitude": 44.3762,
+      "longitude": 20.6267,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Subotica (Kod Svilajnca)",
+      "postal_code": "35209",
+      "country_code": "RS",
+      "latitude": 43.9586,
+      "longitude": 21.243,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Belušić",
+      "postal_code": "35263",
+      "country_code": "RS",
+      "latitude": 43.7829,
+      "longitude": 21.1483,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Crkvine",
+      "postal_code": "36321",
+      "country_code": "RS",
+      "latitude": 43.0512,
+      "longitude": 20.3879,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ćićevac",
+      "postal_code": "37210",
+      "country_code": "RS",
+      "latitude": 43.7188,
+      "longitude": 21.4408,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stalać",
+      "postal_code": "37212",
+      "country_code": "RS",
+      "latitude": 43.6774,
+      "longitude": 21.4133,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Milentija",
+      "postal_code": "37227",
+      "country_code": "RS",
+      "latitude": 43.4325,
+      "longitude": 20.9822,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pepeljevac",
+      "postal_code": "37231",
+      "country_code": "RS",
+      "latitude": 43.5644,
+      "longitude": 21.2555,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trnavci",
+      "postal_code": "37235",
+      "country_code": "RS",
+      "latitude": 43.4295,
+      "longitude": 21.1166,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bečmen",
+      "postal_code": "11279",
+      "country_code": "RS",
+      "latitude": 44.7798,
+      "longitude": 20.2058,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stepojevac",
+      "postal_code": "11564",
+      "country_code": "RS",
+      "latitude": 44.5128,
+      "longitude": 20.295,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Golubac",
+      "postal_code": "12223",
+      "country_code": "RS",
+      "latitude": 44.653,
+      "longitude": 21.632,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Valjevo",
+      "postal_code": "14000",
+      "country_code": "RS",
+      "latitude": 44.2751,
+      "longitude": 19.8982,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pambukovica",
+      "postal_code": "14213",
+      "country_code": "RS",
+      "latitude": 44.4409,
+      "longitude": 19.9231,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lajkovac",
+      "postal_code": "14224",
+      "country_code": "RS",
+      "latitude": 44.3694,
+      "longitude": 20.1653,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zaplanjska Toponica",
+      "postal_code": "18244",
+      "country_code": "RS",
+      "latitude": 43.1604,
+      "longitude": 21.9239,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Merošina",
+      "postal_code": "18252",
+      "country_code": "RS",
+      "latitude": 43.2836,
+      "longitude": 21.7204,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rajac",
+      "postal_code": "19314",
+      "country_code": "RS",
+      "latitude": 44.0941,
+      "longitude": 22.5571,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lenovac",
+      "postal_code": "19343",
+      "country_code": "RS",
+      "latitude": 43.8052,
+      "longitude": 22.1649,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sumrakovac",
+      "postal_code": "19376",
+      "country_code": "RS",
+      "latitude": 43.9399,
+      "longitude": 22.0305,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bukovac",
+      "postal_code": "21209",
+      "country_code": "RS",
+      "latitude": 45.1897,
+      "longitude": 19.8952,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nova Gajdobra",
+      "postal_code": "21431",
+      "country_code": "RS",
+      "latitude": 45.3309,
+      "longitude": 19.4361,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gajdobra",
+      "postal_code": "21432",
+      "country_code": "RS",
+      "latitude": 45.3506,
+      "longitude": 19.4458,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Despotovo",
+      "postal_code": "21468",
+      "country_code": "RS",
+      "latitude": 45.4598,
+      "longitude": 19.5265,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krčedin",
+      "postal_code": "22325",
+      "country_code": "RS",
+      "latitude": 45.1387,
+      "longitude": 20.1331,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grabovci",
+      "postal_code": "22423",
+      "country_code": "RS",
+      "latitude": 44.765,
+      "longitude": 19.8449,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banatsko Višnjićevo",
+      "postal_code": "23237",
+      "country_code": "RS",
+      "latitude": 45.4467,
+      "longitude": 20.6808,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Đala",
+      "postal_code": "23335",
+      "country_code": "RS",
+      "latitude": 46.0627,
+      "longitude": 20.1606,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Subotica",
+      "postal_code": "24000",
+      "country_code": "RS",
+      "latitude": 46.1,
+      "longitude": 19.6667,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Orom",
+      "postal_code": "24207",
+      "country_code": "RS",
+      "latitude": 45.9771,
+      "longitude": 19.8346,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mali Beograd",
+      "postal_code": "24309",
+      "country_code": "RS",
+      "latitude": 45.8847,
+      "longitude": 19.6353,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornji Breg",
+      "postal_code": "24406",
+      "country_code": "RS",
+      "latitude": 45.92,
+      "longitude": 20.0177,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bački Vinogradi",
+      "postal_code": "24415",
+      "country_code": "RS",
+      "latitude": 46.123,
+      "longitude": 19.8559,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Svilojevo",
+      "postal_code": "25265",
+      "country_code": "RS",
+      "latitude": 45.649,
+      "longitude": 19.0664,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bezdan",
+      "postal_code": "25270",
+      "country_code": "RS",
+      "latitude": 45.8494,
+      "longitude": 18.924,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sefkerin",
+      "postal_code": "26203",
+      "country_code": "RS",
+      "latitude": 45.005,
+      "longitude": 20.4826,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Margita",
+      "postal_code": "26364",
+      "country_code": "RS",
+      "latitude": 45.216,
+      "longitude": 21.1753,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mitrovac",
+      "postal_code": "31251",
+      "country_code": "RS",
+      "latitude": 43.9215,
+      "longitude": 19.4237,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Prijepolje",
+      "postal_code": "31300",
+      "country_code": "RS",
+      "latitude": 43.39,
+      "longitude": 19.6487,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gostilje",
+      "postal_code": "31313",
+      "country_code": "RS",
+      "latitude": 43.6529,
+      "longitude": 19.8298,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trbušani",
+      "postal_code": "32205",
+      "country_code": "RS",
+      "latitude": 43.908,
+      "longitude": 20.3118,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ugrinovci",
+      "postal_code": "32314",
+      "country_code": "RS",
+      "latitude": 44.1737,
+      "longitude": 20.387,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Badnjevac",
+      "postal_code": "34226",
+      "country_code": "RS",
+      "latitude": 44.1317,
+      "longitude": 20.9824,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bagrdan",
+      "postal_code": "35204",
+      "country_code": "RS",
+      "latitude": 44.0711,
+      "longitude": 21.1787,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stenjevac",
+      "postal_code": "35215",
+      "country_code": "RS",
+      "latitude": 44.0864,
+      "longitude": 21.5363,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Oparić",
+      "postal_code": "35267",
+      "country_code": "RS",
+      "latitude": 43.7512,
+      "longitude": 21.1227,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brvenik",
+      "postal_code": "36346",
+      "country_code": "RS",
+      "latitude": 43.3544,
+      "longitude": 20.6461,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bošnjane",
+      "postal_code": "37262",
+      "country_code": "RS",
+      "latitude": 43.6638,
+      "longitude": 21.3656,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ovča",
+      "postal_code": "11212",
+      "country_code": "RS",
+      "latitude": 44.8835,
+      "longitude": 20.5334,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Beli Potok",
+      "postal_code": "11223",
+      "country_code": "RS",
+      "latitude": 44.7063,
+      "longitude": 20.5177,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Staro Selo",
+      "postal_code": "11324",
+      "country_code": "RS",
+      "latitude": 44.2943,
+      "longitude": 21.0887,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Meljak",
+      "postal_code": "11426",
+      "country_code": "RS",
+      "latitude": 44.6231,
+      "longitude": 20.3692,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Obrenovac",
+      "postal_code": "11500",
+      "country_code": "RS",
+      "latitude": 44.6549,
+      "longitude": 20.2002,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Baroševac",
+      "postal_code": "11565",
+      "country_code": "RS",
+      "latitude": 44.3986,
+      "longitude": 20.3689,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Drenovac",
+      "postal_code": "15212",
+      "country_code": "RS",
+      "latitude": 44.8665,
+      "longitude": 19.7094,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Koceljeva",
+      "postal_code": "15220",
+      "country_code": "RS",
+      "latitude": 44.4736,
+      "longitude": 19.8117,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veliko Bonjince",
+      "postal_code": "18215",
+      "country_code": "RS",
+      "latitude": 43.4528,
+      "longitude": 21.703,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Subotinac",
+      "postal_code": "18227",
+      "country_code": "RS",
+      "latitude": 43.6022,
+      "longitude": 21.6935,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vrmdža",
+      "postal_code": "18236",
+      "country_code": "RS",
+      "latitude": 43.7137,
+      "longitude": 21.8186,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ćurlina",
+      "postal_code": "18262",
+      "country_code": "RS",
+      "latitude": 43.26,
+      "longitude": 21.8858,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Crnoklište",
+      "postal_code": "18304",
+      "country_code": "RS",
+      "latitude": 43.2338,
+      "longitude": 22.4676,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Burdimo",
+      "postal_code": "18368",
+      "country_code": "RS",
+      "latitude": 43.4099,
+      "longitude": 22.2372,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dobri Do",
+      "postal_code": "18408",
+      "country_code": "RS",
+      "latitude": 42.926,
+      "longitude": 21.3904,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rgotina",
+      "postal_code": "19214",
+      "country_code": "RS",
+      "latitude": 44.0116,
+      "longitude": 22.2739,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velika Jasikova",
+      "postal_code": "19235",
+      "country_code": "RS",
+      "latitude": 44.0831,
+      "longitude": 22.361,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Radujevac",
+      "postal_code": "19334",
+      "country_code": "RS",
+      "latitude": 44.2668,
+      "longitude": 22.6679,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čelarevo",
+      "postal_code": "21413",
+      "country_code": "RS",
+      "latitude": 45.27,
+      "longitude": 19.5248,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sremska Mitrovica",
+      "postal_code": "22000",
+      "country_code": "RS",
+      "latitude": 44.9764,
+      "longitude": 19.6122,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kuzmin",
+      "postal_code": "22223",
+      "country_code": "RS",
+      "latitude": 45.0223,
+      "longitude": 19.4046,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vašica",
+      "postal_code": "22241",
+      "country_code": "RS",
+      "latitude": 45.095,
+      "longitude": 19.1861,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mužlja",
+      "postal_code": "23206",
+      "country_code": "RS",
+      "latitude": 45.3441,
+      "longitude": 20.4091,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ravni Topolovac",
+      "postal_code": "23212",
+      "country_code": "RS",
+      "latitude": 45.4608,
+      "longitude": 20.5694,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čestereg",
+      "postal_code": "23215",
+      "country_code": "RS",
+      "latitude": 45.5636,
+      "longitude": 20.5319,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banatsko Karađorđevo",
+      "postal_code": "23216",
+      "country_code": "RS",
+      "latitude": 45.5869,
+      "longitude": 20.5642,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pačir",
+      "postal_code": "24342",
+      "country_code": "RS",
+      "latitude": 45.9002,
+      "longitude": 19.4417,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Tornjoš",
+      "postal_code": "24352",
+      "country_code": "RS",
+      "latitude": 45.8769,
+      "longitude": 19.8352,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Utrine",
+      "postal_code": "24437",
+      "country_code": "RS",
+      "latitude": 45.812,
+      "longitude": 19.9,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Apatin",
+      "postal_code": "25260",
+      "country_code": "RS",
+      "latitude": 45.6726,
+      "longitude": 18.978,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kremna",
+      "postal_code": "31242",
+      "country_code": "RS",
+      "latitude": 43.8381,
+      "longitude": 19.5743,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornji Milanovac",
+      "postal_code": "32300",
+      "country_code": "RS",
+      "latitude": 44.026,
+      "longitude": 20.4615,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šilopaj",
+      "postal_code": "32311",
+      "country_code": "RS",
+      "latitude": 44.1121,
+      "longitude": 20.4116,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sedlare",
+      "postal_code": "35211",
+      "country_code": "RS",
+      "latitude": 44.1987,
+      "longitude": 21.294,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Miloševo",
+      "postal_code": "35268",
+      "country_code": "RS",
+      "latitude": 44.1058,
+      "longitude": 21.1509,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ratina",
+      "postal_code": "36212",
+      "country_code": "RS",
+      "latitude": 43.7014,
+      "longitude": 20.7516,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Štitare",
+      "postal_code": "36314",
+      "country_code": "RS",
+      "latitude": 43.2263,
+      "longitude": 20.3337,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Aleksandrovac",
+      "postal_code": "37230",
+      "country_code": "RS",
+      "latitude": 43.4586,
+      "longitude": 21.0525,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rušanj",
+      "postal_code": "11194",
+      "country_code": "RS",
+      "latitude": 44.6848,
+      "longitude": 20.4499,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ralja",
+      "postal_code": "11233",
+      "country_code": "RS",
+      "latitude": 44.5722,
+      "longitude": 20.5622,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veliko Orašje",
+      "postal_code": "11323",
+      "country_code": "RS",
+      "latitude": 44.3711,
+      "longitude": 21.0879,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Međulužje",
+      "postal_code": "11405",
+      "country_code": "RS",
+      "latitude": 44.4092,
+      "longitude": 20.6893,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zabrežje",
+      "postal_code": "11505",
+      "country_code": "RS",
+      "latitude": 44.6825,
+      "longitude": 20.2025,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Majilovac",
+      "postal_code": "12221",
+      "country_code": "RS",
+      "latitude": 44.6917,
+      "longitude": 21.362,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Boževac",
+      "postal_code": "12313",
+      "country_code": "RS",
+      "latitude": 44.5418,
+      "longitude": 21.3943,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Laznica",
+      "postal_code": "12321",
+      "country_code": "RS",
+      "latitude": 44.2403,
+      "longitude": 21.81,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rainovača",
+      "postal_code": "15342",
+      "country_code": "RS",
+      "latitude": 44.5806,
+      "longitude": 19.2657,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Klenike",
+      "postal_code": "17524",
+      "country_code": "RS",
+      "latitude": 42.3897,
+      "longitude": 21.8889,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jelašnica",
+      "postal_code": "18206",
+      "country_code": "RS",
+      "latitude": 43.2897,
+      "longitude": 22.0514,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zaječar",
+      "postal_code": "19000",
+      "country_code": "RS",
+      "latitude": 43.9036,
+      "longitude": 22.2641,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vilovo",
+      "postal_code": "21246",
+      "country_code": "RS",
+      "latitude": 45.2486,
+      "longitude": 20.1552,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Begeč",
+      "postal_code": "21411",
+      "country_code": "RS",
+      "latitude": 45.2367,
+      "longitude": 19.6231,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Maglić",
+      "postal_code": "21473",
+      "country_code": "RS",
+      "latitude": 45.3625,
+      "longitude": 19.5321,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljukovo",
+      "postal_code": "22321",
+      "country_code": "RS",
+      "latitude": 45.026,
+      "longitude": 20.0274,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Prhovo",
+      "postal_code": "22442",
+      "country_code": "RS",
+      "latitude": 44.8825,
+      "longitude": 20.0083,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Tomaševac",
+      "postal_code": "23262",
+      "country_code": "RS",
+      "latitude": 45.2685,
+      "longitude": 20.6227,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Male Pijace",
+      "postal_code": "24416",
+      "country_code": "RS",
+      "latitude": 46.0674,
+      "longitude": 19.9217,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Adorjan",
+      "postal_code": "24425",
+      "country_code": "RS",
+      "latitude": 46.0033,
+      "longitude": 20.0401,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Telečka",
+      "postal_code": "25222",
+      "country_code": "RS",
+      "latitude": 45.795,
+      "longitude": 19.3818,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bački Gračac",
+      "postal_code": "25252",
+      "country_code": "RS",
+      "latitude": 45.5545,
+      "longitude": 19.3235,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mramorak",
+      "postal_code": "26226",
+      "country_code": "RS",
+      "latitude": 44.8802,
+      "longitude": 20.9709,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Uljma",
+      "postal_code": "26330",
+      "country_code": "RS",
+      "latitude": 45.0421,
+      "longitude": 21.1539,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vatin",
+      "postal_code": "26337",
+      "country_code": "RS",
+      "latitude": 45.2328,
+      "longitude": 21.2439,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Arilje",
+      "postal_code": "31230",
+      "country_code": "RS",
+      "latitude": 43.7531,
+      "longitude": 20.0956,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zlodol",
+      "postal_code": "31253",
+      "country_code": "RS",
+      "latitude": 43.9338,
+      "longitude": 19.6729,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Perućac",
+      "postal_code": "31256",
+      "country_code": "RS",
+      "latitude": 43.9545,
+      "longitude": 19.4353,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čajetina",
+      "postal_code": "31310",
+      "country_code": "RS",
+      "latitude": 43.7498,
+      "longitude": 19.7127,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Međurečje",
+      "postal_code": "32255",
+      "country_code": "RS",
+      "latitude": 43.5336,
+      "longitude": 20.2276,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bratljevo",
+      "postal_code": "32256",
+      "country_code": "RS",
+      "latitude": 43.4656,
+      "longitude": 20.1943,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Divostin",
+      "postal_code": "34204",
+      "country_code": "RS",
+      "latitude": 44.0229,
+      "longitude": 20.8335,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Resavica",
+      "postal_code": "35237",
+      "country_code": "RS",
+      "latitude": 44.0695,
+      "longitude": 21.5174,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bunar",
+      "postal_code": "35273",
+      "country_code": "RS",
+      "latitude": 43.92,
+      "longitude": 21.147,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vitoševac",
+      "postal_code": "37213",
+      "country_code": "RS",
+      "latitude": 43.7471,
+      "longitude": 21.5814,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Konjuh",
+      "postal_code": "37254",
+      "country_code": "RS",
+      "latitude": 43.6433,
+      "longitude": 21.1814,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Padinska Skela",
+      "postal_code": "11213",
+      "country_code": "RS",
+      "latitude": 44.9429,
+      "longitude": 20.4255,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zuce",
+      "postal_code": "11225",
+      "country_code": "RS",
+      "latitude": 44.6981,
+      "longitude": 20.5552,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ostružnica",
+      "postal_code": "11251",
+      "country_code": "RS",
+      "latitude": 44.7277,
+      "longitude": 20.3185,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Umčari",
+      "postal_code": "11430",
+      "country_code": "RS",
+      "latitude": 44.5836,
+      "longitude": 20.7342,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Loznica",
+      "postal_code": "15300",
+      "country_code": "RS",
+      "latitude": 44.5312,
+      "longitude": 19.2427,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banja Koviljača",
+      "postal_code": "15316",
+      "country_code": "RS",
+      "latitude": 44.5146,
+      "longitude": 19.1528,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lipnički Šor",
+      "postal_code": "15341",
+      "country_code": "RS",
+      "latitude": 44.5806,
+      "longitude": 19.2657,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bojnik",
+      "postal_code": "16205",
+      "country_code": "RS",
+      "latitude": 43.0122,
+      "longitude": 21.721,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Svođe",
+      "postal_code": "16212",
+      "country_code": "RS",
+      "latitude": 42.9773,
+      "longitude": 22.2656,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Suvojnica",
+      "postal_code": "17530",
+      "country_code": "RS",
+      "latitude": 42.6597,
+      "longitude": 22.1234,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vlasina Okruglica",
+      "postal_code": "17532",
+      "country_code": "RS",
+      "latitude": 42.6656,
+      "longitude": 22.3192,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Niš",
+      "postal_code": "18000",
+      "country_code": "RS",
+      "latitude": 43.3247,
+      "longitude": 21.9033,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Žitkovac",
+      "postal_code": "18210",
+      "country_code": "RS",
+      "latitude": 43.5114,
+      "longitude": 21.6923,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Tešica",
+      "postal_code": "18212",
+      "country_code": "RS",
+      "latitude": 43.4631,
+      "longitude": 21.7495,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lužane",
+      "postal_code": "18228",
+      "country_code": "RS",
+      "latitude": 43.4808,
+      "longitude": 21.725,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Soko Banja",
+      "postal_code": "18230",
+      "country_code": "RS",
+      "latitude": 43.6433,
+      "longitude": 21.8711,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donje Međurovo",
+      "postal_code": "18254",
+      "country_code": "RS",
+      "latitude": 43.2974,
+      "longitude": 21.8233,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Babušnica",
+      "postal_code": "18330",
+      "country_code": "RS",
+      "latitude": 43.0641,
+      "longitude": 22.4138,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Prekonoga",
+      "postal_code": "18365",
+      "country_code": "RS",
+      "latitude": 43.3955,
+      "longitude": 22.103,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Metovnica",
+      "postal_code": "19204",
+      "country_code": "RS",
+      "latitude": 43.9609,
+      "longitude": 22.1379,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gradskovo",
+      "postal_code": "19205",
+      "country_code": "RS",
+      "latitude": 44.021,
+      "longitude": 22.3874,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jabukovac",
+      "postal_code": "19304",
+      "country_code": "RS",
+      "latitude": 44.3484,
+      "longitude": 22.3822,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grljan",
+      "postal_code": "19341",
+      "country_code": "RS",
+      "latitude": 43.86,
+      "longitude": 22.2931,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grlište",
+      "postal_code": "19342",
+      "country_code": "RS",
+      "latitude": 43.813,
+      "longitude": 22.2449,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Temerin",
+      "postal_code": "21235",
+      "country_code": "RS",
+      "latitude": 45.4086,
+      "longitude": 19.8892,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Susek",
+      "postal_code": "21313",
+      "country_code": "RS",
+      "latitude": 45.2228,
+      "longitude": 19.5335,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bačka Palanka",
+      "postal_code": "21400",
+      "country_code": "RS",
+      "latitude": 45.2497,
+      "longitude": 19.3966,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gložan",
+      "postal_code": "21412",
+      "country_code": "RS",
+      "latitude": 45.2795,
+      "longitude": 19.5684,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vrbas",
+      "postal_code": "21460",
+      "country_code": "RS",
+      "latitude": 45.5714,
+      "longitude": 19.6408,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mačvanska Mitrovica",
+      "postal_code": "22202",
+      "country_code": "RS",
+      "latitude": 44.9674,
+      "longitude": 19.5931,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veliki Radinci",
+      "postal_code": "22211",
+      "country_code": "RS",
+      "latitude": 45.0452,
+      "longitude": 19.6747,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Laćarak",
+      "postal_code": "22221",
+      "country_code": "RS",
+      "latitude": 44.997,
+      "longitude": 19.5699,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Elemir",
+      "postal_code": "23208",
+      "country_code": "RS",
+      "latitude": 45.4426,
+      "longitude": 20.3,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Taraš",
+      "postal_code": "23209",
+      "country_code": "RS",
+      "latitude": 45.4674,
+      "longitude": 20.1987,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sečanj",
+      "postal_code": "23240",
+      "country_code": "RS",
+      "latitude": 45.3667,
+      "longitude": 20.7722,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zlatica",
+      "postal_code": "23255",
+      "country_code": "RS",
+      "latitude": 45.3862,
+      "longitude": 20.5827,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novi Kozarci",
+      "postal_code": "23313",
+      "country_code": "RS",
+      "latitude": 45.7824,
+      "longitude": 20.6229,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lipar",
+      "postal_code": "25232",
+      "country_code": "RS",
+      "latitude": 45.6139,
+      "longitude": 19.3692,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stapar",
+      "postal_code": "25240",
+      "country_code": "RS",
+      "latitude": 45.6643,
+      "longitude": 19.2006,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Deronje",
+      "postal_code": "25254",
+      "country_code": "RS",
+      "latitude": 45.4553,
+      "longitude": 19.2203,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ilandža",
+      "postal_code": "26352",
+      "country_code": "RS",
+      "latitude": 45.169,
+      "longitude": 20.9201,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hajdučica",
+      "postal_code": "26370",
+      "country_code": "RS",
+      "latitude": 45.2501,
+      "longitude": 20.9602,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ražana",
+      "postal_code": "31265",
+      "country_code": "RS",
+      "latitude": 44.0684,
+      "longitude": 19.9186,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sastavci",
+      "postal_code": "31335",
+      "country_code": "RS",
+      "latitude": 42.992,
+      "longitude": 21.3208,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Goračići",
+      "postal_code": "32232",
+      "country_code": "RS",
+      "latitude": 43.774,
+      "longitude": 20.3365,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kotraža",
+      "postal_code": "32235",
+      "country_code": "RS",
+      "latitude": 43.7008,
+      "longitude": 20.2241,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ilićevo",
+      "postal_code": "34203",
+      "country_code": "RS",
+      "latitude": 43.9945,
+      "longitude": 20.8796,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dragobraća",
+      "postal_code": "34231",
+      "country_code": "RS",
+      "latitude": 43.9677,
+      "longitude": 20.8382,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veliki Popović",
+      "postal_code": "35223",
+      "country_code": "RS",
+      "latitude": 44.1179,
+      "longitude": 21.3573,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dragoševac",
+      "postal_code": "35262",
+      "country_code": "RS",
+      "latitude": 43.8824,
+      "longitude": 21.2259,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Loćika",
+      "postal_code": "35274",
+      "country_code": "RS",
+      "latitude": 43.8583,
+      "longitude": 21.1867,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bačina",
+      "postal_code": "37265",
+      "country_code": "RS",
+      "latitude": 43.7261,
+      "longitude": 21.2979,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Begaljica",
+      "postal_code": "11308",
+      "country_code": "RS",
+      "latitude": 44.6336,
+      "longitude": 20.695,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banatski Dvor",
+      "postal_code": "11467",
+      "country_code": "RS",
+      "latitude": 44.5545,
+      "longitude": 20.4037,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stubline",
+      "postal_code": "11507",
+      "country_code": "RS",
+      "latitude": 44.5748,
+      "longitude": 20.1348,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rudovci",
+      "postal_code": "11566",
+      "country_code": "RS",
+      "latitude": 44.3736,
+      "longitude": 20.4123,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bradarac",
+      "postal_code": "12206",
+      "country_code": "RS",
+      "latitude": 44.69,
+      "longitude": 21.2282,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Neresnica",
+      "postal_code": "12242",
+      "country_code": "RS",
+      "latitude": 44.4425,
+      "longitude": 21.7262,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vezičevo",
+      "postal_code": "12309",
+      "country_code": "RS",
+      "latitude": 44.239,
+      "longitude": 21.4302,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lipljan",
+      "postal_code": "14000",
+      "country_code": "RS",
+      "latitude": 44.2751,
+      "longitude": 19.8982,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bela Crkva",
+      "postal_code": "15313",
+      "country_code": "RS",
+      "latitude": 44.3955,
+      "longitude": 19.4796,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sastav Reka",
+      "postal_code": "16213",
+      "country_code": "RS",
+      "latitude": 42.9181,
+      "longitude": 22.2328,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Turekovac",
+      "postal_code": "16231",
+      "country_code": "RS",
+      "latitude": 42.9843,
+      "longitude": 21.8816,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Klajić",
+      "postal_code": "16236",
+      "country_code": "RS",
+      "latitude": 42.8237,
+      "longitude": 21.7313,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bujanovac",
+      "postal_code": "17520",
+      "country_code": "RS",
+      "latitude": 42.4592,
+      "longitude": 21.7667,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornji Matejevac",
+      "postal_code": "18204",
+      "country_code": "RS",
+      "latitude": 43.3647,
+      "longitude": 21.9679,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grejač",
+      "postal_code": "18219",
+      "country_code": "RS",
+      "latitude": 43.4193,
+      "longitude": 21.7328,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Aleksinac",
+      "postal_code": "18220",
+      "country_code": "RS",
+      "latitude": 43.5417,
+      "longitude": 21.7078,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ravna Dubrava",
+      "postal_code": "18246",
+      "country_code": "RS",
+      "latitude": 43.0748,
+      "longitude": 22.1871,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Balajinac",
+      "postal_code": "18257",
+      "country_code": "RS",
+      "latitude": 43.2744,
+      "longitude": 21.7775,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Strelac",
+      "postal_code": "18332",
+      "country_code": "RS",
+      "latitude": 42.9842,
+      "longitude": 22.4618,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Malošište",
+      "postal_code": "18415",
+      "country_code": "RS",
+      "latitude": 43.2399,
+      "longitude": 21.8676,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kuršumlija",
+      "postal_code": "18430",
+      "country_code": "RS",
+      "latitude": 43.1383,
+      "longitude": 21.2734,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Žuč",
+      "postal_code": "18438",
+      "country_code": "RS",
+      "latitude": 43.2007,
+      "longitude": 21.1568,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donja Bela Reka",
+      "postal_code": "19213",
+      "country_code": "RS",
+      "latitude": 44.0724,
+      "longitude": 22.2061,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rogljevo",
+      "postal_code": "19318",
+      "country_code": "RS",
+      "latitude": 44.1246,
+      "longitude": 22.564,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Tekija",
+      "postal_code": "19325",
+      "country_code": "RS",
+      "latitude": 44.6871,
+      "longitude": 22.4143,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mladenovo",
+      "postal_code": "21422",
+      "country_code": "RS",
+      "latitude": 45.3034,
+      "longitude": 19.2617,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Obrovac",
+      "postal_code": "21423",
+      "country_code": "RS",
+      "latitude": 45.3211,
+      "longitude": 19.3505,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čalma",
+      "postal_code": "22231",
+      "country_code": "RS",
+      "latitude": 45.0795,
+      "longitude": 19.507,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jamena",
+      "postal_code": "22248",
+      "country_code": "RS",
+      "latitude": 44.884,
+      "longitude": 19.0638,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Deč",
+      "postal_code": "22441",
+      "country_code": "RS",
+      "latitude": 44.8353,
+      "longitude": 20.1139,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Klek",
+      "postal_code": "23211",
+      "country_code": "RS",
+      "latitude": 45.4225,
+      "longitude": 20.4805,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bačka Topola",
+      "postal_code": "24300",
+      "country_code": "RS",
+      "latitude": 45.8152,
+      "longitude": 19.6318,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čonoplja",
+      "postal_code": "25210",
+      "country_code": "RS",
+      "latitude": 45.8113,
+      "longitude": 19.2513,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Odžaci",
+      "postal_code": "25250",
+      "country_code": "RS",
+      "latitude": 45.5067,
+      "longitude": 19.2611,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ivanovo",
+      "postal_code": "26233",
+      "country_code": "RS",
+      "latitude": 44.7395,
+      "longitude": 20.6978,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pavliš",
+      "postal_code": "26333",
+      "country_code": "RS",
+      "latitude": 45.1057,
+      "longitude": 21.2395,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jablanica",
+      "postal_code": "31314",
+      "country_code": "RS",
+      "latitude": 43.6726,
+      "longitude": 19.7818,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čačak",
+      "postal_code": "32000",
+      "country_code": "RS",
+      "latitude": 43.8914,
+      "longitude": 20.3497,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zablaće",
+      "postal_code": "32223",
+      "country_code": "RS",
+      "latitude": 43.8456,
+      "longitude": 20.4469,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pranjani",
+      "postal_code": "32308",
+      "country_code": "RS",
+      "latitude": 43.9944,
+      "longitude": 20.1828,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bukovik",
+      "postal_code": "34301",
+      "country_code": "RS",
+      "latitude": 44.3294,
+      "longitude": 20.5174,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Darosava",
+      "postal_code": "34305",
+      "country_code": "RS",
+      "latitude": 44.3341,
+      "longitude": 20.4531,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jagodina",
+      "postal_code": "35000",
+      "country_code": "RS",
+      "latitude": 43.9771,
+      "longitude": 21.2612,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ušće",
+      "postal_code": "36342",
+      "country_code": "RS",
+      "latitude": 43.4675,
+      "longitude": 20.6146,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Studenica",
+      "postal_code": "36343",
+      "country_code": "RS",
+      "latitude": 43.5159,
+      "longitude": 20.6346,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kukljin",
+      "postal_code": "37255",
+      "country_code": "RS",
+      "latitude": 43.6042,
+      "longitude": 21.2338,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vrčin",
+      "postal_code": "11224",
+      "country_code": "RS",
+      "latitude": 44.6685,
+      "longitude": 20.5933,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grocka",
+      "postal_code": "11306",
+      "country_code": "RS",
+      "latitude": 44.6715,
+      "longitude": 20.7165,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Drugovac",
+      "postal_code": "11432",
+      "country_code": "RS",
+      "latitude": 44.5461,
+      "longitude": 20.8316,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Draževac",
+      "postal_code": "11506",
+      "country_code": "RS",
+      "latitude": 44.5958,
+      "longitude": 20.2217,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šetonje",
+      "postal_code": "12309",
+      "country_code": "RS",
+      "latitude": 44.2723,
+      "longitude": 21.4744,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Porodin",
+      "postal_code": "12375",
+      "country_code": "RS",
+      "latitude": 44.3171,
+      "longitude": 21.221,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Tekeriš",
+      "postal_code": "15234",
+      "country_code": "RS",
+      "latitude": 44.5573,
+      "longitude": 19.5297,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zavlaka",
+      "postal_code": "15312",
+      "country_code": "RS",
+      "latitude": 44.4565,
+      "longitude": 19.4835,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zajača",
+      "postal_code": "15315",
+      "country_code": "RS",
+      "latitude": 44.4568,
+      "longitude": 19.2443,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Džep",
+      "postal_code": "17514",
+      "country_code": "RS",
+      "latitude": 42.7682,
+      "longitude": 22.0883,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vrćenovica",
+      "postal_code": "18221",
+      "country_code": "RS",
+      "latitude": 43.4312,
+      "longitude": 21.6701,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rutevac",
+      "postal_code": "18224",
+      "country_code": "RS",
+      "latitude": 43.5908,
+      "longitude": 21.6111,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Katun Božički",
+      "postal_code": "18225",
+      "country_code": "RS",
+      "latitude": 43.5209,
+      "longitude": 21.7001,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jošanica",
+      "postal_code": "18234",
+      "country_code": "RS",
+      "latitude": 43.7282,
+      "longitude": 21.7741,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Džigolj",
+      "postal_code": "18405",
+      "country_code": "RS",
+      "latitude": 43.3356,
+      "longitude": 21.5605,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Barlovo",
+      "postal_code": "18432",
+      "country_code": "RS",
+      "latitude": 43.1815,
+      "longitude": 21.3534,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Negotin",
+      "postal_code": "19310",
+      "country_code": "RS",
+      "latitude": 44.2264,
+      "longitude": 22.5308,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dušanovac",
+      "postal_code": "19335",
+      "country_code": "RS",
+      "latitude": 44.2935,
+      "longitude": 22.5236,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sirig",
+      "postal_code": "21214",
+      "country_code": "RS",
+      "latitude": 45.4403,
+      "longitude": 19.8104,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bečej",
+      "postal_code": "21220",
+      "country_code": "RS",
+      "latitude": 45.6163,
+      "longitude": 20.0333,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mileševo",
+      "postal_code": "21227",
+      "country_code": "RS",
+      "latitude": 45.7346,
+      "longitude": 19.8213,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ogar",
+      "postal_code": "22416",
+      "country_code": "RS",
+      "latitude": 44.7923,
+      "longitude": 19.9477,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Perlez",
+      "postal_code": "23260",
+      "country_code": "RS",
+      "latitude": 45.2081,
+      "longitude": 20.382,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Melenci",
+      "postal_code": "23270",
+      "country_code": "RS",
+      "latitude": 45.5168,
+      "longitude": 20.3196,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ostojićevo",
+      "postal_code": "23326",
+      "country_code": "RS",
+      "latitude": 45.8886,
+      "longitude": 20.1664,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Karađorđevo",
+      "postal_code": "24308",
+      "country_code": "RS",
+      "latitude": 45.8582,
+      "longitude": 19.591,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hajdukovo",
+      "postal_code": "24415",
+      "country_code": "RS",
+      "latitude": 46.123,
+      "longitude": 19.8559,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kolut",
+      "postal_code": "25274",
+      "country_code": "RS",
+      "latitude": 45.8929,
+      "longitude": 18.9276,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Uzdin",
+      "postal_code": "26216",
+      "country_code": "RS",
+      "latitude": 45.2051,
+      "longitude": 20.6234,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bavanište",
+      "postal_code": "26222",
+      "country_code": "RS",
+      "latitude": 44.8191,
+      "longitude": 20.8765,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Crvena Crkva",
+      "postal_code": "26323",
+      "country_code": "RS",
+      "latitude": 44.9003,
+      "longitude": 21.3653,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jermenovci",
+      "postal_code": "26363",
+      "country_code": "RS",
+      "latitude": 45.1863,
+      "longitude": 21.0455,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kupinik",
+      "postal_code": "26368",
+      "country_code": "RS",
+      "latitude": 45.2925,
+      "longitude": 21.137,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Varda",
+      "postal_code": "31263",
+      "country_code": "RS",
+      "latitude": 44.0436,
+      "longitude": 19.7513,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Male Pčelice",
+      "postal_code": "34216",
+      "country_code": "RS",
+      "latitude": 44.0034,
+      "longitude": 20.8545,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vojska",
+      "postal_code": "35208",
+      "country_code": "RS",
+      "latitude": 44.0909,
+      "longitude": 21.2161,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Roćevići",
+      "postal_code": "36205",
+      "country_code": "RS",
+      "latitude": 43.7133,
+      "longitude": 20.5125,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sirča",
+      "postal_code": "36208",
+      "country_code": "RS",
+      "latitude": 43.7464,
+      "longitude": 20.721,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vrnjci",
+      "postal_code": "36217",
+      "country_code": "RS",
+      "latitude": 43.6138,
+      "longitude": 20.8781,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čukojevac",
+      "postal_code": "36220",
+      "country_code": "RS",
+      "latitude": 43.7111,
+      "longitude": 20.8362,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kopaonik",
+      "postal_code": "36354",
+      "country_code": "RS",
+      "latitude": 43.286,
+      "longitude": 20.8092,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dvorane",
+      "postal_code": "37206",
+      "country_code": "RS",
+      "latitude": 43.4978,
+      "longitude": 21.4119,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornji Stepoš",
+      "postal_code": "37221",
+      "country_code": "RS",
+      "latitude": 43.5066,
+      "longitude": 21.2959,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šljivovo",
+      "postal_code": "37239",
+      "country_code": "RS",
+      "latitude": 43.4084,
+      "longitude": 21.072,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Svileuva",
+      "postal_code": "15221",
+      "country_code": "RS",
+      "latitude": 44.5215,
+      "longitude": 19.8279,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Tršić",
+      "postal_code": "15303",
+      "country_code": "RS",
+      "latitude": 44.495,
+      "longitude": 19.2649,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornji Brestovac",
+      "postal_code": "16244",
+      "country_code": "RS",
+      "latitude": 42.8298,
+      "longitude": 21.5432,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lece",
+      "postal_code": "16248",
+      "country_code": "RS",
+      "latitude": 42.9043,
+      "longitude": 21.5252,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donje Tlamino",
+      "postal_code": "17547",
+      "country_code": "RS",
+      "latitude": 42.3599,
+      "longitude": 22.4259,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lički Hanovi",
+      "postal_code": "18245",
+      "country_code": "RS",
+      "latitude": 43.1642,
+      "longitude": 22.0396,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pirot",
+      "postal_code": "18300",
+      "country_code": "RS",
+      "latitude": 43.1531,
+      "longitude": 22.5861,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sukovo",
+      "postal_code": "18322",
+      "country_code": "RS",
+      "latitude": 43.0499,
+      "longitude": 22.647,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Beloljin",
+      "postal_code": "18424",
+      "country_code": "RS",
+      "latitude": 43.2385,
+      "longitude": 21.3967,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trnjane",
+      "postal_code": "19306",
+      "country_code": "RS",
+      "latitude": 44.2208,
+      "longitude": 22.3588,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sip",
+      "postal_code": "19326",
+      "country_code": "RS",
+      "latitude": 44.5321,
+      "longitude": 22.5271,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Radičević",
+      "postal_code": "21225",
+      "country_code": "RS",
+      "latitude": 45.5819,
+      "longitude": 19.9167,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Noćaj",
+      "postal_code": "22203",
+      "country_code": "RS",
+      "latitude": 44.9268,
+      "longitude": 19.5504,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Belegiš",
+      "postal_code": "22306",
+      "country_code": "RS",
+      "latitude": 45.0192,
+      "longitude": 20.3332,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Klenak",
+      "postal_code": "22424",
+      "country_code": "RS",
+      "latitude": 44.7885,
+      "longitude": 19.71,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krajišnik",
+      "postal_code": "23231",
+      "country_code": "RS",
+      "latitude": 45.4528,
+      "longitude": 20.7298,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novi Itebej",
+      "postal_code": "23236",
+      "country_code": "RS",
+      "latitude": 45.5592,
+      "longitude": 20.7003,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mokrin",
+      "postal_code": "23305",
+      "country_code": "RS",
+      "latitude": 45.9336,
+      "longitude": 20.4122,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lovćenac",
+      "postal_code": "24322",
+      "country_code": "RS",
+      "latitude": 45.6816,
+      "longitude": 19.6921,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Karavukovo",
+      "postal_code": "25255",
+      "country_code": "RS",
+      "latitude": 45.4983,
+      "longitude": 19.1942,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Debeljača",
+      "postal_code": "26214",
+      "country_code": "RS",
+      "latitude": 45.0707,
+      "longitude": 20.6015,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kovin",
+      "postal_code": "26220",
+      "country_code": "RS",
+      "latitude": 44.7475,
+      "longitude": 20.9761,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banatski Brestovac",
+      "postal_code": "26234",
+      "country_code": "RS",
+      "latitude": 44.7274,
+      "longitude": 20.809,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kuštilj",
+      "postal_code": "26336",
+      "country_code": "RS",
+      "latitude": 45.0349,
+      "longitude": 21.3799,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Izbište",
+      "postal_code": "26343",
+      "country_code": "RS",
+      "latitude": 45.0225,
+      "longitude": 21.1839,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Janošik",
+      "postal_code": "26362",
+      "country_code": "RS",
+      "latitude": 45.1714,
+      "longitude": 21.0066,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veliki Gaj",
+      "postal_code": "26365",
+      "country_code": "RS",
+      "latitude": 45.2885,
+      "longitude": 21.1706,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šljivovica",
+      "postal_code": "31244",
+      "country_code": "RS",
+      "latitude": 43.7947,
+      "longitude": 19.6573,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kostojevići",
+      "postal_code": "31254",
+      "country_code": "RS",
+      "latitude": 44.0075,
+      "longitude": 19.6872,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brezna",
+      "postal_code": "32307",
+      "country_code": "RS",
+      "latitude": 44.0518,
+      "longitude": 20.2809,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donja Šatornja",
+      "postal_code": "34314",
+      "country_code": "RS",
+      "latitude": 44.1941,
+      "longitude": 20.6021,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jarmenovci",
+      "postal_code": "34318",
+      "country_code": "RS",
+      "latitude": 44.1849,
+      "longitude": 20.5462,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Strižilo",
+      "postal_code": "35269",
+      "country_code": "RS",
+      "latitude": 44.067,
+      "longitude": 21.1085,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lepenac",
+      "postal_code": "37224",
+      "country_code": "RS",
+      "latitude": 43.3447,
+      "longitude": 21.0916,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Umka",
+      "postal_code": "11260",
+      "country_code": "RS",
+      "latitude": 44.6781,
+      "longitude": 20.3047,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krepoljin",
+      "postal_code": "12316",
+      "country_code": "RS",
+      "latitude": 44.2627,
+      "longitude": 21.6045,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Žagubica",
+      "postal_code": "12320",
+      "country_code": "RS",
+      "latitude": 44.1969,
+      "longitude": 21.7884,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banjani",
+      "postal_code": "14214",
+      "country_code": "RS",
+      "latitude": 44.5377,
+      "longitude": 19.9803,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Draginje",
+      "postal_code": "15226",
+      "country_code": "RS",
+      "latitude": 44.533,
+      "longitude": 19.7625,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bosilegrad",
+      "postal_code": "17540",
+      "country_code": "RS",
+      "latitude": 42.5011,
+      "longitude": 22.4724,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Korbevac",
+      "postal_code": "17545",
+      "country_code": "RS",
+      "latitude": 42.5894,
+      "longitude": 22.0225,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lalinac",
+      "postal_code": "18201",
+      "country_code": "RS",
+      "latitude": 43.4446,
+      "longitude": 22.0177,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Medoševac",
+      "postal_code": "18209",
+      "country_code": "RS",
+      "latitude": 43.326,
+      "longitude": 21.8616,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donji Dušnik",
+      "postal_code": "18242",
+      "country_code": "RS",
+      "latitude": 43.1636,
+      "longitude": 22.1044,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bela Palanka",
+      "postal_code": "18310",
+      "country_code": "RS",
+      "latitude": 43.2183,
+      "longitude": 22.3111,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mokranja",
+      "postal_code": "19317",
+      "country_code": "RS",
+      "latitude": 44.1581,
+      "longitude": 22.5442,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Korbovo",
+      "postal_code": "19329",
+      "country_code": "RS",
+      "latitude": 44.5237,
+      "longitude": 22.7073,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Minićevo",
+      "postal_code": "19340",
+      "country_code": "RS",
+      "latitude": 43.6843,
+      "longitude": 22.2933,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ravno Selo",
+      "postal_code": "21471",
+      "country_code": "RS",
+      "latitude": 45.4497,
+      "longitude": 19.621,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Subotište",
+      "postal_code": "22414",
+      "country_code": "RS",
+      "latitude": 44.8451,
+      "longitude": 19.9598,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lazarevo",
+      "postal_code": "23241",
+      "country_code": "RS",
+      "latitude": 45.3889,
+      "longitude": 20.54,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Orlovat",
+      "postal_code": "23263",
+      "country_code": "RS",
+      "latitude": 45.2417,
+      "longitude": 20.5809,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sivac",
+      "postal_code": "25223",
+      "country_code": "RS",
+      "latitude": 45.7045,
+      "longitude": 19.3827,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banatska Subotica",
+      "postal_code": "26327",
+      "country_code": "RS",
+      "latitude": 44.9833,
+      "longitude": 21.3451,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vlajkovac",
+      "postal_code": "26332",
+      "country_code": "RS",
+      "latitude": 45.0721,
+      "longitude": 21.1994,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bačevci",
+      "postal_code": "31258",
+      "country_code": "RS",
+      "latitude": 44.0882,
+      "longitude": 19.5119,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Seča Reka",
+      "postal_code": "31262",
+      "country_code": "RS",
+      "latitude": 44.0104,
+      "longitude": 19.8361,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rača Kragujevačka",
+      "postal_code": "34210",
+      "country_code": "RS",
+      "latitude": 44.0178,
+      "longitude": 21.0629,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Svilajnac",
+      "postal_code": "35210",
+      "country_code": "RS",
+      "latitude": 44.2337,
+      "longitude": 21.1967,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Končarevo",
+      "postal_code": "35219",
+      "country_code": "RS",
+      "latitude": 43.9751,
+      "longitude": 21.3137,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mijatovac",
+      "postal_code": "35236",
+      "country_code": "RS",
+      "latitude": 43.9527,
+      "longitude": 21.3403,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dragovo",
+      "postal_code": "35265",
+      "country_code": "RS",
+      "latitude": 43.7872,
+      "longitude": 21.1007,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novo Lanište",
+      "postal_code": "35271",
+      "country_code": "RS",
+      "latitude": 44.0317,
+      "longitude": 21.2384,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bogutovac",
+      "postal_code": "36341",
+      "country_code": "RS",
+      "latitude": 43.6663,
+      "longitude": 20.5495,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Raška",
+      "postal_code": "36350",
+      "country_code": "RS",
+      "latitude": 43.2872,
+      "longitude": 20.6153,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornji Stupanj",
+      "postal_code": "37234",
+      "country_code": "RS",
+      "latitude": 43.4727,
+      "longitude": 21.185,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zemun",
+      "postal_code": "11080",
+      "country_code": "RS",
+      "latitude": 44.8458,
+      "longitude": 20.4012,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dobanovci",
+      "postal_code": "11272",
+      "country_code": "RS",
+      "latitude": 44.8263,
+      "longitude": 20.2249,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jakovo",
+      "postal_code": "11276",
+      "country_code": "RS",
+      "latitude": 44.7537,
+      "longitude": 20.2601,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lipe",
+      "postal_code": "11310",
+      "country_code": "RS",
+      "latitude": 44.641,
+      "longitude": 20.9999,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vlaška",
+      "postal_code": "11406",
+      "country_code": "RS",
+      "latitude": 44.5003,
+      "longitude": 20.6873,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Selevac",
+      "postal_code": "11407",
+      "country_code": "RS",
+      "latitude": 44.4953,
+      "longitude": 20.873,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vreoci",
+      "postal_code": "11560",
+      "country_code": "RS",
+      "latitude": 44.4434,
+      "longitude": 20.282,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Turija (Kučevo)",
+      "postal_code": "12257",
+      "country_code": "RS",
+      "latitude": 44.5672,
+      "longitude": 21.6118,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veliko Laole",
+      "postal_code": "12306",
+      "country_code": "RS",
+      "latitude": 44.3195,
+      "longitude": 21.4312,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Crna Trava",
+      "postal_code": "16215",
+      "country_code": "RS",
+      "latitude": 42.8099,
+      "longitude": 22.2988,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grdelica",
+      "postal_code": "16220",
+      "country_code": "RS",
+      "latitude": 42.9016,
+      "longitude": 22.0705,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bošnjace",
+      "postal_code": "16232",
+      "country_code": "RS",
+      "latitude": 42.9463,
+      "longitude": 21.8272,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Surdulica",
+      "postal_code": "17530",
+      "country_code": "RS",
+      "latitude": 42.6906,
+      "longitude": 22.1708,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mozgovo",
+      "postal_code": "18229",
+      "country_code": "RS",
+      "latitude": 43.6589,
+      "longitude": 21.6611,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jovanovac",
+      "postal_code": "18258",
+      "country_code": "RS",
+      "latitude": 43.3453,
+      "longitude": 21.6848,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Babin Kal",
+      "postal_code": "18315",
+      "country_code": "RS",
+      "latitude": 43.2939,
+      "longitude": 22.3787,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donji Milanovac",
+      "postal_code": "19220",
+      "country_code": "RS",
+      "latitude": 44.4659,
+      "longitude": 22.1517,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vasilj",
+      "postal_code": "19367",
+      "country_code": "RS",
+      "latitude": 43.5703,
+      "longitude": 22.1558,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kovilj",
+      "postal_code": "21243",
+      "country_code": "RS",
+      "latitude": 45.2342,
+      "longitude": 20.0233,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gardinovci",
+      "postal_code": "21247",
+      "country_code": "RS",
+      "latitude": 45.2036,
+      "longitude": 20.1356,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rakovac",
+      "postal_code": "21299",
+      "country_code": "RS",
+      "latitude": 45.2078,
+      "longitude": 19.7679,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bođani",
+      "postal_code": "21427",
+      "country_code": "RS",
+      "latitude": 45.3896,
+      "longitude": 19.1067,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bačko Dobro Polje",
+      "postal_code": "21465",
+      "country_code": "RS",
+      "latitude": 45.5015,
+      "longitude": 19.6898,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Inđija",
+      "postal_code": "22320",
+      "country_code": "RS",
+      "latitude": 45.0482,
+      "longitude": 20.0816,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stejanovci",
+      "postal_code": "22405",
+      "country_code": "RS",
+      "latitude": 45.0564,
+      "longitude": 19.7241,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Srpska Crnja",
+      "postal_code": "23220",
+      "country_code": "RS",
+      "latitude": 45.7254,
+      "longitude": 20.6901,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jaša Tomić",
+      "postal_code": "23230",
+      "country_code": "RS",
+      "latitude": 45.4472,
+      "longitude": 20.8555,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Horgoš",
+      "postal_code": "24410",
+      "country_code": "RS",
+      "latitude": 46.1539,
+      "longitude": 19.9677,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Palić",
+      "postal_code": "24413",
+      "country_code": "RS",
+      "latitude": 46.1065,
+      "longitude": 19.7565,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lugavčina",
+      "postal_code": "11321",
+      "country_code": "RS",
+      "latitude": 44.5231,
+      "longitude": 21.0708,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vinča",
+      "postal_code": "11351",
+      "country_code": "RS",
+      "latitude": 44.7626,
+      "longitude": 20.6216,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Suvi Do",
+      "postal_code": "12322",
+      "country_code": "RS",
+      "latitude": 44.2086,
+      "longitude": 21.7275,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Radljevo",
+      "postal_code": "14211",
+      "country_code": "RS",
+      "latitude": 44.4624,
+      "longitude": 20.1906,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Metlić",
+      "postal_code": "15233",
+      "country_code": "RS",
+      "latitude": 44.5731,
+      "longitude": 19.6299,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lešnica",
+      "postal_code": "15307",
+      "country_code": "RS",
+      "latitude": 44.6525,
+      "longitude": 19.31,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Klenje",
+      "postal_code": "15357",
+      "country_code": "RS",
+      "latitude": 44.8079,
+      "longitude": 19.4351,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Biljača",
+      "postal_code": "17522",
+      "country_code": "RS",
+      "latitude": 42.3552,
+      "longitude": 21.7478,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Korman",
+      "postal_code": "18216",
+      "country_code": "RS",
+      "latitude": 43.4528,
+      "longitude": 21.703,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mramor",
+      "postal_code": "18251",
+      "country_code": "RS",
+      "latitude": 43.3155,
+      "longitude": 21.7817,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Žitni Potok",
+      "postal_code": "18407",
+      "country_code": "RS",
+      "latitude": 43.0902,
+      "longitude": 21.5748,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donje Crnatovo",
+      "postal_code": "18414",
+      "country_code": "RS",
+      "latitude": 43.1523,
+      "longitude": 21.7727,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Prolom Banja",
+      "postal_code": "18433",
+      "country_code": "RS",
+      "latitude": 43.1896,
+      "longitude": 21.2124,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lukovska Banja",
+      "postal_code": "18437",
+      "country_code": "RS",
+      "latitude": 43.1896,
+      "longitude": 21.2124,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Braćevac",
+      "postal_code": "19315",
+      "country_code": "RS",
+      "latitude": 44.0697,
+      "longitude": 22.5041,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mihajlovac",
+      "postal_code": "19322",
+      "country_code": "RS",
+      "latitude": 44.3662,
+      "longitude": 22.4982,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kisač",
+      "postal_code": "21211",
+      "country_code": "RS",
+      "latitude": 45.3542,
+      "longitude": 19.7297,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bačko Petrovo Selo",
+      "postal_code": "21226",
+      "country_code": "RS",
+      "latitude": 45.7068,
+      "longitude": 20.0793,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bački Jarak",
+      "postal_code": "21234",
+      "country_code": "RS",
+      "latitude": 45.37,
+      "longitude": 19.8751,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kraljevci",
+      "postal_code": "22411",
+      "country_code": "RS",
+      "latitude": 44.9774,
+      "longitude": 19.8833,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kupinovo",
+      "postal_code": "22419",
+      "country_code": "RS",
+      "latitude": 44.7071,
+      "longitude": 20.0496,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Voganj",
+      "postal_code": "22429",
+      "country_code": "RS",
+      "latitude": 45.0032,
+      "longitude": 19.7561,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Neuzina",
+      "postal_code": "23245",
+      "country_code": "RS",
+      "latitude": 45.3446,
+      "longitude": 20.7142,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banatska Dubica",
+      "postal_code": "23251",
+      "country_code": "RS",
+      "latitude": 45.2715,
+      "longitude": 20.8283,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čoka",
+      "postal_code": "23320",
+      "country_code": "RS",
+      "latitude": 45.9425,
+      "longitude": 20.1433,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Tavankut",
+      "postal_code": "24214",
+      "country_code": "RS",
+      "latitude": 46.0484,
+      "longitude": 19.4872,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Aleksa Šantić",
+      "postal_code": "25212",
+      "country_code": "RS",
+      "latitude": 45.9284,
+      "longitude": 19.3325,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sevojno",
+      "postal_code": "31205",
+      "country_code": "RS",
+      "latitude": 43.8496,
+      "longitude": 19.9108,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Paraćin",
+      "postal_code": "35250",
+      "country_code": "RS",
+      "latitude": 43.8608,
+      "longitude": 21.4078,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Žiča",
+      "postal_code": "36221",
+      "country_code": "RS",
+      "latitude": 43.6944,
+      "longitude": 20.6542,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vračev Gaj",
+      "postal_code": "26348",
+      "country_code": "RS",
+      "latitude": 44.8787,
+      "longitude": 21.3674,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rožanstvo",
+      "postal_code": "31208",
+      "country_code": "RS",
+      "latitude": 43.7153,
+      "longitude": 19.8384,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Priboj",
+      "postal_code": "31330",
+      "country_code": "RS",
+      "latitude": 42.992,
+      "longitude": 21.3208,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ivanjica",
+      "postal_code": "32250",
+      "country_code": "RS",
+      "latitude": 43.5803,
+      "longitude": 20.2311,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vraćevšnica",
+      "postal_code": "32315",
+      "country_code": "RS",
+      "latitude": 44.0417,
+      "longitude": 20.619,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Maršić",
+      "postal_code": "34209",
+      "country_code": "RS",
+      "latitude": 44.0326,
+      "longitude": 20.9777,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ribariće",
+      "postal_code": "36309",
+      "country_code": "RS",
+      "latitude": 42.9707,
+      "longitude": 20.4697,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veliki Šiljegovac",
+      "postal_code": "37204",
+      "country_code": "RS",
+      "latitude": 43.519,
+      "longitude": 21.5297,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Skorica",
+      "postal_code": "37218",
+      "country_code": "RS",
+      "latitude": 43.7891,
+      "longitude": 21.5647,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Milutovac",
+      "postal_code": "37246",
+      "country_code": "RS",
+      "latitude": 43.6875,
+      "longitude": 21.1291,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Globoder",
+      "postal_code": "37251",
+      "country_code": "RS",
+      "latitude": 43.5634,
+      "longitude": 21.1739,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pinosava",
+      "postal_code": "11226",
+      "country_code": "RS",
+      "latitude": 44.6954,
+      "longitude": 20.483,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lazarevac",
+      "postal_code": "11550",
+      "country_code": "RS",
+      "latitude": 44.3853,
+      "longitude": 20.2557,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Petlovača",
+      "postal_code": "15304",
+      "country_code": "RS",
+      "latitude": 44.7222,
+      "longitude": 19.4467,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Draginac",
+      "postal_code": "15311",
+      "country_code": "RS",
+      "latitude": 44.5084,
+      "longitude": 19.4163,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donja Borina",
+      "postal_code": "15317",
+      "country_code": "RS",
+      "latitude": 44.4352,
+      "longitude": 19.179,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mali Zvornik",
+      "postal_code": "15318",
+      "country_code": "RS",
+      "latitude": 44.3734,
+      "longitude": 19.1065,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zminjak",
+      "postal_code": "15352",
+      "country_code": "RS",
+      "latitude": 44.7571,
+      "longitude": 19.4707,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Medveđa",
+      "postal_code": "16240",
+      "country_code": "RS",
+      "latitude": 42.8431,
+      "longitude": 21.5833,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veliki Trnovac",
+      "postal_code": "17528",
+      "country_code": "RS",
+      "latitude": 42.4791,
+      "longitude": 21.7399,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mali Jasenovac",
+      "postal_code": "19209",
+      "country_code": "RS",
+      "latitude": 44.0351,
+      "longitude": 22.4492,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zlot",
+      "postal_code": "19215",
+      "country_code": "RS",
+      "latitude": 44.0085,
+      "longitude": 21.9855,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kobišnica",
+      "postal_code": "19316",
+      "country_code": "RS",
+      "latitude": 44.199,
+      "longitude": 22.5959,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bogovina",
+      "postal_code": "19372",
+      "country_code": "RS",
+      "latitude": 43.893,
+      "longitude": 21.9499,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nadalj",
+      "postal_code": "21216",
+      "country_code": "RS",
+      "latitude": 45.5086,
+      "longitude": 19.9236,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Salaš Noćajski",
+      "postal_code": "22204",
+      "country_code": "RS",
+      "latitude": 44.9472,
+      "longitude": 19.5861,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sot",
+      "postal_code": "22243",
+      "country_code": "RS",
+      "latitude": 45.1608,
+      "longitude": 19.3178,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Batrovci",
+      "postal_code": "22251",
+      "country_code": "RS",
+      "latitude": 45.0527,
+      "longitude": 19.1323,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bingula",
+      "postal_code": "22253",
+      "country_code": "RS",
+      "latitude": 45.0995,
+      "longitude": 19.4486,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krušedol",
+      "postal_code": "22328",
+      "country_code": "RS",
+      "latitude": 45.1134,
+      "longitude": 19.9471,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Karlovčić",
+      "postal_code": "22443",
+      "country_code": "RS",
+      "latitude": 44.8232,
+      "longitude": 20.045,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nova Crnja",
+      "postal_code": "23218",
+      "country_code": "RS",
+      "latitude": 45.6683,
+      "longitude": 20.605,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Feketić",
+      "postal_code": "24323",
+      "country_code": "RS",
+      "latitude": 45.6643,
+      "longitude": 19.6997,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Crvenka",
+      "postal_code": "25220",
+      "country_code": "RS",
+      "latitude": 45.661,
+      "longitude": 19.4543,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Doroslovo",
+      "postal_code": "25243",
+      "country_code": "RS",
+      "latitude": 45.607,
+      "longitude": 19.1887,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bogojevo",
+      "postal_code": "25245",
+      "country_code": "RS",
+      "latitude": 45.5301,
+      "longitude": 19.1302,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ritiševo",
+      "postal_code": "26331",
+      "country_code": "RS",
+      "latitude": 45.0645,
+      "longitude": 21.2281,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljubiš",
+      "postal_code": "31209",
+      "country_code": "RS",
+      "latitude": 43.6167,
+      "longitude": 19.8565,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kovilje",
+      "postal_code": "32257",
+      "country_code": "RS",
+      "latitude": 43.5195,
+      "longitude": 20.2792,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kušići",
+      "postal_code": "32258",
+      "country_code": "RS",
+      "latitude": 43.6094,
+      "longitude": 20.2706,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bumbarevo Brdo",
+      "postal_code": "34242",
+      "country_code": "RS",
+      "latitude": 43.9114,
+      "longitude": 20.6245,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Supska",
+      "postal_code": "35228",
+      "country_code": "RS",
+      "latitude": 43.9748,
+      "longitude": 21.3678,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Đunis",
+      "postal_code": "37202",
+      "country_code": "RS",
+      "latitude": 43.5291,
+      "longitude": 21.3944,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velika Vrbnica",
+      "postal_code": "37233",
+      "country_code": "RS",
+      "latitude": 43.4897,
+      "longitude": 20.9688,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Golobok",
+      "postal_code": "11316",
+      "country_code": "RS",
+      "latitude": 44.4547,
+      "longitude": 21.0041,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rabrovo",
+      "postal_code": "12254",
+      "country_code": "RS",
+      "latitude": 44.5764,
+      "longitude": 21.5138,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vukovac",
+      "postal_code": "12318",
+      "country_code": "RS",
+      "latitude": 44.259,
+      "longitude": 21.7383,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brgule",
+      "postal_code": "14212",
+      "country_code": "RS",
+      "latitude": 44.5234,
+      "longitude": 20.1749,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Manojlovce",
+      "postal_code": "16201",
+      "country_code": "RS",
+      "latitude": 43.0143,
+      "longitude": 22.0147,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veliki Drenovac",
+      "postal_code": "18222",
+      "country_code": "RS",
+      "latitude": 43.412,
+      "longitude": 21.7422,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Temska",
+      "postal_code": "18355",
+      "country_code": "RS",
+      "latitude": 43.2611,
+      "longitude": 22.543,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mali Izvor",
+      "postal_code": "19347",
+      "country_code": "RS",
+      "latitude": 43.7274,
+      "longitude": 22.3184,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Futog",
+      "postal_code": "21410",
+      "country_code": "RS",
+      "latitude": 45.2387,
+      "longitude": 19.7142,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Morović",
+      "postal_code": "22245",
+      "country_code": "RS",
+      "latitude": 45.0099,
+      "longitude": 19.2151,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Beška",
+      "postal_code": "22324",
+      "country_code": "RS",
+      "latitude": 45.1309,
+      "longitude": 20.067,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zrenjanin",
+      "postal_code": "23101",
+      "country_code": "RS",
+      "latitude": 45.3836,
+      "longitude": 20.3819,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Farkaždin",
+      "postal_code": "23264",
+      "country_code": "RS",
+      "latitude": 45.1917,
+      "longitude": 20.4724,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kumane",
+      "postal_code": "23271",
+      "country_code": "RS",
+      "latitude": 45.5395,
+      "longitude": 20.229,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kljajićevo",
+      "postal_code": "25221",
+      "country_code": "RS",
+      "latitude": 45.7704,
+      "longitude": 19.277,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Omoljica",
+      "postal_code": "26230",
+      "country_code": "RS",
+      "latitude": 44.7589,
+      "longitude": 20.7341,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novi Kozjak",
+      "postal_code": "26353",
+      "country_code": "RS",
+      "latitude": 45.1826,
+      "longitude": 20.8638,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Karan (Užice)",
+      "postal_code": "31204",
+      "country_code": "RS",
+      "latitude": 43.7488,
+      "longitude": 19.8882,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Roge",
+      "postal_code": "31237",
+      "country_code": "RS",
+      "latitude": 43.7691,
+      "longitude": 19.9986,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kaluđerske Bare",
+      "postal_code": "31257",
+      "country_code": "RS",
+      "latitude": 43.9876,
+      "longitude": 19.5616,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rekovac",
+      "postal_code": "35260",
+      "country_code": "RS",
+      "latitude": 43.863,
+      "longitude": 21.0934,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Prevešt",
+      "postal_code": "35264",
+      "country_code": "RS",
+      "latitude": 43.7573,
+      "longitude": 21.0426,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Adrani",
+      "postal_code": "36203",
+      "country_code": "RS",
+      "latitude": 43.7626,
+      "longitude": 20.6347,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vrnjačka Banja",
+      "postal_code": "36210",
+      "country_code": "RS",
+      "latitude": 43.6273,
+      "longitude": 20.8963,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velika Lomnica",
+      "postal_code": "37209",
+      "country_code": "RS",
+      "latitude": 43.4957,
+      "longitude": 21.3414,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kupci",
+      "postal_code": "37222",
+      "country_code": "RS",
+      "latitude": 43.4552,
+      "longitude": 21.2331,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Blaževo",
+      "postal_code": "37226",
+      "country_code": "RS",
+      "latitude": 43.2289,
+      "longitude": 20.9086,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Skobalj",
+      "postal_code": "11322",
+      "country_code": "RS",
+      "latitude": 44.5646,
+      "longitude": 21.0331,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Smederevska Palanka",
+      "postal_code": "11420",
+      "country_code": "RS",
+      "latitude": 44.3655,
+      "longitude": 20.9588,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kučevo",
+      "postal_code": "12240",
+      "country_code": "RS",
+      "latitude": 44.4775,
+      "longitude": 21.67,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bogovađa",
+      "postal_code": "14225",
+      "country_code": "RS",
+      "latitude": 44.3275,
+      "longitude": 20.2005,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Belanovica",
+      "postal_code": "14246",
+      "country_code": "RS",
+      "latitude": 44.2495,
+      "longitude": 20.3961,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brezjak",
+      "postal_code": "15309",
+      "country_code": "RS",
+      "latitude": 44.5097,
+      "longitude": 19.3413,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Miroševce",
+      "postal_code": "16204",
+      "country_code": "RS",
+      "latitude": 42.8655,
+      "longitude": 21.8381,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Predejane",
+      "postal_code": "16222",
+      "country_code": "RS",
+      "latitude": 42.8328,
+      "longitude": 22.1291,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sićevo",
+      "postal_code": "18311",
+      "country_code": "RS",
+      "latitude": 43.3409,
+      "longitude": 22.0841,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Poganovo",
+      "postal_code": "18326",
+      "country_code": "RS",
+      "latitude": 42.9697,
+      "longitude": 22.6668,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Žabalj",
+      "postal_code": "21230",
+      "country_code": "RS",
+      "latitude": 45.3722,
+      "longitude": 20.0639,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Budisava",
+      "postal_code": "21242",
+      "country_code": "RS",
+      "latitude": 45.2814,
+      "longitude": 19.9939,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banoštor",
+      "postal_code": "21312",
+      "country_code": "RS",
+      "latitude": 45.2126,
+      "longitude": 19.6118,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Adaševci",
+      "postal_code": "22244",
+      "country_code": "RS",
+      "latitude": 45.0793,
+      "longitude": 19.2213,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sremska Rača",
+      "postal_code": "22247",
+      "country_code": "RS",
+      "latitude": 44.9208,
+      "longitude": 19.2858,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bikić Do",
+      "postal_code": "22254",
+      "country_code": "RS",
+      "latitude": 45.1542,
+      "longitude": 19.2926,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stari Banovci",
+      "postal_code": "22305",
+      "country_code": "RS",
+      "latitude": 44.9842,
+      "longitude": 20.2838,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Putinci",
+      "postal_code": "22404",
+      "country_code": "RS",
+      "latitude": 44.9926,
+      "longitude": 19.971,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Irig",
+      "postal_code": "22406",
+      "country_code": "RS",
+      "latitude": 45.0523,
+      "longitude": 19.8445,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šašinci",
+      "postal_code": "22425",
+      "country_code": "RS",
+      "latitude": 44.9651,
+      "longitude": 19.7415,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Iđoš",
+      "postal_code": "23323",
+      "country_code": "RS",
+      "latitude": 45.8265,
+      "longitude": 20.3179,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krivaja",
+      "postal_code": "24341",
+      "country_code": "RS",
+      "latitude": 45.7083,
+      "longitude": 19.6653,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Senta",
+      "postal_code": "24400",
+      "country_code": "RS",
+      "latitude": 45.9275,
+      "longitude": 20.0772,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sombor",
+      "postal_code": "25101",
+      "country_code": "RS",
+      "latitude": 45.7742,
+      "longitude": 19.1122,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Skorenovac",
+      "postal_code": "26228",
+      "country_code": "RS",
+      "latitude": 44.765,
+      "longitude": 20.9041,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kajtasovo",
+      "postal_code": "26329",
+      "country_code": "RS",
+      "latitude": 44.8764,
+      "longitude": 21.255,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rogačica",
+      "postal_code": "31255",
+      "country_code": "RS",
+      "latitude": 44.0372,
+      "longitude": 19.6324,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kosjerić",
+      "postal_code": "31260",
+      "country_code": "RS",
+      "latitude": 43.9961,
+      "longitude": 19.9069,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Aljinovići",
+      "postal_code": "31307",
+      "country_code": "RS",
+      "latitude": 43.3377,
+      "longitude": 19.8487,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Guča",
+      "postal_code": "32230",
+      "country_code": "RS",
+      "latitude": 43.7789,
+      "longitude": 20.2256,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vionica",
+      "postal_code": "32254",
+      "country_code": "RS",
+      "latitude": 43.4334,
+      "longitude": 20.3541,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Aranđelovac",
+      "postal_code": "34300",
+      "country_code": "RS",
+      "latitude": 44.3069,
+      "longitude": 20.56,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Despotovac",
+      "postal_code": "35213",
+      "country_code": "RS",
+      "latitude": 44.0925,
+      "longitude": 21.4469,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trešnjevica",
+      "postal_code": "35248",
+      "country_code": "RS",
+      "latitude": 43.87,
+      "longitude": 21.3251,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Delimeđe",
+      "postal_code": "36307",
+      "country_code": "RS",
+      "latitude": 43.1041,
+      "longitude": 20.3022,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Štavalj",
+      "postal_code": "36311",
+      "country_code": "RS",
+      "latitude": 43.274,
+      "longitude": 20.1171,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mala Moštanica",
+      "postal_code": "11261",
+      "country_code": "RS",
+      "latitude": 44.6383,
+      "longitude": 20.306,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Boljevci",
+      "postal_code": "11275",
+      "country_code": "RS",
+      "latitude": 44.7235,
+      "longitude": 20.2235,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šepšin",
+      "postal_code": "11433",
+      "country_code": "RS",
+      "latitude": 44.5414,
+      "longitude": 20.7045,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veliko Gradište",
+      "postal_code": "12220",
+      "country_code": "RS",
+      "latitude": 44.7633,
+      "longitude": 21.5165,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Oreškovica",
+      "postal_code": "12308",
+      "country_code": "RS",
+      "latitude": 44.3171,
+      "longitude": 21.3251,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Smoljinac",
+      "postal_code": "12312",
+      "country_code": "RS",
+      "latitude": 44.6062,
+      "longitude": 21.3461,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Divčibare",
+      "postal_code": "14204",
+      "country_code": "RS",
+      "latitude": 44.106,
+      "longitude": 19.9925,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Slavkovica",
+      "postal_code": "14245",
+      "country_code": "RS",
+      "latitude": 44.1707,
+      "longitude": 20.2457,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šabac",
+      "postal_code": "15000",
+      "country_code": "RS",
+      "latitude": 44.7467,
+      "longitude": 19.69,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donje Crniljevo",
+      "postal_code": "15227",
+      "country_code": "RS",
+      "latitude": 44.4677,
+      "longitude": 19.6257,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jadranska Lešnica",
+      "postal_code": "15308",
+      "country_code": "RS",
+      "latitude": 44.5973,
+      "longitude": 19.3521,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Guberevac (Leskovac)",
+      "postal_code": "16211",
+      "country_code": "RS",
+      "latitude": 42.9181,
+      "longitude": 22.2328,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sijarinska Banja",
+      "postal_code": "16246",
+      "country_code": "RS",
+      "latitude": 42.7777,
+      "longitude": 21.6037,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Malča",
+      "postal_code": "18207",
+      "country_code": "RS",
+      "latitude": 43.3343,
+      "longitude": 22.0312,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Crvena Reka",
+      "postal_code": "18313",
+      "country_code": "RS",
+      "latitude": 43.2717,
+      "longitude": 22.2328,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donja Rečica",
+      "postal_code": "18404",
+      "country_code": "RS",
+      "latitude": 43.2903,
+      "longitude": 21.4964,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pejkovac",
+      "postal_code": "18413",
+      "country_code": "RS",
+      "latitude": 43.2261,
+      "longitude": 21.7329,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rača",
+      "postal_code": "18440",
+      "country_code": "RS",
+      "latitude": 43.008,
+      "longitude": 21.3211,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Urovica",
+      "postal_code": "19305",
+      "country_code": "RS",
+      "latitude": 44.4003,
+      "longitude": 22.4011,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donje Zuniče",
+      "postal_code": "19345",
+      "country_code": "RS",
+      "latitude": 43.6226,
+      "longitude": 22.2768,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donja Kamenica",
+      "postal_code": "19352",
+      "country_code": "RS",
+      "latitude": 43.4882,
+      "longitude": 22.3263,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stepanovićevo",
+      "postal_code": "21212",
+      "country_code": "RS",
+      "latitude": 45.4137,
+      "longitude": 19.7,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gospođinci",
+      "postal_code": "21237",
+      "country_code": "RS",
+      "latitude": 45.4038,
+      "longitude": 19.9881,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mošorin",
+      "postal_code": "21245",
+      "country_code": "RS",
+      "latitude": 45.302,
+      "longitude": 20.1692,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Neštin",
+      "postal_code": "21314",
+      "country_code": "RS",
+      "latitude": 45.2231,
+      "longitude": 19.4542,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bačko Novo Selo",
+      "postal_code": "21429",
+      "country_code": "RS",
+      "latitude": 45.2934,
+      "longitude": 19.1411,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bešenovo",
+      "postal_code": "22212",
+      "country_code": "RS",
+      "latitude": 45.0836,
+      "longitude": 19.7041,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Aleksandrovo",
+      "postal_code": "23217",
+      "country_code": "RS",
+      "latitude": 45.6376,
+      "longitude": 20.5929,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novo Miloševo",
+      "postal_code": "23273",
+      "country_code": "RS",
+      "latitude": 45.7192,
+      "longitude": 20.3036,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banatska Topola",
+      "postal_code": "23315",
+      "country_code": "RS",
+      "latitude": 45.6725,
+      "longitude": 20.4653,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bajmok",
+      "postal_code": "24210",
+      "country_code": "RS",
+      "latitude": 45.9714,
+      "longitude": 19.4225,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gunaroš",
+      "postal_code": "24312",
+      "country_code": "RS",
+      "latitude": 45.7603,
+      "longitude": 19.8278,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Panonija",
+      "postal_code": "24330",
+      "country_code": "RS",
+      "latitude": 45.7799,
+      "longitude": 19.5852,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stara Moravica",
+      "postal_code": "24340",
+      "country_code": "RS",
+      "latitude": 45.8695,
+      "longitude": 19.4672,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Martonoš",
+      "postal_code": "24417",
+      "country_code": "RS",
+      "latitude": 46.1146,
+      "longitude": 20.0589,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kruščić",
+      "postal_code": "25225",
+      "country_code": "RS",
+      "latitude": 45.6139,
+      "longitude": 19.3692,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ruski Krstur",
+      "postal_code": "25233",
+      "country_code": "RS",
+      "latitude": 45.5639,
+      "longitude": 19.42,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pančevo",
+      "postal_code": "26101",
+      "country_code": "RS",
+      "latitude": 44.8718,
+      "longitude": 20.6417,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Devojački Bunar",
+      "postal_code": "26316",
+      "country_code": "RS",
+      "latitude": 45.0338,
+      "longitude": 20.8717,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bela Zemlja",
+      "postal_code": "31311",
+      "country_code": "RS",
+      "latitude": 43.8115,
+      "longitude": 19.7949,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Duga Poljana",
+      "postal_code": "36312",
+      "country_code": "RS",
+      "latitude": 43.2515,
+      "longitude": 20.2278,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jošanička Banja",
+      "postal_code": "36345",
+      "country_code": "RS",
+      "latitude": 43.3894,
+      "longitude": 20.7505,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novi Bračin",
+      "postal_code": "37216",
+      "country_code": "RS",
+      "latitude": 43.7531,
+      "longitude": 21.5047,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Borča",
+      "postal_code": "11211",
+      "country_code": "RS",
+      "latitude": 44.8697,
+      "longitude": 20.4541,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Progar",
+      "postal_code": "11280",
+      "country_code": "RS",
+      "latitude": 44.7174,
+      "longitude": 20.1605,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Žabari",
+      "postal_code": "12374",
+      "country_code": "RS",
+      "latitude": 44.3561,
+      "longitude": 21.215,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jabučje",
+      "postal_code": "14226",
+      "country_code": "RS",
+      "latitude": 44.3694,
+      "longitude": 20.1653,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velika Grabovnica",
+      "postal_code": "16221",
+      "country_code": "RS",
+      "latitude": 42.9246,
+      "longitude": 22.0114,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trupale",
+      "postal_code": "18211",
+      "country_code": "RS",
+      "latitude": 43.3581,
+      "longitude": 21.7936,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zvezdan",
+      "postal_code": "19227",
+      "country_code": "RS",
+      "latitude": 43.9009,
+      "longitude": 22.2143,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vražogrnac",
+      "postal_code": "19312",
+      "country_code": "RS",
+      "latitude": 43.9618,
+      "longitude": 22.3199,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Titel",
+      "postal_code": "21240",
+      "country_code": "RS",
+      "latitude": 45.2061,
+      "longitude": 20.2944,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lok",
+      "postal_code": "21248",
+      "country_code": "RS",
+      "latitude": 45.2158,
+      "longitude": 20.2122,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ležimir",
+      "postal_code": "22207",
+      "country_code": "RS",
+      "latitude": 45.1232,
+      "longitude": 19.5707,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bosut",
+      "postal_code": "22217",
+      "country_code": "RS",
+      "latitude": 44.9298,
+      "longitude": 19.3609,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bačinci",
+      "postal_code": "22225",
+      "country_code": "RS",
+      "latitude": 45.0816,
+      "longitude": 19.307,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nakovo",
+      "postal_code": "23311",
+      "country_code": "RS",
+      "latitude": 45.875,
+      "longitude": 20.5671,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novi Žednik",
+      "postal_code": "24223",
+      "country_code": "RS",
+      "latitude": 45.9412,
+      "longitude": 19.6714,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Njegoševo",
+      "postal_code": "24311",
+      "country_code": "RS",
+      "latitude": 45.7623,
+      "longitude": 19.7535,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Opovo",
+      "postal_code": "26204",
+      "country_code": "RS",
+      "latitude": 45.0522,
+      "longitude": 20.4303,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Deliblato",
+      "postal_code": "26225",
+      "country_code": "RS",
+      "latitude": 44.8388,
+      "longitude": 21.0386,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brekovo",
+      "postal_code": "31234",
+      "country_code": "RS",
+      "latitude": 43.6453,
+      "longitude": 20.0115,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Toponica",
+      "postal_code": "34243",
+      "country_code": "RS",
+      "latitude": 43.97,
+      "longitude": 20.6737,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Plažane",
+      "postal_code": "35212",
+      "country_code": "RS",
+      "latitude": 44.1457,
+      "longitude": 21.4112,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sikirica",
+      "postal_code": "35256",
+      "country_code": "RS",
+      "latitude": 43.7789,
+      "longitude": 21.4189,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sremčica",
+      "postal_code": "11253",
+      "country_code": "RS",
+      "latitude": 44.6765,
+      "longitude": 20.3923,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Boleč",
+      "postal_code": "11307",
+      "country_code": "RS",
+      "latitude": 44.7265,
+      "longitude": 20.6064,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kusadak",
+      "postal_code": "11425",
+      "country_code": "RS",
+      "latitude": 44.4002,
+      "longitude": 20.805,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Barajevo",
+      "postal_code": "11460",
+      "country_code": "RS",
+      "latitude": 44.6089,
+      "longitude": 20.4547,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ranovac",
+      "postal_code": "12304",
+      "country_code": "RS",
+      "latitude": 44.4441,
+      "longitude": 21.4762,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Divci",
+      "postal_code": "14222",
+      "country_code": "RS",
+      "latitude": 44.3013,
+      "longitude": 20.03,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mačvanski Pričinović",
+      "postal_code": "15211",
+      "country_code": "RS",
+      "latitude": 44.8497,
+      "longitude": 19.6311,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dublje",
+      "postal_code": "15359",
+      "country_code": "RS",
+      "latitude": 44.8012,
+      "longitude": 19.509,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vlase",
+      "postal_code": "17507",
+      "country_code": "RS",
+      "latitude": 42.6949,
+      "longitude": 21.8628,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donji Stajevac",
+      "postal_code": "17526",
+      "country_code": "RS",
+      "latitude": 42.4012,
+      "longitude": 22.1597,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kriva Feja",
+      "postal_code": "17543",
+      "country_code": "RS",
+      "latitude": 42.5591,
+      "longitude": 22.1749,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gnjilan",
+      "postal_code": "18309",
+      "country_code": "RS",
+      "latitude": 43.1589,
+      "longitude": 22.5583,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Belotinac",
+      "postal_code": "18411",
+      "country_code": "RS",
+      "latitude": 43.2651,
+      "longitude": 21.8525,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Merćez",
+      "postal_code": "18436",
+      "country_code": "RS",
+      "latitude": 43.2378,
+      "longitude": 21.0662,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novi Sad",
+      "postal_code": "21102",
+      "country_code": "RS",
+      "latitude": 45.2517,
+      "longitude": 19.8369,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veternik",
+      "postal_code": "21203",
+      "country_code": "RS",
+      "latitude": 45.2545,
+      "longitude": 19.7588,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bačko Gradište",
+      "postal_code": "21217",
+      "country_code": "RS",
+      "latitude": 45.5327,
+      "longitude": 20.0308,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Đurđevo",
+      "postal_code": "21239",
+      "country_code": "RS",
+      "latitude": 45.4005,
+      "longitude": 19.9397,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Tovariševo",
+      "postal_code": "21424",
+      "country_code": "RS",
+      "latitude": 45.355,
+      "longitude": 19.3243,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šid",
+      "postal_code": "22239",
+      "country_code": "RS",
+      "latitude": 45.1283,
+      "longitude": 19.2264,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novi Slankamen",
+      "postal_code": "22323",
+      "country_code": "RS",
+      "latitude": 45.1255,
+      "longitude": 20.2391,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pećinci",
+      "postal_code": "22410",
+      "country_code": "RS",
+      "latitude": 44.9089,
+      "longitude": 19.9664,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mišićevo",
+      "postal_code": "24211",
+      "country_code": "RS",
+      "latitude": 45.9951,
+      "longitude": 19.49,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bogaraš",
+      "postal_code": "24408",
+      "country_code": "RS",
+      "latitude": 45.9344,
+      "longitude": 19.9275,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Riđica",
+      "postal_code": "25280",
+      "country_code": "RS",
+      "latitude": 45.9909,
+      "longitude": 19.1064,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Crepaja",
+      "postal_code": "26213",
+      "country_code": "RS",
+      "latitude": 45.0098,
+      "longitude": 20.637,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banatski Karlovac",
+      "postal_code": "26320",
+      "country_code": "RS",
+      "latitude": 45.0499,
+      "longitude": 21.018,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nikolinci",
+      "postal_code": "26322",
+      "country_code": "RS",
+      "latitude": 45.0525,
+      "longitude": 21.067,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lunovo Selo",
+      "postal_code": "31203",
+      "country_code": "RS",
+      "latitude": 43.8826,
+      "longitude": 19.9382,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bioska",
+      "postal_code": "31241",
+      "country_code": "RS",
+      "latitude": 43.8718,
+      "longitude": 19.6629,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Božetići",
+      "postal_code": "31322",
+      "country_code": "RS",
+      "latitude": 43.4484,
+      "longitude": 19.9722,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Preljina",
+      "postal_code": "32212",
+      "country_code": "RS",
+      "latitude": 43.9135,
+      "longitude": 20.4291,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sipić",
+      "postal_code": "34213",
+      "country_code": "RS",
+      "latitude": 44.1677,
+      "longitude": 20.9606,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Senje",
+      "postal_code": "35233",
+      "country_code": "RS",
+      "latitude": 43.9651,
+      "longitude": 21.4836,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donje Vidovo",
+      "postal_code": "35258",
+      "country_code": "RS",
+      "latitude": 43.8029,
+      "longitude": 21.3681,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Svojnovo",
+      "postal_code": "35259",
+      "country_code": "RS",
+      "latitude": 43.7993,
+      "longitude": 21.3063,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vitanovac",
+      "postal_code": "36206",
+      "country_code": "RS",
+      "latitude": 43.7264,
+      "longitude": 20.7994,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brzeće",
+      "postal_code": "37225",
+      "country_code": "RS",
+      "latitude": 43.3017,
+      "longitude": 20.885,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bela Voda",
+      "postal_code": "37253",
+      "country_code": "RS",
+      "latitude": 43.6172,
+      "longitude": 21.1993,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kaonik",
+      "postal_code": "37256",
+      "country_code": "RS",
+      "latitude": 43.5592,
+      "longitude": 21.4969,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Altina",
+      "postal_code": "11283",
+      "country_code": "RS",
+      "latitude": 44.7174,
+      "longitude": 20.1605,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mala Krsna",
+      "postal_code": "11313",
+      "country_code": "RS",
+      "latitude": 44.5862,
+      "longitude": 21.0074,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kostolac",
+      "postal_code": "12208",
+      "country_code": "RS",
+      "latitude": 44.735,
+      "longitude": 21.1956,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Burovac",
+      "postal_code": "12307",
+      "country_code": "RS",
+      "latitude": 44.2728,
+      "longitude": 21.3578,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dračić",
+      "postal_code": "14203",
+      "country_code": "RS",
+      "latitude": 44.2157,
+      "longitude": 19.9003,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Komirić",
+      "postal_code": "14254",
+      "country_code": "RS",
+      "latitude": 44.4123,
+      "longitude": 19.5415,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lipolist",
+      "postal_code": "15305",
+      "country_code": "RS",
+      "latitude": 44.6978,
+      "longitude": 19.501,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Uzovnica",
+      "postal_code": "15319",
+      "country_code": "RS",
+      "latitude": 44.2693,
+      "longitude": 19.3524,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banovo Polje",
+      "postal_code": "15362",
+      "country_code": "RS",
+      "latitude": 44.9104,
+      "longitude": 19.4492,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Priboj Vranjski",
+      "postal_code": "17511",
+      "country_code": "RS",
+      "latitude": 42.6057,
+      "longitude": 22.0121,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gadžin Han",
+      "postal_code": "18240",
+      "country_code": "RS",
+      "latitude": 43.2228,
+      "longitude": 22.0319,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Smilovci",
+      "postal_code": "18323",
+      "country_code": "RS",
+      "latitude": 43.0853,
+      "longitude": 22.8512,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Prokuplje",
+      "postal_code": "18400",
+      "country_code": "RS",
+      "latitude": 43.2342,
+      "longitude": 21.5881,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brestovačka Banja",
+      "postal_code": "19216",
+      "country_code": "RS",
+      "latitude": 44.0594,
+      "longitude": 22.1315,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vlaole",
+      "postal_code": "19258",
+      "country_code": "RS",
+      "latitude": 44.2682,
+      "longitude": 21.9847,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nikoličevo",
+      "postal_code": "19311",
+      "country_code": "RS",
+      "latitude": 43.9609,
+      "longitude": 22.2376,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brza Palanka",
+      "postal_code": "19323",
+      "country_code": "RS",
+      "latitude": 44.4709,
+      "longitude": 22.4468,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šajkaš",
+      "postal_code": "21244",
+      "country_code": "RS",
+      "latitude": 45.2732,
+      "longitude": 20.0905,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ravnje",
+      "postal_code": "22205",
+      "country_code": "RS",
+      "latitude": 44.9433,
+      "longitude": 19.4228,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grgurevci",
+      "postal_code": "22213",
+      "country_code": "RS",
+      "latitude": 45.1043,
+      "longitude": 19.6464,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Divoš",
+      "postal_code": "22232",
+      "country_code": "RS",
+      "latitude": 45.1109,
+      "longitude": 19.5098,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ilinci",
+      "postal_code": "22250",
+      "country_code": "RS",
+      "latitude": 45.1135,
+      "longitude": 19.1239,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novi Banovci",
+      "postal_code": "22304",
+      "country_code": "RS",
+      "latitude": 44.9569,
+      "longitude": 20.2808,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Belo Blato",
+      "postal_code": "23205",
+      "country_code": "RS",
+      "latitude": 45.2728,
+      "longitude": 20.375,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Crna Bara",
+      "postal_code": "23328",
+      "country_code": "RS",
+      "latitude": 45.9733,
+      "longitude": 20.2761,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bački Breg",
+      "postal_code": "25275",
+      "country_code": "RS",
+      "latitude": 45.9203,
+      "longitude": 18.9294,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gakovo",
+      "postal_code": "25282",
+      "country_code": "RS",
+      "latitude": 45.9331,
+      "longitude": 19.1005,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kovačica",
+      "postal_code": "26210",
+      "country_code": "RS",
+      "latitude": 45.1117,
+      "longitude": 20.6214,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Starčevo",
+      "postal_code": "26232",
+      "country_code": "RS",
+      "latitude": 44.8073,
+      "longitude": 20.7055,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Samoš",
+      "postal_code": "26350",
+      "country_code": "RS",
+      "latitude": 45.2026,
+      "longitude": 20.7739,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sirogojno",
+      "postal_code": "31207",
+      "country_code": "RS",
+      "latitude": 43.689,
+      "longitude": 19.8875,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bajina Bašta",
+      "postal_code": "31250",
+      "country_code": "RS",
+      "latitude": 43.9708,
+      "longitude": 19.5675,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bele Vode",
+      "postal_code": "32259",
+      "country_code": "RS",
+      "latitude": 43.4061,
+      "longitude": 20.2853,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lapovo",
+      "postal_code": "34220",
+      "country_code": "RS",
+      "latitude": 44.1842,
+      "longitude": 21.0973,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zabojnica",
+      "postal_code": "34244",
+      "country_code": "RS",
+      "latitude": 43.9935,
+      "longitude": 20.7546,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Belosavci",
+      "postal_code": "34312",
+      "country_code": "RS",
+      "latitude": 44.3315,
+      "longitude": 20.6746,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stragari",
+      "postal_code": "34323",
+      "country_code": "RS",
+      "latitude": 44.1534,
+      "longitude": 20.6613,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Raševica",
+      "postal_code": "35206",
+      "country_code": "RS",
+      "latitude": 43.8392,
+      "longitude": 21.3247,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Senjski Rudnik",
+      "postal_code": "35234",
+      "country_code": "RS",
+      "latitude": 43.9958,
+      "longitude": 21.5697,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stopanja",
+      "postal_code": "37242",
+      "country_code": "RS",
+      "latitude": 43.5802,
+      "longitude": 21.1502,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Varvarin",
+      "postal_code": "37260",
+      "country_code": "RS",
+      "latitude": 43.724,
+      "longitude": 21.3624,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dupljaja",
+      "postal_code": "26328",
+      "country_code": "RS",
+      "latitude": 44.9287,
+      "longitude": 21.2776,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Barice",
+      "postal_code": "26367",
+      "country_code": "RS",
+      "latitude": 45.1819,
+      "longitude": 21.0828,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Divljaka",
+      "postal_code": "31236",
+      "country_code": "RS",
+      "latitude": 43.6783,
+      "longitude": 20.1211,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Draglica",
+      "postal_code": "31317",
+      "country_code": "RS",
+      "latitude": 43.5766,
+      "longitude": 19.7445,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nova Varoš",
+      "postal_code": "31320",
+      "country_code": "RS",
+      "latitude": 43.4606,
+      "longitude": 19.8114,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mršinci",
+      "postal_code": "32224",
+      "country_code": "RS",
+      "latitude": 43.8001,
+      "longitude": 20.4835,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Batočina",
+      "postal_code": "34227",
+      "country_code": "RS",
+      "latitude": 44.157,
+      "longitude": 21.0534,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ćuprija",
+      "postal_code": "35230",
+      "country_code": "RS",
+      "latitude": 43.9275,
+      "longitude": 21.37,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kraljevo",
+      "postal_code": "36000",
+      "country_code": "RS",
+      "latitude": 43.7258,
+      "longitude": 20.6894,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lukare",
+      "postal_code": "36306",
+      "country_code": "RS",
+      "latitude": 43.0731,
+      "longitude": 20.4628,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ugao",
+      "postal_code": "36313",
+      "country_code": "RS",
+      "latitude": 43.0501,
+      "longitude": 20.0568,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Obrež",
+      "postal_code": "37266",
+      "country_code": "RS",
+      "latitude": 43.7684,
+      "longitude": 21.3482,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Slanci",
+      "postal_code": "11215",
+      "country_code": "RS",
+      "latitude": 44.8077,
+      "longitude": 20.5718,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mali Požarevac",
+      "postal_code": "11235",
+      "country_code": "RS",
+      "latitude": 44.5633,
+      "longitude": 20.6543,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vodanj",
+      "postal_code": "11328",
+      "country_code": "RS",
+      "latitude": 44.6096,
+      "longitude": 20.8526,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pričević",
+      "postal_code": "14251",
+      "country_code": "RS",
+      "latitude": 44.2797,
+      "longitude": 19.7689,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Radalj",
+      "postal_code": "15321",
+      "country_code": "RS",
+      "latitude": 44.3964,
+      "longitude": 19.1773,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vranjska Banja",
+      "postal_code": "17541",
+      "country_code": "RS",
+      "latitude": 42.555,
+      "longitude": 21.9922,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donja Ljubata",
+      "postal_code": "17544",
+      "country_code": "RS",
+      "latitude": 42.4892,
+      "longitude": 22.3425,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornji Barbeš",
+      "postal_code": "18241",
+      "country_code": "RS",
+      "latitude": 43.1997,
+      "longitude": 21.9508,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dubovo",
+      "postal_code": "18406",
+      "country_code": "RS",
+      "latitude": 43.1114,
+      "longitude": 21.6952,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podgorac",
+      "postal_code": "19233",
+      "country_code": "RS",
+      "latitude": 43.9391,
+      "longitude": 21.9491,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bački Petrovac",
+      "postal_code": "21470",
+      "country_code": "RS",
+      "latitude": 45.3606,
+      "longitude": 19.5917,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zasavica",
+      "postal_code": "22201",
+      "country_code": "RS",
+      "latitude": 44.9705,
+      "longitude": 19.5311,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vojka",
+      "postal_code": "22313",
+      "country_code": "RS",
+      "latitude": 44.9371,
+      "longitude": 20.1524,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Buđanovci",
+      "postal_code": "22421",
+      "country_code": "RS",
+      "latitude": 44.8939,
+      "longitude": 19.8634,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Radojevo",
+      "postal_code": "23221",
+      "country_code": "RS",
+      "latitude": 45.7462,
+      "longitude": 20.7892,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čenta",
+      "postal_code": "23266",
+      "country_code": "RS",
+      "latitude": 45.1081,
+      "longitude": 20.3895,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bašaid",
+      "postal_code": "23316",
+      "country_code": "RS",
+      "latitude": 45.641,
+      "longitude": 20.4143,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Srpski Krstur",
+      "postal_code": "23334",
+      "country_code": "RS",
+      "latitude": 46.1284,
+      "longitude": 20.0927,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kelebija",
+      "postal_code": "24104",
+      "country_code": "RS",
+      "latitude": 45.9185,
+      "longitude": 19.769,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čantavir",
+      "postal_code": "24220",
+      "country_code": "RS",
+      "latitude": 45.921,
+      "longitude": 19.7661,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novo Orahovo",
+      "postal_code": "24351",
+      "country_code": "RS",
+      "latitude": 45.8482,
+      "longitude": 19.774,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bački Brestovac",
+      "postal_code": "25242",
+      "country_code": "RS",
+      "latitude": 45.6182,
+      "longitude": 19.2709,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Idvor",
+      "postal_code": "26207",
+      "country_code": "RS",
+      "latitude": 45.189,
+      "longitude": 20.5144,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sibnica",
+      "postal_code": "11454",
+      "country_code": "RS",
+      "latitude": 44.4644,
+      "longitude": 20.4533,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veliki Borak",
+      "postal_code": "11462",
+      "country_code": "RS",
+      "latitude": 44.5394,
+      "longitude": 20.3505,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornja Toplica",
+      "postal_code": "14243",
+      "country_code": "RS",
+      "latitude": 44.223,
+      "longitude": 20.1679,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornja Toponica",
+      "postal_code": "18202",
+      "country_code": "RS",
+      "latitude": 43.4014,
+      "longitude": 21.8071,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Niška Banja",
+      "postal_code": "18205",
+      "country_code": "RS",
+      "latitude": 43.2951,
+      "longitude": 22.0057,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zvonce",
+      "postal_code": "18333",
+      "country_code": "RS",
+      "latitude": 42.9329,
+      "longitude": 22.5797,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kladovo",
+      "postal_code": "19320",
+      "country_code": "RS",
+      "latitude": 44.6115,
+      "longitude": 22.6095,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podvis",
+      "postal_code": "19362",
+      "country_code": "RS",
+      "latitude": 43.5473,
+      "longitude": 22.1873,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Petrovaradin",
+      "postal_code": "21131",
+      "country_code": "RS",
+      "latitude": 45.2467,
+      "longitude": 19.8794,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Silbaš",
+      "postal_code": "21433",
+      "country_code": "RS",
+      "latitude": 45.3938,
+      "longitude": 19.4611,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stara Pazova",
+      "postal_code": "22300",
+      "country_code": "RS",
+      "latitude": 44.985,
+      "longitude": 20.1608,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krnješevci",
+      "postal_code": "22314",
+      "country_code": "RS",
+      "latitude": 44.8888,
+      "longitude": 20.138,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Platičevo",
+      "postal_code": "22420",
+      "country_code": "RS",
+      "latitude": 44.8221,
+      "longitude": 19.7949,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Aradac",
+      "postal_code": "23207",
+      "country_code": "RS",
+      "latitude": 45.3835,
+      "longitude": 20.3014,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Botoš",
+      "postal_code": "23243",
+      "country_code": "RS",
+      "latitude": 45.3084,
+      "longitude": 20.6351,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kikinda",
+      "postal_code": "23300",
+      "country_code": "RS",
+      "latitude": 45.8297,
+      "longitude": 20.4653,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banatsko Veliko Selo",
+      "postal_code": "23312",
+      "country_code": "RS",
+      "latitude": 45.8196,
+      "longitude": 20.6077,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Padej",
+      "postal_code": "23325",
+      "country_code": "RS",
+      "latitude": 45.8276,
+      "longitude": 20.1628,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stanišić",
+      "postal_code": "25284",
+      "country_code": "RS",
+      "latitude": 45.939,
+      "longitude": 19.1671,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veliko Središte",
+      "postal_code": "26334",
+      "country_code": "RS",
+      "latitude": 45.1792,
+      "longitude": 21.4035,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Goričani",
+      "postal_code": "32225",
+      "country_code": "RS",
+      "latitude": 43.7939,
+      "longitude": 20.53,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lučani",
+      "postal_code": "32240",
+      "country_code": "RS",
+      "latitude": 43.8608,
+      "longitude": 20.1381,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornji Banjani",
+      "postal_code": "32306",
+      "country_code": "RS",
+      "latitude": 44.1035,
+      "longitude": 20.268,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grošnica",
+      "postal_code": "34202",
+      "country_code": "RS",
+      "latitude": 43.954,
+      "longitude": 20.876,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Guberevac",
+      "postal_code": "34232",
+      "country_code": "RS",
+      "latitude": 43.8321,
+      "longitude": 20.773,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jelovik",
+      "postal_code": "34309",
+      "country_code": "RS",
+      "latitude": 44.2644,
+      "longitude": 20.4553,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Natalinci",
+      "postal_code": "34313",
+      "country_code": "RS",
+      "latitude": 44.2529,
+      "longitude": 20.8037,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Desimirovac",
+      "postal_code": "34321",
+      "country_code": "RS",
+      "latitude": 44.0725,
+      "longitude": 20.8802,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čumić",
+      "postal_code": "34322",
+      "country_code": "RS",
+      "latitude": 44.1476,
+      "longitude": 20.7821,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mataruška Banja",
+      "postal_code": "36201",
+      "country_code": "RS",
+      "latitude": 43.6882,
+      "longitude": 20.6101,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vrba",
+      "postal_code": "36214",
+      "country_code": "RS",
+      "latitude": 43.6904,
+      "longitude": 20.7861,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podunavci",
+      "postal_code": "36215",
+      "country_code": "RS",
+      "latitude": 43.6715,
+      "longitude": 20.8301,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dašnica",
+      "postal_code": "37271",
+      "country_code": "RS",
+      "latitude": 43.475,
+      "longitude": 21.1593,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rajković",
+      "postal_code": "14202",
+      "country_code": "RS",
+      "latitude": 44.2248,
+      "longitude": 20.0131,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lelić",
+      "postal_code": "14205",
+      "country_code": "RS",
+      "latitude": 44.2303,
+      "longitude": 19.8293,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Slovac",
+      "postal_code": "14223",
+      "country_code": "RS",
+      "latitude": 44.3412,
+      "longitude": 20.0719,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mionica",
+      "postal_code": "14242",
+      "country_code": "RS",
+      "latitude": 44.2519,
+      "longitude": 20.0817,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Korenita",
+      "postal_code": "15302",
+      "country_code": "RS",
+      "latitude": 44.5121,
+      "longitude": 19.2891,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Donja Orovica",
+      "postal_code": "15323",
+      "country_code": "RS",
+      "latitude": 44.22,
+      "longitude": 19.4729,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vučje",
+      "postal_code": "16203",
+      "country_code": "RS",
+      "latitude": 42.8653,
+      "longitude": 21.9105,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Preševo",
+      "postal_code": "17523",
+      "country_code": "RS",
+      "latitude": 42.3092,
+      "longitude": 21.6492,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vlasina Stojkovićevo",
+      "postal_code": "17534",
+      "country_code": "RS",
+      "latitude": 42.6647,
+      "longitude": 22.2748,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Klisura",
+      "postal_code": "17535",
+      "country_code": "RS",
+      "latitude": 42.7575,
+      "longitude": 22.4077,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krupac",
+      "postal_code": "18307",
+      "country_code": "RS",
+      "latitude": 43.1222,
+      "longitude": 22.6724,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Svrljig",
+      "postal_code": "18360",
+      "country_code": "RS",
+      "latitude": 43.4133,
+      "longitude": 22.1211,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Barbatovac",
+      "postal_code": "18426",
+      "country_code": "RS",
+      "latitude": 43.2281,
+      "longitude": 21.2589,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sikole",
+      "postal_code": "19225",
+      "country_code": "RS",
+      "latitude": 44.1772,
+      "longitude": 22.3034,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Osnić",
+      "postal_code": "19378",
+      "country_code": "RS",
+      "latitude": 43.8868,
+      "longitude": 22.0991,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ledinci",
+      "postal_code": "21207",
+      "country_code": "RS",
+      "latitude": 45.187,
+      "longitude": 19.8055,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zmajevo",
+      "postal_code": "21213",
+      "country_code": "RS",
+      "latitude": 45.4541,
+      "longitude": 19.6905,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Manđelos",
+      "postal_code": "22208",
+      "country_code": "RS",
+      "latitude": 45.0837,
+      "longitude": 19.5976,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Golubinci",
+      "postal_code": "22308",
+      "country_code": "RS",
+      "latitude": 44.9853,
+      "longitude": 20.0634,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čortanovci",
+      "postal_code": "22326",
+      "country_code": "RS",
+      "latitude": 45.1546,
+      "longitude": 20.0185,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šurjan",
+      "postal_code": "23254",
+      "country_code": "RS",
+      "latitude": 45.3996,
+      "longitude": 20.8747,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljutovo",
+      "postal_code": "24215",
+      "country_code": "RS",
+      "latitude": 46.0136,
+      "longitude": 19.493,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mala Bosna",
+      "postal_code": "24217",
+      "country_code": "RS",
+      "latitude": 46.0395,
+      "longitude": 19.5725,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Prigrevica",
+      "postal_code": "25263",
+      "country_code": "RS",
+      "latitude": 45.6764,
+      "longitude": 19.0881,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rastina",
+      "postal_code": "25283",
+      "country_code": "RS",
+      "latitude": 45.9601,
+      "longitude": 19.0354,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banatska Palanka",
+      "postal_code": "26324",
+      "country_code": "RS",
+      "latitude": 44.8453,
+      "longitude": 21.3318,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zagajica",
+      "postal_code": "26344",
+      "country_code": "RS",
+      "latitude": 44.9822,
+      "longitude": 21.2288,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grebenac",
+      "postal_code": "26347",
+      "country_code": "RS",
+      "latitude": 44.9017,
+      "longitude": 21.2353,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Miletićevo",
+      "postal_code": "26373",
+      "country_code": "RS",
+      "latitude": 45.3051,
+      "longitude": 21.064,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jelen Do",
+      "postal_code": "31215",
+      "country_code": "RS",
+      "latitude": 43.8949,
+      "longitude": 20.1122,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brzan",
+      "postal_code": "34228",
+      "country_code": "RS",
+      "latitude": 44.124,
+      "longitude": 21.1151,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kušiljevo",
+      "postal_code": "35226",
+      "country_code": "RS",
+      "latitude": 44.2844,
+      "longitude": 21.2061,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sopoćani",
+      "postal_code": "36308",
+      "country_code": "RS",
+      "latitude": 43.0977,
+      "longitude": 20.4453,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zdravinje",
+      "postal_code": "37203",
+      "country_code": "RS",
+      "latitude": 43.4982,
+      "longitude": 21.446,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zlatari",
+      "postal_code": "37228",
+      "country_code": "RS",
+      "latitude": 43.3869,
+      "longitude": 21.1581,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ploča",
+      "postal_code": "37237",
+      "country_code": "RS",
+      "latitude": 43.4484,
+      "longitude": 20.86,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Padež",
+      "postal_code": "37257",
+      "country_code": "RS",
+      "latitude": 43.6632,
+      "longitude": 21.2858,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krnjevo",
+      "postal_code": "11319",
+      "country_code": "RS",
+      "latitude": 44.4093,
+      "longitude": 21.0476,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jagnjilo",
+      "postal_code": "11412",
+      "country_code": "RS",
+      "latitude": 44.3774,
+      "longitude": 20.7294,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pružatovac",
+      "postal_code": "11413",
+      "country_code": "RS",
+      "latitude": 44.4179,
+      "longitude": 20.6279,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Požarevac",
+      "postal_code": "12000",
+      "country_code": "RS",
+      "latitude": 44.6213,
+      "longitude": 21.1878,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Petrovac na Mlavi",
+      "postal_code": "12300",
+      "country_code": "RS",
+      "latitude": 44.3367,
+      "longitude": 21.4466,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lebane",
+      "postal_code": "16230",
+      "country_code": "RS",
+      "latitude": 42.9239,
+      "longitude": 21.7375,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pečanjevce",
+      "postal_code": "16251",
+      "country_code": "RS",
+      "latitude": 43.1351,
+      "longitude": 21.9164,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trgovište",
+      "postal_code": "17525",
+      "country_code": "RS",
+      "latitude": 42.3528,
+      "longitude": 22.0622,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Aleksinački Rudnik",
+      "postal_code": "18226",
+      "country_code": "RS",
+      "latitude": 43.5209,
+      "longitude": 21.7001,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čečina",
+      "postal_code": "18417",
+      "country_code": "RS",
+      "latitude": 43.1985,
+      "longitude": 21.8698,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Štubik",
+      "postal_code": "19303",
+      "country_code": "RS",
+      "latitude": 44.2922,
+      "longitude": 22.3523,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Prahovo",
+      "postal_code": "19330",
+      "country_code": "RS",
+      "latitude": 44.2936,
+      "longitude": 22.5831,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čurug",
+      "postal_code": "21238",
+      "country_code": "RS",
+      "latitude": 45.4722,
+      "longitude": 20.0686,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Srbobran",
+      "postal_code": "21480",
+      "country_code": "RS",
+      "latitude": 45.5539,
+      "longitude": 19.8028,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Molovin",
+      "postal_code": "22256",
+      "country_code": "RS",
+      "latitude": 45.183,
+      "longitude": 19.3121,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bikovo",
+      "postal_code": "24206",
+      "country_code": "RS",
+      "latitude": 46.0217,
+      "longitude": 19.7597,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Orešković",
+      "postal_code": "24344",
+      "country_code": "RS",
+      "latitude": 45.8269,
+      "longitude": 19.5594,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nova Crvenka",
+      "postal_code": "25224",
+      "country_code": "RS",
+      "latitude": 45.6956,
+      "longitude": 19.4877,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sakule",
+      "postal_code": "26206",
+      "country_code": "RS",
+      "latitude": 45.1467,
+      "longitude": 20.4862,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Užice",
+      "postal_code": "31000",
+      "country_code": "RS",
+      "latitude": 43.8586,
+      "longitude": 19.8488,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornja Dobrinja",
+      "postal_code": "31214",
+      "country_code": "RS",
+      "latitude": 43.9543,
+      "longitude": 20.0866,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Banja (Priboj)",
+      "postal_code": "31337",
+      "country_code": "RS",
+      "latitude": 42.992,
+      "longitude": 21.3208,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Parunovac",
+      "postal_code": "37201",
+      "country_code": "RS",
+      "latitude": 43.5702,
+      "longitude": 21.3656,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pojate",
+      "postal_code": "37214",
+      "country_code": "RS",
+      "latitude": 43.7421,
+      "longitude": 21.4555,
+      "admin_name1": null
+    }
+  ]
+]

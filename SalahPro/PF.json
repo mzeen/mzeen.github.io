@@ -1,0 +1,1540 @@
+[
+  [
+    {
+      "place_name": "Opunohu",
+      "postal_code": "98729",
+      "country_code": "PF",
+      "latitude": -17.5054,
+      "longitude": -149.778,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Papeete",
+      "postal_code": "98714",
+      "country_code": "PF",
+      "latitude": -17.5572,
+      "longitude": -149.5555,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Tautira",
+      "postal_code": "98722",
+      "country_code": "PF",
+      "latitude": -17.8753,
+      "longitude": -148.0673,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Tevaitoa",
+      "postal_code": "98735",
+      "country_code": "PF",
+      "latitude": -16.7836,
+      "longitude": -151.4724,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Hitianau",
+      "postal_code": "98786",
+      "country_code": "PF",
+      "latitude": -16.7125,
+      "longitude": -145.2203,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Akamaru",
+      "postal_code": "98755",
+      "country_code": "PF",
+      "latitude": -23.1861,
+      "longitude": -134.914,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Tuanake",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -16.6423,
+      "longitude": -144.2118,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Temanufaara",
+      "postal_code": "98788",
+      "country_code": "PF",
+      "latitude": -18.7697,
+      "longitude": -138.8211,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Teonemahina",
+      "postal_code": "98774",
+      "country_code": "PF",
+      "latitude": -14.8161,
+      "longitude": -138.8186,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Marautagaroa",
+      "postal_code": "98780",
+      "country_code": "PF",
+      "latitude": -18.3043,
+      "longitude": -137.0173,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Moerai",
+      "postal_code": "98753",
+      "country_code": "PF",
+      "latitude": -22.4543,
+      "longitude": -151.3451,
+      "admin_name1": "Îles Australes"
+    },
+    {
+      "place_name": "Varari",
+      "postal_code": "98729",
+      "country_code": "PF",
+      "latitude": -17.5054,
+      "longitude": -149.778,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Pirae",
+      "postal_code": "98716",
+      "country_code": "PF",
+      "latitude": -17.5699,
+      "longitude": -149.5196,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Teahupoo",
+      "postal_code": "98723",
+      "country_code": "PF",
+      "latitude": -17.844,
+      "longitude": -149.2129,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Nunue",
+      "postal_code": "98730",
+      "country_code": "PF",
+      "latitude": -16.5133,
+      "longitude": -151.7455,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Parea",
+      "postal_code": "98731",
+      "country_code": "PF",
+      "latitude": -16.7995,
+      "longitude": -150.985,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Scilly",
+      "postal_code": "98732",
+      "country_code": "PF",
+      "latitude": -16.5289,
+      "longitude": -154.649,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Tiva",
+      "postal_code": "98733",
+      "country_code": "PF",
+      "latitude": -16.6419,
+      "longitude": -151.5242,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Iripau",
+      "postal_code": "98733",
+      "country_code": "PF",
+      "latitude": -16.5974,
+      "longitude": -151.5038,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Poutoru",
+      "postal_code": "98734",
+      "country_code": "PF",
+      "latitude": -16.6419,
+      "longitude": -151.5242,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Tehurui",
+      "postal_code": "98735",
+      "country_code": "PF",
+      "latitude": -16.8316,
+      "longitude": -151.4683,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Ofare",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -16.2492,
+      "longitude": -144.9277,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Tepukamaruia",
+      "postal_code": "98772",
+      "country_code": "PF",
+      "latitude": -14.173,
+      "longitude": -141.2232,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Vaitepaua",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -15.0732,
+      "longitude": -147.5282,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Nukuataha",
+      "postal_code": "98742",
+      "country_code": "PF",
+      "latitude": -8.8255,
+      "longitude": -140.1304,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Hatutaa",
+      "postal_code": "98796",
+      "country_code": "PF",
+      "latitude": -7.917,
+      "longitude": -140.5712,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Papenoo",
+      "postal_code": "98707",
+      "country_code": "PF",
+      "latitude": -17.5985,
+      "longitude": -149.436,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Paopao",
+      "postal_code": "98728",
+      "country_code": "PF",
+      "latitude": -17.5027,
+      "longitude": -149.8113,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Vaianae",
+      "postal_code": "98729",
+      "country_code": "PF",
+      "latitude": -17.5054,
+      "longitude": -149.778,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Papetoai",
+      "postal_code": "98729",
+      "country_code": "PF",
+      "latitude": -17.5207,
+      "longitude": -149.8555,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Haamene",
+      "postal_code": "98734",
+      "country_code": "PF",
+      "latitude": -16.6364,
+      "longitude": -151.4815,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Motureivavao",
+      "postal_code": "98792",
+      "country_code": "PF",
+      "latitude": -21.3081,
+      "longitude": -136.75,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Tepoto Sud",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -16.8175,
+      "longitude": -144.2853,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Fakamaru",
+      "postal_code": "98784",
+      "country_code": "PF",
+      "latitude": -20.8244,
+      "longitude": -138.54,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Motu Ua",
+      "postal_code": "98741",
+      "country_code": "PF",
+      "latitude": -9.7562,
+      "longitude": -138.8869,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Rairua",
+      "postal_code": "98750",
+      "country_code": "PF",
+      "latitude": -23.8793,
+      "longitude": -147.6755,
+      "admin_name1": "Îles Australes"
+    },
+    {
+      "place_name": "Mataura",
+      "postal_code": "98754",
+      "country_code": "PF",
+      "latitude": -23.3667,
+      "longitude": -149.4978,
+      "admin_name1": "Îles Australes"
+    },
+    {
+      "place_name": "Vaitape",
+      "postal_code": "98730",
+      "country_code": "PF",
+      "latitude": -16.4734,
+      "longitude": -151.7404,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Tefarerii",
+      "postal_code": "98731",
+      "country_code": "PF",
+      "latitude": -16.7747,
+      "longitude": -150.9712,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Maroe",
+      "postal_code": "98731",
+      "country_code": "PF",
+      "latitude": -16.7594,
+      "longitude": -151.0045,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Taputapuatea",
+      "postal_code": "98735",
+      "country_code": "PF",
+      "latitude": -16.8808,
+      "longitude": -151.4008,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Niutahi",
+      "postal_code": "98762",
+      "country_code": "PF",
+      "latitude": -15.3961,
+      "longitude": -146.3131,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Rikitea",
+      "postal_code": "98755",
+      "country_code": "PF",
+      "latitude": -21.3081,
+      "longitude": -136.75,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Morane",
+      "postal_code": "98792",
+      "country_code": "PF",
+      "latitude": -23.1526,
+      "longitude": -137.1315,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Otepa",
+      "postal_code": "98767",
+      "country_code": "PF",
+      "latitude": -18.2622,
+      "longitude": -140.8621,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Herehretue",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -20.6982,
+      "longitude": -143.0476,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Fakatopatere",
+      "postal_code": "98782",
+      "country_code": "PF",
+      "latitude": -14.6334,
+      "longitude": -145.2101,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Arue",
+      "postal_code": "98701",
+      "country_code": "PF",
+      "latitude": -17.005,
+      "longitude": -149.5679,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Maharepa",
+      "postal_code": "98728",
+      "country_code": "PF",
+      "latitude": -17.5054,
+      "longitude": -149.778,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Tiahura",
+      "postal_code": "98729",
+      "country_code": "PF",
+      "latitude": -17.5054,
+      "longitude": -149.778,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Maupiti",
+      "postal_code": "98732",
+      "country_code": "PF",
+      "latitude": -16.4425,
+      "longitude": -152.2656,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Aukena",
+      "postal_code": "98755",
+      "country_code": "PF",
+      "latitude": -23.2187,
+      "longitude": -134.9711,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Terre Deserte",
+      "postal_code": "98742",
+      "country_code": "PF",
+      "latitude": -8.8255,
+      "longitude": -140.1304,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Hauti",
+      "postal_code": "98753",
+      "country_code": "PF",
+      "latitude": -22.4975,
+      "longitude": -151.3334,
+      "admin_name1": "Îles Australes"
+    },
+    {
+      "place_name": "Paea",
+      "postal_code": "98711",
+      "country_code": "PF",
+      "latitude": -17.6875,
+      "longitude": -149.553,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Afaahiti",
+      "postal_code": "98719",
+      "country_code": "PF",
+      "latitude": -17.7383,
+      "longitude": -149.299,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Mopelia",
+      "postal_code": "98732",
+      "country_code": "PF",
+      "latitude": -16.5289,
+      "longitude": -154.649,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Motu Tapu",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -16.2492,
+      "longitude": -144.9277,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Mahetika",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -17.8493,
+      "longitude": -143.066,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Garumaoa",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -16.3277,
+      "longitude": -143.1146,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Hakamaii",
+      "postal_code": "98746",
+      "country_code": "PF",
+      "latitude": -9.4176,
+      "longitude": -140.0925,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Taravao",
+      "postal_code": "98719",
+      "country_code": "PF",
+      "latitude": -17.8097,
+      "longitude": -149.1716,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Tenokupara",
+      "postal_code": "98770",
+      "country_code": "PF",
+      "latitude": -14.4846,
+      "longitude": -146.3073,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Avatoru",
+      "postal_code": "98775",
+      "country_code": "PF",
+      "latitude": -15.0732,
+      "longitude": -147.5282,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Hakahetau",
+      "postal_code": "98745",
+      "country_code": "PF",
+      "latitude": -9.4283,
+      "longitude": -140.0895,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Temae",
+      "postal_code": "98728",
+      "country_code": "PF",
+      "latitude": -17.5054,
+      "longitude": -149.778,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Maiao",
+      "postal_code": "98729",
+      "country_code": "PF",
+      "latitude": -17.5054,
+      "longitude": -149.778,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Motu One",
+      "postal_code": "98732",
+      "country_code": "PF",
+      "latitude": -16.5289,
+      "longitude": -154.649,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Tenararo",
+      "postal_code": "98792",
+      "country_code": "PF",
+      "latitude": -21.3051,
+      "longitude": -136.7465,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Hanavave",
+      "postal_code": "98740",
+      "country_code": "PF",
+      "latitude": -10.3612,
+      "longitude": -138.4148,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Motopu",
+      "postal_code": "98743",
+      "country_code": "PF",
+      "latitude": -9.9575,
+      "longitude": -139.0832,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Anapoto",
+      "postal_code": "98752",
+      "country_code": "PF",
+      "latitude": -22.6456,
+      "longitude": -152.8142,
+      "admin_name1": "Îles Australes"
+    },
+    {
+      "place_name": "Maria Ilots",
+      "postal_code": "98795",
+      "country_code": "PF",
+      "latitude": -22.657,
+      "longitude": -152.8051,
+      "admin_name1": "Îles Australes"
+    },
+    {
+      "place_name": "Haumi",
+      "postal_code": "98728",
+      "country_code": "PF",
+      "latitude": -17.5054,
+      "longitude": -149.778,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Pueu",
+      "postal_code": "98721",
+      "country_code": "PF",
+      "latitude": -17.7662,
+      "longitude": -149.2302,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Hikitake",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -20.6982,
+      "longitude": -143.0476,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Hatiheu",
+      "postal_code": "98748",
+      "country_code": "PF",
+      "latitude": -8.8248,
+      "longitude": -140.1581,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Faanui",
+      "postal_code": "98730",
+      "country_code": "PF",
+      "latitude": -16.4744,
+      "longitude": -151.7437,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Taravai",
+      "postal_code": "98755",
+      "country_code": "PF",
+      "latitude": -23.1473,
+      "longitude": -135.0395,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Tenarunga",
+      "postal_code": "98792",
+      "country_code": "PF",
+      "latitude": -21.3446,
+      "longitude": -136.5425,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Otetou",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -20.6982,
+      "longitude": -143.0476,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Puamau",
+      "postal_code": "98749",
+      "country_code": "PF",
+      "latitude": -9.7683,
+      "longitude": -138.9128,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Mohotani",
+      "postal_code": "98796",
+      "country_code": "PF",
+      "latitude": -9.9852,
+      "longitude": -138.8266,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Mahaena",
+      "postal_code": "98706",
+      "country_code": "PF",
+      "latitude": -17.5938,
+      "longitude": -149.3636,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Afareaitu",
+      "postal_code": "98728",
+      "country_code": "PF",
+      "latitude": -17.558,
+      "longitude": -149.8054,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Punaauia",
+      "postal_code": "98718",
+      "country_code": "PF",
+      "latitude": -17.618,
+      "longitude": -149.5486,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Huahine",
+      "postal_code": "98731",
+      "country_code": "PF",
+      "latitude": -16.7979,
+      "longitude": -151.0097,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Puohine",
+      "postal_code": "98735",
+      "country_code": "PF",
+      "latitude": -16.8799,
+      "longitude": -151.404,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Tumaraa",
+      "postal_code": "98735",
+      "country_code": "PF",
+      "latitude": -16.8307,
+      "longitude": -151.4715,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Fatu Huku",
+      "postal_code": "98796",
+      "country_code": "PF",
+      "latitude": -9.4366,
+      "longitude": -138.9263,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Hanatetena",
+      "postal_code": "98743",
+      "country_code": "PF",
+      "latitude": -9.9575,
+      "longitude": -139.0832,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Haakuti",
+      "postal_code": "98746",
+      "country_code": "PF",
+      "latitude": -9.4283,
+      "longitude": -140.0895,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Hitiaa",
+      "postal_code": "98705",
+      "country_code": "PF",
+      "latitude": -17.6175,
+      "longitude": -149.3298,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Vaiare",
+      "postal_code": "98728",
+      "country_code": "PF",
+      "latitude": -17.5054,
+      "longitude": -149.778,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Tapuamu",
+      "postal_code": "98733",
+      "country_code": "PF",
+      "latitude": -16.6147,
+      "longitude": -151.5345,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Tuuhora",
+      "postal_code": "98760",
+      "country_code": "PF",
+      "latitude": -17.3966,
+      "longitude": -145.5214,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Tiaia",
+      "postal_code": "98728",
+      "country_code": "PF",
+      "latitude": -17.5054,
+      "longitude": -149.778,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Marutea Sud",
+      "postal_code": "98793",
+      "country_code": "PF",
+      "latitude": -21.5187,
+      "longitude": -135.5622,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Paraoa",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -19.1265,
+      "longitude": -140.6894,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Tapuarava",
+      "postal_code": "98779",
+      "country_code": "PF",
+      "latitude": -18.514,
+      "longitude": -136.3792,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Vaitoare",
+      "postal_code": "98734",
+      "country_code": "PF",
+      "latitude": -16.6681,
+      "longitude": -151.4651,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Fetuna",
+      "postal_code": "98735",
+      "country_code": "PF",
+      "latitude": -16.8873,
+      "longitude": -151.4368,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Rotoava",
+      "postal_code": "98763",
+      "country_code": "PF",
+      "latitude": -16.2025,
+      "longitude": -145.6031,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Turipaoa",
+      "postal_code": "98771",
+      "country_code": "PF",
+      "latitude": -14.3985,
+      "longitude": -145.9542,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Pahua",
+      "postal_code": "98777",
+      "country_code": "PF",
+      "latitude": -14.8848,
+      "longitude": -148.6748,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Hakatao",
+      "postal_code": "98745",
+      "country_code": "PF",
+      "latitude": -9.4283,
+      "longitude": -140.0895,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Vahanga",
+      "postal_code": "98792",
+      "country_code": "PF",
+      "latitude": -21.3315,
+      "longitude": -136.6522,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Teanoga",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -20.6982,
+      "longitude": -143.0476,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Otatake",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -16.3277,
+      "longitude": -143.1146,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Hanapaoa",
+      "postal_code": "98741",
+      "country_code": "PF",
+      "latitude": -9.7562,
+      "longitude": -138.8869,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Mahina",
+      "postal_code": "98709",
+      "country_code": "PF",
+      "latitude": -17.5566,
+      "longitude": -149.4746,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Haraiki",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -17.4589,
+      "longitude": -143.4506,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Atuona",
+      "postal_code": "98741",
+      "country_code": "PF",
+      "latitude": -9.7765,
+      "longitude": -139.0558,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Vaitahu",
+      "postal_code": "98743",
+      "country_code": "PF",
+      "latitude": -9.9575,
+      "longitude": -139.0832,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Hohoi",
+      "postal_code": "98745",
+      "country_code": "PF",
+      "latitude": -9.4283,
+      "longitude": -140.0895,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Papeari",
+      "postal_code": "98727",
+      "country_code": "PF",
+      "latitude": -17.7168,
+      "longitude": -149.3764,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Mangareva",
+      "postal_code": "98755",
+      "country_code": "PF",
+      "latitude": -23.1066,
+      "longitude": -134.9622,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Ahunui",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -19.634,
+      "longitude": -140.4082,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Taiohae",
+      "postal_code": "98742",
+      "country_code": "PF",
+      "latitude": -8.8967,
+      "longitude": -140.159,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Vaipaee",
+      "postal_code": "98744",
+      "country_code": "PF",
+      "latitude": -8.9099,
+      "longitude": -139.5493,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Mutuaura",
+      "postal_code": "98752",
+      "country_code": "PF",
+      "latitude": -22.6567,
+      "longitude": -152.8062,
+      "admin_name1": "Îles Australes"
+    },
+    {
+      "place_name": "Haapiti",
+      "postal_code": "98729",
+      "country_code": "PF",
+      "latitude": -17.5434,
+      "longitude": -149.8706,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Fitii",
+      "postal_code": "98731",
+      "country_code": "PF",
+      "latitude": -16.7469,
+      "longitude": -151.032,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Haapu",
+      "postal_code": "98731",
+      "country_code": "PF",
+      "latitude": -16.7902,
+      "longitude": -151.0039,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Hipu",
+      "postal_code": "98733",
+      "country_code": "PF",
+      "latitude": -16.6012,
+      "longitude": -151.4622,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Uturoa",
+      "postal_code": "98735",
+      "country_code": "PF",
+      "latitude": -16.7406,
+      "longitude": -151.458,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Tarione",
+      "postal_code": "98766",
+      "country_code": "PF",
+      "latitude": -15.9819,
+      "longitude": -140.1323,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Hiti",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -16.7164,
+      "longitude": -144.0984,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Aakapa",
+      "postal_code": "98742",
+      "country_code": "PF",
+      "latitude": -8.8255,
+      "longitude": -140.1304,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Hatu Iti",
+      "postal_code": "98796",
+      "country_code": "PF",
+      "latitude": -8.6765,
+      "longitude": -140.6174,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Pihaena",
+      "postal_code": "98729",
+      "country_code": "PF",
+      "latitude": -17.5054,
+      "longitude": -149.778,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Faaone",
+      "postal_code": "98720",
+      "country_code": "PF",
+      "latitude": -17.6681,
+      "longitude": -149.3528,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Vairao",
+      "postal_code": "98725",
+      "country_code": "PF",
+      "latitude": -17.8088,
+      "longitude": -149.2704,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Rautini",
+      "postal_code": "98761",
+      "country_code": "PF",
+      "latitude": -15.2526,
+      "longitude": -146.7361,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Manuhangi",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -19.1971,
+      "longitude": -141.2449,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Tepeperu",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -17.8493,
+      "longitude": -143.066,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Taipivai",
+      "postal_code": "98742",
+      "country_code": "PF",
+      "latitude": -8.8789,
+      "longitude": -140.0595,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Atiha",
+      "postal_code": "98729",
+      "country_code": "PF",
+      "latitude": -17.5054,
+      "longitude": -149.778,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Papara",
+      "postal_code": "98712",
+      "country_code": "PF",
+      "latitude": -17.7213,
+      "longitude": -149.4967,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Motutapu",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -17.8493,
+      "longitude": -143.066,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Ravahere",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -18.2444,
+      "longitude": -142.1514,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Nahoe",
+      "postal_code": "98741",
+      "country_code": "PF",
+      "latitude": -9.7562,
+      "longitude": -138.8869,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Makaroa",
+      "postal_code": "98755",
+      "country_code": "PF",
+      "latitude": -23.1321,
+      "longitude": -134.9038,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Amanu",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -17.8028,
+      "longitude": -140.7716,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Hanaiapa",
+      "postal_code": "98741",
+      "country_code": "PF",
+      "latitude": -9.7562,
+      "longitude": -138.8869,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Vaiuru",
+      "postal_code": "98750",
+      "country_code": "PF",
+      "latitude": -23.8678,
+      "longitude": -147.6381,
+      "admin_name1": "Îles Australes"
+    },
+    {
+      "place_name": "Faaaha",
+      "postal_code": "98734",
+      "country_code": "PF",
+      "latitude": -16.6257,
+      "longitude": -151.4549,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Opoa",
+      "postal_code": "98735",
+      "country_code": "PF",
+      "latitude": -16.8482,
+      "longitude": -151.385,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Tupapati",
+      "postal_code": "98768",
+      "country_code": "PF",
+      "latitude": -17.569,
+      "longitude": -142.5933,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Tuherahera",
+      "postal_code": "98778",
+      "country_code": "PF",
+      "latitude": -14.9934,
+      "longitude": -148.162,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Hapatoni",
+      "postal_code": "98743",
+      "country_code": "PF",
+      "latitude": -9.9575,
+      "longitude": -139.0832,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Teavaro",
+      "postal_code": "98728",
+      "country_code": "PF",
+      "latitude": -17.5079,
+      "longitude": -149.7801,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Maeva",
+      "postal_code": "98731",
+      "country_code": "PF",
+      "latitude": -16.7062,
+      "longitude": -151.0003,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Niua",
+      "postal_code": "98734",
+      "country_code": "PF",
+      "latitude": -16.6591,
+      "longitude": -151.4961,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Nengonengo",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -18.7332,
+      "longitude": -141.8199,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Tavava",
+      "postal_code": "98773",
+      "country_code": "PF",
+      "latitude": -19.28,
+      "longitude": -138.7834,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Eiaone",
+      "postal_code": "98741",
+      "country_code": "PF",
+      "latitude": -9.7562,
+      "longitude": -138.8869,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Eiao",
+      "postal_code": "98796",
+      "country_code": "PF",
+      "latitude": -7.997,
+      "longitude": -140.6885,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Rimatara",
+      "postal_code": "98752",
+      "country_code": "PF",
+      "latitude": -22.657,
+      "longitude": -152.8051,
+      "admin_name1": "Îles Australes"
+    },
+    {
+      "place_name": "Maatea",
+      "postal_code": "98728",
+      "country_code": "PF",
+      "latitude": -17.5054,
+      "longitude": -149.778,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Hauru",
+      "postal_code": "98729",
+      "country_code": "PF",
+      "latitude": -17.5054,
+      "longitude": -149.778,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Toahotu",
+      "postal_code": "98724",
+      "country_code": "PF",
+      "latitude": -17.7712,
+      "longitude": -149.2884,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Temoe",
+      "postal_code": "98792",
+      "country_code": "PF",
+      "latitude": -23.3443,
+      "longitude": -134.4792,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Paumau",
+      "postal_code": "98741",
+      "country_code": "PF",
+      "latitude": -9.7562,
+      "longitude": -138.8869,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Hakahau",
+      "postal_code": "98745",
+      "country_code": "PF",
+      "latitude": -9.3881,
+      "longitude": -140.0638,
+      "admin_name1": "Îles Marquises"
+    },
+    {
+      "place_name": "Ahurei",
+      "postal_code": "98751",
+      "country_code": "PF",
+      "latitude": -27.6056,
+      "longitude": -144.344,
+      "admin_name1": "Îles Australes"
+    },
+    {
+      "place_name": "Anau",
+      "postal_code": "98730",
+      "country_code": "PF",
+      "latitude": -16.5142,
+      "longitude": -151.7168,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Fare",
+      "postal_code": "98731",
+      "country_code": "PF",
+      "latitude": -16.7127,
+      "longitude": -151.0267,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Tepupahea",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -16.8708,
+      "longitude": -144.7867,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Maniui",
+      "postal_code": "98755",
+      "country_code": "PF",
+      "latitude": -21.3081,
+      "longitude": -136.75,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Maria Est",
+      "postal_code": "98792",
+      "country_code": "PF",
+      "latitude": -21.3081,
+      "longitude": -136.75,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Tiputa",
+      "postal_code": "98776",
+      "country_code": "PF",
+      "latitude": -15.0732,
+      "longitude": -147.5282,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Teavaroa",
+      "postal_code": "98781",
+      "country_code": "PF",
+      "latitude": -14.4397,
+      "longitude": -144.9533,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Mahanatoa",
+      "postal_code": "98750",
+      "country_code": "PF",
+      "latitude": -23.8793,
+      "longitude": -147.6755,
+      "admin_name1": "Îles Australes"
+    },
+    {
+      "place_name": "Tahaa",
+      "postal_code": "98733",
+      "country_code": "PF",
+      "latitude": -16.6419,
+      "longitude": -151.5242,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Raitahiti",
+      "postal_code": "98785",
+      "country_code": "PF",
+      "latitude": -15.7141,
+      "longitude": -146.7425,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Pouheva",
+      "postal_code": "98769",
+      "country_code": "PF",
+      "latitude": -16.5535,
+      "longitude": -143.6946,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Henuaparea",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -16.3277,
+      "longitude": -143.1146,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Tikei",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -14.9505,
+      "longitude": -144.5466,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Anatonu",
+      "postal_code": "98750",
+      "country_code": "PF",
+      "latitude": -23.8495,
+      "longitude": -147.6237,
+      "admin_name1": "Îles Australes"
+    },
+    {
+      "place_name": "Faaa",
+      "postal_code": "98704",
+      "country_code": "PF",
+      "latitude": -17.5843,
+      "longitude": -149.56,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Tiarei",
+      "postal_code": "98708",
+      "country_code": "PF",
+      "latitude": -17.5569,
+      "longitude": -149.3816,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Orofara",
+      "postal_code": "98710",
+      "country_code": "PF",
+      "latitude": -17.5575,
+      "longitude": -149.4753,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Ruutia",
+      "postal_code": "98733",
+      "country_code": "PF",
+      "latitude": -16.6376,
+      "longitude": -151.5222,
+      "admin_name1": "Îles Sous-le-Vent"
+    },
+    {
+      "place_name": "Taahuaia",
+      "postal_code": "98754",
+      "country_code": "PF",
+      "latitude": -23.3637,
+      "longitude": -149.453,
+      "admin_name1": "Îles Australes"
+    },
+    {
+      "place_name": "Mataiea",
+      "postal_code": "98726",
+      "country_code": "PF",
+      "latitude": -17.7251,
+      "longitude": -149.4287,
+      "admin_name1": "Îles du Vent"
+    },
+    {
+      "place_name": "Tearavero",
+      "postal_code": "98787",
+      "country_code": "PF",
+      "latitude": -15.8592,
+      "longitude": -145.1344,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Toau",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -15.8601,
+      "longitude": -146.0092,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Angakauitai",
+      "postal_code": "98755",
+      "country_code": "PF",
+      "latitude": -23.1658,
+      "longitude": -135.0354,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Marutea Nord",
+      "postal_code": "98790",
+      "country_code": "PF",
+      "latitude": -17.0581,
+      "longitude": -143.0778,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Tumukuru",
+      "postal_code": "98783",
+      "country_code": "PF",
+      "latitude": -17.3379,
+      "longitude": -138.3978,
+      "admin_name1": "Îles Tuamotu-Gambier"
+    },
+    {
+      "place_name": "Omoa",
+      "postal_code": "98740",
+      "country_code": "PF",
+      "latitude": -10.3612,
+      "longitude": -138.4148,
+      "admin_name1": "Îles Marquises"
+    }
+  ]
+]

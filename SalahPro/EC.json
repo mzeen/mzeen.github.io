@@ -1,0 +1,5188 @@
+[
+  [
+    {
+      "place_name": "Cuenca_Monay",
+      "postal_code": "010210",
+      "country_code": "EC",
+      "latitude": -2.9057,
+      "longitude": -78.9732,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "San Cristobal (Carlos Ordoñez Lazo)-Chican (Guillermo Ortega)-El Cabo-Paute",
+      "postal_code": "010606",
+      "country_code": "EC",
+      "latitude": -2.8106,
+      "longitude": -78.7867,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "San Luis-Cacha (Cab. En Machangara)",
+      "postal_code": "060117",
+      "country_code": "EC",
+      "latitude": -1.7123,
+      "longitude": -78.6741,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Punin-Flores",
+      "postal_code": "060121",
+      "country_code": "EC",
+      "latitude": -1.7616,
+      "longitude": -78.6728,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Alausi",
+      "postal_code": "060202",
+      "country_code": "EC",
+      "latitude": -2.2033,
+      "longitude": -78.8471,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Villa La Union (Cajabamba)",
+      "postal_code": "060406",
+      "country_code": "EC",
+      "latitude": -1.7621,
+      "longitude": -78.7966,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Juan De Velasco (Pangor)-Cañi",
+      "postal_code": "060410",
+      "country_code": "EC",
+      "latitude": -1.6897,
+      "longitude": -78.7922,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Tanicuchi",
+      "postal_code": "050116",
+      "country_code": "EC",
+      "latitude": -0.7796,
+      "longitude": -78.6376,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Machala",
+      "postal_code": "070206",
+      "country_code": "EC",
+      "latitude": -3.2586,
+      "longitude": -79.9605,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Balsas-Bellamaria",
+      "postal_code": "070404",
+      "country_code": "EC",
+      "latitude": -3.7688,
+      "longitude": -79.8375,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Cañaquemada-La Peaña-Buenavista",
+      "postal_code": "070110",
+      "country_code": "EC",
+      "latitude": -3.3534,
+      "longitude": -79.8386,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "San Roque (Ambrosio Maldonado)-Piñas",
+      "postal_code": "070401",
+      "country_code": "EC",
+      "latitude": -3.7263,
+      "longitude": -79.6723,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Salima-San Jose De Chamanga",
+      "postal_code": "080307",
+      "country_code": "EC",
+      "latitude": 0.3444,
+      "longitude": -79.9001,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Guayaquil-9 De Octubre",
+      "postal_code": "090307",
+      "country_code": "EC",
+      "latitude": -2.1951,
+      "longitude": -79.8852,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Chala",
+      "postal_code": "090403",
+      "country_code": "EC",
+      "latitude": -2.2043,
+      "longitude": -79.9197,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Alborada",
+      "postal_code": "090501",
+      "country_code": "EC",
+      "latitude": -2.137,
+      "longitude": -79.9087,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Bellavista",
+      "postal_code": "090608",
+      "country_code": "EC",
+      "latitude": -2.375,
+      "longitude": -80.1333,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Milagro",
+      "postal_code": "091706",
+      "country_code": "EC",
+      "latitude": -2.134,
+      "longitude": -79.5941,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Tarifa",
+      "postal_code": "092303",
+      "country_code": "EC",
+      "latitude": -2.0167,
+      "longitude": -79.7667,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Urcuqui-San Blas-Tumbabiro",
+      "postal_code": "100114",
+      "country_code": "EC",
+      "latitude": 0.2311,
+      "longitude": -78.092,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Loja",
+      "postal_code": "110102",
+      "country_code": "EC",
+      "latitude": -3.9931,
+      "longitude": -79.2042,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "San Pedro De La Bendita",
+      "postal_code": "110204",
+      "country_code": "EC",
+      "latitude": -3.9416,
+      "longitude": -79.4357,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Alamor",
+      "postal_code": "110406",
+      "country_code": "EC",
+      "latitude": -4.0185,
+      "longitude": -80.0214,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Guare",
+      "postal_code": "120120",
+      "country_code": "EC",
+      "latitude": -1.6721,
+      "longitude": -79.7057,
+      "admin_name1": "Los Ríos"
+    },
+    {
+      "place_name": "Puebloviejo",
+      "postal_code": "120201",
+      "country_code": "EC",
+      "latitude": -1.5507,
+      "longitude": -79.534,
+      "admin_name1": "Los Ríos"
+    },
+    {
+      "place_name": "Valencia",
+      "postal_code": "120605",
+      "country_code": "EC",
+      "latitude": -0.9523,
+      "longitude": -79.3559,
+      "admin_name1": "Los Ríos"
+    },
+    {
+      "place_name": "Manta",
+      "postal_code": "130207",
+      "country_code": "EC",
+      "latitude": -0.9621,
+      "longitude": -80.7127,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Pomasqui",
+      "postal_code": "170310",
+      "country_code": "EC",
+      "latitude": -0.0542,
+      "longitude": -78.4538,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Turubamba",
+      "postal_code": "170705",
+      "country_code": "EC",
+      "latitude": -0.3316,
+      "longitude": -78.5381,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Quitumbe",
+      "postal_code": "170715",
+      "country_code": "EC",
+      "latitude": -0.3022,
+      "longitude": -78.5472,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Conocoto",
+      "postal_code": "170805",
+      "country_code": "EC",
+      "latitude": -0.3061,
+      "longitude": -78.4933,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Guangopolo",
+      "postal_code": "170807",
+      "country_code": "EC",
+      "latitude": -0.259,
+      "longitude": -78.4519,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "El Chaupi-Aloasi",
+      "postal_code": "171113",
+      "country_code": "EC",
+      "latitude": -0.4533,
+      "longitude": -78.6483,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Ambato",
+      "postal_code": "180203",
+      "country_code": "EC",
+      "latitude": -1.2491,
+      "longitude": -78.6167,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Los Encuentros",
+      "postal_code": "190403",
+      "country_code": "EC",
+      "latitude": -3.786,
+      "longitude": -78.5571,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "El Porvenir Del Carmen",
+      "postal_code": "190307",
+      "country_code": "EC",
+      "latitude": -4.4844,
+      "longitude": -79.0149,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "El Chaco",
+      "postal_code": "150201",
+      "country_code": "EC",
+      "latitude": -0.3382,
+      "longitude": -77.8102,
+      "admin_name1": "Napo"
+    },
+    {
+      "place_name": "Colonche",
+      "postal_code": "240109",
+      "country_code": "EC",
+      "latitude": -2.0215,
+      "longitude": -80.6692,
+      "admin_name1": "Santa Elena"
+    },
+    {
+      "place_name": "Santo Domingo De Los Colorados",
+      "postal_code": "230103",
+      "country_code": "EC",
+      "latitude": -0.253,
+      "longitude": -79.1754,
+      "admin_name1": "Santo Domingo de los Tsáchilas"
+    },
+    {
+      "place_name": "Cuenca_Gil Ramirez Davalos",
+      "postal_code": "010108",
+      "country_code": "EC",
+      "latitude": -2.8483,
+      "longitude": -78.9433,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Cuenca_Yanuncay",
+      "postal_code": "010206",
+      "country_code": "EC",
+      "latitude": -2.9193,
+      "longitude": -79.0456,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Abdon Calderon (La Union)-Santa Isabel (Chaguarurco)-Zhaglli (Shaglli )",
+      "postal_code": "010301",
+      "country_code": "EC",
+      "latitude": -3.2023,
+      "longitude": -79.3635,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Facundo Vela",
+      "postal_code": "020111",
+      "country_code": "EC",
+      "latitude": -1.2042,
+      "longitude": -79.0643,
+      "admin_name1": "Bolívar"
+    },
+    {
+      "place_name": "Urbina (Taya)",
+      "postal_code": "040105",
+      "country_code": "EC",
+      "latitude": 0.7544,
+      "longitude": -77.7765,
+      "admin_name1": "Carchi"
+    },
+    {
+      "place_name": "Cubijies-Quimiag",
+      "postal_code": "060116",
+      "country_code": "EC",
+      "latitude": -1.7509,
+      "longitude": -78.539,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Guamote",
+      "postal_code": "060403",
+      "country_code": "EC",
+      "latitude": -1.9331,
+      "longitude": -78.7096,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Cordoncillo-Paccha-Ayapamba-San Jose-Milagro",
+      "postal_code": "070305",
+      "country_code": "EC",
+      "latitude": -3.5719,
+      "longitude": -79.6929,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Capiro (Cab. En La Capilla De Capiro)",
+      "postal_code": "070402",
+      "country_code": "EC",
+      "latitude": -3.7907,
+      "longitude": -79.7572,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Morales-Curtincapa",
+      "postal_code": "070307",
+      "country_code": "EC",
+      "latitude": -3.7088,
+      "longitude": -79.4726,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Esmeraldas",
+      "postal_code": "080103",
+      "country_code": "EC",
+      "latitude": 0.9592,
+      "longitude": -79.654,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Rosa Zarate (Quininde)",
+      "postal_code": "080406",
+      "country_code": "EC",
+      "latitude": 0.4398,
+      "longitude": -79.1972,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "La Union",
+      "postal_code": "080409",
+      "country_code": "EC",
+      "latitude": 0.1381,
+      "longitude": -79.4015,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Guayaquil-Martha Roldos",
+      "postal_code": "090601",
+      "country_code": "EC",
+      "latitude": -2.1516,
+      "longitude": -79.9231,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Naranjito",
+      "postal_code": "091802",
+      "country_code": "EC",
+      "latitude": -2.1667,
+      "longitude": -79.4654,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "San Miguel De Ibarra",
+      "postal_code": "100110",
+      "country_code": "EC",
+      "latitude": 0.4218,
+      "longitude": -78.0967,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Cotacachi",
+      "postal_code": "100301",
+      "country_code": "EC",
+      "latitude": 0.3011,
+      "longitude": -78.2643,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Gonzalez Suarez-San Rafael",
+      "postal_code": "100205",
+      "country_code": "EC",
+      "latitude": 0.1836,
+      "longitude": -78.2186,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Catacocha",
+      "postal_code": "110301",
+      "country_code": "EC",
+      "latitude": -4.0497,
+      "longitude": -79.6494,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Bolaspamba",
+      "postal_code": "110905",
+      "country_code": "EC",
+      "latitude": -4.185,
+      "longitude": -80.3693,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Pimocha",
+      "postal_code": "120108",
+      "country_code": "EC",
+      "latitude": -1.8333,
+      "longitude": -79.6064,
+      "admin_name1": "Los Ríos"
+    },
+    {
+      "place_name": "Portoviejo",
+      "postal_code": "130110",
+      "country_code": "EC",
+      "latitude": -1.0546,
+      "longitude": -80.4544,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Riochico (Rio Chico)-Pueblo Nuevo",
+      "postal_code": "130116",
+      "country_code": "EC",
+      "latitude": -0.984,
+      "longitude": -80.362,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Chone",
+      "postal_code": "130703",
+      "country_code": "EC",
+      "latitude": -0.6982,
+      "longitude": -80.0936,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Membrillal",
+      "postal_code": "130308",
+      "country_code": "EC",
+      "latitude": -1.2391,
+      "longitude": -80.6648,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Montecristi",
+      "postal_code": "130217",
+      "country_code": "EC",
+      "latitude": -1.0458,
+      "longitude": -80.6589,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Campozano (La Palma De Pajan)",
+      "postal_code": "130902",
+      "country_code": "EC",
+      "latitude": -1.5789,
+      "longitude": -80.344,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Santa Ana De Vuelta Larga",
+      "postal_code": "130402",
+      "country_code": "EC",
+      "latitude": -1.2104,
+      "longitude": -80.3365,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Calderon (Carapungo)",
+      "postal_code": "170208",
+      "country_code": "EC",
+      "latitude": -0.1178,
+      "longitude": -78.4292,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Sangolqui",
+      "postal_code": "171106",
+      "country_code": "EC",
+      "latitude": -0.3341,
+      "longitude": -78.4522,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Lligua-Baños De Agua Santa-Ulba",
+      "postal_code": "180301",
+      "country_code": "EC",
+      "latitude": -1.4037,
+      "longitude": -78.4024,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Pillaro",
+      "postal_code": "180501",
+      "country_code": "EC",
+      "latitude": -1.1741,
+      "longitude": -78.5468,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "El Eno",
+      "postal_code": "210208",
+      "country_code": "EC",
+      "latitude": -0.0678,
+      "longitude": -76.8776,
+      "admin_name1": "Sucumbíos"
+    },
+    {
+      "place_name": "Tarapoa-Aguas Negras",
+      "postal_code": "210304",
+      "country_code": "EC",
+      "latitude": -0.1906,
+      "longitude": -76.2559,
+      "admin_name1": "Sucumbíos"
+    },
+    {
+      "place_name": "Española Hood-Puerto Baquerizo Moreno",
+      "postal_code": "200101",
+      "country_code": "EC",
+      "latitude": -1.1811,
+      "longitude": -90.1968,
+      "admin_name1": "Galápagos"
+    },
+    {
+      "place_name": "Guaranda",
+      "postal_code": "020101",
+      "country_code": "EC",
+      "latitude": -1.5926,
+      "longitude": -79.001,
+      "admin_name1": "Bolívar"
+    },
+    {
+      "place_name": "Chillanes",
+      "postal_code": "020201",
+      "country_code": "EC",
+      "latitude": -1.9437,
+      "longitude": -79.0663,
+      "admin_name1": "Bolívar"
+    },
+    {
+      "place_name": "Balsapamba-Bilovan-Regulo De Mora",
+      "postal_code": "020305",
+      "country_code": "EC",
+      "latitude": -1.815,
+      "longitude": -79.0704,
+      "admin_name1": "Bolívar"
+    },
+    {
+      "place_name": "Multitud-Sibambe-Huigra-Pistishi (Nariz Del Diablo)",
+      "postal_code": "060206",
+      "country_code": "EC",
+      "latitude": -2.2102,
+      "longitude": -78.9638,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Huaquillas",
+      "postal_code": "070504",
+      "country_code": "EC",
+      "latitude": -3.4752,
+      "longitude": -80.2308,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "La Libertad-La Victoria",
+      "postal_code": "070510",
+      "country_code": "EC",
+      "latitude": -3.8148,
+      "longitude": -80.0985,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Guayaquil- El Cisne",
+      "postal_code": "090404",
+      "country_code": "EC",
+      "latitude": -2.2191,
+      "longitude": -79.9248,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Mucho Lote",
+      "postal_code": "090703",
+      "country_code": "EC",
+      "latitude": -2.0723,
+      "longitude": -79.9052,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Balzar",
+      "postal_code": "091302",
+      "country_code": "EC",
+      "latitude": -1.365,
+      "longitude": -79.9049,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Daule",
+      "postal_code": "091911",
+      "country_code": "EC",
+      "latitude": -1.8611,
+      "longitude": -79.9777,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Samborondon",
+      "postal_code": "092304",
+      "country_code": "EC",
+      "latitude": -1.9628,
+      "longitude": -79.724,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Gral. Vernaza (Dos Esteros)",
+      "postal_code": "092003",
+      "country_code": "EC",
+      "latitude": -1.852,
+      "longitude": -79.8037,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "General Villamil (Playas)",
+      "postal_code": "092202",
+      "country_code": "EC",
+      "latitude": -2.6382,
+      "longitude": -80.3673,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Eugenio Espejo (Calpaqui)",
+      "postal_code": "100206",
+      "country_code": "EC",
+      "latitude": 0.1864,
+      "longitude": -78.2539,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Selva Alegre (Cab. En San Miguel De P.)",
+      "postal_code": "100217",
+      "country_code": "EC",
+      "latitude": 0.3689,
+      "longitude": -78.1766,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Chuga-Pimampiro-Mariano Acosta-San  Fco. De Sigsipamba",
+      "postal_code": "100118",
+      "country_code": "EC",
+      "latitude": 0.5069,
+      "longitude": -78.2464,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Quinara-Yangana (Arsenio Castillo)",
+      "postal_code": "110122",
+      "country_code": "EC",
+      "latitude": -4.2667,
+      "longitude": -79.25,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Tacamoros",
+      "postal_code": "110704",
+      "country_code": "EC",
+      "latitude": -4.4225,
+      "longitude": -79.7447,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Pichincha",
+      "postal_code": "130804",
+      "country_code": "EC",
+      "latitude": -1.0469,
+      "longitude": -79.8214,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "El Condado",
+      "postal_code": "170308",
+      "country_code": "EC",
+      "latitude": -0.1032,
+      "longitude": -78.5007,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Nono",
+      "postal_code": "170311",
+      "country_code": "EC",
+      "latitude": -0.0674,
+      "longitude": -78.5765,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Solanda",
+      "postal_code": "170610",
+      "country_code": "EC",
+      "latitude": -0.2696,
+      "longitude": -78.5404,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Cumbaratza-Timbara-San Carlos De Las Minas",
+      "postal_code": "190104",
+      "country_code": "EC",
+      "latitude": -4.042,
+      "longitude": -78.8591,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "Alluriquin",
+      "postal_code": "230115",
+      "country_code": "EC",
+      "latitude": -0.3205,
+      "longitude": -78.9948,
+      "admin_name1": "Santo Domingo de los Tsáchilas"
+    },
+    {
+      "place_name": "San Jacinto Del Bua",
+      "postal_code": "230212",
+      "country_code": "EC",
+      "latitude": -0.1105,
+      "longitude": -79.2916,
+      "admin_name1": "Santo Domingo de los Tsáchilas"
+    },
+    {
+      "place_name": "El Progreso (Cab.En Zhiota)-Las Nieves (Chaya)",
+      "postal_code": "010502",
+      "country_code": "EC",
+      "latitude": -3.3439,
+      "longitude": -79.2046,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Nabon-Cochapata",
+      "postal_code": "010503",
+      "country_code": "EC",
+      "latitude": -3.2844,
+      "longitude": -79.0425,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "San Rafael-Monte Olivo",
+      "postal_code": "040203",
+      "country_code": "EC",
+      "latitude": 0.4189,
+      "longitude": -77.8932,
+      "admin_name1": "Carchi"
+    },
+    {
+      "place_name": "Lican",
+      "postal_code": "060115",
+      "country_code": "EC",
+      "latitude": -1.6507,
+      "longitude": -78.7089,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Poalo-11 De Noviembre (Ilinchisi)",
+      "postal_code": "050110",
+      "country_code": "EC",
+      "latitude": -0.8478,
+      "longitude": -78.5056,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Joseguango Bajo-Alaques (Alaquez)",
+      "postal_code": "050112",
+      "country_code": "EC",
+      "latitude": -0.7641,
+      "longitude": -78.6461,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Mulalo",
+      "postal_code": "050117",
+      "country_code": "EC",
+      "latitude": -0.7833,
+      "longitude": -78.5833,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "La Mana",
+      "postal_code": "050201",
+      "country_code": "EC",
+      "latitude": -0.9409,
+      "longitude": -79.2251,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Moraspungo",
+      "postal_code": "050304",
+      "country_code": "EC",
+      "latitude": -1.1735,
+      "longitude": -79.2235,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Cochapamba-Canchagua",
+      "postal_code": "050407",
+      "country_code": "EC",
+      "latitude": -0.8409,
+      "longitude": -78.7752,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Atacames",
+      "postal_code": "080305",
+      "country_code": "EC",
+      "latitude": 0.8678,
+      "longitude": -79.8547,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Guayaquil-Centenario",
+      "postal_code": "090104",
+      "country_code": "EC",
+      "latitude": -2.6869,
+      "longitude": -80.0251,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Portete",
+      "postal_code": "090401",
+      "country_code": "EC",
+      "latitude": -2.1985,
+      "longitude": -79.9307,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Nueva Prosperina",
+      "postal_code": "090804",
+      "country_code": "EC",
+      "latitude": -2.1264,
+      "longitude": -79.9624,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "6 De Julio De Cuellaje (Cab En Cuellaje)-Plaza Gutierrez (Calvario)-Apuela",
+      "postal_code": "100304",
+      "country_code": "EC",
+      "latitude": 0.316,
+      "longitude": -78.302,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Sumaypamba",
+      "postal_code": "110805",
+      "country_code": "EC",
+      "latitude": -3.4098,
+      "longitude": -79.3404,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Babahoyo",
+      "postal_code": "120103",
+      "country_code": "EC",
+      "latitude": -1.8022,
+      "longitude": -79.5344,
+      "admin_name1": "Los Ríos"
+    },
+    {
+      "place_name": "Vinces",
+      "postal_code": "120502",
+      "country_code": "EC",
+      "latitude": -1.5561,
+      "longitude": -79.7519,
+      "admin_name1": "Los Ríos"
+    },
+    {
+      "place_name": "Mocache",
+      "postal_code": "120314",
+      "country_code": "EC",
+      "latitude": -1.1827,
+      "longitude": -79.4991,
+      "admin_name1": "Los Ríos"
+    },
+    {
+      "place_name": "Cuchaentza",
+      "postal_code": "140107",
+      "country_code": "EC",
+      "latitude": -2.1624,
+      "longitude": -77.8487,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Montalvo (Andoas)",
+      "postal_code": "160110",
+      "country_code": "EC",
+      "latitude": -1.9338,
+      "longitude": -76.9152,
+      "admin_name1": "Pastaza"
+    },
+    {
+      "place_name": "Comite Del Pueblo",
+      "postal_code": "170303",
+      "country_code": "EC",
+      "latitude": -0.1195,
+      "longitude": -78.4612,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "San Jose De Minas",
+      "postal_code": "170317",
+      "country_code": "EC",
+      "latitude": -0.0172,
+      "longitude": -78.4703,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "La Mena",
+      "postal_code": "170612",
+      "country_code": "EC",
+      "latitude": -0.2602,
+      "longitude": -78.552,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "La Ecuatoriana",
+      "postal_code": "170713",
+      "country_code": "EC",
+      "latitude": -0.3079,
+      "longitude": -78.5606,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Pintag",
+      "postal_code": "170811",
+      "country_code": "EC",
+      "latitude": -0.3417,
+      "longitude": -78.3504,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Tumbaco",
+      "postal_code": "170902",
+      "country_code": "EC",
+      "latitude": -0.214,
+      "longitude": -78.4049,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Oton-Santa Rosa De Cuzubamba-Ascazubi",
+      "postal_code": "171010",
+      "country_code": "EC",
+      "latitude": 0.0432,
+      "longitude": -78.3134,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Tambillo-Uyumbicho",
+      "postal_code": "171109",
+      "country_code": "EC",
+      "latitude": -0.4073,
+      "longitude": -78.5171,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Pachicutza-El Pangui-El Guisme",
+      "postal_code": "190401",
+      "country_code": "EC",
+      "latitude": -3.6325,
+      "longitude": -78.5935,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "Isla Fernandina Narborough",
+      "postal_code": "200107",
+      "country_code": "EC",
+      "latitude": -0.5377,
+      "longitude": -91.2237,
+      "admin_name1": "Galápagos"
+    },
+    {
+      "place_name": "Sevilla De Oro",
+      "postal_code": "010604",
+      "country_code": "EC",
+      "latitude": -2.8028,
+      "longitude": -78.654,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Guachapala",
+      "postal_code": "010601",
+      "country_code": "EC",
+      "latitude": -2.7725,
+      "longitude": -78.7125,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Tulcan",
+      "postal_code": "040102",
+      "country_code": "EC",
+      "latitude": 0.8119,
+      "longitude": -77.7173,
+      "admin_name1": "Carchi"
+    },
+    {
+      "place_name": "Riobamba",
+      "postal_code": "060112",
+      "country_code": "EC",
+      "latitude": -1.671,
+      "longitude": -78.6471,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Santiago De Quito (Cab. En San",
+      "postal_code": "060408",
+      "country_code": "EC",
+      "latitude": -2.0791,
+      "longitude": -78.7538,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "El Ingenio-Marcabeli",
+      "postal_code": "070406",
+      "country_code": "EC",
+      "latitude": -3.735,
+      "longitude": -79.9304,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Guayaquil-Sauces",
+      "postal_code": "090503",
+      "country_code": "EC",
+      "latitude": -2.1312,
+      "longitude": -79.8931,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Monte Bello",
+      "postal_code": "090705",
+      "country_code": "EC",
+      "latitude": -2.0989,
+      "longitude": -79.9287,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Flor De Bastion",
+      "postal_code": "090808",
+      "country_code": "EC",
+      "latitude": -2.091,
+      "longitude": -79.9611,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Otavalo",
+      "postal_code": "100201",
+      "country_code": "EC",
+      "latitude": 0.2346,
+      "longitude": -78.2625,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Sanguillin",
+      "postal_code": "110603",
+      "country_code": "EC",
+      "latitude": -4.1936,
+      "longitude": -79.5286,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Crucita",
+      "postal_code": "130119",
+      "country_code": "EC",
+      "latitude": -0.8706,
+      "longitude": -80.5375,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Jama",
+      "postal_code": "131008",
+      "country_code": "EC",
+      "latitude": -0.2019,
+      "longitude": -80.2626,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "El Triunfo-Diez De Agosto",
+      "postal_code": "160108",
+      "country_code": "EC",
+      "latitude": -1.4338,
+      "longitude": -77.7995,
+      "admin_name1": "Pastaza"
+    },
+    {
+      "place_name": "Shell-Madre Tierra-Mera",
+      "postal_code": "160105",
+      "country_code": "EC",
+      "latitude": -1.4167,
+      "longitude": -78.0478,
+      "admin_name1": "Pastaza"
+    },
+    {
+      "place_name": "Iñaquito",
+      "postal_code": "170504",
+      "country_code": "EC",
+      "latitude": -0.1718,
+      "longitude": -78.4817,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Amaguaña",
+      "postal_code": "170812",
+      "country_code": "EC",
+      "latitude": -0.3757,
+      "longitude": -78.5061,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Marcos Espinel (Chacata)-San Miguelito-Baquerizo Moreno-Emilio Maria Teran (Rumipamba)",
+      "postal_code": "180503",
+      "country_code": "EC",
+      "latitude": -1.173,
+      "longitude": -78.4476,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Chito",
+      "postal_code": "190304",
+      "country_code": "EC",
+      "latitude": -4.9416,
+      "longitude": -79.0781,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "Guayzimi",
+      "postal_code": "190201",
+      "country_code": "EC",
+      "latitude": -4.0429,
+      "longitude": -78.68,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "Nueva Loja",
+      "postal_code": "210201",
+      "country_code": "EC",
+      "latitude": 0.086,
+      "longitude": -76.8953,
+      "admin_name1": "Sucumbíos"
+    },
+    {
+      "place_name": "Cuenca_El Sagrario",
+      "postal_code": "010107",
+      "country_code": "EC",
+      "latitude": -2.8629,
+      "longitude": -78.984,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Cuenca_Hermano Miguel",
+      "postal_code": "010112",
+      "country_code": "EC",
+      "latitude": -2.801,
+      "longitude": -79.1703,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Santiago-San Vicente",
+      "postal_code": "020303",
+      "country_code": "EC",
+      "latitude": -1.7271,
+      "longitude": -78.944,
+      "admin_name1": "Bolívar"
+    },
+    {
+      "place_name": "Zhud-Juncal",
+      "postal_code": "030207",
+      "country_code": "EC",
+      "latitude": -2.442,
+      "longitude": -78.9355,
+      "admin_name1": "Cañar"
+    },
+    {
+      "place_name": "Achupallas",
+      "postal_code": "060204",
+      "country_code": "EC",
+      "latitude": -2.2828,
+      "longitude": -78.7693,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Gonzol-Chunchi",
+      "postal_code": "060201",
+      "country_code": "EC",
+      "latitude": -2.2626,
+      "longitude": -78.8479,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Vuelta Larga",
+      "postal_code": "080120",
+      "country_code": "EC",
+      "latitude": 0.896,
+      "longitude": -79.7002,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Sua (Cab En La Bocana)-Tonchigue",
+      "postal_code": "080303",
+      "country_code": "EC",
+      "latitude": 0.7694,
+      "longitude": -79.9253,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Guayaquil-Urdesa",
+      "postal_code": "090506",
+      "country_code": "EC",
+      "latitude": -2.1713,
+      "longitude": -79.9057,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Chongon",
+      "postal_code": "090903",
+      "country_code": "EC",
+      "latitude": -2.236,
+      "longitude": -80.0784,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Eloy Alfaro (Duran)",
+      "postal_code": "092402",
+      "country_code": "EC",
+      "latitude": -2.1505,
+      "longitude": -79.8292,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayas (Pueblo Nuevo)",
+      "postal_code": "091505",
+      "country_code": "EC",
+      "latitude": -0.9438,
+      "longitude": -79.674,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Vacas Galindo (Cab. En San Miguel Alto)-Peñaherrera",
+      "postal_code": "100305",
+      "country_code": "EC",
+      "latitude": 0.3475,
+      "longitude": -78.5759,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Garzareal",
+      "postal_code": "110903",
+      "country_code": "EC",
+      "latitude": -4.2728,
+      "longitude": -80.2735,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "San Antonio De Las Aradas (Cab)-Quilanga-Fundochamba",
+      "postal_code": "110608",
+      "country_code": "EC",
+      "latitude": -4.3936,
+      "longitude": -79.5014,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Quevedo",
+      "postal_code": "120309",
+      "country_code": "EC",
+      "latitude": -1.0286,
+      "longitude": -79.4635,
+      "admin_name1": "Los Ríos"
+    },
+    {
+      "place_name": "San Pablo (Cab En Pueblo Nuevo)",
+      "postal_code": "130411",
+      "country_code": "EC",
+      "latitude": -1.2144,
+      "longitude": -80.0599,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Rumipamba-Cotogchoa",
+      "postal_code": "171107",
+      "country_code": "EC",
+      "latitude": -0.3707,
+      "longitude": -78.5765,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Ambatillo-San Bartolome De Pinllog",
+      "postal_code": "180107",
+      "country_code": "EC",
+      "latitude": -1.1926,
+      "longitude": -78.7166,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "28 De Mayo (San Jose De Yacuambi)",
+      "postal_code": "190108",
+      "country_code": "EC",
+      "latitude": -3.6406,
+      "longitude": -78.9798,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "Puerto Francisco De Orellana (Coca)",
+      "postal_code": "220201",
+      "country_code": "EC",
+      "latitude": -0.4664,
+      "longitude": -76.9872,
+      "admin_name1": "Orellana"
+    },
+    {
+      "place_name": "Sayausi",
+      "postal_code": "010117",
+      "country_code": "EC",
+      "latitude": -2.8714,
+      "longitude": -79.0723,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Checa (Jidcay)-Chiquintad",
+      "postal_code": "010118",
+      "country_code": "EC",
+      "latitude": -2.8729,
+      "longitude": -79.0459,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "San Juan-Simon Bolivar (Cab. En Gañanzol)",
+      "postal_code": "010405",
+      "country_code": "EC",
+      "latitude": -2.965,
+      "longitude": -78.815,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "El Carmen De Pijili",
+      "postal_code": "010702",
+      "country_code": "EC",
+      "latitude": -2.9246,
+      "longitude": -79.5582,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "San Luis De Pambil",
+      "postal_code": "020110",
+      "country_code": "EC",
+      "latitude": -1.2103,
+      "longitude": -79.1255,
+      "admin_name1": "Bolívar"
+    },
+    {
+      "place_name": "Nazon (Cab. En Pampa De Dominguez)",
+      "postal_code": "030110",
+      "country_code": "EC",
+      "latitude": -2.6856,
+      "longitude": -79.013,
+      "admin_name1": "Cañar"
+    },
+    {
+      "place_name": "General Morales (Socarte)-Ventura-Chontamarca-Ducur",
+      "postal_code": "030208",
+      "country_code": "EC",
+      "latitude": -2.3842,
+      "longitude": -79.1292,
+      "admin_name1": "Cañar"
+    },
+    {
+      "place_name": "Deleg-Solano",
+      "postal_code": "030109",
+      "country_code": "EC",
+      "latitude": -2.7628,
+      "longitude": -78.9394,
+      "admin_name1": "Cañar"
+    },
+    {
+      "place_name": "San Vicente De Pusir-Garcia Moreno",
+      "postal_code": "040204",
+      "country_code": "EC",
+      "latitude": 0.4827,
+      "longitude": -77.9574,
+      "admin_name1": "Carchi"
+    },
+    {
+      "place_name": "Latacunga",
+      "postal_code": "050109",
+      "country_code": "EC",
+      "latitude": -0.9352,
+      "longitude": -78.6155,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "San Juan De Pastocalle",
+      "postal_code": "050118",
+      "country_code": "EC",
+      "latitude": -0.7229,
+      "longitude": -78.634,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Palo Quemado-Las Pampas",
+      "postal_code": "050504",
+      "country_code": "EC",
+      "latitude": -0.8302,
+      "longitude": -78.9847,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Concepcion-San Javier De Cachavi-Urbina-Alto Tambo (Cab En Guadual)-5 De Junio (Cab En Uimbi)",
+      "postal_code": "080503",
+      "country_code": "EC",
+      "latitude": 0.8383,
+      "longitude": -78.6457,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Guayaquil-Salinas",
+      "postal_code": "090402",
+      "country_code": "EC",
+      "latitude": -2.1959,
+      "longitude": -79.9164,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil- Kennedy",
+      "postal_code": "090505",
+      "country_code": "EC",
+      "latitude": -2.1776,
+      "longitude": -79.8997,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Paraiso De La Flor",
+      "postal_code": "090802",
+      "country_code": "EC",
+      "latitude": -2.1003,
+      "longitude": -79.9628,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Monte Sinai",
+      "postal_code": "090806",
+      "country_code": "EC",
+      "latitude": -2.1143,
+      "longitude": -79.9841,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Sabanilla",
+      "postal_code": "091406",
+      "country_code": "EC",
+      "latitude": -1.8333,
+      "longitude": -80.2,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Gualel-El Cisne",
+      "postal_code": "110121",
+      "country_code": "EC",
+      "latitude": -4.3886,
+      "longitude": -79.2731,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Catamayo (La Toma)",
+      "postal_code": "110202",
+      "country_code": "EC",
+      "latitude": -3.9345,
+      "longitude": -79.3602,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Guachanama",
+      "postal_code": "110304",
+      "country_code": "EC",
+      "latitude": -4.0465,
+      "longitude": -79.8814,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Abdon Calderon (San Francisco)",
+      "postal_code": "130117",
+      "country_code": "EC",
+      "latitude": -1.0471,
+      "longitude": -80.3241,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Arajuno",
+      "postal_code": "160201",
+      "country_code": "EC",
+      "latitude": -1.2328,
+      "longitude": -77.6874,
+      "admin_name1": "Pastaza"
+    },
+    {
+      "place_name": "Guamani",
+      "postal_code": "170706",
+      "country_code": "EC",
+      "latitude": -0.3327,
+      "longitude": -78.5549,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Checa (Chilpa)",
+      "postal_code": "170910",
+      "country_code": "EC",
+      "latitude": -0.1632,
+      "longitude": -78.2628,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Cayambe",
+      "postal_code": "171009",
+      "country_code": "EC",
+      "latitude": 0.0408,
+      "longitude": -78.1452,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Pedro Vicente Maldonado",
+      "postal_code": "171201",
+      "country_code": "EC",
+      "latitude": 0.0868,
+      "longitude": -79.0515,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Chontapunta",
+      "postal_code": "150109",
+      "country_code": "EC",
+      "latitude": -0.9146,
+      "longitude": -77.3612,
+      "admin_name1": "Napo"
+    },
+    {
+      "place_name": "San Jose De Dahuano-San Vicente De Huaticocha",
+      "postal_code": "220211",
+      "country_code": "EC",
+      "latitude": -0.7828,
+      "longitude": -77.4421,
+      "admin_name1": "Orellana"
+    },
+    {
+      "place_name": "Cuenca_San Blas",
+      "postal_code": "010106",
+      "country_code": "EC",
+      "latitude": -2.8523,
+      "longitude": -79.0158,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Gualaceo",
+      "postal_code": "010402",
+      "country_code": "EC",
+      "latitude": -2.8926,
+      "longitude": -78.7781,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Simiatug",
+      "postal_code": "020109",
+      "country_code": "EC",
+      "latitude": -1.2424,
+      "longitude": -78.9572,
+      "admin_name1": "Bolívar"
+    },
+    {
+      "place_name": "Las Naves",
+      "postal_code": "020402",
+      "country_code": "EC",
+      "latitude": -1.2857,
+      "longitude": -79.3146,
+      "admin_name1": "Bolívar"
+    },
+    {
+      "place_name": "Guapan",
+      "postal_code": "030107",
+      "country_code": "EC",
+      "latitude": -2.7167,
+      "longitude": -78.8167,
+      "admin_name1": "Cañar"
+    },
+    {
+      "place_name": "Julio Andrade (Orejuela)-El Carmelo (El Pun)",
+      "postal_code": "040109",
+      "country_code": "EC",
+      "latitude": 0.6492,
+      "longitude": -77.7728,
+      "admin_name1": "Carchi"
+    },
+    {
+      "place_name": "Capzol-Compud-Llagos",
+      "postal_code": "060205",
+      "country_code": "EC",
+      "latitude": -2.3519,
+      "longitude": -78.9515,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "San Gregorio-Muisne",
+      "postal_code": "080301",
+      "country_code": "EC",
+      "latitude": 0.5368,
+      "longitude": -79.8946,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Guayaquil- Esteros",
+      "postal_code": "090205",
+      "country_code": "EC",
+      "latitude": -2.265,
+      "longitude": -79.9051,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Guayacanes",
+      "postal_code": "090508",
+      "country_code": "EC",
+      "latitude": -2.1407,
+      "longitude": -79.9077,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Los Ceibos",
+      "postal_code": "090902",
+      "country_code": "EC",
+      "latitude": -2.1582,
+      "longitude": -79.9696,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Juan Bautista Aguirre (Los Tintos)",
+      "postal_code": "091909",
+      "country_code": "EC",
+      "latitude": -1.7456,
+      "longitude": -79.9528,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Velasco Ibarra (Cab. El Empalme)",
+      "postal_code": "091501",
+      "country_code": "EC",
+      "latitude": -1.0667,
+      "longitude": -79.6885,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Jimbilla",
+      "postal_code": "110119",
+      "country_code": "EC",
+      "latitude": -3.8603,
+      "longitude": -79.1721,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Pozul (San Juan De Pozul)-Sabanilla-Tnte. Maximiliano Rodriguez Loaiza-Cruzpamba (Cab En Carlos Bustamante)",
+      "postal_code": "110402",
+      "country_code": "EC",
+      "latitude": -4.1834,
+      "longitude": -80.0971,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Puerto Pechiche",
+      "postal_code": "120205",
+      "country_code": "EC",
+      "latitude": -1.4333,
+      "longitude": -79.5667,
+      "admin_name1": "Los Ríos"
+    },
+    {
+      "place_name": "Ricaurte",
+      "postal_code": "130708",
+      "country_code": "EC",
+      "latitude": -0.5828,
+      "longitude": -80.0414,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Flavio Alfaro",
+      "postal_code": "130716",
+      "country_code": "EC",
+      "latitude": -0.4056,
+      "longitude": -79.9054,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Jipijapa",
+      "postal_code": "130304",
+      "country_code": "EC",
+      "latitude": -1.3487,
+      "longitude": -80.5787,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Pajan",
+      "postal_code": "130901",
+      "country_code": "EC",
+      "latitude": -1.5524,
+      "longitude": -80.4296,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Guale",
+      "postal_code": "130906",
+      "country_code": "EC",
+      "latitude": -1.6314,
+      "longitude": -80.239,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Puerto Lopez-Machalilla-Salango",
+      "postal_code": "130312",
+      "country_code": "EC",
+      "latitude": -1.3259,
+      "longitude": -80.6984,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Alshi(Cab En 9 De Octubre)-Zuña (Zuñac)",
+      "postal_code": "140105",
+      "country_code": "EC",
+      "latitude": -2.2031,
+      "longitude": -78.3611,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "San Juan Bosco-Pande Azucar-San Jacinto De Wakambeis",
+      "postal_code": "140402",
+      "country_code": "EC",
+      "latitude": -3.1426,
+      "longitude": -78.5409,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Logroño-Shimpis",
+      "postal_code": "140303",
+      "country_code": "EC",
+      "latitude": -2.6538,
+      "longitude": -78.135,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Tena",
+      "postal_code": "150101",
+      "country_code": "EC",
+      "latitude": -0.9938,
+      "longitude": -77.8129,
+      "admin_name1": "Napo"
+    },
+    {
+      "place_name": "El Piedrero",
+      "postal_code": "900001",
+      "country_code": "EC",
+      "latitude": -2.3748,
+      "longitude": -79.2673,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Cuenca_Machangara",
+      "postal_code": "010113",
+      "country_code": "EC",
+      "latitude": -2.7691,
+      "longitude": -79.0567,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Octavio Cordero Palacios (Sta. Rosa)-Sidcay",
+      "postal_code": "010119",
+      "country_code": "EC",
+      "latitude": -2.8729,
+      "longitude": -79.0459,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Juan Montalvo (San Ignacio De Quil)-Mira (Chontahuasi)",
+      "postal_code": "040302",
+      "country_code": "EC",
+      "latitude": 0.5582,
+      "longitude": -78.0681,
+      "admin_name1": "Carchi"
+    },
+    {
+      "place_name": "Cumanda",
+      "postal_code": "060301",
+      "country_code": "EC",
+      "latitude": -2.2043,
+      "longitude": -79.1337,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Tabiazo-Crnel. Carlos C. Torres (Cab. En Huele)",
+      "postal_code": "080123",
+      "country_code": "EC",
+      "latitude": 0.7011,
+      "longitude": -79.7242,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Alfredo Baquerizo Moreno (Jujan)",
+      "postal_code": "091104",
+      "country_code": "EC",
+      "latitude": -1.9383,
+      "longitude": -79.6073,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Valle De La Virgen",
+      "postal_code": "091403",
+      "country_code": "EC",
+      "latitude": -1.7833,
+      "longitude": -80.1833,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "San Sebastian De Yuluc-Manu",
+      "postal_code": "110806",
+      "country_code": "EC",
+      "latitude": -3.4705,
+      "longitude": -79.4234,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Sevilla Don Bosco",
+      "postal_code": "140103",
+      "country_code": "EC",
+      "latitude": -2.2881,
+      "longitude": -78.0832,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Ponceano",
+      "postal_code": "170301",
+      "country_code": "EC",
+      "latitude": -0.1207,
+      "longitude": -78.489,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Puengasi",
+      "postal_code": "170410",
+      "country_code": "EC",
+      "latitude": -0.2513,
+      "longitude": -78.498,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Chimbacalle",
+      "postal_code": "170603",
+      "country_code": "EC",
+      "latitude": -0.247,
+      "longitude": -78.5149,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Machachi",
+      "postal_code": "171112",
+      "country_code": "EC",
+      "latitude": -0.5101,
+      "longitude": -78.5671,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Aloag",
+      "postal_code": "171114",
+      "country_code": "EC",
+      "latitude": -0.4679,
+      "longitude": -78.5845,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "El Triunfo-Patate-Los Andes (Cab En Poatug)-Sucre (Cab En Sucre- Patate  Urco)",
+      "postal_code": "180406",
+      "country_code": "EC",
+      "latitude": -1.3054,
+      "longitude": -78.568,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Yanayacu - Mochapata (Cab En Yanayacu)-Rumipamba",
+      "postal_code": "180603",
+      "country_code": "EC",
+      "latitude": -1.4176,
+      "longitude": -78.6934,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Santa Cecilia-Jambeli",
+      "postal_code": "210205",
+      "country_code": "EC",
+      "latitude": 0.1795,
+      "longitude": -77.0631,
+      "admin_name1": "Sucumbíos"
+    },
+    {
+      "place_name": "Linares-Sardinas",
+      "postal_code": "150203",
+      "country_code": "EC",
+      "latitude": -0.3943,
+      "longitude": -77.7481,
+      "admin_name1": "Napo"
+    },
+    {
+      "place_name": "Ines Arango",
+      "postal_code": "220210",
+      "country_code": "EC",
+      "latitude": -0.5156,
+      "longitude": -77.3187,
+      "admin_name1": "Orellana"
+    },
+    {
+      "place_name": "San Bartolome-Guel-Sigsig-Cuchil (Cutchil)",
+      "postal_code": "010803",
+      "country_code": "EC",
+      "latitude": -3.093,
+      "longitude": -78.7918,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Magdalena (Chapacoto)-Asuncion (Asancoto)",
+      "postal_code": "020307",
+      "country_code": "EC",
+      "latitude": -1.6801,
+      "longitude": -79.1946,
+      "admin_name1": "Bolívar"
+    },
+    {
+      "place_name": "Pioter-Santa Martha De Cuba",
+      "postal_code": "040111",
+      "country_code": "EC",
+      "latitude": 0.8017,
+      "longitude": -77.8546,
+      "admin_name1": "Carchi"
+    },
+    {
+      "place_name": "Cebadas",
+      "postal_code": "060402",
+      "country_code": "EC",
+      "latitude": -1.9113,
+      "longitude": -78.6433,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Guaitacama (Guaytacama)",
+      "postal_code": "050111",
+      "country_code": "EC",
+      "latitude": -0.8887,
+      "longitude": -78.7066,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Chugchillan",
+      "postal_code": "050503",
+      "country_code": "EC",
+      "latitude": -0.7827,
+      "longitude": -78.8551,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Moromoro (Cab. En El Vado)",
+      "postal_code": "070403",
+      "country_code": "EC",
+      "latitude": -3.6688,
+      "longitude": -79.7642,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Jambeli",
+      "postal_code": "070605",
+      "country_code": "EC",
+      "latitude": -3.2411,
+      "longitude": -80.0483,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Guayaquil-Pascuales",
+      "postal_code": "090702",
+      "country_code": "EC",
+      "latitude": -2.0713,
+      "longitude": -79.933,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Limonal-Laurel",
+      "postal_code": "091903",
+      "country_code": "EC",
+      "latitude": -1.8093,
+      "longitude": -79.9705,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "La Merced De Buenos Aires",
+      "postal_code": "100120",
+      "country_code": "EC",
+      "latitude": 0.6211,
+      "longitude": -78.3147,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Chantaco-Taquil (Miguel Riofrio)-Chiquiribamaba",
+      "postal_code": "110117",
+      "country_code": "EC",
+      "latitude": -4.1885,
+      "longitude": -79.2364,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Larama",
+      "postal_code": "110702",
+      "country_code": "EC",
+      "latitude": -4.2658,
+      "longitude": -79.906,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Saraguro",
+      "postal_code": "110801",
+      "country_code": "EC",
+      "latitude": -3.6255,
+      "longitude": -79.239,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Chaquinal-12 De Diciembre (Cab En Achiotes)",
+      "postal_code": "110404",
+      "country_code": "EC",
+      "latitude": -4.0599,
+      "longitude": -80.0877,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Antonio Sotomayor (Cab. Playas De Vince",
+      "postal_code": "120506",
+      "country_code": "EC",
+      "latitude": -1.5194,
+      "longitude": -79.7424,
+      "admin_name1": "Los Ríos"
+    },
+    {
+      "place_name": "Puerto De Cayo",
+      "postal_code": "130307",
+      "country_code": "EC",
+      "latitude": -1.262,
+      "longitude": -80.553,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Lascano",
+      "postal_code": "130905",
+      "country_code": "EC",
+      "latitude": -1.5309,
+      "longitude": -80.2298,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Tosagua",
+      "postal_code": "131203",
+      "country_code": "EC",
+      "latitude": -0.7868,
+      "longitude": -80.2347,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Amazonas (Rosario De Cuyes)-Nueva Tarqui- El Ideal",
+      "postal_code": "140405",
+      "country_code": "EC",
+      "latitude": -3.4219,
+      "longitude": -78.7525,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Puyo",
+      "postal_code": "160102",
+      "country_code": "EC",
+      "latitude": -1.4837,
+      "longitude": -78.0026,
+      "admin_name1": "Pastaza"
+    },
+    {
+      "place_name": "Cotocollao",
+      "postal_code": "170306",
+      "country_code": "EC",
+      "latitude": -0.1229,
+      "longitude": -78.5037,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Puellaro",
+      "postal_code": "170316",
+      "country_code": "EC",
+      "latitude": 0.0683,
+      "longitude": -78.3979,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "San Miguel De Los Bancos-Mindo",
+      "postal_code": "171202",
+      "country_code": "EC",
+      "latitude": -0.0384,
+      "longitude": -78.893,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Quisapincha (Quizapincha)",
+      "postal_code": "180111",
+      "country_code": "EC",
+      "latitude": -1.1503,
+      "longitude": -78.5886,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Salasaca-Benitez (Pachanlica)-El Rosario (Rumichaca)",
+      "postal_code": "180404",
+      "country_code": "EC",
+      "latitude": -1.2713,
+      "longitude": -78.4253,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Zumba",
+      "postal_code": "190302",
+      "country_code": "EC",
+      "latitude": -4.8633,
+      "longitude": -79.1311,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "Puerto Bolivar (Puerto Montufar)-Puerto El Carmen Del Putumayo",
+      "postal_code": "210301",
+      "country_code": "EC",
+      "latitude": 0.011,
+      "longitude": -75.8839,
+      "admin_name1": "Sucumbíos"
+    },
+    {
+      "place_name": "Unión Milagreña-Pompeya",
+      "postal_code": "220103",
+      "country_code": "EC",
+      "latitude": -0.2796,
+      "longitude": -76.9807,
+      "admin_name1": "Orellana"
+    },
+    {
+      "place_name": "Manglaralto",
+      "postal_code": "240111",
+      "country_code": "EC",
+      "latitude": -1.8494,
+      "longitude": -80.745,
+      "admin_name1": "Santa Elena"
+    },
+    {
+      "place_name": "El Pan-San Vicente",
+      "postal_code": "010605",
+      "country_code": "EC",
+      "latitude": -2.8577,
+      "longitude": -78.6547,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Cañar",
+      "postal_code": "030201",
+      "country_code": "EC",
+      "latitude": -2.5606,
+      "longitude": -78.9394,
+      "admin_name1": "Cañar"
+    },
+    {
+      "place_name": "Manuel J. Calle-Pancho Negro",
+      "postal_code": "030304",
+      "country_code": "EC",
+      "latitude": -2.4544,
+      "longitude": -79.4163,
+      "admin_name1": "Cañar"
+    },
+    {
+      "place_name": "Belisario Quevedo (Guanailin)",
+      "postal_code": "050114",
+      "country_code": "EC",
+      "latitude": -0.7149,
+      "longitude": -78.7575,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Mulalillo-Pansaleo-Antonio Jose Holguin (Santa Lucia)",
+      "postal_code": "050603",
+      "country_code": "EC",
+      "latitude": -1.0206,
+      "longitude": -78.4651,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Tendales (Cab. En Puerto Tendales)-Barbones (Sucre)",
+      "postal_code": "070116",
+      "country_code": "EC",
+      "latitude": -3.1428,
+      "longitude": -79.8196,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Guayaquil-Floresta",
+      "postal_code": "090102",
+      "country_code": "EC",
+      "latitude": -2.258,
+      "longitude": -79.8901,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Guasmo",
+      "postal_code": "090106",
+      "country_code": "EC",
+      "latitude": -2.2429,
+      "longitude": -79.893,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Antepara",
+      "postal_code": "090304",
+      "country_code": "EC",
+      "latitude": -2.2169,
+      "longitude": -79.9015,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Bastion Popular N2",
+      "postal_code": "090704",
+      "country_code": "EC",
+      "latitude": -2.0933,
+      "longitude": -79.9173,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Lomas De Sargentillo",
+      "postal_code": "091405",
+      "country_code": "EC",
+      "latitude": -1.8833,
+      "longitude": -80.0833,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Jimbura-Bellavista",
+      "postal_code": "110502",
+      "country_code": "EC",
+      "latitude": -4.596,
+      "longitude": -79.4518,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Gonzanama",
+      "postal_code": "110607",
+      "country_code": "EC",
+      "latitude": -4.2308,
+      "longitude": -79.4354,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Cojimies",
+      "postal_code": "131003",
+      "country_code": "EC",
+      "latitude": 0.3678,
+      "longitude": -80.0354,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Dureno-Pacayacu",
+      "postal_code": "210207",
+      "country_code": "EC",
+      "latitude": 0.0885,
+      "longitude": -76.538,
+      "admin_name1": "Sucumbíos"
+    },
+    {
+      "place_name": "Cotundo",
+      "postal_code": "150107",
+      "country_code": "EC",
+      "latitude": -0.8418,
+      "longitude": -77.7938,
+      "admin_name1": "Napo"
+    },
+    {
+      "place_name": "Santa Maria De Huiririma-Cap. Augusto Rivadeneyra",
+      "postal_code": "220302",
+      "country_code": "EC",
+      "latitude": -0.5961,
+      "longitude": -75.7475,
+      "admin_name1": "Orellana"
+    },
+    {
+      "place_name": "Cuenca_San Sebastian",
+      "postal_code": "010208",
+      "country_code": "EC",
+      "latitude": -2.8921,
+      "longitude": -79.0161,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Azogues",
+      "postal_code": "030102",
+      "country_code": "EC",
+      "latitude": -2.7397,
+      "longitude": -78.8486,
+      "admin_name1": "Cañar"
+    },
+    {
+      "place_name": "Guasuntos-Pumallacta-Sevilla",
+      "postal_code": "060203",
+      "country_code": "EC",
+      "latitude": -2.257,
+      "longitude": -78.799,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Pinllopata",
+      "postal_code": "050302",
+      "country_code": "EC",
+      "latitude": -1.1435,
+      "longitude": -79.027,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Zumbahua",
+      "postal_code": "050408",
+      "country_code": "EC",
+      "latitude": -0.7828,
+      "longitude": -78.7219,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "San Juan De Cerro Azul",
+      "postal_code": "070308",
+      "country_code": "EC",
+      "latitude": -3.7657,
+      "longitude": -79.4949,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Bellamaria",
+      "postal_code": "070607",
+      "country_code": "EC",
+      "latitude": -3.5176,
+      "longitude": -79.8569,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Guizhaguiña-Salvias-Sinsao",
+      "postal_code": "070303",
+      "country_code": "EC",
+      "latitude": -3.6305,
+      "longitude": -79.5038,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Bolivar-Daule",
+      "postal_code": "080308",
+      "country_code": "EC",
+      "latitude": 0.4167,
+      "longitude": -79.9827,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Guayaquil-Batallon Del Suburbio",
+      "postal_code": "090406",
+      "country_code": "EC",
+      "latitude": -2.2126,
+      "longitude": -79.9401,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-San Francisco",
+      "postal_code": "090707",
+      "country_code": "EC",
+      "latitude": -2.0435,
+      "longitude": -79.9588,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "La Victoria (Ñauza)",
+      "postal_code": "092005",
+      "country_code": "EC",
+      "latitude": -1.8869,
+      "longitude": -79.7259,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Pablo Arenas-Cahuasqui",
+      "postal_code": "100115",
+      "country_code": "EC",
+      "latitude": 0.4299,
+      "longitude": -78.2189,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Zambi-Guayquichuma",
+      "postal_code": "110205",
+      "country_code": "EC",
+      "latitude": -3.9278,
+      "longitude": -79.4447,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Macara",
+      "postal_code": "110701",
+      "country_code": "EC",
+      "latitude": -4.3818,
+      "longitude": -79.9437,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "San Fco. De Novillo (Cab En Novillo)",
+      "postal_code": "130717",
+      "country_code": "EC",
+      "latitude": -0.0544,
+      "longitude": -79.7464,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "San Lorenzo-Santa Marianita (Boca De Pacoche)",
+      "postal_code": "130227",
+      "country_code": "EC",
+      "latitude": -0.9758,
+      "longitude": -80.8074,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Nanegal",
+      "postal_code": "170103",
+      "country_code": "EC",
+      "latitude": 0.1403,
+      "longitude": -78.6757,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Pelileo",
+      "postal_code": "180401",
+      "country_code": "EC",
+      "latitude": -1.3299,
+      "longitude": -78.5434,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "San Fco. Del Vergel-La Canela",
+      "postal_code": "190303",
+      "country_code": "EC",
+      "latitude": -4.8716,
+      "longitude": -79.0081,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "Jadan",
+      "postal_code": "010407",
+      "country_code": "EC",
+      "latitude": -2.8667,
+      "longitude": -78.85,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "San Sebastian-San Jose De Chimbo",
+      "postal_code": "020302",
+      "country_code": "EC",
+      "latitude": -1.6729,
+      "longitude": -79.0326,
+      "admin_name1": "Bolívar"
+    },
+    {
+      "place_name": "San Andres-San Isidro De Patulu",
+      "postal_code": "060504",
+      "country_code": "EC",
+      "latitude": -1.5258,
+      "longitude": -78.7256,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Pujili",
+      "postal_code": "050404",
+      "country_code": "EC",
+      "latitude": -0.9576,
+      "longitude": -78.6964,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "El Paraiso-San Isidro",
+      "postal_code": "070509",
+      "country_code": "EC",
+      "latitude": -3.7838,
+      "longitude": -80.0142,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Santo Domingo De Onzole-San Francisco De Onzole-Anchayacu",
+      "postal_code": "080204",
+      "country_code": "EC",
+      "latitude": 0.7654,
+      "longitude": -79.141,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Mataje (Cab En Santander)-San Lorenzo-Ancon (Pichangal) (Cab. En Palma Real)",
+      "postal_code": "080501",
+      "country_code": "EC",
+      "latitude": 1.2728,
+      "longitude": -78.7229,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Guayaquil-Atarazana",
+      "postal_code": "090504",
+      "country_code": "EC",
+      "latitude": -2.1288,
+      "longitude": -79.8859,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Pedro Carbo",
+      "postal_code": "091401",
+      "country_code": "EC",
+      "latitude": -1.8156,
+      "longitude": -80.2331,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Junquillal",
+      "postal_code": "092002",
+      "country_code": "EC",
+      "latitude": -1.7148,
+      "longitude": -79.8648,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "El Salitre (Las Ramas)",
+      "postal_code": "092004",
+      "country_code": "EC",
+      "latitude": -1.7287,
+      "longitude": -79.8594,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Pataqui",
+      "postal_code": "100216",
+      "country_code": "EC",
+      "latitude": 0.1769,
+      "longitude": -78.3647,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Barraganete",
+      "postal_code": "130805",
+      "country_code": "EC",
+      "latitude": -0.7744,
+      "longitude": -79.7043,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Yaupi",
+      "postal_code": "140304",
+      "country_code": "EC",
+      "latitude": -2.8544,
+      "longitude": -77.936,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Belisario Quevedo",
+      "postal_code": "170516",
+      "country_code": "EC",
+      "latitude": -0.1899,
+      "longitude": -78.5073,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Chilibulo",
+      "postal_code": "170613",
+      "country_code": "EC",
+      "latitude": -0.2423,
+      "longitude": -78.5396,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Alangasi",
+      "postal_code": "170808",
+      "country_code": "EC",
+      "latitude": -0.297,
+      "longitude": -78.424,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Puembo",
+      "postal_code": "170905",
+      "country_code": "EC",
+      "latitude": -0.1667,
+      "longitude": -78.3694,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Cevallos",
+      "postal_code": "180601",
+      "country_code": "EC",
+      "latitude": -1.3551,
+      "longitude": -78.6167,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Cotalo-Guambalo (Huambalo)-Bolivar",
+      "postal_code": "180407",
+      "country_code": "EC",
+      "latitude": -1.3299,
+      "longitude": -78.5434,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Puerto Rodriguez",
+      "postal_code": "210302",
+      "country_code": "EC",
+      "latitude": -0.1112,
+      "longitude": -75.405,
+      "admin_name1": "Sucumbíos"
+    },
+    {
+      "place_name": "Chanduy",
+      "postal_code": "240105",
+      "country_code": "EC",
+      "latitude": -2.4018,
+      "longitude": -80.6796,
+      "admin_name1": "Santa Elena"
+    },
+    {
+      "place_name": "Puerto Limon",
+      "postal_code": "230210",
+      "country_code": "EC",
+      "latitude": -0.2363,
+      "longitude": -79.3587,
+      "admin_name1": "Santo Domingo de los Tsáchilas"
+    },
+    {
+      "place_name": "Cuenca_Bellavista",
+      "postal_code": "010110",
+      "country_code": "EC",
+      "latitude": -2.8639,
+      "longitude": -78.8902,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Molleturo",
+      "postal_code": "010220",
+      "country_code": "EC",
+      "latitude": -2.767,
+      "longitude": -79.397,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Giron-San Gerardo-Asuncion",
+      "postal_code": "010303",
+      "country_code": "EC",
+      "latitude": -3.1795,
+      "longitude": -79.1593,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "San Rafael De Sharug",
+      "postal_code": "010304",
+      "country_code": "EC",
+      "latitude": -3.1616,
+      "longitude": -79.4834,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Maldonado-Tobar Donoso (La Bocana De Camunbi)-El Chical",
+      "postal_code": "040113",
+      "country_code": "EC",
+      "latitude": 0.8017,
+      "longitude": -77.8546,
+      "admin_name1": "Carchi"
+    },
+    {
+      "place_name": "Guano-La Providencia-Guanando-Sangerardo De Pacaicaguan",
+      "postal_code": "060501",
+      "country_code": "EC",
+      "latitude": -1.5937,
+      "longitude": -78.6036,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Ramon Campaña",
+      "postal_code": "050303",
+      "country_code": "EC",
+      "latitude": -1.1125,
+      "longitude": -79.0892,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Pilalo",
+      "postal_code": "050410",
+      "country_code": "EC",
+      "latitude": -0.9462,
+      "longitude": -78.9935,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Sigchos",
+      "postal_code": "050501",
+      "country_code": "EC",
+      "latitude": -0.7022,
+      "longitude": -78.8865,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "La Bocana-Saracay-Piedras",
+      "postal_code": "070405",
+      "country_code": "EC",
+      "latitude": -3.6702,
+      "longitude": -79.8687,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Tachina-Camarones (Cab. En San Vicente)",
+      "postal_code": "080114",
+      "country_code": "EC",
+      "latitude": 0.9517,
+      "longitude": -79.5383,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Guayaquil-7 Lagos",
+      "postal_code": "090103",
+      "country_code": "EC",
+      "latitude": -2.2569,
+      "longitude": -79.8759,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Samanes",
+      "postal_code": "090607",
+      "country_code": "EC",
+      "latitude": -2.1216,
+      "longitude": -79.9098,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Atuntaqui",
+      "postal_code": "100210",
+      "country_code": "EC",
+      "latitude": 0.3325,
+      "longitude": -78.2137,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "San Lucas-Santiago",
+      "postal_code": "110118",
+      "country_code": "EC",
+      "latitude": -3.7969,
+      "longitude": -79.4138,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Orianga",
+      "postal_code": "110305",
+      "country_code": "EC",
+      "latitude": -3.8987,
+      "longitude": -79.8693,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "La Union-America",
+      "postal_code": "130310",
+      "country_code": "EC",
+      "latitude": -1.4117,
+      "longitude": -80.4642,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Cascol",
+      "postal_code": "130904",
+      "country_code": "EC",
+      "latitude": -1.6667,
+      "longitude": -80.4667,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Bermejos-Chiguinda-El Rosario",
+      "postal_code": "140406",
+      "country_code": "EC",
+      "latitude": -3.2236,
+      "longitude": -78.7087,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "San Miguel De Cuyes",
+      "postal_code": "140407",
+      "country_code": "EC",
+      "latitude": -3.3333,
+      "longitude": -78.8,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "San Miguel De Conchay-Indanza",
+      "postal_code": "140606",
+      "country_code": "EC",
+      "latitude": -3.0931,
+      "longitude": -78.4533,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Huambi",
+      "postal_code": "140302",
+      "country_code": "EC",
+      "latitude": -2.5368,
+      "longitude": -78.163,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Huasaga (Cab En Wampuik)-Tuutinentza-Pumpuentsa",
+      "postal_code": "140503",
+      "country_code": "EC",
+      "latitude": -2.607,
+      "longitude": -77.256,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Pablo Sexto",
+      "postal_code": "140203",
+      "country_code": "EC",
+      "latitude": -1.8,
+      "longitude": -78.25,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Canelos-Veracruz (Cab. En Indillama)-Pomona-Simon Bolivar (Cab En Mushullama",
+      "postal_code": "160103",
+      "country_code": "EC",
+      "latitude": -1.767,
+      "longitude": -77.7233,
+      "admin_name1": "Pastaza"
+    },
+    {
+      "place_name": "Rio Corrientes",
+      "postal_code": "160112",
+      "country_code": "EC",
+      "latitude": -2.3667,
+      "longitude": -76.4167,
+      "admin_name1": "Pastaza"
+    },
+    {
+      "place_name": "Cangahua",
+      "postal_code": "171005",
+      "country_code": "EC",
+      "latitude": 0.1143,
+      "longitude": -78.1478,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Picaigua-Totoras",
+      "postal_code": "180209",
+      "country_code": "EC",
+      "latitude": -1.2702,
+      "longitude": -78.5942,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "San Jose De Payamino",
+      "postal_code": "220208",
+      "country_code": "EC",
+      "latitude": -0.9767,
+      "longitude": -76.824,
+      "admin_name1": "Orellana"
+    },
+    {
+      "place_name": "Cuenca_Cañaribamba",
+      "postal_code": "010105",
+      "country_code": "EC",
+      "latitude": -2.881,
+      "longitude": -79.0117,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Camilo Ponce Enriquez",
+      "postal_code": "010703",
+      "country_code": "EC",
+      "latitude": -3.062,
+      "longitude": -79.7458,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "La Troncal",
+      "postal_code": "030302",
+      "country_code": "EC",
+      "latitude": -2.4236,
+      "longitude": -79.3398,
+      "admin_name1": "Cañar"
+    },
+    {
+      "place_name": "Tufiño",
+      "postal_code": "040112",
+      "country_code": "EC",
+      "latitude": 0.8017,
+      "longitude": -77.8546,
+      "admin_name1": "Carchi"
+    },
+    {
+      "place_name": "Palmales",
+      "postal_code": "070508",
+      "country_code": "EC",
+      "latitude": -3.6667,
+      "longitude": -80.1014,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Luis V. Torres (Cab. En Playa De Oro)-Selva Alegre-Colon Eloy Del Maria-Maldonado-Timbire",
+      "postal_code": "080202",
+      "country_code": "EC",
+      "latitude": 0.6674,
+      "longitude": -78.7483,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Tonsupa",
+      "postal_code": "080306",
+      "country_code": "EC",
+      "latitude": 0.8801,
+      "longitude": -79.7727,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Guayaquil- Trinitaria 2",
+      "postal_code": "090206",
+      "country_code": "EC",
+      "latitude": -2.2556,
+      "longitude": -79.9219,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "San Pablo De Tenta-El Paraiso De Celen",
+      "postal_code": "110803",
+      "country_code": "EC",
+      "latitude": -3.5687,
+      "longitude": -79.1885,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "San Jacinto De Buena Fe",
+      "postal_code": "120601",
+      "country_code": "EC",
+      "latitude": -0.8932,
+      "longitude": -79.4891,
+      "admin_name1": "Los Ríos"
+    },
+    {
+      "place_name": "San Pedro De Suma",
+      "postal_code": "130507",
+      "country_code": "EC",
+      "latitude": -0.2158,
+      "longitude": -79.5396,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "San Antonio (Cab En San Antonio Centro)-Gral. Leonidas Plaza Gutierrez",
+      "postal_code": "140605",
+      "country_code": "EC",
+      "latitude": -3.0884,
+      "longitude": -78.3225,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Palora (Metzera)-Cumanda (Cab En Colonia Agricola Sevilla-16 De Agosto",
+      "postal_code": "140201",
+      "country_code": "EC",
+      "latitude": -1.6211,
+      "longitude": -78.1432,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Fatima-Teniente Hugo Ortiz",
+      "postal_code": "160106",
+      "country_code": "EC",
+      "latitude": -1.3861,
+      "longitude": -77.957,
+      "admin_name1": "Pastaza"
+    },
+    {
+      "place_name": "Guayllabamba",
+      "postal_code": "170210",
+      "country_code": "EC",
+      "latitude": -0.0579,
+      "longitude": -78.3411,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Centro Historico",
+      "postal_code": "170405",
+      "country_code": "EC",
+      "latitude": -0.2227,
+      "longitude": -78.5129,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "La Argelia",
+      "postal_code": "170605",
+      "country_code": "EC",
+      "latitude": -0.2758,
+      "longitude": -78.5261,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Tababela",
+      "postal_code": "170907",
+      "country_code": "EC",
+      "latitude": -0.1863,
+      "longitude": -78.3441,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Chiquicha (Cab En Chiquicha Grande)-Garcia Moreno (Chumaqui)",
+      "postal_code": "180405",
+      "country_code": "EC",
+      "latitude": -1.4184,
+      "longitude": -78.519,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Tisaleo-Quinchicoto",
+      "postal_code": "180605",
+      "country_code": "EC",
+      "latitude": -1.3851,
+      "longitude": -78.6581,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Puerto Napo-Puerto Misahualli",
+      "postal_code": "150104",
+      "country_code": "EC",
+      "latitude": -1.0135,
+      "longitude": -77.6906,
+      "admin_name1": "Napo"
+    },
+    {
+      "place_name": "Carlos Julio Arosemena Tola",
+      "postal_code": "150105",
+      "country_code": "EC",
+      "latitude": -1.1661,
+      "longitude": -77.8553,
+      "admin_name1": "Napo"
+    },
+    {
+      "place_name": "San Jose De Ancon-Atahualpa",
+      "postal_code": "240106",
+      "country_code": "EC",
+      "latitude": -2.0038,
+      "longitude": -80.4962,
+      "admin_name1": "Santa Elena"
+    },
+    {
+      "place_name": "Anconcito",
+      "postal_code": "240208",
+      "country_code": "EC",
+      "latitude": -2.3257,
+      "longitude": -80.8899,
+      "admin_name1": "Santa Elena"
+    },
+    {
+      "place_name": "San Fernando-Chumblin",
+      "postal_code": "010302",
+      "country_code": "EC",
+      "latitude": -3.1275,
+      "longitude": -79.2424,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Columbe",
+      "postal_code": "060405",
+      "country_code": "EC",
+      "latitude": -1.8871,
+      "longitude": -78.7236,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Guangaje",
+      "postal_code": "050406",
+      "country_code": "EC",
+      "latitude": -0.861,
+      "longitude": -78.8458,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Mulliquindil (Santa Ana)",
+      "postal_code": "050601",
+      "country_code": "EC",
+      "latitude": -1.0425,
+      "longitude": -78.5958,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Guayaquil-Mapasingue",
+      "postal_code": "090604",
+      "country_code": "EC",
+      "latitude": -2.15,
+      "longitude": -79.9,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Orquideas",
+      "postal_code": "090706",
+      "country_code": "EC",
+      "latitude": -2.1026,
+      "longitude": -79.9416,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Chobo",
+      "postal_code": "091713",
+      "country_code": "EC",
+      "latitude": -2.1396,
+      "longitude": -79.6334,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Taura",
+      "postal_code": "091205",
+      "country_code": "EC",
+      "latitude": -2.352,
+      "longitude": -79.6702,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Isidro Ayora",
+      "postal_code": "091404",
+      "country_code": "EC",
+      "latitude": -1.8808,
+      "longitude": -80.1449,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Chaguarpamba-El Rosario",
+      "postal_code": "110208",
+      "country_code": "EC",
+      "latitude": -3.7861,
+      "longitude": -79.6106,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Sacapalca-Changaimina (La Libertad)",
+      "postal_code": "110606",
+      "country_code": "EC",
+      "latitude": -4.3714,
+      "longitude": -79.5462,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Cangonama-Yamana-Sanantonio",
+      "postal_code": "110302",
+      "country_code": "EC",
+      "latitude": -3.9749,
+      "longitude": -79.692,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Selva Alegre-Lluzhapa",
+      "postal_code": "110804",
+      "country_code": "EC",
+      "latitude": -3.517,
+      "longitude": -79.3342,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Febres Cordero (Las Juntas) (Cab.",
+      "postal_code": "120116",
+      "country_code": "EC",
+      "latitude": -1.7622,
+      "longitude": -79.6949,
+      "admin_name1": "Los Ríos"
+    },
+    {
+      "place_name": "Calceta",
+      "postal_code": "130602",
+      "country_code": "EC",
+      "latitude": -0.8458,
+      "longitude": -80.1639,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "El Anegado (Cab En Eloy Alfaro)-Julcuy",
+      "postal_code": "130311",
+      "country_code": "EC",
+      "latitude": -1.469,
+      "longitude": -80.7382,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Pedro Pablo Gomez",
+      "postal_code": "130313",
+      "country_code": "EC",
+      "latitude": -1.6262,
+      "longitude": -80.5599,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "10 De Agosto",
+      "postal_code": "131007",
+      "country_code": "EC",
+      "latitude": -0.1342,
+      "longitude": -80.0504,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Macuma",
+      "postal_code": "140502",
+      "country_code": "EC",
+      "latitude": -2.1678,
+      "longitude": -77.6578,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Curaray",
+      "postal_code": "160202",
+      "country_code": "EC",
+      "latitude": -1.3538,
+      "longitude": -76.6927,
+      "admin_name1": "Pastaza"
+    },
+    {
+      "place_name": "Rumipamba",
+      "postal_code": "170506",
+      "country_code": "EC",
+      "latitude": -0.179,
+      "longitude": -78.505,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Zambiza",
+      "postal_code": "170510",
+      "country_code": "EC",
+      "latitude": -0.1489,
+      "longitude": -78.4403,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Pifo",
+      "postal_code": "170906",
+      "country_code": "EC",
+      "latitude": -0.2283,
+      "longitude": -78.3432,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Malchingui-Tocachi-La Esperanza",
+      "postal_code": "171011",
+      "country_code": "EC",
+      "latitude": 0.0718,
+      "longitude": -77.9832,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Pinguili-Mocha",
+      "postal_code": "180604",
+      "country_code": "EC",
+      "latitude": -1.3833,
+      "longitude": -78.6167,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Santa Elena-Palma Roja",
+      "postal_code": "210305",
+      "country_code": "EC",
+      "latitude": -0.1195,
+      "longitude": -76.1795,
+      "admin_name1": "Sucumbíos"
+    },
+    {
+      "place_name": "Dayuma-Taracoa (Cab. En Nueva Esperanza: Yuca)-El Dorado",
+      "postal_code": "220205",
+      "country_code": "EC",
+      "latitude": -0.4123,
+      "longitude": -77.158,
+      "admin_name1": "Orellana"
+    },
+    {
+      "place_name": "Puerto Ayora",
+      "postal_code": "200102",
+      "country_code": "EC",
+      "latitude": -0.7402,
+      "longitude": -90.3138,
+      "admin_name1": "Galápagos"
+    },
+    {
+      "place_name": "Luis Cordero",
+      "postal_code": "030103",
+      "country_code": "EC",
+      "latitude": -2.7408,
+      "longitude": -78.8205,
+      "admin_name1": "Cañar"
+    },
+    {
+      "place_name": "Cojitambo-Javier Loyola (Chuquipata)",
+      "postal_code": "030105",
+      "country_code": "EC",
+      "latitude": -2.7881,
+      "longitude": -78.8876,
+      "admin_name1": "Cañar"
+    },
+    {
+      "place_name": "Tixan",
+      "postal_code": "060207",
+      "country_code": "EC",
+      "latitude": -2.1518,
+      "longitude": -78.8026,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Guayaquil-Union De Bananeros",
+      "postal_code": "090101",
+      "country_code": "EC",
+      "latitude": -2.267,
+      "longitude": -79.8807,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Colimes",
+      "postal_code": "091305",
+      "country_code": "EC",
+      "latitude": -1.5455,
+      "longitude": -80.0116,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Angochagua-La Esperanza",
+      "postal_code": "100119",
+      "country_code": "EC",
+      "latitude": 0.4937,
+      "longitude": -78.1387,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Malacatos (Valladolid)",
+      "postal_code": "110116",
+      "country_code": "EC",
+      "latitude": -3.8663,
+      "longitude": -79.1758,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "San Antonio De Qumbe (Cumbe)-El Tablon-Urdaneta (Paquishapa)",
+      "postal_code": "110802",
+      "country_code": "EC",
+      "latitude": -3.6159,
+      "longitude": -79.3164,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Arapicos-Sangay (Cab En Nayamanaca)",
+      "postal_code": "140204",
+      "country_code": "EC",
+      "latitude": -1.8585,
+      "longitude": -78.2758,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Santiago De Pananza-San Carlos De Limon",
+      "postal_code": "140403",
+      "country_code": "EC",
+      "latitude": -3.2979,
+      "longitude": -78.3152,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Taisha",
+      "postal_code": "140501",
+      "country_code": "EC",
+      "latitude": -2.3396,
+      "longitude": -77.4603,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Puerto Quito",
+      "postal_code": "171203",
+      "country_code": "EC",
+      "latitude": 0.1278,
+      "longitude": -79.2126,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Imbana (La Victoria De Imbana)",
+      "postal_code": "190106",
+      "country_code": "EC",
+      "latitude": -3.8167,
+      "longitude": -79.1167,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "Ahuano",
+      "postal_code": "150108",
+      "country_code": "EC",
+      "latitude": -1.0595,
+      "longitude": -77.5462,
+      "admin_name1": "Napo"
+    },
+    {
+      "place_name": "El Eden-Alejandro Labaka",
+      "postal_code": "220209",
+      "country_code": "EC",
+      "latitude": -0.6605,
+      "longitude": -77.2977,
+      "admin_name1": "Orellana"
+    },
+    {
+      "place_name": "Cuenca_Sucre",
+      "postal_code": "010202",
+      "country_code": "EC",
+      "latitude": -2.8999,
+      "longitude": -79.0222,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "San Jose Del Tambo (Tambopamba)",
+      "postal_code": "020202",
+      "country_code": "EC",
+      "latitude": -1.9559,
+      "longitude": -79.236,
+      "admin_name1": "Bolívar"
+    },
+    {
+      "place_name": "San Isidro-La Libertad (Alizo)-El Angel",
+      "postal_code": "040301",
+      "country_code": "EC",
+      "latitude": 0.6685,
+      "longitude": -77.9699,
+      "admin_name1": "Carchi"
+    },
+    {
+      "place_name": "Tenguel",
+      "postal_code": "090510",
+      "country_code": "EC",
+      "latitude": -2.1793,
+      "longitude": -79.8956,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Mariscal Sucre (Huaques)",
+      "postal_code": "091715",
+      "country_code": "EC",
+      "latitude": -2.0823,
+      "longitude": -79.5079,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Roberto Astudillo (Cab En Cruce De Venci",
+      "postal_code": "091716",
+      "country_code": "EC",
+      "latitude": -2.1694,
+      "longitude": -79.5101,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Crnel. Lorenzo De Garaicoa (Pedregal)",
+      "postal_code": "091102",
+      "country_code": "EC",
+      "latitude": -2.065,
+      "longitude": -79.3718,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Celica",
+      "postal_code": "110401",
+      "country_code": "EC",
+      "latitude": -4.1027,
+      "longitude": -79.9566,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Canuto",
+      "postal_code": "130714",
+      "country_code": "EC",
+      "latitude": -0.7996,
+      "longitude": -80.1282,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Charapoto",
+      "postal_code": "131106",
+      "country_code": "EC",
+      "latitude": -0.8378,
+      "longitude": -80.4867,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Arq. Sixto Duran Ballen",
+      "postal_code": "130413",
+      "country_code": "EC",
+      "latitude": -1.4767,
+      "longitude": -80.3126,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Jaramijo",
+      "postal_code": "130221",
+      "country_code": "EC",
+      "latitude": -0.9489,
+      "longitude": -80.6381,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Sarayacu",
+      "postal_code": "160109",
+      "country_code": "EC",
+      "latitude": -1.8041,
+      "longitude": -77.4333,
+      "admin_name1": "Pastaza"
+    },
+    {
+      "place_name": "San Jose-Santa Clara",
+      "postal_code": "160107",
+      "country_code": "EC",
+      "latitude": -1.2733,
+      "longitude": -77.8625,
+      "admin_name1": "Pastaza"
+    },
+    {
+      "place_name": "Pacto",
+      "postal_code": "170101",
+      "country_code": "EC",
+      "latitude": 0.1453,
+      "longitude": -78.7656,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Gualea",
+      "postal_code": "170102",
+      "country_code": "EC",
+      "latitude": 0.1168,
+      "longitude": -78.7476,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Rio Verde-Rio Negro",
+      "postal_code": "180302",
+      "country_code": "EC",
+      "latitude": -1.3218,
+      "longitude": -78.2451,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Nuevo Paraiso-San Jose De Guayusa",
+      "postal_code": "220202",
+      "country_code": "EC",
+      "latitude": -0.4437,
+      "longitude": -76.962,
+      "admin_name1": "Orellana"
+    },
+    {
+      "place_name": "Garcia Moreno-La Belleza",
+      "postal_code": "220206",
+      "country_code": "EC",
+      "latitude": -0.2454,
+      "longitude": -77.1512,
+      "admin_name1": "Orellana"
+    },
+    {
+      "place_name": "Paccha-Nulti",
+      "postal_code": "010115",
+      "country_code": "EC",
+      "latitude": -2.7932,
+      "longitude": -78.9698,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Honorato Vasquez (Tambo Viejo)-Ingapirca",
+      "postal_code": "030203",
+      "country_code": "EC",
+      "latitude": -2.539,
+      "longitude": -78.833,
+      "admin_name1": "Cañar"
+    },
+    {
+      "place_name": "Gualleturo-San Antonio-Chorocopte",
+      "postal_code": "030205",
+      "country_code": "EC",
+      "latitude": -2.59,
+      "longitude": -79.1658,
+      "admin_name1": "Cañar"
+    },
+    {
+      "place_name": "San Juan-Calpi",
+      "postal_code": "060118",
+      "country_code": "EC",
+      "latitude": -1.5774,
+      "longitude": -78.8144,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Cube",
+      "postal_code": "080407",
+      "country_code": "EC",
+      "latitude": 0.5736,
+      "longitude": -79.6442,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Montalvo (Cab En Horqueta)-Lagarto-Rocafuerte",
+      "postal_code": "080602",
+      "country_code": "EC",
+      "latitude": 0.9362,
+      "longitude": -79.281,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Guayaquil-Garay",
+      "postal_code": "090302",
+      "country_code": "EC",
+      "latitude": -2.1965,
+      "longitude": -79.9038,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil- Victoria",
+      "postal_code": "090305",
+      "country_code": "EC",
+      "latitude": -2.2153,
+      "longitude": -79.9119,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Florida",
+      "postal_code": "090605",
+      "country_code": "EC",
+      "latitude": -2.128,
+      "longitude": -79.9403,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Puerto Hondo",
+      "postal_code": "090901",
+      "country_code": "EC",
+      "latitude": -2.1951,
+      "longitude": -80.0237,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "San Jacinto De Yaguachi",
+      "postal_code": "092101",
+      "country_code": "EC",
+      "latitude": -2.0994,
+      "longitude": -79.7487,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Ambuqui",
+      "postal_code": "100117",
+      "country_code": "EC",
+      "latitude": 0.4303,
+      "longitude": -78.0099,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Nambacola-Purunuma (Eguiguren)",
+      "postal_code": "110609",
+      "country_code": "EC",
+      "latitude": -4.4682,
+      "longitude": -79.5321,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Sozoranga-Nueva Fatima",
+      "postal_code": "110703",
+      "country_code": "EC",
+      "latitude": -4.2476,
+      "longitude": -79.7939,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "San Isidro-General Proaño",
+      "postal_code": "140102",
+      "country_code": "EC",
+      "latitude": -2.2063,
+      "longitude": -78.1457,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Bomboiza",
+      "postal_code": "140404",
+      "country_code": "EC",
+      "latitude": -3.4333,
+      "longitude": -78.5167,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Cutuglahua",
+      "postal_code": "171111",
+      "country_code": "EC",
+      "latitude": -0.569,
+      "longitude": -78.5563,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Tutupali",
+      "postal_code": "190109",
+      "country_code": "EC",
+      "latitude": -3.5297,
+      "longitude": -78.9507,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "Tundayme",
+      "postal_code": "190402",
+      "country_code": "EC",
+      "latitude": -3.5764,
+      "longitude": -78.4903,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "Santa Rosa De Sucumbios-Sevilla-El Dorado De Cascales",
+      "postal_code": "210103",
+      "country_code": "EC",
+      "latitude": 0.1453,
+      "longitude": -77.2328,
+      "admin_name1": "Sucumbíos"
+    },
+    {
+      "place_name": "Cuyuja-Papallacta",
+      "postal_code": "150205",
+      "country_code": "EC",
+      "latitude": -0.3949,
+      "longitude": -78.1113,
+      "admin_name1": "Napo"
+    },
+    {
+      "place_name": "Cuenca_Totorocoha",
+      "postal_code": "010103",
+      "country_code": "EC",
+      "latitude": -2.8905,
+      "longitude": -78.9818,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Zhidmad",
+      "postal_code": "010406",
+      "country_code": "EC",
+      "latitude": -2.9291,
+      "longitude": -78.8987,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Ludo-San Jose De Raranga",
+      "postal_code": "010802",
+      "country_code": "EC",
+      "latitude": -3.1121,
+      "longitude": -78.9056,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Pindilig-Rivera-Taday",
+      "postal_code": "030112",
+      "country_code": "EC",
+      "latitude": -2.5686,
+      "longitude": -78.6942,
+      "admin_name1": "Cañar"
+    },
+    {
+      "place_name": "Chantilin-Saquisili",
+      "postal_code": "050403",
+      "country_code": "EC",
+      "latitude": -0.8528,
+      "longitude": -78.6442,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Torata-La Avanzada-Bellavista-San Antonio",
+      "postal_code": "070604",
+      "country_code": "EC",
+      "latitude": -3.5564,
+      "longitude": -79.9269,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "La Tola-Pampanal De Bolivar-Valdez (Limones)",
+      "postal_code": "080201",
+      "country_code": "EC",
+      "latitude": 1.1701,
+      "longitude": -79.035,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Guayaquil-Malvinas 2",
+      "postal_code": "090202",
+      "country_code": "EC",
+      "latitude": -2.2265,
+      "longitude": -79.9054,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Puente Lucia",
+      "postal_code": "090708",
+      "country_code": "EC",
+      "latitude": -1.995,
+      "longitude": -79.9856,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Balao",
+      "postal_code": "091207",
+      "country_code": "EC",
+      "latitude": -2.8982,
+      "longitude": -79.6677,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Amarillos-Santa Rufina-Buenavista",
+      "postal_code": "110209",
+      "country_code": "EC",
+      "latitude": -3.8822,
+      "longitude": -79.732,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Chirijos-Alhajuela (Bajo Grande)",
+      "postal_code": "130120",
+      "country_code": "EC",
+      "latitude": -1.0249,
+      "longitude": -80.2067,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Gualaquiza",
+      "postal_code": "140401",
+      "country_code": "EC",
+      "latitude": -3.4036,
+      "longitude": -78.5817,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Santiago De Mendez-Copal-Chupianza-San Luis De El Acho (Cab En El Acho)",
+      "postal_code": "140601",
+      "country_code": "EC",
+      "latitude": -2.7198,
+      "longitude": -78.4419,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Carcelen",
+      "postal_code": "170302",
+      "country_code": "EC",
+      "latitude": -0.0869,
+      "longitude": -78.4707,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "La Ferroviaria",
+      "postal_code": "170604",
+      "country_code": "EC",
+      "latitude": -0.2632,
+      "longitude": -78.5156,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Cumbaya",
+      "postal_code": "170904",
+      "country_code": "EC",
+      "latitude": -0.2007,
+      "longitude": -78.4313,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Manuel Cornejo Astorga (Tandapi)",
+      "postal_code": "171116",
+      "country_code": "EC",
+      "latitude": -0.489,
+      "longitude": -78.5758,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Pilaguin (Pilahuin)-Juan Benigno Vela",
+      "postal_code": "180212",
+      "country_code": "EC",
+      "latitude": -1.3025,
+      "longitude": -78.676,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Talag-Pano",
+      "postal_code": "150106",
+      "country_code": "EC",
+      "latitude": -0.989,
+      "longitude": -78.1668,
+      "admin_name1": "Napo"
+    },
+    {
+      "place_name": "Cononaco",
+      "postal_code": "220303",
+      "country_code": "EC",
+      "latitude": -1.0533,
+      "longitude": -76.0717,
+      "admin_name1": "Orellana"
+    },
+    {
+      "place_name": "Jose Luis Tamayo (Muey)",
+      "postal_code": "240207",
+      "country_code": "EC",
+      "latitude": -2.2304,
+      "longitude": -80.9286,
+      "admin_name1": "Santa Elena"
+    },
+    {
+      "place_name": "Puerto Villamil",
+      "postal_code": "200103",
+      "country_code": "EC",
+      "latitude": -0.9554,
+      "longitude": -90.9665,
+      "admin_name1": "Galápagos"
+    },
+    {
+      "place_name": "Cuenca_Huayna Capac",
+      "postal_code": "010204",
+      "country_code": "EC",
+      "latitude": -2.9156,
+      "longitude": -78.9987,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Jima (Gima)",
+      "postal_code": "010801",
+      "country_code": "EC",
+      "latitude": -3.1886,
+      "longitude": -78.9584,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Santafe (Santa Fe)-Julio E. Moreno (Catanahuan Grande)-San Simon (Yacoto)-Sanlorenzo",
+      "postal_code": "020105",
+      "country_code": "EC",
+      "latitude": -1.5115,
+      "longitude": -79.1109,
+      "admin_name1": "Bolívar"
+    },
+    {
+      "place_name": "Echeandia",
+      "postal_code": "020401",
+      "country_code": "EC",
+      "latitude": -1.4311,
+      "longitude": -79.2805,
+      "admin_name1": "Bolívar"
+    },
+    {
+      "place_name": "Turupamba-San Francisco De Sageo-Biblian",
+      "postal_code": "030106",
+      "country_code": "EC",
+      "latitude": -2.6726,
+      "longitude": -78.9068,
+      "admin_name1": "Cañar"
+    },
+    {
+      "place_name": "Suscal",
+      "postal_code": "030206",
+      "country_code": "EC",
+      "latitude": -2.4372,
+      "longitude": -79.0517,
+      "admin_name1": "Cañar"
+    },
+    {
+      "place_name": "Ilapo-San Jose De Chazo-Valparaiso-Santa Fe De Galan",
+      "postal_code": "060502",
+      "country_code": "EC",
+      "latitude": -1.531,
+      "longitude": -78.5794,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Uzhcurrumi",
+      "postal_code": "070112",
+      "country_code": "EC",
+      "latitude": -3.352,
+      "longitude": -79.5977,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Malimpia",
+      "postal_code": "080404",
+      "country_code": "EC",
+      "latitude": 0.4148,
+      "longitude": -79.4294,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Viche-Chura (Chancama) (Cab. En El Yerbero)",
+      "postal_code": "080408",
+      "country_code": "EC",
+      "latitude": 0.4882,
+      "longitude": -79.6726,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Guayaquil-Nuevo Guayaquil",
+      "postal_code": "090801",
+      "country_code": "EC",
+      "latitude": -2.1079,
+      "longitude": -79.9746,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Vilcabamba (Victoria)-San Pedro De Vilcabamba",
+      "postal_code": "110120",
+      "country_code": "EC",
+      "latitude": -4.2667,
+      "longitude": -79.25,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Cariamanga",
+      "postal_code": "110605",
+      "country_code": "EC",
+      "latitude": -4.328,
+      "longitude": -79.5555,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Chibunga",
+      "postal_code": "130719",
+      "country_code": "EC",
+      "latitude": -0.2454,
+      "longitude": -79.7199,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Bahia De Caraquez",
+      "postal_code": "131101",
+      "country_code": "EC",
+      "latitude": -0.5979,
+      "longitude": -80.4237,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Izamba",
+      "postal_code": "180109",
+      "country_code": "EC",
+      "latitude": -1.2277,
+      "longitude": -78.5854,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Cunchibamba-Unamuncho",
+      "postal_code": "180112",
+      "country_code": "EC",
+      "latitude": -1.15,
+      "longitude": -78.5833,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Zumbi",
+      "postal_code": "190204",
+      "country_code": "EC",
+      "latitude": -3.894,
+      "longitude": -78.7804,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "Nuevo Quito",
+      "postal_code": "190202",
+      "country_code": "EC",
+      "latitude": -4.0375,
+      "longitude": -78.6366,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "San Roque (Cab En San Vicente)-Limoncocha",
+      "postal_code": "210403",
+      "country_code": "EC",
+      "latitude": -0.1667,
+      "longitude": -76.7915,
+      "admin_name1": "Sucumbíos"
+    },
+    {
+      "place_name": "Loreto-Avila (Cab En Huiruno)-Puerto Murialdo",
+      "postal_code": "220207",
+      "country_code": "EC",
+      "latitude": -0.5886,
+      "longitude": -76.3578,
+      "admin_name1": "Orellana"
+    },
+    {
+      "place_name": "San Martin De Puzhio-Luis Galarza Orellana (Cab. En Delegsol)-Principal-Chordeleg-La Union",
+      "postal_code": "010404",
+      "country_code": "EC",
+      "latitude": -2.9867,
+      "longitude": -78.734,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Huaca-Mariscal Sucre",
+      "postal_code": "040110",
+      "country_code": "EC",
+      "latitude": 0.98,
+      "longitude": -78.3064,
+      "admin_name1": "Carchi"
+    },
+    {
+      "place_name": "Pucayacu-Guasaganda (Cab. En Guasaganda Centro)",
+      "postal_code": "050203",
+      "country_code": "EC",
+      "latitude": -0.7887,
+      "longitude": -79.103,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Casacay",
+      "postal_code": "070108",
+      "country_code": "EC",
+      "latitude": -3.3222,
+      "longitude": -79.7233,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "San Jose De Cayapas-Telembi-Borbon-Atahualpa (Cab. En Camarones)",
+      "postal_code": "080203",
+      "country_code": "EC",
+      "latitude": 0.6929,
+      "longitude": -78.9235,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Posorja",
+      "postal_code": "091001",
+      "country_code": "EC",
+      "latitude": -2.7101,
+      "longitude": -80.2456,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Santa Rosa De Flandes-Jesus Maria",
+      "postal_code": "091202",
+      "country_code": "EC",
+      "latitude": -2.6078,
+      "longitude": -79.6142,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Gral. Pedro J. Montero (Boliche)",
+      "postal_code": "092104",
+      "country_code": "EC",
+      "latitude": -2.2629,
+      "longitude": -79.5915,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Crnel. Marcelino Maridueña (San Carlos)",
+      "postal_code": "091804",
+      "country_code": "EC",
+      "latitude": -2.239,
+      "longitude": -79.3813,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "San Juan De Iluman-Doctor Miguel Egas Cabezas (Peguche)",
+      "postal_code": "100208",
+      "country_code": "EC",
+      "latitude": 0.2484,
+      "longitude": -78.3506,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Santa Teresita-Amaluza",
+      "postal_code": "110501",
+      "country_code": "EC",
+      "latitude": -4.5716,
+      "longitude": -79.3859,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "El Airo-27 De Abril (Cab En La Naranja)-El Ingenio",
+      "postal_code": "110503",
+      "country_code": "EC",
+      "latitude": -4.4526,
+      "longitude": -79.3973,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Cazaderos (Cab En Mangaurco)",
+      "postal_code": "110906",
+      "country_code": "EC",
+      "latitude": -4.0756,
+      "longitude": -80.3982,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "La Tingue",
+      "postal_code": "110206",
+      "country_code": "EC",
+      "latitude": -3.9085,
+      "longitude": -79.5755,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Chillogallo",
+      "postal_code": "170714",
+      "country_code": "EC",
+      "latitude": -0.2754,
+      "longitude": -78.5558,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Paquisha-Bellavista",
+      "postal_code": "190205",
+      "country_code": "EC",
+      "latitude": -3.9134,
+      "longitude": -78.5873,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "Cosanga-San Francisco De Borja (Virgilio Davila)-Baeza-Sumaco",
+      "postal_code": "150204",
+      "country_code": "EC",
+      "latitude": -0.518,
+      "longitude": -77.8846,
+      "admin_name1": "Napo"
+    },
+    {
+      "place_name": "Rumipamba-Enokanqui (Cab. En El Paraiso)-Lago San Pedro-Tres De Noviembre",
+      "postal_code": "220102",
+      "country_code": "EC",
+      "latitude": -0.3999,
+      "longitude": -76.7388,
+      "admin_name1": "Orellana"
+    },
+    {
+      "place_name": "Isla Pinzon",
+      "postal_code": "200106",
+      "country_code": "EC",
+      "latitude": -0.4848,
+      "longitude": -90.4482,
+      "admin_name1": "Galápagos"
+    },
+    {
+      "place_name": "Cuenca_El Vecino",
+      "postal_code": "010101",
+      "country_code": "EC",
+      "latitude": -2.8965,
+      "longitude": -79.0029,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Guarainag-Tomebamba-Dug Dug-Bulan (Jose Victor Izquierdo)",
+      "postal_code": "010602",
+      "country_code": "EC",
+      "latitude": -2.7086,
+      "longitude": -78.7068,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Susudel-San Felipe De Oña",
+      "postal_code": "010501",
+      "country_code": "EC",
+      "latitude": -3.4892,
+      "longitude": -79.1306,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Telimbela",
+      "postal_code": "020306",
+      "country_code": "EC",
+      "latitude": -1.6658,
+      "longitude": -79.1709,
+      "admin_name1": "Bolívar"
+    },
+    {
+      "place_name": "Toacaso",
+      "postal_code": "050115",
+      "country_code": "EC",
+      "latitude": -0.7538,
+      "longitude": -78.6851,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Abañin-Guanazan",
+      "postal_code": "070306",
+      "country_code": "EC",
+      "latitude": -3.4195,
+      "longitude": -79.5061,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Guayaquil-Venezuela",
+      "postal_code": "090301",
+      "country_code": "EC",
+      "latitude": -2.2082,
+      "longitude": -79.9039,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "San Jose De Quichinche",
+      "postal_code": "100214",
+      "country_code": "EC",
+      "latitude": 0.2391,
+      "longitude": -78.289,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "La Victoria-Sabiango (La Capilla)",
+      "postal_code": "110705",
+      "country_code": "EC",
+      "latitude": -4.4165,
+      "longitude": -79.8084,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "El Limo (Mariana De Jesus)",
+      "postal_code": "110405",
+      "country_code": "EC",
+      "latitude": -3.9967,
+      "longitude": -80.1914,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Isla De Bejucal",
+      "postal_code": "120119",
+      "country_code": "EC",
+      "latitude": -1.6772,
+      "longitude": -79.6448,
+      "admin_name1": "Los Ríos"
+    },
+    {
+      "place_name": "San Placido",
+      "postal_code": "130121",
+      "country_code": "EC",
+      "latitude": -1.0616,
+      "longitude": -80.245,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Noboa",
+      "postal_code": "130414",
+      "country_code": "EC",
+      "latitude": -1.4103,
+      "longitude": -80.3932,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "San Jose De Poalo-Presidente Urbina (Chagrapamba-San Andres",
+      "postal_code": "180502",
+      "country_code": "EC",
+      "latitude": -1.0814,
+      "longitude": -78.4436,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "El Chorro-La Chonta-Pucupamba",
+      "postal_code": "190301",
+      "country_code": "EC",
+      "latitude": -4.8512,
+      "longitude": -79.1825,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "Yantzaza (Yanzatza)-Chicaña",
+      "postal_code": "190404",
+      "country_code": "EC",
+      "latitude": -3.7101,
+      "longitude": -78.7684,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "La Joya De Los Sachas",
+      "postal_code": "220101",
+      "country_code": "EC",
+      "latitude": -0.2989,
+      "longitude": -76.8558,
+      "admin_name1": "Orellana"
+    },
+    {
+      "place_name": "Sinincay",
+      "postal_code": "010111",
+      "country_code": "EC",
+      "latitude": -2.8515,
+      "longitude": -79.0142,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Ricaurte-Llacao",
+      "postal_code": "010120",
+      "country_code": "EC",
+      "latitude": -2.8729,
+      "longitude": -79.0459,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "El Goaltal",
+      "postal_code": "040304",
+      "country_code": "EC",
+      "latitude": 0.8046,
+      "longitude": -78.1586,
+      "admin_name1": "Carchi"
+    },
+    {
+      "place_name": "Concepcion-Jijon Y Caamaño (Cab. En Rio Blanco)",
+      "postal_code": "040303",
+      "country_code": "EC",
+      "latitude": 0.6573,
+      "longitude": -78.1114,
+      "admin_name1": "Carchi"
+    },
+    {
+      "place_name": "Licto-Pungala",
+      "postal_code": "060120",
+      "country_code": "EC",
+      "latitude": -1.8255,
+      "longitude": -78.6551,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Pallatanga",
+      "postal_code": "060302",
+      "country_code": "EC",
+      "latitude": -1.9992,
+      "longitude": -78.966,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Carcabon-Chacras",
+      "postal_code": "070505",
+      "country_code": "EC",
+      "latitude": -3.57,
+      "longitude": -80.1637,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Zaruma",
+      "postal_code": "070301",
+      "country_code": "EC",
+      "latitude": -3.6913,
+      "longitude": -79.6117,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Chontaduro-Chumunde-Rioverde",
+      "postal_code": "080601",
+      "country_code": "EC",
+      "latitude": 0.7778,
+      "longitude": -79.3945,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Gral. Antonio Elizalde (Bucay)",
+      "postal_code": "091604",
+      "country_code": "EC",
+      "latitude": -2.3509,
+      "longitude": -79.3754,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Ciano-El Arenal-Vicentino-Mercadillo",
+      "postal_code": "110407",
+      "country_code": "EC",
+      "latitude": -3.9557,
+      "longitude": -79.9611,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Paletillas",
+      "postal_code": "110904",
+      "country_code": "EC",
+      "latitude": -4.3303,
+      "longitude": -80.3178,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Eloy Alfaro",
+      "postal_code": "130711",
+      "country_code": "EC",
+      "latitude": -0.401,
+      "longitude": -80.0806,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Sucua-Asuncion-Santa Marianita De Jesus",
+      "postal_code": "140301",
+      "country_code": "EC",
+      "latitude": -2.4689,
+      "longitude": -78.2305,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Huamboya-Chiguaza-",
+      "postal_code": "140202",
+      "country_code": "EC",
+      "latitude": -1.8006,
+      "longitude": -78.0363,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Atahualpa (Habaspamba)-Chavezpamba-Perucho",
+      "postal_code": "170319",
+      "country_code": "EC",
+      "latitude": -0.0172,
+      "longitude": -78.4703,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Lloa",
+      "postal_code": "170614",
+      "country_code": "EC",
+      "latitude": -0.2499,
+      "longitude": -78.5838,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Constatino Fernandez (Cab En Cullit)-Augusto N. Martinez (Mundugleo)-Atahualpa (Chisalata)",
+      "postal_code": "180108",
+      "country_code": "EC",
+      "latitude": -1.2163,
+      "longitude": -78.6557,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Puerto Libre-Gonzalo Pizarro-Lumbaqui-El Reventador",
+      "postal_code": "210101",
+      "country_code": "EC",
+      "latitude": 0.082,
+      "longitude": -77.5876,
+      "admin_name1": "Sucumbíos"
+    },
+    {
+      "place_name": "Santa Barbara-La Bonita-La Sofia-Rosa Florida-El Playon De San Francisco",
+      "postal_code": "210102",
+      "country_code": "EC",
+      "latitude": 0.4023,
+      "longitude": -77.6243,
+      "admin_name1": "Sucumbíos"
+    },
+    {
+      "place_name": "Archidona-San Pablo De Ushpayacu",
+      "postal_code": "150103",
+      "country_code": "EC",
+      "latitude": -0.7198,
+      "longitude": -77.8203,
+      "admin_name1": "Napo"
+    },
+    {
+      "place_name": "San Luis De Armenia",
+      "postal_code": "220204",
+      "country_code": "EC",
+      "latitude": -0.538,
+      "longitude": -77.0808,
+      "admin_name1": "Orellana"
+    },
+    {
+      "place_name": "Nuevo Rocafuerte-Tiputini-Yasuni",
+      "postal_code": "220301",
+      "country_code": "EC",
+      "latitude": -0.9012,
+      "longitude": -75.5449,
+      "admin_name1": "Orellana"
+    },
+    {
+      "place_name": "Chinca-Majua-San Mateo",
+      "postal_code": "080121",
+      "country_code": "EC",
+      "latitude": 0.772,
+      "longitude": -79.566,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Carondelet-Calderon-Tululbi  (Cab En Ricaurte)-Santa Rita",
+      "postal_code": "080502",
+      "country_code": "EC",
+      "latitude": 1.1223,
+      "longitude": -78.6601,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Guayaquil-Bastion Popular 1",
+      "postal_code": "090701",
+      "country_code": "EC",
+      "latitude": -2.083,
+      "longitude": -79.9275,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Catarama",
+      "postal_code": "120202",
+      "country_code": "EC",
+      "latitude": -1.575,
+      "longitude": -79.46,
+      "admin_name1": "Los Ríos"
+    },
+    {
+      "place_name": "Wilfrido Loor Moreira (Maicito)",
+      "postal_code": "130506",
+      "country_code": "EC",
+      "latitude": -0.3306,
+      "longitude": -79.6473,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Tayuza-San Francisco De Chinimbimi-Patuca",
+      "postal_code": "140602",
+      "country_code": "EC",
+      "latitude": -2.7713,
+      "longitude": -78.2188,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "San Isidro Del Inca",
+      "postal_code": "170509",
+      "country_code": "EC",
+      "latitude": -0.1804,
+      "longitude": -78.499,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Tabacundo-Tupigachi",
+      "postal_code": "171006",
+      "country_code": "EC",
+      "latitude": 0.0489,
+      "longitude": -78.0691,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Simon Bolivar (Julio Moreno)",
+      "postal_code": "240108",
+      "country_code": "EC",
+      "latitude": -2.1847,
+      "longitude": -80.3592,
+      "admin_name1": "Santa Elena"
+    },
+    {
+      "place_name": "Manga Del Cura",
+      "postal_code": "900003",
+      "country_code": "EC",
+      "latitude": -0.5947,
+      "longitude": -79.553,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Cuenca_El Batan",
+      "postal_code": "010207",
+      "country_code": "EC",
+      "latitude": -2.8929,
+      "longitude": -79.0435,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Amaluza-Palamas",
+      "postal_code": "010603",
+      "country_code": "EC",
+      "latitude": -2.6477,
+      "longitude": -78.5471,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "San Pablo (San Pablo De Atenas)",
+      "postal_code": "020304",
+      "country_code": "EC",
+      "latitude": -1.8183,
+      "longitude": -79.0674,
+      "admin_name1": "Bolívar"
+    },
+    {
+      "place_name": "Puela-El Altar-San Antonio De Bayushig-La Candelaria-Bilbao (Cab. En Quilluyacu) Panipe-Matus",
+      "postal_code": "060503",
+      "country_code": "EC",
+      "latitude": -1.5664,
+      "longitude": -78.45,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Cusubamba",
+      "postal_code": "050604",
+      "country_code": "EC",
+      "latitude": -1.0667,
+      "longitude": -78.7,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Isinlivi",
+      "postal_code": "050502",
+      "country_code": "EC",
+      "latitude": -0.7555,
+      "longitude": -78.8681,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "La Iberia",
+      "postal_code": "070114",
+      "country_code": "EC",
+      "latitude": -3.2437,
+      "longitude": -79.8761,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Guayaquil-Malvinas 1",
+      "postal_code": "090203",
+      "country_code": "EC",
+      "latitude": -2.2344,
+      "longitude": -79.9051,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil- Chile",
+      "postal_code": "090303",
+      "country_code": "EC",
+      "latitude": -2.1974,
+      "longitude": -79.8955,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Progreso-Guayaquil - Area De Expansión",
+      "postal_code": "091003",
+      "country_code": "EC",
+      "latitude": -2.3194,
+      "longitude": -80.1651,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Yaguachi Viejo (Cone)",
+      "postal_code": "092103",
+      "country_code": "EC",
+      "latitude": -2.1885,
+      "longitude": -79.6709,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Patricia Pilar",
+      "postal_code": "120609",
+      "country_code": "EC",
+      "latitude": -0.5731,
+      "longitude": -79.3717,
+      "admin_name1": "Los Ríos"
+    },
+    {
+      "place_name": "Quinsaloma",
+      "postal_code": "120407",
+      "country_code": "EC",
+      "latitude": -1.2218,
+      "longitude": -79.3349,
+      "admin_name1": "Los Ríos"
+    },
+    {
+      "place_name": "Zapallo",
+      "postal_code": "130712",
+      "country_code": "EC",
+      "latitude": -0.45,
+      "longitude": -80.0,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Calacali",
+      "postal_code": "170312",
+      "country_code": "EC",
+      "latitude": 0.0004,
+      "longitude": -78.516,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "El Quinche",
+      "postal_code": "170911",
+      "country_code": "EC",
+      "latitude": -0.1174,
+      "longitude": -78.2666,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Olmedo (Pecillo)",
+      "postal_code": "171008",
+      "country_code": "EC",
+      "latitude": -0.0907,
+      "longitude": -78.1464,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Pasa-San Fernando (Pasa San Fernando)",
+      "postal_code": "180110",
+      "country_code": "EC",
+      "latitude": -1.2662,
+      "longitude": -78.7458,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Montalvo-Huachi Grande",
+      "postal_code": "180210",
+      "country_code": "EC",
+      "latitude": -1.2798,
+      "longitude": -78.6185,
+      "admin_name1": "Tungurahua"
+    },
+    {
+      "place_name": "Zurmi",
+      "postal_code": "190203",
+      "country_code": "EC",
+      "latitude": -4.2509,
+      "longitude": -78.7457,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "San Pedro De Los Cofanes-Siete De Julio",
+      "postal_code": "210404",
+      "country_code": "EC",
+      "latitude": -0.4163,
+      "longitude": -76.0575,
+      "admin_name1": "Sucumbíos"
+    },
+    {
+      "place_name": "Pañacocha",
+      "postal_code": "210405",
+      "country_code": "EC",
+      "latitude": -0.1852,
+      "longitude": -76.6452,
+      "admin_name1": "Sucumbíos"
+    },
+    {
+      "place_name": "Cuyabeno",
+      "postal_code": "210303",
+      "country_code": "EC",
+      "latitude": -0.2591,
+      "longitude": -75.894,
+      "admin_name1": "Sucumbíos"
+    },
+    {
+      "place_name": "Caluma",
+      "postal_code": "020403",
+      "country_code": "EC",
+      "latitude": -1.6082,
+      "longitude": -79.219,
+      "admin_name1": "Bolívar"
+    },
+    {
+      "place_name": "Cristobal Colon-Fernandez Salvador-Piartal-Chitan De Navarrete",
+      "postal_code": "040207",
+      "country_code": "EC",
+      "latitude": 0.6271,
+      "longitude": -77.8569,
+      "admin_name1": "Carchi"
+    },
+    {
+      "place_name": "Chambo",
+      "postal_code": "060119",
+      "country_code": "EC",
+      "latitude": -1.7305,
+      "longitude": -78.596,
+      "admin_name1": "Chimborazo"
+    },
+    {
+      "place_name": "Salati",
+      "postal_code": "070309",
+      "country_code": "EC",
+      "latitude": -3.7534,
+      "longitude": -79.5344,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Guayaquil-Cristo Del Consuelo",
+      "postal_code": "090306",
+      "country_code": "EC",
+      "latitude": -2.1846,
+      "longitude": -79.8819,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Suburbio",
+      "postal_code": "090405",
+      "country_code": "EC",
+      "latitude": -2.2254,
+      "longitude": -79.938,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Juan Montalvo",
+      "postal_code": "090606",
+      "country_code": "EC",
+      "latitude": -2.1185,
+      "longitude": -79.921,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Guayaquil-Fortin",
+      "postal_code": "090803",
+      "country_code": "EC",
+      "latitude": -2.1125,
+      "longitude": -79.9571,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Los Lojas (Enrique Baquerizo Moreno)",
+      "postal_code": "091910",
+      "country_code": "EC",
+      "latitude": -2.0437,
+      "longitude": -79.8968,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Imantag",
+      "postal_code": "100302",
+      "country_code": "EC",
+      "latitude": 0.3599,
+      "longitude": -78.2451,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Lauro Guerrero-Cosanga",
+      "postal_code": "110303",
+      "country_code": "EC",
+      "latitude": -3.9683,
+      "longitude": -79.7765,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Nanegalito",
+      "postal_code": "170104",
+      "country_code": "EC",
+      "latitude": 0.0626,
+      "longitude": -78.6839,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Itchimbia",
+      "postal_code": "170403",
+      "country_code": "EC",
+      "latitude": -0.2221,
+      "longitude": -78.4992,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Shushufindi",
+      "postal_code": "210401",
+      "country_code": "EC",
+      "latitude": -0.1852,
+      "longitude": -76.6452,
+      "admin_name1": "Sucumbíos"
+    },
+    {
+      "place_name": "Santa Maria Del Toachi",
+      "postal_code": "230118",
+      "country_code": "EC",
+      "latitude": -0.6371,
+      "longitude": -79.2274,
+      "admin_name1": "Santo Domingo de los Tsáchilas"
+    },
+    {
+      "place_name": "Quingeo",
+      "postal_code": "010216",
+      "country_code": "EC",
+      "latitude": -3.0309,
+      "longitude": -78.9319,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Daniel Cordova Toral (El Oriente)-Remigio Crespo Toral (Gulag)-Luis Cordero Vega-Mariano Moreno",
+      "postal_code": "010403",
+      "country_code": "EC",
+      "latitude": -2.912,
+      "longitude": -78.7079,
+      "admin_name1": "Azuay"
+    },
+    {
+      "place_name": "Los Andes-Bolivar",
+      "postal_code": "040201",
+      "country_code": "EC",
+      "latitude": 0.4929,
+      "longitude": -77.8922,
+      "admin_name1": "Carchi"
+    },
+    {
+      "place_name": "Angamarca",
+      "postal_code": "050409",
+      "country_code": "EC",
+      "latitude": -1.1186,
+      "longitude": -78.932,
+      "admin_name1": "Cotopaxi"
+    },
+    {
+      "place_name": "Portovelo",
+      "postal_code": "070304",
+      "country_code": "EC",
+      "latitude": -3.7214,
+      "longitude": -79.6219,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Arcapamba-Malvas-Muluncay Grande-Huertas",
+      "postal_code": "070302",
+      "country_code": "EC",
+      "latitude": -3.611,
+      "longitude": -79.6118,
+      "admin_name1": "El Oro"
+    },
+    {
+      "place_name": "Galera-San Francisco-Quingue (Olmedo Perdomo Franco)",
+      "postal_code": "080302",
+      "country_code": "EC",
+      "latitude": 0.7146,
+      "longitude": -80.0182,
+      "admin_name1": "Esmeraldas"
+    },
+    {
+      "place_name": "Guayaquil- Trinitaria 1",
+      "postal_code": "090201",
+      "country_code": "EC",
+      "latitude": -2.2342,
+      "longitude": -79.9231,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Virgen De Fatima",
+      "postal_code": "092105",
+      "country_code": "EC",
+      "latitude": -2.2651,
+      "longitude": -79.6711,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Narcisa De Jesus",
+      "postal_code": "091905",
+      "country_code": "EC",
+      "latitude": -1.9167,
+      "longitude": -80.0167,
+      "admin_name1": "Guayas"
+    },
+    {
+      "place_name": "Imbaya (San Luis De Cobuendo)-San Jose De Chaltura-San Fco. De Natabuela",
+      "postal_code": "100212",
+      "country_code": "EC",
+      "latitude": 0.1884,
+      "longitude": -78.3574,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Garcia Moreno (Llurimagua)",
+      "postal_code": "100306",
+      "country_code": "EC",
+      "latitude": 0.2973,
+      "longitude": -78.7879,
+      "admin_name1": "Imbabura"
+    },
+    {
+      "place_name": "Utuana-Colaisaca",
+      "postal_code": "110604",
+      "country_code": "EC",
+      "latitude": -4.127,
+      "longitude": -79.4159,
+      "admin_name1": "Loja"
+    },
+    {
+      "place_name": "Honorato Vasquez (Cab En Vasquez)",
+      "postal_code": "130406",
+      "country_code": "EC",
+      "latitude": -1.2525,
+      "longitude": -80.3082,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Angel Pedro Giler (La Estancilla)-Bachillero",
+      "postal_code": "131205",
+      "country_code": "EC",
+      "latitude": -0.8,
+      "longitude": -80.2222,
+      "admin_name1": "Manabí"
+    },
+    {
+      "place_name": "Yunganza (Cab En El Rosario)-Sta Susana De Chiviaza (Cab En Chiviaza)",
+      "postal_code": "140603",
+      "country_code": "EC",
+      "latitude": -2.8959,
+      "longitude": -78.3835,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "San Jose De Morona-Santiago",
+      "postal_code": "140604",
+      "country_code": "EC",
+      "latitude": -2.9702,
+      "longitude": -77.9119,
+      "admin_name1": "Morona Santiago"
+    },
+    {
+      "place_name": "Nayon",
+      "postal_code": "170511",
+      "country_code": "EC",
+      "latitude": -0.1576,
+      "longitude": -78.4389,
+      "admin_name1": "Pichincha"
+    },
+    {
+      "place_name": "Palanda-Valladolid",
+      "postal_code": "190306",
+      "country_code": "EC",
+      "latitude": -4.559,
+      "longitude": -79.1877,
+      "admin_name1": "Zamora Chinchipe"
+    },
+    {
+      "place_name": "General Farfan",
+      "postal_code": "210206",
+      "country_code": "EC",
+      "latitude": 0.18,
+      "longitude": -76.7437,
+      "admin_name1": "Sucumbíos"
+    },
+    {
+      "place_name": "Gonzalo Diaz De Pineda(El Bombon)-Santa Rosa",
+      "postal_code": "150202",
+      "country_code": "EC",
+      "latitude": -0.2525,
+      "longitude": -77.549,
+      "admin_name1": "Napo"
+    },
+    {
+      "place_name": "Oyacachi",
+      "postal_code": "150206",
+      "country_code": "EC",
+      "latitude": -0.2148,
+      "longitude": -78.0715,
+      "admin_name1": "Napo"
+    },
+    {
+      "place_name": "San Carlos-San Sebastian Del Coca",
+      "postal_code": "220104",
+      "country_code": "EC",
+      "latitude": -0.183,
+      "longitude": -76.9143,
+      "admin_name1": "Orellana"
+    },
+    {
+      "place_name": "Luz De America",
+      "postal_code": "230120",
+      "country_code": "EC",
+      "latitude": -0.4012,
+      "longitude": -79.2988,
+      "admin_name1": "Santo Domingo de los Tsáchilas"
+    }
+  ]
+]

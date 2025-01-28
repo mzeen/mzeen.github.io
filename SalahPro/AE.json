@@ -1,0 +1,1812 @@
+[
+  [
+    {
+      "place_name": "Al Thanyah  Fourth",
+      "postal_code": "16801 74236",
+      "country_code": "AE",
+      "latitude": 25.0728,
+      "longitude": 55.1836,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Barsha First",
+      "postal_code": "16833 78055",
+      "country_code": "AE",
+      "latitude": 25.1072,
+      "longitude": 55.1835,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Barsha Third",
+      "postal_code": "16898 76959",
+      "country_code": "AE",
+      "latitude": 25.0974,
+      "longitude": 55.1842,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Safouh First",
+      "postal_code": "16905 80210",
+      "country_code": "AE",
+      "latitude": 25.1267,
+      "longitude": 55.1839,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Umm Suqeim Third",
+      "postal_code": "17470 81303",
+      "country_code": "AE",
+      "latitude": 25.1366,
+      "longitude": 55.1893,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Umm Suqeim Second",
+      "postal_code": "18256 82509",
+      "country_code": "AE",
+      "latitude": 25.1476,
+      "longitude": 55.197,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Umm Al Sheif",
+      "postal_code": "18277 80635",
+      "country_code": "AE",
+      "latitude": 25.1307,
+      "longitude": 55.1974,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Barsha Second",
+      "postal_code": "19885 78210",
+      "country_code": "AE",
+      "latitude": 25.109,
+      "longitude": 55.2137,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Manara",
+      "postal_code": "19892 82703",
+      "country_code": "AE",
+      "latitude": 25.1496,
+      "longitude": 55.2132,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Umm Suqeim First",
+      "postal_code": "19894 84236",
+      "country_code": "AE",
+      "latitude": 25.1634,
+      "longitude": 55.213,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qouze Ind.Third",
+      "postal_code": "19962 80043",
+      "country_code": "AE",
+      "latitude": 25.1256,
+      "longitude": 55.2142,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Safa Second",
+      "postal_code": "20268 83349",
+      "country_code": "AE",
+      "latitude": 25.1554,
+      "longitude": 55.2168,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jumeira Third",
+      "postal_code": "20438 85565",
+      "country_code": "AE",
+      "latitude": 25.1755,
+      "longitude": 55.2182,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qouze Ind.Fourth",
+      "postal_code": "20635 78895",
+      "country_code": "AE",
+      "latitude": 25.1153,
+      "longitude": 55.221,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qouze Ind.First",
+      "postal_code": "20864 81399",
+      "country_code": "AE",
+      "latitude": 25.1379,
+      "longitude": 55.223,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qouz Ind.Fourth",
+      "postal_code": "21131 78390",
+      "country_code": "AE",
+      "latitude": 25.1108,
+      "longitude": 55.226,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Safa First",
+      "postal_code": "21473 85000",
+      "country_code": "AE",
+      "latitude": 25.1705,
+      "longitude": 55.2286,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Khwaneej First",
+      "postal_code": "48294 92873",
+      "country_code": "AE",
+      "latitude": 25.2445,
+      "longitude": 55.4937,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Wadi Alamardi",
+      "postal_code": "48705 89337",
+      "country_code": "AE",
+      "latitude": 25.2126,
+      "longitude": 55.4982,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Khwaneej Second",
+      "postal_code": "49374 90243",
+      "country_code": "AE",
+      "latitude": 25.2209,
+      "longitude": 55.5047,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Aleyas",
+      "postal_code": "52835 89075",
+      "country_code": "AE",
+      "latitude": 25.2107,
+      "longitude": 55.5392,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Ttay",
+      "postal_code": "54297 91347",
+      "country_code": "AE",
+      "latitude": 25.2313,
+      "longitude": 55.5535,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nakhlat Jumeira",
+      "postal_code": "09486 78290",
+      "country_code": "AE",
+      "latitude": 25.1085,
+      "longitude": 55.1106,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Marsa Dubai",
+      "postal_code": "10519 74964",
+      "country_code": "AE",
+      "latitude": 25.0786,
+      "longitude": 55.1213,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Thanyah Fifth",
+      "postal_code": "12557 72607",
+      "country_code": "AE",
+      "latitude": 25.0575,
+      "longitude": 55.1418,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Safouh Second",
+      "postal_code": "13820 76117",
+      "country_code": "AE",
+      "latitude": 25.0894,
+      "longitude": 55.1538,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Thanyah Third",
+      "postal_code": "15352 76325",
+      "country_code": "AE",
+      "latitude": 25.0915,
+      "longitude": 55.169,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Thanyah First",
+      "postal_code": "15913 77504",
+      "country_code": "AE",
+      "latitude": 25.1022,
+      "longitude": 55.1744,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Mizhar Second",
+      "postal_code": "45210 94073",
+      "country_code": "AE",
+      "latitude": 25.255,
+      "longitude": 55.463,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Oud Al Muteena Second",
+      "postal_code": "45240 94509",
+      "country_code": "AE",
+      "latitude": 25.259,
+      "longitude": 55.4632,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qouz Third",
+      "postal_code": "21904 83567",
+      "country_code": "AE",
+      "latitude": 25.1576,
+      "longitude": 55.233,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qouze Ind.Second",
+      "postal_code": "22043 80574",
+      "country_code": "AE",
+      "latitude": 25.1306,
+      "longitude": 55.2348,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jumeira Second",
+      "postal_code": "22215 87687",
+      "country_code": "AE",
+      "latitude": 25.1948,
+      "longitude": 55.2356,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qouz Ind.Second",
+      "postal_code": "22678 80609",
+      "country_code": "AE",
+      "latitude": 25.131,
+      "longitude": 55.2411,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qouz First",
+      "postal_code": "22847 84724",
+      "country_code": "AE",
+      "latitude": 25.1682,
+      "longitude": 55.2422,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Muhaisanah Third",
+      "postal_code": "39032 96276",
+      "country_code": "AE",
+      "latitude": 25.2743,
+      "longitude": 55.4014,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qusais Ind. Fourth",
+      "postal_code": "39060 98602",
+      "country_code": "AE",
+      "latitude": 25.2953,
+      "longitude": 55.4014,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Twar Third",
+      "postal_code": "39072 93164",
+      "country_code": "AE",
+      "latitude": 25.2462,
+      "longitude": 55.4022,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qusais Third",
+      "postal_code": "39076 94872",
+      "country_code": "AE",
+      "latitude": 25.2616,
+      "longitude": 55.402,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qusais Ind. Fifth",
+      "postal_code": "39436 97793",
+      "country_code": "AE",
+      "latitude": 25.288,
+      "longitude": 55.4052,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mirdif",
+      "postal_code": "39482 90248",
+      "country_code": "AE",
+      "latitude": 25.2199,
+      "longitude": 55.4066,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Muhaisanah Fourth",
+      "postal_code": "39499 96768",
+      "country_code": "AE",
+      "latitude": 25.2788,
+      "longitude": 55.406,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Muhaisnah First",
+      "postal_code": "39638 93528",
+      "country_code": "AE",
+      "latitude": 25.2495,
+      "longitude": 55.4077,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Muhaisanah Second",
+      "postal_code": "40041 95100",
+      "country_code": "AE",
+      "latitude": 25.2638,
+      "longitude": 55.4116,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Mizhar First",
+      "postal_code": "41757 92548",
+      "country_code": "AE",
+      "latitude": 25.2409,
+      "longitude": 55.4289,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Ras",
+      "postal_code": "28180 95649",
+      "country_code": "AE",
+      "latitude": 25.2674,
+      "longitude": 55.2937,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Buteen",
+      "postal_code": "28579 95730",
+      "country_code": "AE",
+      "latitude": 25.2682,
+      "longitude": 55.2977,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Daghaya",
+      "postal_code": "28609 96070",
+      "country_code": "AE",
+      "latitude": 25.2712,
+      "longitude": 55.2979,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Corniche",
+      "postal_code": "28793 96455",
+      "country_code": "AE",
+      "latitude": 25.2747,
+      "longitude": 55.2997,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ayal Nasir",
+      "postal_code": "29083 96465",
+      "country_code": "AE",
+      "latitude": 25.2749,
+      "longitude": 55.3026,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Naif",
+      "postal_code": "29143 96089",
+      "country_code": "AE",
+      "latitude": 25.2715,
+      "longitude": 55.3032,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Murar",
+      "postal_code": "29378 96646",
+      "country_code": "AE",
+      "latitude": 25.2765,
+      "longitude": 55.3055,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Rigga",
+      "postal_code": "29677 95654",
+      "country_code": "AE",
+      "latitude": 25.2676,
+      "longitude": 55.3086,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Baraha",
+      "postal_code": "30104 97034",
+      "country_code": "AE",
+      "latitude": 25.2801,
+      "longitude": 55.3127,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Riggat Al Buteen",
+      "postal_code": "30355 94985",
+      "country_code": "AE",
+      "latitude": 25.2616,
+      "longitude": 55.3154,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Muraqqabat",
+      "postal_code": "30454 95419",
+      "country_code": "AE",
+      "latitude": 25.2656,
+      "longitude": 55.3163,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Muteena",
+      "postal_code": "30516 96496",
+      "country_code": "AE",
+      "latitude": 25.2753,
+      "longitude": 55.3168,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Abu Hail",
+      "postal_code": "31164 97906",
+      "country_code": "AE",
+      "latitude": 25.2881,
+      "longitude": 55.3231,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Port Saeed",
+      "postal_code": "31495 94523",
+      "country_code": "AE",
+      "latitude": 25.2576,
+      "longitude": 55.3268,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hor Al Anz",
+      "postal_code": "31817 96715",
+      "country_code": "AE",
+      "latitude": 25.2774,
+      "longitude": 55.3297,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Khabaisi",
+      "postal_code": "31952 95441",
+      "country_code": "AE",
+      "latitude": 25.2659,
+      "longitude": 55.3312,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Wuheida",
+      "postal_code": "32019 98323",
+      "country_code": "AE",
+      "latitude": 25.292,
+      "longitude": 55.3315,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Mamzar",
+      "postal_code": "32852 00192",
+      "country_code": "AE",
+      "latitude": 25.3089,
+      "longitude": 55.3396,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hor Al Anz East",
+      "postal_code": "33285 97881",
+      "country_code": "AE",
+      "latitude": 25.2881,
+      "longitude": 55.3441,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Garhoud",
+      "postal_code": "32748 93760",
+      "country_code": "AE",
+      "latitude": 25.2509,
+      "longitude": 55.3393,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dubai Int'L Airport",
+      "postal_code": "33059 94213",
+      "country_code": "AE",
+      "latitude": 25.255,
+      "longitude": 55.3423,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Umm Ramool",
+      "postal_code": "34384 91325",
+      "country_code": "AE",
+      "latitude": 25.2291,
+      "longitude": 55.3559,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Nahda First",
+      "postal_code": "34579 97102",
+      "country_code": "AE",
+      "latitude": 25.2812,
+      "longitude": 55.3571,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Twar First",
+      "postal_code": "34860 95845",
+      "country_code": "AE",
+      "latitude": 25.2699,
+      "longitude": 55.36,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qusais First",
+      "postal_code": "35076 96878",
+      "country_code": "AE",
+      "latitude": 25.2793,
+      "longitude": 55.362,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Nahda Second",
+      "postal_code": "36057 98064",
+      "country_code": "AE",
+      "latitude": 25.2901,
+      "longitude": 55.3716,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Twar Second",
+      "postal_code": "36441 95133",
+      "country_code": "AE",
+      "latitude": 25.2637,
+      "longitude": 55.3758,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Rashidiya",
+      "postal_code": "36540 90680",
+      "country_code": "AE",
+      "latitude": 25.2235,
+      "longitude": 55.3773,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qusais Ind. First",
+      "postal_code": "37104 97113",
+      "country_code": "AE",
+      "latitude": 25.2816,
+      "longitude": 55.3822,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qusais Second",
+      "postal_code": "37143 95834",
+      "country_code": "AE",
+      "latitude": 25.2701,
+      "longitude": 55.3827,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nadd Shamma",
+      "postal_code": "37287 89692",
+      "country_code": "AE",
+      "latitude": 25.2146,
+      "longitude": 55.3849,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qusais Ind. Third",
+      "postal_code": "37367 98943",
+      "country_code": "AE",
+      "latitude": 25.2982,
+      "longitude": 55.3846,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qusais Ind. Second",
+      "postal_code": "37631 96745",
+      "country_code": "AE",
+      "latitude": 25.2783,
+      "longitude": 55.3874,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Oud Al Muteena First",
+      "postal_code": "41972 94371",
+      "country_code": "AE",
+      "latitude": 25.2574,
+      "longitude": 55.4308,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Oud Al Muteena Third",
+      "postal_code": "43546 96111",
+      "country_code": "AE",
+      "latitude": 25.2733,
+      "longitude": 55.4462,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mushraif",
+      "postal_code": "45118 87625",
+      "country_code": "AE",
+      "latitude": 25.1968,
+      "longitude": 55.4628,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Umm Nahad Third",
+      "postal_code": "40538 71231",
+      "country_code": "AE",
+      "latitude": 25.0483,
+      "longitude": 55.4193,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Marmoom",
+      "postal_code": "41601 63662",
+      "country_code": "AE",
+      "latitude": 24.9801,
+      "longitude": 55.4307,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Lesaily",
+      "postal_code": "42357 53695",
+      "country_code": "AE",
+      "latitude": 24.8902,
+      "longitude": 55.4393,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Saih Shua'Alah",
+      "postal_code": "46849 26776",
+      "country_code": "AE",
+      "latitude": 24.6476,
+      "longitude": 55.4867,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grayteesah",
+      "postal_code": "49914 56245",
+      "country_code": "AE",
+      "latitude": 24.914,
+      "longitude": 55.5138,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Satwa",
+      "postal_code": "25847 90754",
+      "country_code": "AE",
+      "latitude": 25.2229,
+      "longitude": 55.2712,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jumeira First",
+      "postal_code": "25861 92433",
+      "country_code": "AE",
+      "latitude": 25.2381,
+      "longitude": 55.2711,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Bada'",
+      "postal_code": "25884 91226",
+      "country_code": "AE",
+      "latitude": 25.2272,
+      "longitude": 55.2715,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qouz Second",
+      "postal_code": "25943 83394",
+      "country_code": "AE",
+      "latitude": 25.1565,
+      "longitude": 55.2731,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Merkadh",
+      "postal_code": "25944 84726",
+      "country_code": "AE",
+      "latitude": 25.1685,
+      "longitude": 55.2729,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trade Center First",
+      "postal_code": "26071 89377",
+      "country_code": "AE",
+      "latitude": 25.2105,
+      "longitude": 55.2736,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Burj Khalifa",
+      "postal_code": "26074 87332",
+      "country_code": "AE",
+      "latitude": 25.1921,
+      "longitude": 55.2739,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Hudaiba",
+      "postal_code": "26335 92803",
+      "country_code": "AE",
+      "latitude": 25.2415,
+      "longitude": 55.2758,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Business Bay",
+      "postal_code": "26374 86530",
+      "country_code": "AE",
+      "latitude": 25.1849,
+      "longitude": 55.277,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Madinat Dubai Al Melaheyah",
+      "postal_code": "26536 93592",
+      "country_code": "AE",
+      "latitude": 25.2486,
+      "longitude": 55.2777,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zaa'Beel Second",
+      "postal_code": "26570 89567",
+      "country_code": "AE",
+      "latitude": 25.2123,
+      "longitude": 55.2785,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trade Center Second",
+      "postal_code": "26718 90063",
+      "country_code": "AE",
+      "latitude": 25.2168,
+      "longitude": 55.2799,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Jafiliya",
+      "postal_code": "26777 92131",
+      "country_code": "AE",
+      "latitude": 25.2355,
+      "longitude": 55.2803,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Raffa",
+      "postal_code": "27040 93971",
+      "country_code": "AE",
+      "latitude": 25.2521,
+      "longitude": 55.2826,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Souq Al Kabeer",
+      "postal_code": "27407 94963",
+      "country_code": "AE",
+      "latitude": 25.2611,
+      "longitude": 55.2862,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mankhool",
+      "postal_code": "27461 93378",
+      "country_code": "AE",
+      "latitude": 25.2468,
+      "longitude": 55.2869,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Kifaf",
+      "postal_code": "28181 91965",
+      "country_code": "AE",
+      "latitude": 25.2341,
+      "longitude": 55.2942,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zaa'Beel First",
+      "postal_code": "28438 91052",
+      "country_code": "AE",
+      "latitude": 25.2259,
+      "longitude": 55.2969,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Karama",
+      "postal_code": "28440 92683",
+      "country_code": "AE",
+      "latitude": 25.2407,
+      "longitude": 55.2967,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Hamriya",
+      "postal_code": "28623 94718",
+      "country_code": "AE",
+      "latitude": 25.259,
+      "longitude": 55.2983,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Umm Hurair First",
+      "postal_code": "29329 94210",
+      "country_code": "AE",
+      "latitude": 25.2545,
+      "longitude": 55.3053,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Oud Metha",
+      "postal_code": "29487 92423",
+      "country_code": "AE",
+      "latitude": 25.2384,
+      "longitude": 55.3071,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Umm Hurair Second",
+      "postal_code": "30549 91706",
+      "country_code": "AE",
+      "latitude": 25.2321,
+      "longitude": 55.3178,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Jadaf",
+      "postal_code": "30691 90337",
+      "country_code": "AE",
+      "latitude": 25.2197,
+      "longitude": 55.3193,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Kheeran Second",
+      "postal_code": "33106 88658",
+      "country_code": "AE",
+      "latitude": 25.2048,
+      "longitude": 55.3435,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Kheeran",
+      "postal_code": "34114 90376",
+      "country_code": "AE",
+      "latitude": 25.2205,
+      "longitude": 55.3533,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nadd Al Hamar",
+      "postal_code": "36215 87080",
+      "country_code": "AE",
+      "latitude": 25.1909,
+      "longitude": 55.3745,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Warqa'A Second",
+      "postal_code": "38736 88019",
+      "country_code": "AE",
+      "latitude": 25.1997,
+      "longitude": 55.3994,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Warqa'A First",
+      "postal_code": "38953 87481",
+      "country_code": "AE",
+      "latitude": 25.1949,
+      "longitude": 55.4016,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Warqa'A Third",
+      "postal_code": "39824 86290",
+      "country_code": "AE",
+      "latitude": 25.1842,
+      "longitude": 55.4104,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Warqa'A Fourth",
+      "postal_code": "41665 85282",
+      "country_code": "AE",
+      "latitude": 25.1753,
+      "longitude": 55.4288,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Wadi Alshabak",
+      "postal_code": "45081 84654",
+      "country_code": "AE",
+      "latitude": 25.17,
+      "longitude": 55.4628,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jabal Ali Industrial Third",
+      "postal_code": "00413 57827",
+      "country_code": "AE",
+      "latitude": 24.9226,
+      "longitude": 55.0236,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mena Jabal Ali",
+      "postal_code": "00520 65181",
+      "country_code": "AE",
+      "latitude": 24.989,
+      "longitude": 55.0236,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hessyan First",
+      "postal_code": "02883 60858",
+      "country_code": "AE",
+      "latitude": 24.9503,
+      "longitude": 55.0476,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Saih Shuaib 2",
+      "postal_code": "03882 50112",
+      "country_code": "AE",
+      "latitude": 24.8534,
+      "longitude": 55.059,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Saih Shuaib 3",
+      "postal_code": "04344 49108",
+      "country_code": "AE",
+      "latitude": 24.8444,
+      "longitude": 55.0637,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Saih Shuaib 4",
+      "postal_code": "05933 47422",
+      "country_code": "AE",
+      "latitude": 24.8294,
+      "longitude": 55.0797,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jabal Ali Industrial Second",
+      "postal_code": "06089 60436",
+      "country_code": "AE",
+      "latitude": 24.9469,
+      "longitude": 55.0794,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jabal Ali Industrial First",
+      "postal_code": "08312 66209",
+      "country_code": "AE",
+      "latitude": 24.9993,
+      "longitude": 55.1006,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jabal Ali First",
+      "postal_code": "09190 68982",
+      "country_code": "AE",
+      "latitude": 25.0244,
+      "longitude": 55.109,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Madinat Al Mataar",
+      "postal_code": "10252 53580",
+      "country_code": "AE",
+      "latitude": 24.8855,
+      "longitude": 55.1216,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jabal Ali Second",
+      "postal_code": "10677 72699",
+      "country_code": "AE",
+      "latitude": 25.0581,
+      "longitude": 55.1232,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dubai Investment Park First",
+      "postal_code": "12900 64227",
+      "country_code": "AE",
+      "latitude": 24.9819,
+      "longitude": 55.1463,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dubai Investment Park Second",
+      "postal_code": "16916 63472",
+      "country_code": "AE",
+      "latitude": 24.9756,
+      "longitude": 55.1862,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Saih Shuaib 1",
+      "postal_code": "94109 56616",
+      "country_code": "AE",
+      "latitude": 24.9108,
+      "longitude": 54.9614,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Barsha South Fifth",
+      "postal_code": "15557 69957",
+      "country_code": "AE",
+      "latitude": 25.034,
+      "longitude": 55.1719,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Me'Aisem First",
+      "postal_code": "16404 69331",
+      "country_code": "AE",
+      "latitude": 25.0284,
+      "longitude": 55.1804,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Wasl",
+      "postal_code": "23118 87198",
+      "country_code": "AE",
+      "latitude": 25.1905,
+      "longitude": 55.2446,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qouz Fourth",
+      "postal_code": "23341 82875",
+      "country_code": "AE",
+      "latitude": 25.1515,
+      "longitude": 55.2474,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Barsha South Fourth",
+      "postal_code": "18198 71620",
+      "country_code": "AE",
+      "latitude": 25.0493,
+      "longitude": 55.1978,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Hebiah Fourth",
+      "postal_code": "18996 70286",
+      "country_code": "AE",
+      "latitude": 25.0374,
+      "longitude": 55.2059,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Barsha South Second",
+      "postal_code": "20370 74034",
+      "country_code": "AE",
+      "latitude": 25.0714,
+      "longitude": 55.219,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Barsha South First",
+      "postal_code": "20460 75452",
+      "country_code": "AE",
+      "latitude": 25.0842,
+      "longitude": 55.2198,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Hebiah First",
+      "postal_code": "21403 70553",
+      "country_code": "AE",
+      "latitude": 25.0401,
+      "longitude": 55.2297,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Barsha South Third",
+      "postal_code": "21957 73327",
+      "country_code": "AE",
+      "latitude": 25.0652,
+      "longitude": 55.2349,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Hebiah Fifth",
+      "postal_code": "22087 65999",
+      "country_code": "AE",
+      "latitude": 24.999,
+      "longitude": 55.2371,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Yalayis 2",
+      "postal_code": "26552 67283",
+      "country_code": "AE",
+      "latitude": 25.0112,
+      "longitude": 55.2812,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Yalayis 1",
+      "postal_code": "27889 67388",
+      "country_code": "AE",
+      "latitude": 25.0123,
+      "longitude": 55.2944,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ghadeer Barashy",
+      "postal_code": "29878 47124",
+      "country_code": "AE",
+      "latitude": 24.8295,
+      "longitude": 55.3166,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Umm Nahad Second",
+      "postal_code": "30139 71647",
+      "country_code": "AE",
+      "latitude": 25.051,
+      "longitude": 55.3162,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Selal",
+      "postal_code": "32102 56913",
+      "country_code": "AE",
+      "latitude": 24.9182,
+      "longitude": 55.3374,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Saih Al Salam",
+      "postal_code": "33953 50419",
+      "country_code": "AE",
+      "latitude": 24.8597,
+      "longitude": 55.3565,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Saih Al Dahal",
+      "postal_code": "35103 40207",
+      "country_code": "AE",
+      "latitude": 24.7677,
+      "longitude": 55.3691,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Yufrah 2",
+      "postal_code": "35624 65298",
+      "country_code": "AE",
+      "latitude": 24.9942,
+      "longitude": 55.3713,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al O'Shoosh",
+      "postal_code": "38524 37600",
+      "country_code": "AE",
+      "latitude": 24.7445,
+      "longitude": 55.4032,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Hebiah Third",
+      "postal_code": "23119 68053",
+      "country_code": "AE",
+      "latitude": 25.0177,
+      "longitude": 55.2471,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hadaeq Sheikh Mohammed Bin Rashid",
+      "postal_code": "23128 77249",
+      "country_code": "AE",
+      "latitude": 25.1007,
+      "longitude": 55.246,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Hebiah Second",
+      "postal_code": "23708 70649",
+      "country_code": "AE",
+      "latitude": 25.0412,
+      "longitude": 55.2526,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Wadi Al Safa 6",
+      "postal_code": "23766 71409",
+      "country_code": "AE",
+      "latitude": 25.0481,
+      "longitude": 55.253,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Wadi Al Safa 7",
+      "postal_code": "24880 69927",
+      "country_code": "AE",
+      "latitude": 25.0348,
+      "longitude": 55.2643,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nadd Al Shiba Third",
+      "postal_code": "37120 82810",
+      "country_code": "AE",
+      "latitude": 25.1525,
+      "longitude": 55.384,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nadd Hessa",
+      "postal_code": "37150 78586",
+      "country_code": "AE",
+      "latitude": 25.1144,
+      "longitude": 55.3848,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Wadi Al Safa 5",
+      "postal_code": "37293 75830",
+      "country_code": "AE",
+      "latitude": 25.0895,
+      "longitude": 55.3866,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ras Al Khor Ind. Third",
+      "postal_code": "37405 84016",
+      "country_code": "AE",
+      "latitude": 25.1634,
+      "longitude": 55.3867,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Warsan First",
+      "postal_code": "38205 83778",
+      "country_code": "AE",
+      "latitude": 25.1613,
+      "longitude": 55.3947,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Warsan Fourth",
+      "postal_code": "38726 82053",
+      "country_code": "AE",
+      "latitude": 25.1458,
+      "longitude": 55.4,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Warsan Second",
+      "postal_code": "41219 83285",
+      "country_code": "AE",
+      "latitude": 25.1572,
+      "longitude": 55.4246,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Awir Second",
+      "postal_code": "51396 83138",
+      "country_code": "AE",
+      "latitude": 25.1569,
+      "longitude": 55.5256,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Awir First",
+      "postal_code": "51566 84349",
+      "country_code": "AE",
+      "latitude": 25.1679,
+      "longitude": 55.5271,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lehbab First",
+      "postal_code": "56212 72912",
+      "country_code": "AE",
+      "latitude": 25.0651,
+      "longitude": 55.5744,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Wadi Al Safa 3",
+      "postal_code": "34011 79429",
+      "country_code": "AE",
+      "latitude": 25.1216,
+      "longitude": 55.3536,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nadd Al Shiba Second",
+      "postal_code": "34094 83521",
+      "country_code": "AE",
+      "latitude": 25.1586,
+      "longitude": 55.3539,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nadd Al Shiba Fourth",
+      "postal_code": "34142 81727",
+      "country_code": "AE",
+      "latitude": 25.1424,
+      "longitude": 55.3546,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ras Al Khor Ind. Second",
+      "postal_code": "34276 85667",
+      "country_code": "AE",
+      "latitude": 25.178,
+      "longitude": 55.3555,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Wadi Al Safa 2",
+      "postal_code": "35570 78315",
+      "country_code": "AE",
+      "latitude": 25.1118,
+      "longitude": 55.3692,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nadd Al Shiba First",
+      "postal_code": "30095 81934",
+      "country_code": "AE",
+      "latitude": 25.1438,
+      "longitude": 55.3145,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Wadi Al Safa 4",
+      "postal_code": "30945 74563",
+      "country_code": "AE",
+      "latitude": 25.0774,
+      "longitude": 55.3238,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ras Al Khor Ind. First",
+      "postal_code": "32131 85338",
+      "country_code": "AE",
+      "latitude": 25.1748,
+      "longitude": 55.3342,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nazwah",
+      "postal_code": "64577 65810",
+      "country_code": "AE",
+      "latitude": 25.0017,
+      "longitude": 55.658,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hatta",
+      "postal_code": "09725 44680",
+      "country_code": "AE",
+      "latitude": 24.8143,
+      "longitude": 56.1068,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Rowaiyah Second",
+      "postal_code": "38164 77389",
+      "country_code": "AE",
+      "latitude": 25.1037,
+      "longitude": 55.395,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Rowaiyah Third",
+      "postal_code": "38570 75236",
+      "country_code": "AE",
+      "latitude": 25.0843,
+      "longitude": 55.3993,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Umm Al Daman",
+      "postal_code": "39100 74088",
+      "country_code": "AE",
+      "latitude": 25.074,
+      "longitude": 55.4047,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Rowaiyah First",
+      "postal_code": "41174 79882",
+      "country_code": "AE",
+      "latitude": 25.1265,
+      "longitude": 55.4246,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Warsan Third",
+      "postal_code": "44156 83117",
+      "country_code": "AE",
+      "latitude": 25.156,
+      "longitude": 55.4538,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Umm Al Mo'Meneen",
+      "postal_code": "47789 62502",
+      "country_code": "AE",
+      "latitude": 24.9703,
+      "longitude": 55.4921,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mereiyeel",
+      "postal_code": "50778 79124",
+      "country_code": "AE",
+      "latitude": 25.1206,
+      "longitude": 55.5199,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lehbab Second",
+      "postal_code": "56372 68116",
+      "country_code": "AE",
+      "latitude": 25.0218,
+      "longitude": 55.5765,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Margab",
+      "postal_code": "58370 46367",
+      "country_code": "AE",
+      "latitude": 24.8256,
+      "longitude": 55.5985,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Margham",
+      "postal_code": "58543 53730",
+      "country_code": "AE",
+      "latitude": 24.8921,
+      "longitude": 55.5995,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Yaraah",
+      "postal_code": "61059 35056",
+      "country_code": "AE",
+      "latitude": 24.7238,
+      "longitude": 55.6263,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Maha",
+      "postal_code": "62332 55915",
+      "country_code": "AE",
+      "latitude": 24.9122,
+      "longitude": 55.6368,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mugatrah",
+      "postal_code": "21089 47067",
+      "country_code": "AE",
+      "latitude": 24.828,
+      "longitude": 55.2297,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Sabkha",
+      "postal_code": "28916 95956",
+      "country_code": "AE",
+      "latitude": 25.2703,
+      "longitude": 55.301,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jumeira Bay",
+      "postal_code": "22177 89420",
+      "country_code": "AE",
+      "latitude": 25.2105,
+      "longitude": 55.235,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Warqa'A Fifth",
+      "postal_code": "43763 87060",
+      "country_code": "AE",
+      "latitude": 25.1916,
+      "longitude": 55.4494,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Fagaa'",
+      "postal_code": "52759 34369",
+      "country_code": "AE",
+      "latitude": 24.7168,
+      "longitude": 55.5443,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Meryal",
+      "postal_code": "62201 73292",
+      "country_code": "AE",
+      "latitude": 25.0691,
+      "longitude": 55.6338,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Umm Eselay",
+      "postal_code": "55845 50481",
+      "country_code": "AE",
+      "latitude": 24.8625,
+      "longitude": 55.5731,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Remah",
+      "postal_code": "64490 46251",
+      "country_code": "AE",
+      "latitude": 24.8251,
+      "longitude": 55.6591,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Layan 1",
+      "postal_code": "08530 45034",
+      "country_code": "AE",
+      "latitude": 24.8082,
+      "longitude": 55.1057,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Yalayis 5",
+      "postal_code": "26380 61127",
+      "country_code": "AE",
+      "latitude": 24.9556,
+      "longitude": 55.2802,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Umm Nahad First",
+      "postal_code": "38957 73768",
+      "country_code": "AE",
+      "latitude": 25.0711,
+      "longitude": 55.4033,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ras Al Khor",
+      "postal_code": "30487 87923",
+      "country_code": "AE",
+      "latitude": 25.1979,
+      "longitude": 55.3176,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qouz Ind.Third",
+      "postal_code": "20939 79584",
+      "country_code": "AE",
+      "latitude": 25.1215,
+      "longitude": 55.224,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hessyan Second",
+      "postal_code": "95463 58954",
+      "country_code": "AE",
+      "latitude": 24.9321,
+      "longitude": 54.9745,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nakhlat Deira",
+      "postal_code": "30050 98281",
+      "country_code": "AE",
+      "latitude": 25.2914,
+      "longitude": 55.312,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Yufrah 1",
+      "postal_code": "43731 67469",
+      "country_code": "AE",
+      "latitude": 25.0147,
+      "longitude": 55.4513,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Corniche Deira",
+      "postal_code": "29999 97332",
+      "country_code": "AE",
+      "latitude": 25.2828,
+      "longitude": 55.3116,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Shindagha",
+      "postal_code": "27713 95396",
+      "country_code": "AE",
+      "latitude": 25.2651,
+      "longitude": 55.2891,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Qouz Ind.First",
+      "postal_code": "21694 81852",
+      "country_code": "AE",
+      "latitude": 25.1421,
+      "longitude": 55.2312,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Yufrah 4",
+      "postal_code": "39153 62188",
+      "country_code": "AE",
+      "latitude": 24.9666,
+      "longitude": 55.4066,
+      "admin_name1": null
+    },
+    {
+      "place_name": "World Islands",
+      "postal_code": "15602 91272",
+      "country_code": "AE",
+      "latitude": 25.2264,
+      "longitude": 55.1695,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Enkhali",
+      "postal_code": "53422 75844",
+      "country_code": "AE",
+      "latitude": 25.0913,
+      "longitude": 55.5465,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Yalayis 3",
+      "postal_code": "31571 63859",
+      "country_code": "AE",
+      "latitude": 24.9808,
+      "longitude": 55.3313,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Le Hemaira",
+      "postal_code": "43202 69826",
+      "country_code": "AE",
+      "latitude": 25.0359,
+      "longitude": 55.4458,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Hamriya Port",
+      "postal_code": "32354 99131",
+      "country_code": "AE",
+      "latitude": 25.2993,
+      "longitude": 55.3347,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Yufrah 3",
+      "postal_code": "35457 65804",
+      "country_code": "AE",
+      "latitude": 24.9988,
+      "longitude": 55.3696,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Layan 2",
+      "postal_code": "11105 39039",
+      "country_code": "AE",
+      "latitude": 24.7544,
+      "longitude": 55.132,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hefair",
+      "postal_code": "21630 29077",
+      "country_code": "AE",
+      "latitude": 24.6657,
+      "longitude": 55.2373,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jabal Ali Third",
+      "postal_code": "05993 69214",
+      "country_code": "AE",
+      "latitude": 25.0261,
+      "longitude": 55.0772,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Muhaisanah Fifth",
+      "postal_code": "42498 96154",
+      "country_code": "AE",
+      "latitude": 25.2735,
+      "longitude": 55.4358,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Wohoosh",
+      "postal_code": "62521 80317",
+      "country_code": "AE",
+      "latitude": 25.1325,
+      "longitude": 55.6362,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Me'Aisem Second",
+      "postal_code": "18462 65500",
+      "country_code": "AE",
+      "latitude": 24.9941,
+      "longitude": 55.2013,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jumeira Island 2",
+      "postal_code": "21218 88055",
+      "country_code": "AE",
+      "latitude": 25.198,
+      "longitude": 55.2256,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Fagaa",
+      "postal_code": "56126 44884",
+      "country_code": "AE",
+      "latitude": 24.812,
+      "longitude": 55.5765,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Thanyah Second",
+      "postal_code": "16594 75475",
+      "country_code": "AE",
+      "latitude": 25.0839,
+      "longitude": 55.1814,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Al Hathmah",
+      "postal_code": "43112 47178",
+      "country_code": "AE",
+      "latitude": 24.8315,
+      "longitude": 55.4475,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bu Kadra",
+      "postal_code": "31710 84866",
+      "country_code": "AE",
+      "latitude": 25.1705,
+      "longitude": 55.3301,
+      "admin_name1": null
+    }
+  ]
+]

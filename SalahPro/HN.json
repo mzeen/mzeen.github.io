@@ -1,0 +1,228 @@
+[
+  [
+    {
+      "place_name": "Sector S.E.",
+      "postal_code": "21103",
+      "country_code": "HN",
+      "latitude": 15.4839,
+      "longitude": -87.9908,
+      "admin_name1": "Cortés"
+    },
+    {
+      "place_name": "Marcala",
+      "postal_code": "15201",
+      "country_code": "HN",
+      "latitude": 14.1566,
+      "longitude": -88.0347,
+      "admin_name1": "La Paz"
+    },
+    {
+      "place_name": "Tegucigalpa",
+      "postal_code": "11101",
+      "country_code": "HN",
+      "latitude": 14.0818,
+      "longitude": -87.2068,
+      "admin_name1": "Francisco Morazan"
+    },
+    {
+      "place_name": "Puerto Cortes",
+      "postal_code": "21301",
+      "country_code": "HN",
+      "latitude": 15.8256,
+      "longitude": -87.9297,
+      "admin_name1": "Cortés"
+    },
+    {
+      "place_name": "Comayagua",
+      "postal_code": "12101",
+      "country_code": "HN",
+      "latitude": 14.4514,
+      "longitude": -87.6375,
+      "admin_name1": "Comayagua"
+    },
+    {
+      "place_name": "Catacamas",
+      "postal_code": "16201",
+      "country_code": "HN",
+      "latitude": 14.8511,
+      "longitude": -85.8941,
+      "admin_name1": "Olancho"
+    },
+    {
+      "place_name": "Tela",
+      "postal_code": "31301",
+      "country_code": "HN",
+      "latitude": 15.7743,
+      "longitude": -87.4673,
+      "admin_name1": "Atlántida"
+    },
+    {
+      "place_name": "Gracias",
+      "postal_code": "42101",
+      "country_code": "HN",
+      "latitude": 14.5903,
+      "longitude": -88.5819,
+      "admin_name1": "Lempira"
+    },
+    {
+      "place_name": "Sector S.O.",
+      "postal_code": "21104",
+      "country_code": "HN",
+      "latitude": 15.4902,
+      "longitude": -88.042,
+      "admin_name1": "Cortés"
+    },
+    {
+      "place_name": "San Marcos de Ocotepeque",
+      "postal_code": "43201",
+      "country_code": "HN",
+      "latitude": 14.4079,
+      "longitude": -88.9553,
+      "admin_name1": "Ocotepeque"
+    },
+    {
+      "place_name": "Comayaguela",
+      "postal_code": "12101",
+      "country_code": "HN",
+      "latitude": 14.0867,
+      "longitude": -87.2292,
+      "admin_name1": "Francisco Morazan"
+    },
+    {
+      "place_name": "Puerto Lempira",
+      "postal_code": "33101",
+      "country_code": "HN",
+      "latitude": 15.2667,
+      "longitude": -83.7722,
+      "admin_name1": "Gracias a Dios"
+    },
+    {
+      "place_name": "Santa Rosa de Copan",
+      "postal_code": "41101",
+      "country_code": "HN",
+      "latitude": 14.7667,
+      "longitude": -88.7792,
+      "admin_name1": "Copán"
+    },
+    {
+      "place_name": "Sector N.O.",
+      "postal_code": "21102",
+      "country_code": "HN",
+      "latitude": 15.5677,
+      "longitude": -88.0138,
+      "admin_name1": "Cortés"
+    },
+    {
+      "place_name": "Roatan",
+      "postal_code": "34101",
+      "country_code": "HN",
+      "latitude": 16.3229,
+      "longitude": -86.5361,
+      "admin_name1": "Islas de la Bahía"
+    },
+    {
+      "place_name": "Ocotepeque",
+      "postal_code": "43101",
+      "country_code": "HN",
+      "latitude": 14.4333,
+      "longitude": -89.1833,
+      "admin_name1": "Ocotepeque"
+    },
+    {
+      "place_name": "Nacaome",
+      "postal_code": "52101",
+      "country_code": "HN",
+      "latitude": 13.5361,
+      "longitude": -87.4875,
+      "admin_name1": "Valle"
+    },
+    {
+      "place_name": "Choluteca",
+      "postal_code": "51101",
+      "country_code": "HN",
+      "latitude": 13.3003,
+      "longitude": -87.1908,
+      "admin_name1": "Choluteca"
+    },
+    {
+      "place_name": "Pespire",
+      "postal_code": "51201",
+      "country_code": "HN",
+      "latitude": 13.5922,
+      "longitude": -87.3617,
+      "admin_name1": "Choluteca"
+    },
+    {
+      "place_name": "Choloma",
+      "postal_code": "21112",
+      "country_code": "HN",
+      "latitude": 15.6144,
+      "longitude": -87.953,
+      "admin_name1": "Cortés"
+    },
+    {
+      "place_name": "Sector N.E.",
+      "postal_code": "21101",
+      "country_code": "HN",
+      "latitude": 15.5326,
+      "longitude": -88.0104,
+      "admin_name1": "Cortés"
+    },
+    {
+      "place_name": "Juticalpa",
+      "postal_code": "16101",
+      "country_code": "HN",
+      "latitude": 14.6667,
+      "longitude": -86.2194,
+      "admin_name1": "Olancho"
+    },
+    {
+      "place_name": "Tocoa",
+      "postal_code": "32301",
+      "country_code": "HN",
+      "latitude": 15.6833,
+      "longitude": -86.0,
+      "admin_name1": "Colon"
+    },
+    {
+      "place_name": "Yuscaran",
+      "postal_code": "13101",
+      "country_code": "HN",
+      "latitude": 13.9439,
+      "longitude": -86.8528,
+      "admin_name1": "El Paraiso"
+    },
+    {
+      "place_name": "Erandique",
+      "postal_code": "42201",
+      "country_code": "HN",
+      "latitude": 14.2379,
+      "longitude": -88.4645,
+      "admin_name1": "Lempira"
+    },
+    {
+      "place_name": "Danli",
+      "postal_code": "13201",
+      "country_code": "HN",
+      "latitude": 14.0333,
+      "longitude": -86.5833,
+      "admin_name1": "El Paraiso"
+    },
+    {
+      "place_name": "Siguatepeque",
+      "postal_code": "12111",
+      "country_code": "HN",
+      "latitude": 14.5969,
+      "longitude": -87.831,
+      "admin_name1": "Comayagua"
+    },
+    {
+      "place_name": "Jesus de Otoro",
+      "postal_code": "14201",
+      "country_code": "HN",
+      "latitude": 14.4878,
+      "longitude": -87.9818,
+      "admin_name1": "Intibuca"
+    }
+  ]
+]

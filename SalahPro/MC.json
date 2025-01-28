@@ -1,0 +1,220 @@
+[
+  [
+    {
+      "place_name": "Larvotto",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7333,
+      "longitude": 7.4333,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "La Condamine",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7333,
+      "longitude": 7.4167,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Anse de Canton",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7333,
+      "longitude": 7.4167,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Jardin Exotique",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7167,
+      "longitude": 7.4,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Port de Fontvieille",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7306,
+      "longitude": 7.4208,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Port Hercule",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7361,
+      "longitude": 7.425,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Ciappaira",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7167,
+      "longitude": 7.4167,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Pointe Saint-Antoine",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7333,
+      "longitude": 7.4278,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Pointe Sainte-Barbe",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7167,
+      "longitude": 7.4167,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Pointe Saint-Martin",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7306,
+      "longitude": 7.425,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Anse de la Grue",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7306,
+      "longitude": 7.4217,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Anse du Portier",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7417,
+      "longitude": 7.4322,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Rocher de Monaco",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7333,
+      "longitude": 7.4333,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Plage du Larvotto",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7333,
+      "longitude": 7.4333,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Stade Louis Deux",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7167,
+      "longitude": 7.4167,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Fontvieille",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7333,
+      "longitude": 7.4167,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Port de La Condamine",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7361,
+      "longitude": 7.425,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Réserve Sous-marine du Larvotto",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7458,
+      "longitude": 7.4394,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Jardin Japonais",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7333,
+      "longitude": 7.4167,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Monaco-Ville",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7333,
+      "longitude": 7.4167,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Pointe Focinana",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7333,
+      "longitude": 7.4333,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Réserve Sous-marine de Monaco",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7458,
+      "longitude": 7.4394,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Commune de Monaco",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7333,
+      "longitude": 7.4,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Port de Monaco",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7361,
+      "longitude": 7.425,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Pointe de la Poudrière",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7319,
+      "longitude": 7.4278,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Les Moneghetti",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7375,
+      "longitude": 7.4153,
+      "admin_name1": "Monaco"
+    },
+    {
+      "place_name": "Monte-Carlo",
+      "postal_code": "98000",
+      "country_code": "MC",
+      "latitude": 43.7333,
+      "longitude": 7.4167,
+      "admin_name1": "Monaco"
+    }
+  ]
+]

@@ -1,0 +1,76 @@
+[
+  [
+    {
+      "place_name": "Devonshire",
+      "postal_code": "FL 05",
+      "country_code": "BM",
+      "latitude": 32.3264,
+      "longitude": -64.7411,
+      "admin_name1": "Devonshire Parish"
+    },
+    {
+      "place_name": "Paget",
+      "postal_code": "DV 03",
+      "country_code": "BM",
+      "latitude": 32.2783,
+      "longitude": -64.7817,
+      "admin_name1": "Paget Parish"
+    },
+    {
+      "place_name": "Town of St. George",
+      "postal_code": "GE 04",
+      "country_code": "BM",
+      "latitude": 32.3842,
+      "longitude": -64.6764,
+      "admin_name1": "Saint George"
+    },
+    {
+      "place_name": "St. George's",
+      "postal_code": "DD 02",
+      "country_code": "BM",
+      "latitude": 32.3726,
+      "longitude": -64.6944,
+      "admin_name1": "Saint George’s Parish"
+    },
+    {
+      "place_name": "Sandys",
+      "postal_code": "SB 01",
+      "country_code": "BM",
+      "latitude": 32.2934,
+      "longitude": -64.8683,
+      "admin_name1": "Sandys Parish"
+    },
+    {
+      "place_name": "Smith’s",
+      "postal_code": "HS 02",
+      "country_code": "BM",
+      "latitude": 32.354,
+      "longitude": -64.7096,
+      "admin_name1": "Smith’s Parish"
+    },
+    {
+      "place_name": "Hamilton Parish",
+      "postal_code": "CR 02",
+      "country_code": "BM",
+      "latitude": 32.3264,
+      "longitude": -64.7411,
+      "admin_name1": "Hamilton"
+    },
+    {
+      "place_name": "City of Hamilton",
+      "postal_code": "HM 08",
+      "country_code": "BM",
+      "latitude": 32.2949,
+      "longitude": -64.783,
+      "admin_name1": "Hamilton"
+    },
+    {
+      "place_name": "St. George",
+      "postal_code": "HS 02",
+      "country_code": "BM",
+      "latitude": 32.3817,
+      "longitude": -64.6781,
+      "admin_name1": "Saint George"
+    }
+  ]
+]

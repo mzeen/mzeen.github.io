@@ -1,0 +1,1604 @@
+[
+  [
+    {
+      "place_name": "Grecia",
+      "postal_code": "20301",
+      "country_code": "CR",
+      "latitude": 10.0697,
+      "longitude": -84.3131,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Naranjo",
+      "postal_code": "20601",
+      "country_code": "CR",
+      "latitude": 10.101,
+      "longitude": -84.3908,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Palmitos",
+      "postal_code": "20608",
+      "country_code": "CR",
+      "latitude": 10.0973,
+      "longitude": -84.4248,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Quebradilla",
+      "postal_code": "30111",
+      "country_code": "CR",
+      "latitude": 9.8492,
+      "longitude": -84.0012,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Belén de Nosarita",
+      "postal_code": "50207",
+      "country_code": "CR",
+      "latitude": 9.9932,
+      "longitude": -85.5154,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Colorado",
+      "postal_code": "50704",
+      "country_code": "CR",
+      "latitude": 10.2141,
+      "longitude": -85.1173,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "San Vicente",
+      "postal_code": "40302",
+      "country_code": "CR",
+      "latitude": 9.9899,
+      "longitude": -84.08,
+      "admin_name1": "Provincia de Heredia"
+    },
+    {
+      "place_name": "Roxana",
+      "postal_code": "70204",
+      "country_code": "CR",
+      "latitude": 10.3665,
+      "longitude": -83.6588,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Pacuarito",
+      "postal_code": "70302",
+      "country_code": "CR",
+      "latitude": 10.1031,
+      "longitude": -83.4211,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Río Segundo",
+      "postal_code": "20109",
+      "country_code": "CR",
+      "latitude": 10.0003,
+      "longitude": -84.1951,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Turrúcares",
+      "postal_code": "20111",
+      "country_code": "CR",
+      "latitude": 9.9441,
+      "longitude": -84.3253,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Orotina",
+      "postal_code": "20901",
+      "country_code": "CR",
+      "latitude": 9.904,
+      "longitude": -84.5274,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Tempate",
+      "postal_code": "50304",
+      "country_code": "CR",
+      "latitude": 10.3972,
+      "longitude": -85.7365,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Río Naranjo",
+      "postal_code": "50404",
+      "country_code": "CR",
+      "latitude": 10.6754,
+      "longitude": -85.106,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Barrantes",
+      "postal_code": "40802",
+      "country_code": "CR",
+      "latitude": 10.0137,
+      "longitude": -84.1518,
+      "admin_name1": "Provincia de Heredia"
+    },
+    {
+      "place_name": "Matina",
+      "postal_code": "70501",
+      "country_code": "CR",
+      "latitude": 9.9618,
+      "longitude": -83.2933,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Puntarenas",
+      "postal_code": "60101",
+      "country_code": "CR",
+      "latitude": 9.978,
+      "longitude": -84.8344,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Guaycará",
+      "postal_code": "60703",
+      "country_code": "CR",
+      "latitude": 8.7126,
+      "longitude": -83.0762,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Daniel Flores",
+      "postal_code": "11903",
+      "country_code": "CR",
+      "latitude": 9.3014,
+      "longitude": -83.6644,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Rivas",
+      "postal_code": "11904",
+      "country_code": "CR",
+      "latitude": 9.4842,
+      "longitude": -83.6045,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Los Chiles",
+      "postal_code": "21401",
+      "country_code": "CR",
+      "latitude": 10.9627,
+      "longitude": -84.6042,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Cabo Velas",
+      "postal_code": "50308",
+      "country_code": "CR",
+      "latitude": 10.3734,
+      "longitude": -85.8143,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Tierras Morenas",
+      "postal_code": "50806",
+      "country_code": "CR",
+      "latitude": 10.582,
+      "longitude": -84.9998,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Bejuco",
+      "postal_code": "50906",
+      "country_code": "CR",
+      "latitude": 9.8379,
+      "longitude": -85.2755,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Ulloa",
+      "postal_code": "40104",
+      "country_code": "CR",
+      "latitude": 9.9762,
+      "longitude": -84.1366,
+      "admin_name1": "Provincia de Heredia"
+    },
+    {
+      "place_name": "Río Jiménez",
+      "postal_code": "70604",
+      "country_code": "CR",
+      "latitude": 10.2613,
+      "longitude": -83.5624,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Ipís",
+      "postal_code": "10805",
+      "country_code": "CR",
+      "latitude": 9.9645,
+      "longitude": -84.0197,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Bijagua",
+      "postal_code": "21304",
+      "country_code": "CR",
+      "latitude": 10.7494,
+      "longitude": -85.0459,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Llanos de Santa Lucía",
+      "postal_code": "30205",
+      "country_code": "CR",
+      "latitude": 9.8479,
+      "longitude": -83.8802,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Tucurrique",
+      "postal_code": "30402",
+      "country_code": "CR",
+      "latitude": 9.8436,
+      "longitude": -83.734,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Monte Romo",
+      "postal_code": "51102",
+      "country_code": "CR",
+      "latitude": 9.9645,
+      "longitude": -85.3892,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Cureña",
+      "postal_code": "41005",
+      "country_code": "CR",
+      "latitude": 10.6906,
+      "longitude": -84.0753,
+      "admin_name1": "Provincia de Heredia"
+    },
+    {
+      "place_name": "Savegre",
+      "postal_code": "60602",
+      "country_code": "CR",
+      "latitude": 9.3562,
+      "longitude": -83.9455,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Pavas",
+      "postal_code": "10109",
+      "country_code": "CR",
+      "latitude": 9.9499,
+      "longitude": -84.1366,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Gravilias",
+      "postal_code": "10312",
+      "country_code": "CR",
+      "latitude": 9.886,
+      "longitude": -84.0575,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Chires",
+      "postal_code": "10409",
+      "country_code": "CR",
+      "latitude": 9.6576,
+      "longitude": -84.4018,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Anselmo Llorente",
+      "postal_code": "11303",
+      "country_code": "CR",
+      "latitude": 9.9567,
+      "longitude": -84.0704,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "León XIII",
+      "postal_code": "11304",
+      "country_code": "CR",
+      "latitude": 9.9599,
+      "longitude": -84.1007,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Sabana Redonda",
+      "postal_code": "20805",
+      "country_code": "CR",
+      "latitude": 10.1427,
+      "longitude": -84.2144,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Cutris",
+      "postal_code": "21011",
+      "country_code": "CR",
+      "latitude": 10.7105,
+      "longitude": -84.3437,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Corralillo",
+      "postal_code": "30107",
+      "country_code": "CR",
+      "latitude": 9.789,
+      "longitude": -84.0508,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Cervantes",
+      "postal_code": "30602",
+      "country_code": "CR",
+      "latitude": 9.8925,
+      "longitude": -83.804,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Veintisiete de Abril",
+      "postal_code": "50303",
+      "country_code": "CR",
+      "latitude": 10.2002,
+      "longitude": -85.722,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Mogote",
+      "postal_code": "50403",
+      "country_code": "CR",
+      "latitude": 10.6954,
+      "longitude": -85.2719,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Ángeles",
+      "postal_code": "40504",
+      "country_code": "CR",
+      "latitude": 10.06,
+      "longitude": -84.0874,
+      "admin_name1": "Provincia de Heredia"
+    },
+    {
+      "place_name": "Boruca",
+      "postal_code": "60304",
+      "country_code": "CR",
+      "latitude": 9.0109,
+      "longitude": -83.3253,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Guadalupe o Arenilla",
+      "postal_code": "30106",
+      "country_code": "CR",
+      "latitude": 9.8626,
+      "longitude": -83.961,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Paquera",
+      "postal_code": "60105",
+      "country_code": "CR",
+      "latitude": 9.8199,
+      "longitude": -84.9923,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Quepos",
+      "postal_code": "60601",
+      "country_code": "CR",
+      "latitude": 9.4596,
+      "longitude": -84.1376,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Legua",
+      "postal_code": "10605",
+      "country_code": "CR",
+      "latitude": 9.6767,
+      "longitude": -84.1625,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Mata de Plátano",
+      "postal_code": "10804",
+      "country_code": "CR",
+      "latitude": 9.9552,
+      "longitude": -83.9978,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Guaitil",
+      "postal_code": "11202",
+      "country_code": "CR",
+      "latitude": 9.7895,
+      "longitude": -84.2375,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Llanuras del Gaspar",
+      "postal_code": "41004",
+      "country_code": "CR",
+      "latitude": 10.6766,
+      "longitude": -83.8432,
+      "admin_name1": "Provincia de Heredia"
+    },
+    {
+      "place_name": "Sixaola",
+      "postal_code": "70402",
+      "country_code": "CR",
+      "latitude": 9.5628,
+      "longitude": -82.6645,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Jacó",
+      "postal_code": "61101",
+      "country_code": "CR",
+      "latitude": 9.6275,
+      "longitude": -84.601,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Frailes",
+      "postal_code": "10306",
+      "country_code": "CR",
+      "latitude": 9.7546,
+      "longitude": -84.0651,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Pozos",
+      "postal_code": "10903",
+      "country_code": "CR",
+      "latitude": 9.9526,
+      "longitude": -84.1919,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Alajuelita",
+      "postal_code": "11001",
+      "country_code": "CR",
+      "latitude": 9.9029,
+      "longitude": -84.1004,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Patalillo",
+      "postal_code": "11104",
+      "country_code": "CR",
+      "latitude": 9.9747,
+      "longitude": -84.0223,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Pejibaye",
+      "postal_code": "11907",
+      "country_code": "CR",
+      "latitude": 9.1542,
+      "longitude": -83.5492,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Sarapiquí",
+      "postal_code": "20114",
+      "country_code": "CR",
+      "latitude": 10.2655,
+      "longitude": -84.1878,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Peñas Blancas",
+      "postal_code": "20213",
+      "country_code": "CR",
+      "latitude": 10.3787,
+      "longitude": -84.6787,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Juan Viñas",
+      "postal_code": "30401",
+      "country_code": "CR",
+      "latitude": 9.9017,
+      "longitude": -83.7465,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Sardinal",
+      "postal_code": "50503",
+      "country_code": "CR",
+      "latitude": 10.5179,
+      "longitude": -85.6751,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Hojancha",
+      "postal_code": "51101",
+      "country_code": "CR",
+      "latitude": 10.0452,
+      "longitude": -85.4257,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Siquirres",
+      "postal_code": "70301",
+      "country_code": "CR",
+      "latitude": 10.1589,
+      "longitude": -83.4546,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Uruca",
+      "postal_code": "10904",
+      "country_code": "CR",
+      "latitude": 9.9269,
+      "longitude": -84.1952,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Guácima",
+      "postal_code": "20105",
+      "country_code": "CR",
+      "latitude": 9.9593,
+      "longitude": -84.2606,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Quesada",
+      "postal_code": "21001",
+      "country_code": "CR",
+      "latitude": 10.3262,
+      "longitude": -84.4126,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Aguas Zarcas",
+      "postal_code": "21004",
+      "country_code": "CR",
+      "latitude": 10.4652,
+      "longitude": -84.3491,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Tayutic",
+      "postal_code": "30508",
+      "country_code": "CR",
+      "latitude": 9.8083,
+      "longitude": -83.5477,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Nacascolo",
+      "postal_code": "50104",
+      "country_code": "CR",
+      "latitude": 10.7228,
+      "longitude": -85.6001,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Bebedero",
+      "postal_code": "50604",
+      "country_code": "CR",
+      "latitude": 10.3742,
+      "longitude": -85.155,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Líbano",
+      "postal_code": "50805",
+      "country_code": "CR",
+      "latitude": 10.4033,
+      "longitude": -84.9862,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Llorente",
+      "postal_code": "40803",
+      "country_code": "CR",
+      "latitude": 9.9983,
+      "longitude": -84.1612,
+      "admin_name1": "Provincia de Heredia"
+    },
+    {
+      "place_name": "Alegría",
+      "postal_code": "70306",
+      "country_code": "CR",
+      "latitude": 10.1168,
+      "longitude": -83.5913,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "San Isidro de El General",
+      "postal_code": "11901",
+      "country_code": "CR",
+      "latitude": 9.3215,
+      "longitude": -83.7195,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Tacares",
+      "postal_code": "20305",
+      "country_code": "CR",
+      "latitude": 10.0276,
+      "longitude": -84.3094,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Caño Negro",
+      "postal_code": "21402",
+      "country_code": "CR",
+      "latitude": 10.9254,
+      "longitude": -84.81,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Cóbano",
+      "postal_code": "60111",
+      "country_code": "CR",
+      "latitude": 9.6951,
+      "longitude": -85.1247,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "San Rafael Abajo",
+      "postal_code": "10311",
+      "country_code": "CR",
+      "latitude": 9.8952,
+      "longitude": -84.0829,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Tarbaca",
+      "postal_code": "10602",
+      "country_code": "CR",
+      "latitude": 9.8228,
+      "longitude": -84.1179,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Sabanillas",
+      "postal_code": "11205",
+      "country_code": "CR",
+      "latitude": 9.702,
+      "longitude": -84.2647,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Cinco Esquinas",
+      "postal_code": "11302",
+      "country_code": "CR",
+      "latitude": 9.9465,
+      "longitude": -84.0823,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Copey",
+      "postal_code": "11703",
+      "country_code": "CR",
+      "latitude": 9.5746,
+      "longitude": -83.8897,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Piedades Norte",
+      "postal_code": "20204",
+      "country_code": "CR",
+      "latitude": 10.1473,
+      "longitude": -84.5373,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Piedades Sur",
+      "postal_code": "20205",
+      "country_code": "CR",
+      "latitude": 10.0942,
+      "longitude": -84.5738,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "El Mastate",
+      "postal_code": "20902",
+      "country_code": "CR",
+      "latitude": 9.9164,
+      "longitude": -84.5593,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Purabá",
+      "postal_code": "40406",
+      "country_code": "CR",
+      "latitude": 10.0647,
+      "longitude": -84.1543,
+      "admin_name1": "Provincia de Heredia"
+    },
+    {
+      "place_name": "Guácimo",
+      "postal_code": "70601",
+      "country_code": "CR",
+      "latitude": 10.175,
+      "longitude": -83.7034,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Puerto Jiménez",
+      "postal_code": "60702",
+      "country_code": "CR",
+      "latitude": 8.5182,
+      "longitude": -83.4477,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Tárcoles",
+      "postal_code": "61102",
+      "country_code": "CR",
+      "latitude": 9.7868,
+      "longitude": -84.6181,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "San Rafael Arriba",
+      "postal_code": "10304",
+      "country_code": "CR",
+      "latitude": 9.8759,
+      "longitude": -84.0735,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Vuelta de Jorco",
+      "postal_code": "10603",
+      "country_code": "CR",
+      "latitude": 9.7742,
+      "longitude": -84.1377,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Upala",
+      "postal_code": "21301",
+      "country_code": "CR",
+      "latitude": 10.8443,
+      "longitude": -85.0197,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Pavones",
+      "postal_code": "30506",
+      "country_code": "CR",
+      "latitude": 9.9157,
+      "longitude": -83.6198,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Potrero Cerrado",
+      "postal_code": "30703",
+      "country_code": "CR",
+      "latitude": 9.9319,
+      "longitude": -83.8729,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Bagaces",
+      "postal_code": "50401",
+      "country_code": "CR",
+      "latitude": 10.4655,
+      "longitude": -85.2828,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Matama",
+      "postal_code": "70104",
+      "country_code": "CR",
+      "latitude": 9.869,
+      "longitude": -83.1211,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Chomes",
+      "postal_code": "60103",
+      "country_code": "CR",
+      "latitude": 10.0951,
+      "longitude": -84.9103,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Pilas",
+      "postal_code": "60305",
+      "country_code": "CR",
+      "latitude": 9.0929,
+      "longitude": -83.4233,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Mercedes Sur",
+      "postal_code": "10402",
+      "country_code": "CR",
+      "latitude": 9.7739,
+      "longitude": -84.4098,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Katira",
+      "postal_code": "21504",
+      "country_code": "CR",
+      "latitude": 10.7458,
+      "longitude": -84.9183,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Rincón de Sabanilla",
+      "postal_code": "40902",
+      "country_code": "CR",
+      "latitude": 9.9838,
+      "longitude": -84.1048,
+      "admin_name1": "Provincia de Heredia"
+    },
+    {
+      "place_name": "Guápiles",
+      "postal_code": "70201",
+      "country_code": "CR",
+      "latitude": 10.1917,
+      "longitude": -83.8467,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Cahuita",
+      "postal_code": "70403",
+      "country_code": "CR",
+      "latitude": 9.669,
+      "longitude": -82.8046,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Pittier",
+      "postal_code": "60805",
+      "country_code": "CR",
+      "latitude": 8.9797,
+      "longitude": -82.9593,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Dulce Nombre de Jesús",
+      "postal_code": "11103",
+      "country_code": "CR",
+      "latitude": 10.0889,
+      "longitude": -83.9798,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Platanares",
+      "postal_code": "11906",
+      "country_code": "CR",
+      "latitude": 9.1995,
+      "longitude": -83.638,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Aguacaliente o San Francisco",
+      "postal_code": "30105",
+      "country_code": "CR",
+      "latitude": 9.7475,
+      "longitude": -83.8778,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Las Horquetas",
+      "postal_code": "41003",
+      "country_code": "CR",
+      "latitude": 10.3132,
+      "longitude": -83.9572,
+      "admin_name1": "Provincia de Heredia"
+    },
+    {
+      "place_name": "Bratsi",
+      "postal_code": "70401",
+      "country_code": "CR",
+      "latitude": 9.6054,
+      "longitude": -82.9595,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Duacarí",
+      "postal_code": "70605",
+      "country_code": "CR",
+      "latitude": 10.3214,
+      "longitude": -83.6171,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Isla Del Coco",
+      "postal_code": "60110",
+      "country_code": "CR",
+      "latitude": 5.5287,
+      "longitude": -87.0614,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Volcán",
+      "postal_code": "60302",
+      "country_code": "CR",
+      "latitude": 9.2485,
+      "longitude": -83.4508,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Golfito",
+      "postal_code": "60701",
+      "country_code": "CR",
+      "latitude": 8.6542,
+      "longitude": -83.1755,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Candelarita",
+      "postal_code": "10406",
+      "country_code": "CR",
+      "latitude": 9.7895,
+      "longitude": -84.3358,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Purral",
+      "postal_code": "10807",
+      "country_code": "CR",
+      "latitude": 9.9593,
+      "longitude": -84.0181,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Río Cuarto",
+      "postal_code": "20306",
+      "country_code": "CR",
+      "latitude": 10.4085,
+      "longitude": -84.2094,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Sarchí Sur",
+      "postal_code": "21202",
+      "country_code": "CR",
+      "latitude": 10.0772,
+      "longitude": -84.3438,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "San José o Pizote",
+      "postal_code": "21303",
+      "country_code": "CR",
+      "latitude": 10.9617,
+      "longitude": -85.1734,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Yolillal",
+      "postal_code": "21307",
+      "country_code": "CR",
+      "latitude": 10.9042,
+      "longitude": -84.9391,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Capellades",
+      "postal_code": "30603",
+      "country_code": "CR",
+      "latitude": 9.9555,
+      "longitude": -83.7929,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Patio de Agua",
+      "postal_code": "30804",
+      "country_code": "CR",
+      "latitude": 9.7901,
+      "longitude": -84.0106,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Sierra",
+      "postal_code": "50702",
+      "country_code": "CR",
+      "latitude": 10.3222,
+      "longitude": -84.8996,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Varablanca",
+      "postal_code": "40105",
+      "country_code": "CR",
+      "latitude": 10.1654,
+      "longitude": -84.069,
+      "admin_name1": "Provincia de Heredia"
+    },
+    {
+      "place_name": "Telire",
+      "postal_code": "70404",
+      "country_code": "CR",
+      "latitude": 9.4392,
+      "longitude": -83.1596,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Cirrí Sur",
+      "postal_code": "20604",
+      "country_code": "CR",
+      "latitude": 10.1524,
+      "longitude": -84.3657,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Diriá",
+      "postal_code": "50307",
+      "country_code": "CR",
+      "latitude": 10.2823,
+      "longitude": -85.5229,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Barva",
+      "postal_code": "40201",
+      "country_code": "CR",
+      "latitude": 10.0204,
+      "longitude": -84.1236,
+      "admin_name1": "Provincia de Heredia"
+    },
+    {
+      "place_name": "Batán",
+      "postal_code": "70502",
+      "country_code": "CR",
+      "latitude": 10.0929,
+      "longitude": -83.3516,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Zarcero",
+      "postal_code": "21101",
+      "country_code": "CR",
+      "latitude": 10.1896,
+      "longitude": -84.3796,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Tapesco",
+      "postal_code": "21103",
+      "country_code": "CR",
+      "latitude": 10.2188,
+      "longitude": -84.4062,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Tilarán",
+      "postal_code": "50801",
+      "country_code": "CR",
+      "latitude": 10.4574,
+      "longitude": -84.9641,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Carrandi",
+      "postal_code": "70503",
+      "country_code": "CR",
+      "latitude": 10.0295,
+      "longitude": -83.2289,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Aguabuena",
+      "postal_code": "60803",
+      "country_code": "CR",
+      "latitude": 8.7379,
+      "longitude": -82.945,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Calle Blancos",
+      "postal_code": "10803",
+      "country_code": "CR",
+      "latitude": 9.9486,
+      "longitude": -84.0667,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Curridabat",
+      "postal_code": "11801",
+      "country_code": "CR",
+      "latitude": 9.9165,
+      "longitude": -84.0374,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Alajuela",
+      "postal_code": "20101",
+      "country_code": "CR",
+      "latitude": 10.0241,
+      "longitude": -84.2061,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Biolley",
+      "postal_code": "60308",
+      "country_code": "CR",
+      "latitude": 9.0454,
+      "longitude": -83.0362,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Puerto Cortés",
+      "postal_code": "60501",
+      "country_code": "CR",
+      "latitude": 9.0226,
+      "longitude": -83.5767,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Sierpe",
+      "postal_code": "60503",
+      "country_code": "CR",
+      "latitude": 8.75,
+      "longitude": -83.5377,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Patarrá",
+      "postal_code": "10307",
+      "country_code": "CR",
+      "latitude": 9.8657,
+      "longitude": -84.025,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Picagres",
+      "postal_code": "10705",
+      "country_code": "CR",
+      "latitude": 9.9094,
+      "longitude": -84.371,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Carara",
+      "postal_code": "11605",
+      "country_code": "CR",
+      "latitude": 9.6819,
+      "longitude": -84.5245,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Cachí",
+      "postal_code": "30204",
+      "country_code": "CR",
+      "latitude": 9.8293,
+      "longitude": -83.7941,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Valle La Estrella",
+      "postal_code": "70102",
+      "country_code": "CR",
+      "latitude": 9.7151,
+      "longitude": -83.1652,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Aserrí",
+      "postal_code": "10601",
+      "country_code": "CR",
+      "latitude": 9.855,
+      "longitude": -84.1084,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Escobal",
+      "postal_code": "20508",
+      "country_code": "CR",
+      "latitude": 9.9442,
+      "longitude": -84.4241,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Sarchí Norte",
+      "postal_code": "21201",
+      "country_code": "CR",
+      "latitude": 10.1403,
+      "longitude": -84.3273,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Turrialba",
+      "postal_code": "30501",
+      "country_code": "CR",
+      "latitude": 9.8872,
+      "longitude": -83.6861,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Tuis",
+      "postal_code": "30507",
+      "country_code": "CR",
+      "latitude": 9.8528,
+      "longitude": -83.5663,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Tobosi",
+      "postal_code": "30803",
+      "country_code": "CR",
+      "latitude": 9.8218,
+      "longitude": -83.9942,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Curubandé",
+      "postal_code": "50105",
+      "country_code": "CR",
+      "latitude": 10.7016,
+      "longitude": -85.4362,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Porozal",
+      "postal_code": "50605",
+      "country_code": "CR",
+      "latitude": 10.2803,
+      "longitude": -85.183,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "San Francisco de Dos Ríos",
+      "postal_code": "10106",
+      "country_code": "CR",
+      "latitude": 9.9082,
+      "longitude": -84.0592,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Cajón",
+      "postal_code": "11908",
+      "country_code": "CR",
+      "latitude": 9.3312,
+      "longitude": -83.5859,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Volio",
+      "postal_code": "20210",
+      "country_code": "CR",
+      "latitude": 10.1509,
+      "longitude": -84.4526,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Tronadora",
+      "postal_code": "50803",
+      "country_code": "CR",
+      "latitude": 10.4243,
+      "longitude": -84.8356,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Tures",
+      "postal_code": "40307",
+      "country_code": "CR",
+      "latitude": 9.9933,
+      "longitude": -84.0568,
+      "admin_name1": "Provincia de Heredia"
+    },
+    {
+      "place_name": "Desamparaditos",
+      "postal_code": "10407",
+      "country_code": "CR",
+      "latitude": 9.8798,
+      "longitude": -84.3407,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Rancho Redondo",
+      "postal_code": "10806",
+      "country_code": "CR",
+      "latitude": 9.9631,
+      "longitude": -83.9418,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Tambor",
+      "postal_code": "20112",
+      "country_code": "CR",
+      "latitude": 10.0281,
+      "longitude": -84.2573,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Chirripó",
+      "postal_code": "30512",
+      "country_code": "CR",
+      "latitude": 9.772,
+      "longitude": -83.4831,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Puerto Carrillo",
+      "postal_code": "51103",
+      "country_code": "CR",
+      "latitude": 9.9277,
+      "longitude": -85.4478,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Cariari",
+      "postal_code": "70205",
+      "country_code": "CR",
+      "latitude": 10.4312,
+      "longitude": -83.6804,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Bahía Ballena",
+      "postal_code": "60504",
+      "country_code": "CR",
+      "latitude": 9.1755,
+      "longitude": -83.7266,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Los Guido",
+      "postal_code": "10313",
+      "country_code": "CR",
+      "latitude": 9.8709,
+      "longitude": -84.0483,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Tres Equis",
+      "postal_code": "30510",
+      "country_code": "CR",
+      "latitude": 9.9547,
+      "longitude": -83.5737,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Pacayas",
+      "postal_code": "30601",
+      "country_code": "CR",
+      "latitude": 9.9397,
+      "longitude": -83.8191,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Chánguena",
+      "postal_code": "60307",
+      "country_code": "CR",
+      "latitude": 8.8916,
+      "longitude": -83.1808,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Escazú",
+      "postal_code": "10201",
+      "country_code": "CR",
+      "latitude": 9.9183,
+      "longitude": -84.1493,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "La Isabel",
+      "postal_code": "30511",
+      "country_code": "CR",
+      "latitude": 9.9289,
+      "longitude": -83.6621,
+      "admin_name1": "Provincia de Cartago"
+    },
+    {
+      "place_name": "Liberia",
+      "postal_code": "50101",
+      "country_code": "CR",
+      "latitude": 10.5866,
+      "longitude": -85.4504,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Mansión",
+      "postal_code": "50202",
+      "country_code": "CR",
+      "latitude": 10.1082,
+      "longitude": -85.3183,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Bolsón",
+      "postal_code": "50302",
+      "country_code": "CR",
+      "latitude": 10.3485,
+      "longitude": -85.4534,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Arancibia",
+      "postal_code": "60116",
+      "country_code": "CR",
+      "latitude": 10.2312,
+      "longitude": -84.7184,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Grifo Alto",
+      "postal_code": "10404",
+      "country_code": "CR",
+      "latitude": 9.8774,
+      "longitude": -84.3949,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Pocosol",
+      "postal_code": "21013",
+      "country_code": "CR",
+      "latitude": 10.7564,
+      "longitude": -84.4727,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Cañas Dulces",
+      "postal_code": "50102",
+      "country_code": "CR",
+      "latitude": 10.7602,
+      "longitude": -85.4504,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Nicoya",
+      "postal_code": "50201",
+      "country_code": "CR",
+      "latitude": 10.1183,
+      "longitude": -85.5052,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Pará",
+      "postal_code": "40308",
+      "country_code": "CR",
+      "latitude": 10.0048,
+      "longitude": -84.0346,
+      "admin_name1": "Provincia de Heredia"
+    },
+    {
+      "place_name": "Chacarita",
+      "postal_code": "60112",
+      "country_code": "CR",
+      "latitude": 9.9843,
+      "longitude": -84.769,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Pocora",
+      "postal_code": "70603",
+      "country_code": "CR",
+      "latitude": 10.134,
+      "longitude": -83.6222,
+      "admin_name1": "Provincia de Limón"
+    },
+    {
+      "place_name": "Pavón",
+      "postal_code": "60704",
+      "country_code": "CR",
+      "latitude": 8.3834,
+      "longitude": -83.0968,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Sabalito",
+      "postal_code": "60802",
+      "country_code": "CR",
+      "latitude": 8.8165,
+      "longitude": -82.9015,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Tirrases",
+      "postal_code": "11804",
+      "country_code": "CR",
+      "latitude": 9.9018,
+      "longitude": -84.033,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Nosara",
+      "postal_code": "50206",
+      "country_code": "CR",
+      "latitude": 9.9756,
+      "longitude": -85.6254,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Heredia",
+      "postal_code": "40101",
+      "country_code": "CR",
+      "latitude": 9.9981,
+      "longitude": -84.117,
+      "admin_name1": "Provincia de Heredia"
+    },
+    {
+      "place_name": "Parrita",
+      "postal_code": "60901",
+      "country_code": "CR",
+      "latitude": 9.562,
+      "longitude": -84.317,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Piedades",
+      "postal_code": "10905",
+      "country_code": "CR",
+      "latitude": 9.9174,
+      "longitude": -84.208,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "San Juan de Mata",
+      "postal_code": "11603",
+      "country_code": "CR",
+      "latitude": 9.8242,
+      "longitude": -84.5248,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Coyolar",
+      "postal_code": "20904",
+      "country_code": "CR",
+      "latitude": 9.8711,
+      "longitude": -84.5731,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Toro Amarillo",
+      "postal_code": "21203",
+      "country_code": "CR",
+      "latitude": 10.2218,
+      "longitude": -84.2864,
+      "admin_name1": "Provincia de Alajuela"
+    },
+    {
+      "place_name": "Sámara",
+      "postal_code": "50205",
+      "country_code": "CR",
+      "latitude": 9.9109,
+      "longitude": -85.538,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Cuajiniquil",
+      "postal_code": "50306",
+      "country_code": "CR",
+      "latitude": 10.0723,
+      "longitude": -85.6954,
+      "admin_name1": "Provincia de Guanacaste"
+    },
+    {
+      "place_name": "Paracito",
+      "postal_code": "40304",
+      "country_code": "CR",
+      "latitude": 10.0004,
+      "longitude": -84.0273,
+      "admin_name1": "Provincia de Heredia"
+    },
+    {
+      "place_name": "Guacimal",
+      "postal_code": "60107",
+      "country_code": "CR",
+      "latitude": 10.2191,
+      "longitude": -84.831,
+      "admin_name1": "Provincia de Puntarenas"
+    },
+    {
+      "place_name": "Tabarcia",
+      "postal_code": "10703",
+      "country_code": "CR",
+      "latitude": 9.8486,
+      "longitude": -84.2192,
+      "admin_name1": "Provincia de San José"
+    },
+    {
+      "place_name": "Barú",
+      "postal_code": "11909",
+      "country_code": "CR",
+      "latitude": 9.3199,
+      "longitude": -83.8181,
+      "admin_name1": "Provincia de San José"
+    }
+  ]
+]

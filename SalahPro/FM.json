@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "place_name": "Pohnpei",
+      "postal_code": "96941",
+      "country_code": "FM",
+      "latitude": 7.1383,
+      "longitude": 151.5031,
+      "admin_name1": "State of Pohnpei"
+    },
+    {
+      "place_name": "Yap",
+      "postal_code": "96943",
+      "country_code": "FM",
+      "latitude": 7.1383,
+      "longitude": 151.5031,
+      "admin_name1": "State of Yap"
+    },
+    {
+      "place_name": "Chuuk",
+      "postal_code": "96942",
+      "country_code": "FM",
+      "latitude": 7.1383,
+      "longitude": 151.5031,
+      "admin_name1": "State of Chuuk"
+    },
+    {
+      "place_name": "Kosrae",
+      "postal_code": "96944",
+      "country_code": "FM",
+      "latitude": 7.1383,
+      "longitude": 151.5031,
+      "admin_name1": "State of Kosrae"
+    }
+  ]
+]

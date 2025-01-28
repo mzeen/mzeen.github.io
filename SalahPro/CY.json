@@ -1,0 +1,5804 @@
+[
+  [
+    {
+      "place_name": "Melounta",
+      "postal_code": "5630",
+      "country_code": "CY",
+      "latitude": 35.3326,
+      "longitude": 33.6893,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Santalaris",
+      "postal_code": "5637",
+      "country_code": "CY",
+      "latitude": 35.2104,
+      "longitude": 33.8007,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Agios Iakovos",
+      "postal_code": "5762",
+      "country_code": "CY",
+      "latitude": 35.327,
+      "longitude": 33.8151,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Krideia",
+      "postal_code": "5767",
+      "country_code": "CY",
+      "latitude": 35.3953,
+      "longitude": 33.9729,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Vothylakas",
+      "postal_code": "5822",
+      "country_code": "CY",
+      "latitude": 35.4834,
+      "longitude": 34.1871,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Sichari",
+      "postal_code": "9549",
+      "country_code": "CY",
+      "latitude": 35.2764,
+      "longitude": 33.3812,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Motides",
+      "postal_code": "9635",
+      "country_code": "CY",
+      "latitude": 35.3349,
+      "longitude": 33.2073,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Larnaka",
+      "postal_code": "6059",
+      "country_code": "CY",
+      "latitude": 34.9229,
+      "longitude": 33.6233,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Pergamos",
+      "postal_code": "7504",
+      "country_code": "CY",
+      "latitude": 35.0417,
+      "longitude": 33.7083,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Tersefanou",
+      "postal_code": "7562",
+      "country_code": "CY",
+      "latitude": 34.8541,
+      "longitude": 33.5474,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Anafotida",
+      "postal_code": "7573",
+      "country_code": "CY",
+      "latitude": 34.8244,
+      "longitude": 33.4636,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Kornos",
+      "postal_code": "7640",
+      "country_code": "CY",
+      "latitude": 34.9222,
+      "longitude": 33.3959,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Pyrga Larnakas",
+      "postal_code": "7648",
+      "country_code": "CY",
+      "latitude": 34.9259,
+      "longitude": 33.4338,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Stathmos Skarinou",
+      "postal_code": "7732",
+      "country_code": "CY",
+      "latitude": 34.7755,
+      "longitude": 33.3481,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Lefkosia (Pallouriotissa)",
+      "postal_code": "1045",
+      "country_code": "CY",
+      "latitude": 35.1759,
+      "longitude": 33.3907,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Strovolos",
+      "postal_code": "2038",
+      "country_code": "CY",
+      "latitude": 35.1487,
+      "longitude": 33.3338,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Latsia",
+      "postal_code": "2220",
+      "country_code": "CY",
+      "latitude": 35.1017,
+      "longitude": 33.3795,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Lakatameia",
+      "postal_code": "2304",
+      "country_code": "CY",
+      "latitude": 35.1735,
+      "longitude": 33.3405,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kotsiatis",
+      "postal_code": "2564",
+      "country_code": "CY",
+      "latitude": 35.0132,
+      "longitude": 33.3501,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Ergates",
+      "postal_code": "2643",
+      "country_code": "CY",
+      "latitude": 35.0537,
+      "longitude": 33.2429,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Palaichori Oreinis",
+      "postal_code": "2745",
+      "country_code": "CY",
+      "latitude": 35.0717,
+      "longitude": 33.0357,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Loutros",
+      "postal_code": "2957",
+      "country_code": "CY",
+      "latitude": 35.1458,
+      "longitude": 32.7456,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Lemesos",
+      "postal_code": "3020",
+      "country_code": "CY",
+      "latitude": 34.6841,
+      "longitude": 33.0379,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Agios Athanasios",
+      "postal_code": "4101",
+      "country_code": "CY",
+      "latitude": 34.7093,
+      "longitude": 33.05,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Ypsonas",
+      "postal_code": "4193",
+      "country_code": "CY",
+      "latitude": 34.688,
+      "longitude": 32.9619,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Agios Tychon",
+      "postal_code": "4521",
+      "country_code": "CY",
+      "latitude": 34.743,
+      "longitude": 33.1523,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Pissouri",
+      "postal_code": "4607",
+      "country_code": "CY",
+      "latitude": 34.6694,
+      "longitude": 32.7013,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Pafos",
+      "postal_code": "8025",
+      "country_code": "CY",
+      "latitude": 34.7768,
+      "longitude": 32.4245,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Axylou",
+      "postal_code": "8521",
+      "country_code": "CY",
+      "latitude": 34.8063,
+      "longitude": 32.5644,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Moro Nero",
+      "postal_code": "8542",
+      "country_code": "CY",
+      "latitude": 34.813,
+      "longitude": 32.5259,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Agios Ioannis Pafou",
+      "postal_code": "8621",
+      "country_code": "CY",
+      "latitude": 34.8695,
+      "longitude": 32.6912,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Asprogia",
+      "postal_code": "8643",
+      "country_code": "CY",
+      "latitude": 34.9223,
+      "longitude": 32.6147,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Mamountali",
+      "postal_code": "8648",
+      "country_code": "CY",
+      "latitude": 34.914,
+      "longitude": 32.6023,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Pentalia",
+      "postal_code": "8650",
+      "country_code": "CY",
+      "latitude": 34.856,
+      "longitude": 32.6207,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Milia Pafou",
+      "postal_code": "8744",
+      "country_code": "CY",
+      "latitude": 34.92,
+      "longitude": 32.5403,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Dasikos Stathmos Stavrou tis Psokas",
+      "postal_code": "8804",
+      "country_code": "CY",
+      "latitude": 34.9759,
+      "longitude": 32.5242,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Evretou",
+      "postal_code": "8805",
+      "country_code": "CY",
+      "latitude": 34.9571,
+      "longitude": 32.4881,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Meladeia",
+      "postal_code": "8808",
+      "country_code": "CY",
+      "latitude": 34.9882,
+      "longitude": 32.5067,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Paralimni",
+      "postal_code": "5297",
+      "country_code": "CY",
+      "latitude": 35.0395,
+      "longitude": 33.9818,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Afanteia - Ornithi",
+      "postal_code": "5560",
+      "country_code": "CY",
+      "latitude": 35.1198,
+      "longitude": 33.717,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Agios Amvrosios Keryneias",
+      "postal_code": "9560",
+      "country_code": "CY",
+      "latitude": 35.339,
+      "longitude": 33.5826,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Lefkosia",
+      "postal_code": "1061",
+      "country_code": "CY",
+      "latitude": 35.1753,
+      "longitude": 33.3642,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Egkomi",
+      "postal_code": "2413",
+      "country_code": "CY",
+      "latitude": 35.1632,
+      "longitude": 33.3401,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agia",
+      "postal_code": "2561",
+      "country_code": "CY",
+      "latitude": 35.1091,
+      "longitude": 33.5641,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Malounta",
+      "postal_code": "2612",
+      "country_code": "CY",
+      "latitude": 35.0351,
+      "longitude": 33.1831,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kannavia",
+      "postal_code": "2834",
+      "country_code": "CY",
+      "latitude": 34.9831,
+      "longitude": 32.9769,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Sinaoros",
+      "postal_code": "2839",
+      "country_code": "CY",
+      "latitude": 35.0093,
+      "longitude": 32.8993,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Ampelikou",
+      "postal_code": "2920",
+      "country_code": "CY",
+      "latitude": 35.1203,
+      "longitude": 32.804,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kato Polemidia",
+      "postal_code": "4152",
+      "country_code": "CY",
+      "latitude": 34.6972,
+      "longitude": 32.9932,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Profitis Ilias",
+      "postal_code": "4511",
+      "country_code": "CY",
+      "latitude": 34.8075,
+      "longitude": 33.1887,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Dasiko Kolegio Kyprou",
+      "postal_code": "4841",
+      "country_code": "CY",
+      "latitude": 34.9364,
+      "longitude": 32.8087,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Kaminaria",
+      "postal_code": "4843",
+      "country_code": "CY",
+      "latitude": 34.9283,
+      "longitude": 32.7842,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Agros",
+      "postal_code": "4860",
+      "country_code": "CY",
+      "latitude": 34.9178,
+      "longitude": 33.0181,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Tsada",
+      "postal_code": "8540",
+      "country_code": "CY",
+      "latitude": 34.8386,
+      "longitude": 32.475,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Galataria",
+      "postal_code": "8645",
+      "country_code": "CY",
+      "latitude": 34.8774,
+      "longitude": 32.6317,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Karamoullides",
+      "postal_code": "8851",
+      "country_code": "CY",
+      "latitude": 34.9995,
+      "longitude": 32.443,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Argaka",
+      "postal_code": "8873",
+      "country_code": "CY",
+      "latitude": 35.0659,
+      "longitude": 32.4923,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Agios Ilias",
+      "postal_code": "5722",
+      "country_code": "CY",
+      "latitude": 35.3288,
+      "longitude": 33.9282,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Agia Trias",
+      "postal_code": "5870",
+      "country_code": "CY",
+      "latitude": 35.5387,
+      "longitude": 34.216,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Pileri",
+      "postal_code": "9548",
+      "country_code": "CY",
+      "latitude": 35.291,
+      "longitude": 33.2179,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Chalefka",
+      "postal_code": "9576",
+      "country_code": "CY",
+      "latitude": 35.3175,
+      "longitude": 33.5118,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Elia Keryneias",
+      "postal_code": "9632",
+      "country_code": "CY",
+      "latitude": 35.3322,
+      "longitude": 33.2193,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Anglisides",
+      "postal_code": "7571",
+      "country_code": "CY",
+      "latitude": 34.855,
+      "longitude": 33.4564,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Aplanta",
+      "postal_code": "7574",
+      "country_code": "CY",
+      "latitude": 34.8296,
+      "longitude": 33.4755,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Lageia",
+      "postal_code": "7715",
+      "country_code": "CY",
+      "latitude": 34.8429,
+      "longitude": 33.2467,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Mari",
+      "postal_code": "7736",
+      "country_code": "CY",
+      "latitude": 34.7406,
+      "longitude": 33.2993,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Aglantzia",
+      "postal_code": "2114",
+      "country_code": "CY",
+      "latitude": 35.1542,
+      "longitude": 33.3964,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agios Dometios",
+      "postal_code": "2370",
+      "country_code": "CY",
+      "latitude": 35.1735,
+      "longitude": 33.3405,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Tseri",
+      "postal_code": "2480",
+      "country_code": "CY",
+      "latitude": 35.0731,
+      "longitude": 33.3234,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Voni",
+      "postal_code": "2520",
+      "country_code": "CY",
+      "latitude": 35.2304,
+      "longitude": 33.4961,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Pera Chorio",
+      "postal_code": "2572",
+      "country_code": "CY",
+      "latitude": 35.012,
+      "longitude": 33.3939,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Gourri",
+      "postal_code": "2615",
+      "country_code": "CY",
+      "latitude": 34.9574,
+      "longitude": 33.1578,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Moni Panagias Theotokou",
+      "postal_code": "2653",
+      "country_code": "CY",
+      "latitude": 35.0304,
+      "longitude": 33.2487,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Dyo Potamoi",
+      "postal_code": "2676",
+      "country_code": "CY",
+      "latitude": 35.2458,
+      "longitude": 33.0958,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Astromeritis",
+      "postal_code": "2722",
+      "country_code": "CY",
+      "latitude": 35.141,
+      "longitude": 33.0379,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agioi Iliofotoi",
+      "postal_code": "2775",
+      "country_code": "CY",
+      "latitude": 35.058,
+      "longitude": 33.0928,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kato Moni",
+      "postal_code": "2776",
+      "country_code": "CY",
+      "latitude": 35.0605,
+      "longitude": 33.0941,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kaliana",
+      "postal_code": "2832",
+      "country_code": "CY",
+      "latitude": 35.0107,
+      "longitude": 32.8835,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Potamos Tou Kampou",
+      "postal_code": "2930",
+      "country_code": "CY",
+      "latitude": 35.1437,
+      "longitude": 32.8079,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kato Pyrgos",
+      "postal_code": "2940",
+      "country_code": "CY",
+      "latitude": 35.179,
+      "longitude": 32.686,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agios Pavlos",
+      "postal_code": "4562",
+      "country_code": "CY",
+      "latitude": 34.8639,
+      "longitude": 33.046,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Scholi Mitsi",
+      "postal_code": "4848",
+      "country_code": "CY",
+      "latitude": 34.9364,
+      "longitude": 32.8087,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Geroskipou",
+      "postal_code": "8200",
+      "country_code": "CY",
+      "latitude": 34.7609,
+      "longitude": 32.4484,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Agia Varvara Pafou",
+      "postal_code": "8501",
+      "country_code": "CY",
+      "latitude": 34.7507,
+      "longitude": 32.5116,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Foinikas",
+      "postal_code": "8508",
+      "country_code": "CY",
+      "latitude": 34.7528,
+      "longitude": 32.5687,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Pittokopos",
+      "postal_code": "8705",
+      "country_code": "CY",
+      "latitude": 34.9626,
+      "longitude": 32.3911,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kynousa",
+      "postal_code": "8876",
+      "country_code": "CY",
+      "latitude": 35.0837,
+      "longitude": 32.5172,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Avgorou",
+      "postal_code": "5510",
+      "country_code": "CY",
+      "latitude": 35.0362,
+      "longitude": 33.8392,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Trikomo",
+      "postal_code": "5700",
+      "country_code": "CY",
+      "latitude": 35.2863,
+      "longitude": 33.8917,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Agios Symeon",
+      "postal_code": "5821",
+      "country_code": "CY",
+      "latitude": 35.491,
+      "longitude": 34.2185,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Rizokarpaso",
+      "postal_code": "5850",
+      "country_code": "CY",
+      "latitude": 35.5972,
+      "longitude": 34.3792,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Agios Epiktitos",
+      "postal_code": "9500",
+      "country_code": "CY",
+      "latitude": 35.3207,
+      "longitude": 33.3903,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Trimithi",
+      "postal_code": "9516",
+      "country_code": "CY",
+      "latitude": 35.3288,
+      "longitude": 33.2598,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Kato Dikomo",
+      "postal_code": "9530",
+      "country_code": "CY",
+      "latitude": 35.2675,
+      "longitude": 33.3247,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Armenomonastiro",
+      "postal_code": "9570",
+      "country_code": "CY",
+      "latitude": 35.3175,
+      "longitude": 33.5118,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Klepini",
+      "postal_code": "9572",
+      "country_code": "CY",
+      "latitude": 35.3065,
+      "longitude": 33.4353,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Kampyli",
+      "postal_code": "9615",
+      "country_code": "CY",
+      "latitude": 35.3014,
+      "longitude": 33.1075,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Dromolaxia",
+      "postal_code": "7020",
+      "country_code": "CY",
+      "latitude": 34.8755,
+      "longitude": 33.5868,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Aradippou",
+      "postal_code": "7104",
+      "country_code": "CY",
+      "latitude": 34.9478,
+      "longitude": 33.5881,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Dekeleia",
+      "postal_code": "7502",
+      "country_code": "CY",
+      "latitude": 35.0146,
+      "longitude": 33.6294,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Perivolia Larnakas",
+      "postal_code": "7560",
+      "country_code": "CY",
+      "latitude": 34.8289,
+      "longitude": 33.5827,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Vavatsinia",
+      "postal_code": "7712",
+      "country_code": "CY",
+      "latitude": 34.8935,
+      "longitude": 33.2285,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Trachonas",
+      "postal_code": "2470",
+      "country_code": "CY",
+      "latitude": 35.1964,
+      "longitude": 33.3598,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kalyvakia",
+      "postal_code": "2523",
+      "country_code": "CY",
+      "latitude": 35.2582,
+      "longitude": 33.5484,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Potamia",
+      "postal_code": "2573",
+      "country_code": "CY",
+      "latitude": 35.0422,
+      "longitude": 33.4453,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agios Epifanios Oreinis",
+      "postal_code": "2610",
+      "country_code": "CY",
+      "latitude": 34.9818,
+      "longitude": 33.1594,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Margi",
+      "postal_code": "2647",
+      "country_code": "CY",
+      "latitude": 35.0239,
+      "longitude": 33.3252,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agios Vasileios",
+      "postal_code": "2672",
+      "country_code": "CY",
+      "latitude": 35.2184,
+      "longitude": 33.1838,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kato Zοdia",
+      "postal_code": "2723",
+      "country_code": "CY",
+      "latitude": 35.1665,
+      "longitude": 33.0079,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Anogyra",
+      "postal_code": "4603",
+      "country_code": "CY",
+      "latitude": 34.7397,
+      "longitude": 32.7345,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Kantou",
+      "postal_code": "4631",
+      "country_code": "CY",
+      "latitude": 34.6903,
+      "longitude": 32.9067,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Arsos Lemesou",
+      "postal_code": "4770",
+      "country_code": "CY",
+      "latitude": 34.8412,
+      "longitude": 32.7694,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Kato Amiantos",
+      "postal_code": "4810",
+      "country_code": "CY",
+      "latitude": 34.9172,
+      "longitude": 32.9358,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Moni Trooditissis",
+      "postal_code": "4812",
+      "country_code": "CY",
+      "latitude": 34.9039,
+      "longitude": 32.8826,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Chandria",
+      "postal_code": "4875",
+      "country_code": "CY",
+      "latitude": 34.9439,
+      "longitude": 32.9939,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Kouklia Pafou (Cha Potami)",
+      "postal_code": "8510",
+      "country_code": "CY",
+      "latitude": 34.808,
+      "longitude": 32.5118,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Stavrokonnou",
+      "postal_code": "8601",
+      "country_code": "CY",
+      "latitude": 34.7855,
+      "longitude": 32.6182,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Mousere",
+      "postal_code": "8605",
+      "country_code": "CY",
+      "latitude": 34.7708,
+      "longitude": 32.7155,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Drouseia",
+      "postal_code": "8700",
+      "country_code": "CY",
+      "latitude": 34.9626,
+      "longitude": 32.3911,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Fasli",
+      "postal_code": "8706",
+      "country_code": "CY",
+      "latitude": 34.9817,
+      "longitude": 32.371,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Sarama",
+      "postal_code": "8814",
+      "country_code": "CY",
+      "latitude": 34.9563,
+      "longitude": 32.5289,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Steni",
+      "postal_code": "8884",
+      "country_code": "CY",
+      "latitude": 34.9976,
+      "longitude": 32.4723,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Frenaros",
+      "postal_code": "5350",
+      "country_code": "CY",
+      "latitude": 35.0412,
+      "longitude": 33.9224,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Gaidouras (Nea Sparti)",
+      "postal_code": "5624",
+      "country_code": "CY",
+      "latitude": 35.2305,
+      "longitude": 33.8005,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Peristerona Ammochostou",
+      "postal_code": "5633",
+      "country_code": "CY",
+      "latitude": 35.2178,
+      "longitude": 33.761,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Gastria",
+      "postal_code": "5727",
+      "country_code": "CY",
+      "latitude": 35.3427,
+      "longitude": 33.9999,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Lapathos",
+      "postal_code": "5728",
+      "country_code": "CY",
+      "latitude": 35.27,
+      "longitude": 33.8259,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Moni Panagias Eleousas",
+      "postal_code": "5877",
+      "country_code": "CY",
+      "latitude": 35.5241,
+      "longitude": 34.2639,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Kalograia",
+      "postal_code": "9571",
+      "country_code": "CY",
+      "latitude": 35.3379,
+      "longitude": 33.6306,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Agios Ermolaos",
+      "postal_code": "9611",
+      "country_code": "CY",
+      "latitude": 35.2781,
+      "longitude": 33.1725,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Kormakitis",
+      "postal_code": "9618",
+      "country_code": "CY",
+      "latitude": 35.343,
+      "longitude": 33.01,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Geri",
+      "postal_code": "2202",
+      "country_code": "CY",
+      "latitude": 35.1056,
+      "longitude": 33.4198,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Beikioi",
+      "postal_code": "2527",
+      "country_code": "CY",
+      "latitude": 35.2368,
+      "longitude": 33.502,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Dali (Kallithea)",
+      "postal_code": "2548",
+      "country_code": "CY",
+      "latitude": 35.0229,
+      "longitude": 33.4219,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Lympia",
+      "postal_code": "2566",
+      "country_code": "CY",
+      "latitude": 34.9989,
+      "longitude": 33.4617,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Meniko",
+      "postal_code": "2728",
+      "country_code": "CY",
+      "latitude": 35.1094,
+      "longitude": 33.1447,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Peristerona Lefkosias",
+      "postal_code": "2731",
+      "country_code": "CY",
+      "latitude": 35.0717,
+      "longitude": 33.0357,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Skouriotissa",
+      "postal_code": "2840",
+      "country_code": "CY",
+      "latitude": 35.0917,
+      "longitude": 32.8841,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Xeros",
+      "postal_code": "2927",
+      "country_code": "CY",
+      "latitude": 35.1395,
+      "longitude": 32.8343,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agio Georgoudi",
+      "postal_code": "2952",
+      "country_code": "CY",
+      "latitude": 35.1607,
+      "longitude": 32.6227,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Mosfileri",
+      "postal_code": "2959",
+      "country_code": "CY",
+      "latitude": 35.1804,
+      "longitude": 32.6309,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kalo Chorio Lemesou",
+      "postal_code": "4566",
+      "country_code": "CY",
+      "latitude": 34.8502,
+      "longitude": 33.0311,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Akrotiri",
+      "postal_code": "4640",
+      "country_code": "CY",
+      "latitude": 34.6377,
+      "longitude": 32.9596,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Monagri",
+      "postal_code": "4746",
+      "country_code": "CY",
+      "latitude": 34.8098,
+      "longitude": 32.9106,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Omodos",
+      "postal_code": "4760",
+      "country_code": "CY",
+      "latitude": 34.8483,
+      "longitude": 32.8089,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Stathmos Mozora",
+      "postal_code": "4813",
+      "country_code": "CY",
+      "latitude": 34.9039,
+      "longitude": 32.8826,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Agridia",
+      "postal_code": "4872",
+      "country_code": "CY",
+      "latitude": 34.9283,
+      "longitude": 32.9947,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Mesogi",
+      "postal_code": "8280",
+      "country_code": "CY",
+      "latitude": 34.8153,
+      "longitude": 32.4563,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Konia",
+      "postal_code": "8300",
+      "country_code": "CY",
+      "latitude": 34.7852,
+      "longitude": 32.459,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kouklia Pafou",
+      "postal_code": "8500",
+      "country_code": "CY",
+      "latitude": 34.7099,
+      "longitude": 32.5733,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Mandria Pafou",
+      "postal_code": "8504",
+      "country_code": "CY",
+      "latitude": 34.7157,
+      "longitude": 32.5317,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Koilineia",
+      "postal_code": "8646",
+      "country_code": "CY",
+      "latitude": 34.8851,
+      "longitude": 32.6167,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kannaviou",
+      "postal_code": "8746",
+      "country_code": "CY",
+      "latitude": 34.9162,
+      "longitude": 32.5754,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Lysos",
+      "postal_code": "8800",
+      "country_code": "CY",
+      "latitude": 34.9958,
+      "longitude": 32.5125,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Sinta",
+      "postal_code": "5567",
+      "country_code": "CY",
+      "latitude": 35.1571,
+      "longitude": 33.7011,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Agios Chariton",
+      "postal_code": "5651",
+      "country_code": "CY",
+      "latitude": 35.3053,
+      "longitude": 33.6046,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Arnadi",
+      "postal_code": "5724",
+      "country_code": "CY",
+      "latitude": 35.2366,
+      "longitude": 33.8605,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Ovgoros",
+      "postal_code": "5769",
+      "country_code": "CY",
+      "latitude": 35.3659,
+      "longitude": 33.9384,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Flamoudi",
+      "postal_code": "5771",
+      "country_code": "CY",
+      "latitude": 35.3966,
+      "longitude": 33.8571,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Templos",
+      "postal_code": "9515",
+      "country_code": "CY",
+      "latitude": 35.3317,
+      "longitude": 33.295,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Moni Panagias Melandrinas",
+      "postal_code": "9574",
+      "country_code": "CY",
+      "latitude": 35.3175,
+      "longitude": 33.5118,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Dali (Nea Lidra)",
+      "postal_code": "2549",
+      "country_code": "CY",
+      "latitude": 35.0229,
+      "longitude": 33.4219,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Moni Machaira",
+      "postal_code": "2621",
+      "country_code": "CY",
+      "latitude": 34.9716,
+      "longitude": 33.1437,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Fikardou",
+      "postal_code": "2623",
+      "country_code": "CY",
+      "latitude": 34.9597,
+      "longitude": 33.1709,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Masari",
+      "postal_code": "2680",
+      "country_code": "CY",
+      "latitude": 35.1865,
+      "longitude": 33.0769,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Skylloura",
+      "postal_code": "2683",
+      "country_code": "CY",
+      "latitude": 35.2303,
+      "longitude": 33.1654,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Palaichori Morfou",
+      "postal_code": "2740",
+      "country_code": "CY",
+      "latitude": 35.0717,
+      "longitude": 33.0357,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Asinou",
+      "postal_code": "2778",
+      "country_code": "CY",
+      "latitude": 35.0442,
+      "longitude": 32.9723,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Mesa Geitonia",
+      "postal_code": "4003",
+      "country_code": "CY",
+      "latitude": 34.7006,
+      "longitude": 33.0437,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Germasogeia",
+      "postal_code": "4047",
+      "country_code": "CY",
+      "latitude": 34.7207,
+      "longitude": 33.0845,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Limnatis",
+      "postal_code": "4546",
+      "country_code": "CY",
+      "latitude": 34.8132,
+      "longitude": 32.9481,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Erimi",
+      "postal_code": "4630",
+      "country_code": "CY",
+      "latitude": 34.6777,
+      "longitude": 32.9182,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Alassa",
+      "postal_code": "4712",
+      "country_code": "CY",
+      "latitude": 34.7631,
+      "longitude": 32.9269,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Mandria Lemesou",
+      "postal_code": "4778",
+      "country_code": "CY",
+      "latitude": 34.8701,
+      "longitude": 32.8323,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Chlorakas",
+      "postal_code": "8220",
+      "country_code": "CY",
+      "latitude": 34.7984,
+      "longitude": 32.4065,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Pitargou",
+      "postal_code": "8547",
+      "country_code": "CY",
+      "latitude": 34.8374,
+      "longitude": 32.5337,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Liopetri",
+      "postal_code": "5320",
+      "country_code": "CY",
+      "latitude": 35.0088,
+      "longitude": 33.8926,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Deryneia",
+      "postal_code": "5380",
+      "country_code": "CY",
+      "latitude": 35.0648,
+      "longitude": 33.9608,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Lysi",
+      "postal_code": "5540",
+      "country_code": "CY",
+      "latitude": 35.1047,
+      "longitude": 33.681,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Moni Apostolou Varnava",
+      "postal_code": "5632",
+      "country_code": "CY",
+      "latitude": 35.225,
+      "longitude": 33.7689,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Mousoulita",
+      "postal_code": "5658",
+      "country_code": "CY",
+      "latitude": 35.193,
+      "longitude": 33.6406,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Bogazi",
+      "postal_code": "5731",
+      "country_code": "CY",
+      "latitude": 35.3136,
+      "longitude": 33.9525,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Mandres Ammochostou",
+      "postal_code": "5768",
+      "country_code": "CY",
+      "latitude": 35.3471,
+      "longitude": 33.7992,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Stathmos Bogaziou",
+      "postal_code": "9550",
+      "country_code": "CY",
+      "latitude": 35.2641,
+      "longitude": 33.2225,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Mazotos",
+      "postal_code": "7577",
+      "country_code": "CY",
+      "latitude": 34.8036,
+      "longitude": 33.4895,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Menogeia",
+      "postal_code": "7578",
+      "country_code": "CY",
+      "latitude": 34.8437,
+      "longitude": 33.4412,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Moni Agias Varvaras",
+      "postal_code": "7650",
+      "country_code": "CY",
+      "latitude": 34.9802,
+      "longitude": 33.4923,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Agioi Vavatsinias",
+      "postal_code": "7711",
+      "country_code": "CY",
+      "latitude": 34.8796,
+      "longitude": 33.1913,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Ortakioi",
+      "postal_code": "2681",
+      "country_code": "CY",
+      "latitude": 35.2022,
+      "longitude": 33.3386,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Alithinou",
+      "postal_code": "2750",
+      "country_code": "CY",
+      "latitude": 34.9461,
+      "longitude": 33.0331,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kato Flasou",
+      "postal_code": "2843",
+      "country_code": "CY",
+      "latitude": 35.0608,
+      "longitude": 32.8877,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Pano Flasou",
+      "postal_code": "2844",
+      "country_code": "CY",
+      "latitude": 35.0689,
+      "longitude": 32.8887,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kokkina",
+      "postal_code": "2955",
+      "country_code": "CY",
+      "latitude": 35.1775,
+      "longitude": 32.612,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Pigenia",
+      "postal_code": "2962",
+      "country_code": "CY",
+      "latitude": 35.1676,
+      "longitude": 32.6543,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Sanida",
+      "postal_code": "4510",
+      "country_code": "CY",
+      "latitude": 34.8075,
+      "longitude": 33.1887,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Moni Agiou Georgiou Alamanou",
+      "postal_code": "4526",
+      "country_code": "CY",
+      "latitude": 34.743,
+      "longitude": 33.1523,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Spitali",
+      "postal_code": "4550",
+      "country_code": "CY",
+      "latitude": 34.7634,
+      "longitude": 33.0022,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Kolossi (Synoikismos)",
+      "postal_code": "4636",
+      "country_code": "CY",
+      "latitude": 34.6976,
+      "longitude": 32.8768,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Kato Kivides",
+      "postal_code": "4714",
+      "country_code": "CY",
+      "latitude": 34.7647,
+      "longitude": 32.8638,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Kouka",
+      "postal_code": "4743",
+      "country_code": "CY",
+      "latitude": 34.8512,
+      "longitude": 32.8879,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Saittas",
+      "postal_code": "4748",
+      "country_code": "CY",
+      "latitude": 34.8687,
+      "longitude": 32.9163,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Foini",
+      "postal_code": "4814",
+      "country_code": "CY",
+      "latitude": 34.8924,
+      "longitude": 32.8378,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Kato Platres",
+      "postal_code": "4815",
+      "country_code": "CY",
+      "latitude": 34.8782,
+      "longitude": 32.8396,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Treis Elies",
+      "postal_code": "4846",
+      "country_code": "CY",
+      "latitude": 34.9311,
+      "longitude": 32.7942,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Kato Panagia",
+      "postal_code": "8548",
+      "country_code": "CY",
+      "latitude": 34.85,
+      "longitude": 32.5085,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kissonerga",
+      "postal_code": "8574",
+      "country_code": "CY",
+      "latitude": 34.8228,
+      "longitude": 32.4013,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Pegeia (Kolpos Korallion)",
+      "postal_code": "8575",
+      "country_code": "CY",
+      "latitude": 34.8646,
+      "longitude": 32.4199,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Trachypedoula",
+      "postal_code": "8608",
+      "country_code": "CY",
+      "latitude": 34.8006,
+      "longitude": 32.679,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kidasi",
+      "postal_code": "8627",
+      "country_code": "CY",
+      "latitude": 34.8073,
+      "longitude": 32.7133,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Fylousa Chrysochous",
+      "postal_code": "8629",
+      "country_code": "CY",
+      "latitude": 34.8444,
+      "longitude": 32.7058,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Agios Dimitrianos",
+      "postal_code": "8741",
+      "country_code": "CY",
+      "latitude": 34.9068,
+      "longitude": 32.5505,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Asseia (Askeia)",
+      "postal_code": "5561",
+      "country_code": "CY",
+      "latitude": 35.1198,
+      "longitude": 33.717,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Psyllatos",
+      "postal_code": "5661",
+      "country_code": "CY",
+      "latitude": 35.2538,
+      "longitude": 33.6873,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Avgolida",
+      "postal_code": "5725",
+      "country_code": "CY",
+      "latitude": 35.3548,
+      "longitude": 33.9627,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Sygkrasi",
+      "postal_code": "5735",
+      "country_code": "CY",
+      "latitude": 35.2729,
+      "longitude": 33.8523,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Pano Dikomo",
+      "postal_code": "9540",
+      "country_code": "CY",
+      "latitude": 35.2777,
+      "longitude": 33.3218,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Vouno",
+      "postal_code": "9542",
+      "country_code": "CY",
+      "latitude": 35.271,
+      "longitude": 33.391,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Agia Eirini Keryneias",
+      "postal_code": "9610",
+      "country_code": "CY",
+      "latitude": 35.2989,
+      "longitude": 32.9634,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Kato Deftera",
+      "postal_code": "2450",
+      "country_code": "CY",
+      "latitude": 35.0849,
+      "longitude": 33.2756,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Palaikythro",
+      "postal_code": "2529",
+      "country_code": "CY",
+      "latitude": 35.2075,
+      "longitude": 33.493,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Politiko",
+      "postal_code": "2651",
+      "country_code": "CY",
+      "latitude": 35.0274,
+      "longitude": 33.2433,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kokkinotrimithia",
+      "postal_code": "2660",
+      "country_code": "CY",
+      "latitude": 35.153,
+      "longitude": 33.1997,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agroladou",
+      "postal_code": "2837",
+      "country_code": "CY",
+      "latitude": 35.0486,
+      "longitude": 32.897,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Mouttagiaka",
+      "postal_code": "4527",
+      "country_code": "CY",
+      "latitude": 34.7202,
+      "longitude": 33.1007,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Kapileio",
+      "postal_code": "4544",
+      "country_code": "CY",
+      "latitude": 34.8325,
+      "longitude": 32.959,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Agios Georgios Lemesou",
+      "postal_code": "4740",
+      "country_code": "CY",
+      "latitude": 34.8437,
+      "longitude": 32.9104,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Laneia",
+      "postal_code": "4744",
+      "country_code": "CY",
+      "latitude": 34.8249,
+      "longitude": 32.9215,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Dymes",
+      "postal_code": "4873",
+      "country_code": "CY",
+      "latitude": 34.9175,
+      "longitude": 32.9839,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Eledio",
+      "postal_code": "8523",
+      "country_code": "CY",
+      "latitude": 34.8095,
+      "longitude": 32.5676,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Statos - Agios Fotios",
+      "postal_code": "8651",
+      "country_code": "CY",
+      "latitude": 34.8885,
+      "longitude": 32.6159,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Androlikou",
+      "postal_code": "8701",
+      "country_code": "CY",
+      "latitude": 34.9986,
+      "longitude": 32.3817,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Drymou",
+      "postal_code": "8742",
+      "country_code": "CY",
+      "latitude": 34.9255,
+      "longitude": 32.5134,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Agios Sergios",
+      "postal_code": "5621",
+      "country_code": "CY",
+      "latitude": 35.1964,
+      "longitude": 33.8742,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Genagra",
+      "postal_code": "5655",
+      "country_code": "CY",
+      "latitude": 35.2174,
+      "longitude": 33.6981,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Agios Theodoros Ammochostou",
+      "postal_code": "5723",
+      "country_code": "CY",
+      "latitude": 35.366,
+      "longitude": 34.0288,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Monarga",
+      "postal_code": "5730",
+      "country_code": "CY",
+      "latitude": 35.3135,
+      "longitude": 33.9476,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Stathmos Koroveias",
+      "postal_code": "5876",
+      "country_code": "CY",
+      "latitude": 35.5241,
+      "longitude": 34.2639,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Myrtou",
+      "postal_code": "9600",
+      "country_code": "CY",
+      "latitude": 35.3073,
+      "longitude": 33.071,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Moni Acheiropoiitou",
+      "postal_code": "9634",
+      "country_code": "CY",
+      "latitude": 35.342,
+      "longitude": 33.1292,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Moni Metamorfoseos tou Sotiros",
+      "postal_code": "7509",
+      "country_code": "CY",
+      "latitude": 35.0146,
+      "longitude": 33.6294,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Moni Panagias Galaktotrofousis",
+      "postal_code": "7646",
+      "country_code": "CY",
+      "latitude": 34.9336,
+      "longitude": 33.442,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Psevdas",
+      "postal_code": "7649",
+      "country_code": "CY",
+      "latitude": 34.9448,
+      "longitude": 33.4607,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Stathmos Kalavasou",
+      "postal_code": "7734",
+      "country_code": "CY",
+      "latitude": 34.7755,
+      "longitude": 33.3481,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Agios Nikolaos Stegis",
+      "postal_code": "2825",
+      "country_code": "CY",
+      "latitude": 35.0508,
+      "longitude": 32.9186,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Variseia",
+      "postal_code": "2921",
+      "country_code": "CY",
+      "latitude": 35.1303,
+      "longitude": 32.7498,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Galini",
+      "postal_code": "2922",
+      "country_code": "CY",
+      "latitude": 35.1358,
+      "longitude": 32.767,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Akti Kyverniti",
+      "postal_code": "4528",
+      "country_code": "CY",
+      "latitude": 34.743,
+      "longitude": 33.1523,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Episkopi Lemesou",
+      "postal_code": "4620",
+      "country_code": "CY",
+      "latitude": 34.6706,
+      "longitude": 32.9018,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Souni",
+      "postal_code": "4717",
+      "country_code": "CY",
+      "latitude": 34.7398,
+      "longitude": 32.8811,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Timi",
+      "postal_code": "8507",
+      "country_code": "CY",
+      "latitude": 34.7318,
+      "longitude": 32.5161,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Polemi",
+      "postal_code": "8549",
+      "country_code": "CY",
+      "latitude": 34.8861,
+      "longitude": 32.5071,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Arminou",
+      "postal_code": "8625",
+      "country_code": "CY",
+      "latitude": 34.8623,
+      "longitude": 32.7199,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Pano Panagia",
+      "postal_code": "8640",
+      "country_code": "CY",
+      "latitude": 34.9195,
+      "longitude": 32.6315,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Agios Merkourios",
+      "postal_code": "8801",
+      "country_code": "CY",
+      "latitude": 34.9759,
+      "longitude": 32.5242,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Nea Dimmata",
+      "postal_code": "8880",
+      "country_code": "CY",
+      "latitude": 35.1373,
+      "longitude": 32.5269,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Dasaki Achnas",
+      "postal_code": "5523",
+      "country_code": "CY",
+      "latitude": 35.1002,
+      "longitude": 33.8615,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Kontea",
+      "postal_code": "5564",
+      "country_code": "CY",
+      "latitude": 35.1027,
+      "longitude": 33.7158,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Maratha",
+      "postal_code": "5629",
+      "country_code": "CY",
+      "latitude": 35.2118,
+      "longitude": 33.7769,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Patriki",
+      "postal_code": "5732",
+      "country_code": "CY",
+      "latitude": 35.3632,
+      "longitude": 33.9965,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Akanthou",
+      "postal_code": "5750",
+      "country_code": "CY",
+      "latitude": 35.3739,
+      "longitude": 33.753,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Ardana",
+      "postal_code": "5763",
+      "country_code": "CY",
+      "latitude": 35.3566,
+      "longitude": 33.8859,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Agios Filon",
+      "postal_code": "5872",
+      "country_code": "CY",
+      "latitude": 35.5241,
+      "longitude": 34.2639,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Diorios",
+      "postal_code": "9614",
+      "country_code": "CY",
+      "latitude": 35.3057,
+      "longitude": 33.0548,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Orga",
+      "postal_code": "9636",
+      "country_code": "CY",
+      "latitude": 35.3582,
+      "longitude": 33.0332,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Panagra",
+      "postal_code": "9638",
+      "country_code": "CY",
+      "latitude": 35.334,
+      "longitude": 33.0685,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Anglikos Stratos Dekeleias",
+      "postal_code": "6370",
+      "country_code": "CY",
+      "latitude": 34.9965,
+      "longitude": 33.7339,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Voroklini",
+      "postal_code": "7040",
+      "country_code": "CY",
+      "latitude": 34.9814,
+      "longitude": 33.6565,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Livadia Larnakas",
+      "postal_code": "7060",
+      "country_code": "CY",
+      "latitude": 34.9551,
+      "longitude": 33.6273,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Prosfygikos Synoikismos EAC",
+      "postal_code": "7506",
+      "country_code": "CY",
+      "latitude": 35.0146,
+      "longitude": 33.6294,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Moni Agias Theklis",
+      "postal_code": "7644",
+      "country_code": "CY",
+      "latitude": 34.9336,
+      "longitude": 33.442,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Moni Agiou Mina",
+      "postal_code": "7717",
+      "country_code": "CY",
+      "latitude": 34.8652,
+      "longitude": 33.2289,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Apliki",
+      "postal_code": "2613",
+      "country_code": "CY",
+      "latitude": 34.9306,
+      "longitude": 33.1175,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Analiontas",
+      "postal_code": "2641",
+      "country_code": "CY",
+      "latitude": 35.0067,
+      "longitude": 33.29,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Gerolakkos",
+      "postal_code": "2674",
+      "country_code": "CY",
+      "latitude": 35.1814,
+      "longitude": 33.2527,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agios Nikolaos Lefkas",
+      "postal_code": "2824",
+      "country_code": "CY",
+      "latitude": 35.1024,
+      "longitude": 32.8803,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Challeri",
+      "postal_code": "2963",
+      "country_code": "CY",
+      "latitude": 35.1699,
+      "longitude": 32.6612,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Stathmos Pefkou",
+      "postal_code": "4568",
+      "country_code": "CY",
+      "latitude": 34.8538,
+      "longitude": 33.0649,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Kourdaka",
+      "postal_code": "8544",
+      "country_code": "CY",
+      "latitude": 34.85,
+      "longitude": 32.5085,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Moni Agiou Neofytou",
+      "postal_code": "8576",
+      "country_code": "CY",
+      "latitude": 34.8646,
+      "longitude": 32.4199,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kelokedara",
+      "postal_code": "8628",
+      "country_code": "CY",
+      "latitude": 34.8124,
+      "longitude": 32.6516,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Agia Marina Kelokedaron",
+      "postal_code": "8641",
+      "country_code": "CY",
+      "latitude": 34.8287,
+      "longitude": 32.6144,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Faleia",
+      "postal_code": "8654",
+      "country_code": "CY",
+      "latitude": 34.8598,
+      "longitude": 32.5893,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Ineia",
+      "postal_code": "8704",
+      "country_code": "CY",
+      "latitude": 34.9561,
+      "longitude": 32.3934,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Anadiou",
+      "postal_code": "8802",
+      "country_code": "CY",
+      "latitude": 34.9444,
+      "longitude": 32.5662,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Simou",
+      "postal_code": "8812",
+      "country_code": "CY",
+      "latitude": 34.9412,
+      "longitude": 32.5042,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Chrysochou",
+      "postal_code": "8855",
+      "country_code": "CY",
+      "latitude": 35.0038,
+      "longitude": 32.4398,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Agia Thekla",
+      "postal_code": "5391",
+      "country_code": "CY",
+      "latitude": 35.0262,
+      "longitude": 33.9518,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Strovili",
+      "postal_code": "5525",
+      "country_code": "CY",
+      "latitude": 35.1002,
+      "longitude": 33.8615,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Vatili",
+      "postal_code": "5562",
+      "country_code": "CY",
+      "latitude": 35.1334,
+      "longitude": 33.6556,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Platani",
+      "postal_code": "5770",
+      "country_code": "CY",
+      "latitude": 35.333,
+      "longitude": 33.7518,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Asomatos Keryneias",
+      "postal_code": "9613",
+      "country_code": "CY",
+      "latitude": 35.2755,
+      "longitude": 33.1075,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Lefkosia (Kaimakli)",
+      "postal_code": "1027",
+      "country_code": "CY",
+      "latitude": 35.1755,
+      "longitude": 33.372,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Episkopeio",
+      "postal_code": "2642",
+      "country_code": "CY",
+      "latitude": 35.0426,
+      "longitude": 33.2458,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Filani",
+      "postal_code": "2652",
+      "country_code": "CY",
+      "latitude": 35.0304,
+      "longitude": 33.2487,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Syrianochori",
+      "postal_code": "2729",
+      "country_code": "CY",
+      "latitude": 35.2244,
+      "longitude": 32.9412,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kakopetria",
+      "postal_code": "2800",
+      "country_code": "CY",
+      "latitude": 34.9877,
+      "longitude": 32.9047,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Dasikos Stathmos Platanion",
+      "postal_code": "2829",
+      "country_code": "CY",
+      "latitude": 35.0508,
+      "longitude": 32.9186,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Tsakistra",
+      "postal_code": "2869",
+      "country_code": "CY",
+      "latitude": 35.0251,
+      "longitude": 32.7225,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Prastio Lefkosias",
+      "postal_code": "2931",
+      "country_code": "CY",
+      "latitude": 35.1758,
+      "longitude": 32.9396,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Pano Polemidia",
+      "postal_code": "4130",
+      "country_code": "CY",
+      "latitude": 34.7056,
+      "longitude": 32.9927,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Akapnou",
+      "postal_code": "4501",
+      "country_code": "CY",
+      "latitude": 34.8388,
+      "longitude": 33.1865,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Armenochori",
+      "postal_code": "4523",
+      "country_code": "CY",
+      "latitude": 34.7458,
+      "longitude": 33.1292,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Monagroulli",
+      "postal_code": "4524",
+      "country_code": "CY",
+      "latitude": 34.749,
+      "longitude": 33.213,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Arakapas",
+      "postal_code": "4563",
+      "country_code": "CY",
+      "latitude": 34.8438,
+      "longitude": 33.1121,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Tserkezoi",
+      "postal_code": "4652",
+      "country_code": "CY",
+      "latitude": 34.6469,
+      "longitude": 32.9737,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Agios Amvrosios Lemesou",
+      "postal_code": "4710",
+      "country_code": "CY",
+      "latitude": 34.7811,
+      "longitude": 32.8261,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Pano Archimandrita",
+      "postal_code": "8603",
+      "country_code": "CY",
+      "latitude": 34.7509,
+      "longitude": 32.6781,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Agios Georgios Pafou",
+      "postal_code": "8607",
+      "country_code": "CY",
+      "latitude": 34.7787,
+      "longitude": 32.6522,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Moni Agion Anargyron",
+      "postal_code": "8727",
+      "country_code": "CY",
+      "latitude": 34.945,
+      "longitude": 32.4524,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Acheritou",
+      "postal_code": "5521",
+      "country_code": "CY",
+      "latitude": 35.1002,
+      "longitude": 33.8615,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Kornokipos",
+      "postal_code": "5657",
+      "country_code": "CY",
+      "latitude": 35.2828,
+      "longitude": 33.573,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Agirda",
+      "postal_code": "9541",
+      "country_code": "CY",
+      "latitude": 35.2974,
+      "longitude": 33.2681,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Larnakas Lapithou",
+      "postal_code": "9619",
+      "country_code": "CY",
+      "latitude": 35.3125,
+      "longitude": 33.1417,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Voroklini Touristiki Periochi",
+      "postal_code": "7041",
+      "country_code": "CY",
+      "latitude": 34.9814,
+      "longitude": 33.6565,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Tymvou",
+      "postal_code": "2533",
+      "country_code": "CY",
+      "latitude": 35.1334,
+      "longitude": 33.5114,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agia Varvara Lefkosias",
+      "postal_code": "2560",
+      "country_code": "CY",
+      "latitude": 34.9969,
+      "longitude": 33.3695,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Klirou",
+      "postal_code": "2600",
+      "country_code": "CY",
+      "latitude": 35.02,
+      "longitude": 33.1781,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Moni Archangelou Michail",
+      "postal_code": "2649",
+      "country_code": "CY",
+      "latitude": 35.0222,
+      "longitude": 33.2707,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Avlona",
+      "postal_code": "2673",
+      "country_code": "CY",
+      "latitude": 35.1613,
+      "longitude": 33.1069,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Deneia",
+      "postal_code": "2675",
+      "country_code": "CY",
+      "latitude": 35.1667,
+      "longitude": 33.146,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agios Epifanios Soleas",
+      "postal_code": "2821",
+      "country_code": "CY",
+      "latitude": 35.0638,
+      "longitude": 32.8861,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Angolemi",
+      "postal_code": "2826",
+      "country_code": "CY",
+      "latitude": 35.1181,
+      "longitude": 32.9483,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Pano Pyrgos",
+      "postal_code": "2950",
+      "country_code": "CY",
+      "latitude": 35.1549,
+      "longitude": 32.6823,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Xerovounos",
+      "postal_code": "2960",
+      "country_code": "CY",
+      "latitude": 35.1477,
+      "longitude": 32.7339,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Selladi tou Appi",
+      "postal_code": "2964",
+      "country_code": "CY",
+      "latitude": 35.1566,
+      "longitude": 32.6196,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agios Konstantinos",
+      "postal_code": "4561",
+      "country_code": "CY",
+      "latitude": 34.867,
+      "longitude": 33.0665,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Prastio Avdimou",
+      "postal_code": "4601",
+      "country_code": "CY",
+      "latitude": 34.705,
+      "longitude": 32.7311,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Agios Mamas",
+      "postal_code": "4741",
+      "country_code": "CY",
+      "latitude": 34.8512,
+      "longitude": 32.9489,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Agios Theodoros Lemesou",
+      "postal_code": "4870",
+      "country_code": "CY",
+      "latitude": 34.8939,
+      "longitude": 33.0325,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Tremithousa",
+      "postal_code": "8270",
+      "country_code": "CY",
+      "latitude": 34.8174,
+      "longitude": 32.4437,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Stroumpi",
+      "postal_code": "8550",
+      "country_code": "CY",
+      "latitude": 34.8878,
+      "longitude": 32.4813,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Pegeia (Maa)",
+      "postal_code": "8571",
+      "country_code": "CY",
+      "latitude": 34.8646,
+      "longitude": 32.4199,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Agios Nikolaos Pafou",
+      "postal_code": "8623",
+      "country_code": "CY",
+      "latitude": 34.862,
+      "longitude": 32.7535,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kedares",
+      "postal_code": "8626",
+      "country_code": "CY",
+      "latitude": 34.8363,
+      "longitude": 32.7365,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Lapithiou",
+      "postal_code": "8647",
+      "country_code": "CY",
+      "latitude": 34.9048,
+      "longitude": 32.5965,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Dasikos Stathmos Agias",
+      "postal_code": "8803",
+      "country_code": "CY",
+      "latitude": 34.9759,
+      "longitude": 32.5242,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Zacharia",
+      "postal_code": "8806",
+      "country_code": "CY",
+      "latitude": 34.9818,
+      "longitude": 32.5433,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Pomos",
+      "postal_code": "8870",
+      "country_code": "CY",
+      "latitude": 35.1604,
+      "longitude": 32.5457,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Makounta",
+      "postal_code": "8879",
+      "country_code": "CY",
+      "latitude": 35.0505,
+      "longitude": 32.4856,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Strongylos",
+      "postal_code": "5568",
+      "country_code": "CY",
+      "latitude": 35.1664,
+      "longitude": 33.6392,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Kiados",
+      "postal_code": "5654",
+      "country_code": "CY",
+      "latitude": 35.2547,
+      "longitude": 33.6012,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Livadia Ammochostou",
+      "postal_code": "5729",
+      "country_code": "CY",
+      "latitude": 35.3988,
+      "longitude": 34.0255,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Agios Andronikos Trikomou",
+      "postal_code": "5761",
+      "country_code": "CY",
+      "latitude": 35.3702,
+      "longitude": 33.8922,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Galateia",
+      "postal_code": "5825",
+      "country_code": "CY",
+      "latitude": 35.4227,
+      "longitude": 34.0713,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Lythragkomi",
+      "postal_code": "5830",
+      "country_code": "CY",
+      "latitude": 35.48,
+      "longitude": 34.1714,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Platanissos",
+      "postal_code": "5833",
+      "country_code": "CY",
+      "latitude": 35.4787,
+      "longitude": 34.1068,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Belapais",
+      "postal_code": "9514",
+      "country_code": "CY",
+      "latitude": 35.3058,
+      "longitude": 33.3556,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Trapeza",
+      "postal_code": "9575",
+      "country_code": "CY",
+      "latitude": 35.3082,
+      "longitude": 33.4696,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Sysklipos",
+      "postal_code": "9620",
+      "country_code": "CY",
+      "latitude": 35.3004,
+      "longitude": 33.1737,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Epicho",
+      "postal_code": "2522",
+      "country_code": "CY",
+      "latitude": 35.2282,
+      "longitude": 33.5126,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Katokopia",
+      "postal_code": "2725",
+      "country_code": "CY",
+      "latitude": 35.1742,
+      "longitude": 33.0511,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Livadia Lefkosias",
+      "postal_code": "2754",
+      "country_code": "CY",
+      "latitude": 34.9459,
+      "longitude": 33.0222,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Orounta",
+      "postal_code": "2779",
+      "country_code": "CY",
+      "latitude": 35.1012,
+      "longitude": 33.0936,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Frodisia",
+      "postal_code": "2860",
+      "country_code": "CY",
+      "latitude": 35.0679,
+      "longitude": 32.6608,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Moutoullas",
+      "postal_code": "2866",
+      "country_code": "CY",
+      "latitude": 34.9843,
+      "longitude": 32.8252,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Soloi",
+      "postal_code": "2932",
+      "country_code": "CY",
+      "latitude": 35.1598,
+      "longitude": 32.8738,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agios Ioannis Selemani",
+      "postal_code": "2965",
+      "country_code": "CY",
+      "latitude": 35.1492,
+      "longitude": 32.7072,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Paramytha",
+      "postal_code": "4540",
+      "country_code": "CY",
+      "latitude": 34.7608,
+      "longitude": 32.9946,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Moni Evangelistrias",
+      "postal_code": "4548",
+      "country_code": "CY",
+      "latitude": 34.7902,
+      "longitude": 32.9904,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Trachoni Lemesou",
+      "postal_code": "4651",
+      "country_code": "CY",
+      "latitude": 34.6469,
+      "longitude": 32.9737,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Agios Therapon",
+      "postal_code": "4711",
+      "country_code": "CY",
+      "latitude": 34.7976,
+      "longitude": 32.8398,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Stathmos Laneias",
+      "postal_code": "4751",
+      "country_code": "CY",
+      "latitude": 34.8153,
+      "longitude": 32.9089,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Empa",
+      "postal_code": "8250",
+      "country_code": "CY",
+      "latitude": 34.807,
+      "longitude": 32.4241,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kato Arodes",
+      "postal_code": "8702",
+      "country_code": "CY",
+      "latitude": 34.9407,
+      "longitude": 32.4023,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kritou Tera",
+      "postal_code": "8724",
+      "country_code": "CY",
+      "latitude": 34.945,
+      "longitude": 32.4524,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Latsi",
+      "postal_code": "8840",
+      "country_code": "CY",
+      "latitude": 35.0409,
+      "longitude": 32.3943,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kato Gialia",
+      "postal_code": "8874",
+      "country_code": "CY",
+      "latitude": 35.1182,
+      "longitude": 32.5139,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Pelathousa",
+      "postal_code": "8882",
+      "country_code": "CY",
+      "latitude": 35.0276,
+      "longitude": 32.476,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kouklia Ammochostou",
+      "postal_code": "5565",
+      "country_code": "CY",
+      "latitude": 35.1085,
+      "longitude": 33.7507,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Makrasyka",
+      "postal_code": "5566",
+      "country_code": "CY",
+      "latitude": 35.074,
+      "longitude": 33.7622,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Stylloi",
+      "postal_code": "5638",
+      "country_code": "CY",
+      "latitude": 35.1721,
+      "longitude": 33.8337,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Spathariko",
+      "postal_code": "5734",
+      "country_code": "CY",
+      "latitude": 35.2365,
+      "longitude": 33.8718,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Vasili",
+      "postal_code": "5823",
+      "country_code": "CY",
+      "latitude": 35.4728,
+      "longitude": 34.1506,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Keryneia",
+      "postal_code": "9000",
+      "country_code": "CY",
+      "latitude": 35.3363,
+      "longitude": 33.3173,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Softades",
+      "postal_code": "7561",
+      "country_code": "CY",
+      "latitude": 34.8277,
+      "longitude": 33.5401,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Kivisili",
+      "postal_code": "7575",
+      "country_code": "CY",
+      "latitude": 34.8396,
+      "longitude": 33.5048,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Melini",
+      "postal_code": "7716",
+      "country_code": "CY",
+      "latitude": 34.8675,
+      "longitude": 33.157,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Kofinou",
+      "postal_code": "7735",
+      "country_code": "CY",
+      "latitude": 34.8243,
+      "longitude": 33.3913,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Stathmos Choirokoitias",
+      "postal_code": "7742",
+      "country_code": "CY",
+      "latitude": 34.776,
+      "longitude": 33.3364,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Kourou Monastiri",
+      "postal_code": "2524",
+      "country_code": "CY",
+      "latitude": 35.224,
+      "longitude": 33.5557,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Dali (Konstantia)",
+      "postal_code": "2547",
+      "country_code": "CY",
+      "latitude": 35.0229,
+      "longitude": 33.4219,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Nisou",
+      "postal_code": "2571",
+      "country_code": "CY",
+      "latitude": 35.0207,
+      "longitude": 33.3935,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Psimolofou",
+      "postal_code": "2630",
+      "country_code": "CY",
+      "latitude": 35.0625,
+      "longitude": 33.2625,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Polystypos",
+      "postal_code": "2756",
+      "country_code": "CY",
+      "latitude": 34.9395,
+      "longitude": 33.0183,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agios Georgios Kafkallou",
+      "postal_code": "2773",
+      "country_code": "CY",
+      "latitude": 35.0375,
+      "longitude": 33.013,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Xyliatos",
+      "postal_code": "2781",
+      "country_code": "CY",
+      "latitude": 35.0298,
+      "longitude": 33.0434,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kalo Chorio Soleas",
+      "postal_code": "2833",
+      "country_code": "CY",
+      "latitude": 35.051,
+      "longitude": 32.9061,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Asgata",
+      "postal_code": "4502",
+      "country_code": "CY",
+      "latitude": 34.7793,
+      "longitude": 33.2553,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Parekklisia",
+      "postal_code": "4520",
+      "country_code": "CY",
+      "latitude": 34.7458,
+      "longitude": 33.1583,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Apsiou",
+      "postal_code": "4542",
+      "country_code": "CY",
+      "latitude": 34.7973,
+      "longitude": 33.0167,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Monte Korfi",
+      "postal_code": "4552",
+      "country_code": "CY",
+      "latitude": 34.7636,
+      "longitude": 33.0147,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Athrakos",
+      "postal_code": "4567",
+      "country_code": "CY",
+      "latitude": 34.8514,
+      "longitude": 33.0491,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Silikou",
+      "postal_code": "4742",
+      "country_code": "CY",
+      "latitude": 34.8318,
+      "longitude": 32.8898,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Vasa Koilaniou",
+      "postal_code": "4771",
+      "country_code": "CY",
+      "latitude": 34.8291,
+      "longitude": 32.803,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Pano Amiantos",
+      "postal_code": "4811",
+      "country_code": "CY",
+      "latitude": 34.9278,
+      "longitude": 32.9173,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Prodromos",
+      "postal_code": "4840",
+      "country_code": "CY",
+      "latitude": 34.9487,
+      "longitude": 32.831,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Palaiomylos",
+      "postal_code": "4845",
+      "country_code": "CY",
+      "latitude": 34.9352,
+      "longitude": 32.8221,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Salamiou",
+      "postal_code": "8620",
+      "country_code": "CY",
+      "latitude": 34.8403,
+      "longitude": 32.69,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Theletra",
+      "postal_code": "8723",
+      "country_code": "CY",
+      "latitude": 34.9118,
+      "longitude": 32.4475,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Loukrounou",
+      "postal_code": "8725",
+      "country_code": "CY",
+      "latitude": 34.9514,
+      "longitude": 32.4636,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kios",
+      "postal_code": "8807",
+      "country_code": "CY",
+      "latitude": 34.9751,
+      "longitude": 32.5273,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Prodromi",
+      "postal_code": "8854",
+      "country_code": "CY",
+      "latitude": 35.0273,
+      "longitude": 32.4176,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Artemi",
+      "postal_code": "5622",
+      "country_code": "CY",
+      "latitude": 35.3206,
+      "longitude": 33.7105,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Prastio Ammochostou",
+      "postal_code": "5635",
+      "country_code": "CY",
+      "latitude": 35.1754,
+      "longitude": 33.7577,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Tavrou",
+      "postal_code": "5834",
+      "country_code": "CY",
+      "latitude": 35.3966,
+      "longitude": 34.0765,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Kiomourtzou",
+      "postal_code": "9543",
+      "country_code": "CY",
+      "latitude": 35.2934,
+      "longitude": 33.2564,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Moni Agiou Chrysostomou",
+      "postal_code": "9546",
+      "country_code": "CY",
+      "latitude": 35.2823,
+      "longitude": 33.3118,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Avdellero",
+      "postal_code": "7501",
+      "country_code": "CY",
+      "latitude": 35.008,
+      "longitude": 33.5705,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Fyllia",
+      "postal_code": "2684",
+      "country_code": "CY",
+      "latitude": 35.1882,
+      "longitude": 33.0919,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Vikla",
+      "postal_code": "4509",
+      "country_code": "CY",
+      "latitude": 34.8271,
+      "longitude": 33.1955,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Foinikaria",
+      "postal_code": "4530",
+      "country_code": "CY",
+      "latitude": 34.7519,
+      "longitude": 33.0978,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Zoopigi",
+      "postal_code": "4565",
+      "country_code": "CY",
+      "latitude": 34.8632,
+      "longitude": 33.0158,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Sotira Lemesou",
+      "postal_code": "4633",
+      "country_code": "CY",
+      "latitude": 34.7119,
+      "longitude": 32.8634,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Koloni",
+      "postal_code": "8310",
+      "country_code": "CY",
+      "latitude": 34.7486,
+      "longitude": 32.4656,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kathikas",
+      "postal_code": "8573",
+      "country_code": "CY",
+      "latitude": 34.9125,
+      "longitude": 32.4257,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Miliou",
+      "postal_code": "8726",
+      "country_code": "CY",
+      "latitude": 34.9393,
+      "longitude": 32.4608,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Skoulli",
+      "postal_code": "8728",
+      "country_code": "CY",
+      "latitude": 34.9806,
+      "longitude": 32.4512,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Neo Chorio Pafou",
+      "postal_code": "8852",
+      "country_code": "CY",
+      "latitude": 35.0253,
+      "longitude": 32.3647,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Goufes",
+      "postal_code": "5625",
+      "country_code": "CY",
+      "latitude": 35.2826,
+      "longitude": 33.6878,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Koilanemos",
+      "postal_code": "5826",
+      "country_code": "CY",
+      "latitude": 35.4908,
+      "longitude": 34.142,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Moni Apostolou Andreou",
+      "postal_code": "5873",
+      "country_code": "CY",
+      "latitude": 35.5241,
+      "longitude": 34.2639,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Koutsoventis",
+      "postal_code": "9544",
+      "country_code": "CY",
+      "latitude": 35.2631,
+      "longitude": 33.4208,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Vasileia",
+      "postal_code": "9631",
+      "country_code": "CY",
+      "latitude": 35.3449,
+      "longitude": 33.1242,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Athienou",
+      "postal_code": "7600",
+      "country_code": "CY",
+      "latitude": 35.0618,
+      "longitude": 33.5417,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Petrofani",
+      "postal_code": "7623",
+      "country_code": "CY",
+      "latitude": 35.0312,
+      "longitude": 33.509,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Agios Theodoros Larnakas",
+      "postal_code": "7730",
+      "country_code": "CY",
+      "latitude": 34.7999,
+      "longitude": 33.3847,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Kalavasos",
+      "postal_code": "7733",
+      "country_code": "CY",
+      "latitude": 34.7584,
+      "longitude": 33.308,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Dali (Ilioupoli)",
+      "postal_code": "2546",
+      "country_code": "CY",
+      "latitude": 35.0229,
+      "longitude": 33.4219,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Akaki",
+      "postal_code": "2720",
+      "country_code": "CY",
+      "latitude": 35.1334,
+      "longitude": 33.1287,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Chrysida",
+      "postal_code": "2730",
+      "country_code": "CY",
+      "latitude": 35.0717,
+      "longitude": 33.0357,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Dasikos Stathmos Kapouras",
+      "postal_code": "2828",
+      "country_code": "CY",
+      "latitude": 35.0508,
+      "longitude": 32.9186,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Pedoulas",
+      "postal_code": "2850",
+      "country_code": "CY",
+      "latitude": 34.968,
+      "longitude": 32.829,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Pyrgos",
+      "postal_code": "4529",
+      "country_code": "CY",
+      "latitude": 34.7417,
+      "longitude": 33.1833,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Parekklisia Touristiki Periochi",
+      "postal_code": "4533",
+      "country_code": "CY",
+      "latitude": 34.7519,
+      "longitude": 33.0978,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Apesia",
+      "postal_code": "4541",
+      "country_code": "CY",
+      "latitude": 34.7894,
+      "longitude": 32.9776,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Sykopetra",
+      "postal_code": "4569",
+      "country_code": "CY",
+      "latitude": 34.8786,
+      "longitude": 33.1125,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Moni Agiou Nikolaou Gaton",
+      "postal_code": "4650",
+      "country_code": "CY",
+      "latitude": 34.6469,
+      "longitude": 32.9737,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Trozaina",
+      "postal_code": "4781",
+      "country_code": "CY",
+      "latitude": 34.8241,
+      "longitude": 32.8067,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Kallepeia",
+      "postal_code": "8541",
+      "country_code": "CY",
+      "latitude": 34.8456,
+      "longitude": 32.5001,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Letymvou",
+      "postal_code": "8546",
+      "country_code": "CY",
+      "latitude": 34.8573,
+      "longitude": 32.5136,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Livadi",
+      "postal_code": "8878",
+      "country_code": "CY",
+      "latitude": 35.1021,
+      "longitude": 32.594,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Arsos Larnakas",
+      "postal_code": "7620",
+      "country_code": "CY",
+      "latitude": 35.0901,
+      "longitude": 33.6281,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Vasiliko",
+      "postal_code": "7738",
+      "country_code": "CY",
+      "latitude": 34.7755,
+      "longitude": 33.3481,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Lefkosia (Lykavittos)",
+      "postal_code": "1056",
+      "country_code": "CY",
+      "latitude": 35.1755,
+      "longitude": 33.372,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Arediou",
+      "postal_code": "2614",
+      "country_code": "CY",
+      "latitude": 35.0484,
+      "longitude": 33.1961,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kanli",
+      "postal_code": "2677",
+      "country_code": "CY",
+      "latitude": 35.2217,
+      "longitude": 33.2596,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Pano Zodia",
+      "postal_code": "2724",
+      "country_code": "CY",
+      "latitude": 35.1636,
+      "longitude": 33.015,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Platanistasa",
+      "postal_code": "2755",
+      "country_code": "CY",
+      "latitude": 34.9471,
+      "longitude": 33.0461,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Spilia",
+      "postal_code": "2841",
+      "country_code": "CY",
+      "latitude": 34.9668,
+      "longitude": 32.9555,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Mylikouri",
+      "postal_code": "2864",
+      "country_code": "CY",
+      "latitude": 34.9619,
+      "longitude": 32.7509,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kellaki",
+      "postal_code": "4500",
+      "country_code": "CY",
+      "latitude": 34.8165,
+      "longitude": 33.1583,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Louvaras",
+      "postal_code": "4560",
+      "country_code": "CY",
+      "latitude": 34.8365,
+      "longitude": 33.0402,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Pelendri",
+      "postal_code": "4878",
+      "country_code": "CY",
+      "latitude": 34.896,
+      "longitude": 32.9682,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Anarita",
+      "postal_code": "8502",
+      "country_code": "CY",
+      "latitude": 34.7406,
+      "longitude": 32.5338,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Armou",
+      "postal_code": "8522",
+      "country_code": "CY",
+      "latitude": 34.7994,
+      "longitude": 32.4785,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Fasoula Pafou",
+      "postal_code": "8609",
+      "country_code": "CY",
+      "latitude": 34.7509,
+      "longitude": 32.632,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Psathi",
+      "postal_code": "8749",
+      "country_code": "CY",
+      "latitude": 34.8978,
+      "longitude": 32.5331,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Moni Agiou Kendeou",
+      "postal_code": "5524",
+      "country_code": "CY",
+      "latitude": 35.1002,
+      "longitude": 33.8615,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Lapithos",
+      "postal_code": "9300",
+      "country_code": "CY",
+      "latitude": 35.3382,
+      "longitude": 33.1737,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Karakoumi",
+      "postal_code": "9512",
+      "country_code": "CY",
+      "latitude": 35.334,
+      "longitude": 33.3478,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Melouseia",
+      "postal_code": "7622",
+      "country_code": "CY",
+      "latitude": 35.0771,
+      "longitude": 33.5844,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Zygi",
+      "postal_code": "7739",
+      "country_code": "CY",
+      "latitude": 34.7289,
+      "longitude": 33.3378,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Lythrodontas",
+      "postal_code": "2565",
+      "country_code": "CY",
+      "latitude": 34.9511,
+      "longitude": 33.2978,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agios Ioannis Malountas",
+      "postal_code": "2611",
+      "country_code": "CY",
+      "latitude": 34.9818,
+      "longitude": 33.1594,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kampia",
+      "postal_code": "2644",
+      "country_code": "CY",
+      "latitude": 35.0082,
+      "longitude": 33.2563,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kataliontas",
+      "postal_code": "2646",
+      "country_code": "CY",
+      "latitude": 34.9907,
+      "longitude": 33.2978,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kioneli",
+      "postal_code": "2678",
+      "country_code": "CY",
+      "latitude": 35.2108,
+      "longitude": 33.3095,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Mammari",
+      "postal_code": "2679",
+      "country_code": "CY",
+      "latitude": 35.176,
+      "longitude": 33.2043,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Saranti",
+      "postal_code": "2757",
+      "country_code": "CY",
+      "latitude": 34.9692,
+      "longitude": 32.9993,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Katydata",
+      "postal_code": "2835",
+      "country_code": "CY",
+      "latitude": 35.0825,
+      "longitude": 32.8879,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Zanakia",
+      "postal_code": "4713",
+      "country_code": "CY",
+      "latitude": 34.7304,
+      "longitude": 32.8755,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Doros",
+      "postal_code": "4750",
+      "country_code": "CY",
+      "latitude": 34.8153,
+      "longitude": 32.9089,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Moni Panagias Trikoukkiotissis",
+      "postal_code": "4847",
+      "country_code": "CY",
+      "latitude": 34.9364,
+      "longitude": 32.8087,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Kato Mylos",
+      "postal_code": "4874",
+      "country_code": "CY",
+      "latitude": 34.8953,
+      "longitude": 33.006,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Mesa Chorio",
+      "postal_code": "8290",
+      "country_code": "CY",
+      "latitude": 34.8089,
+      "longitude": 32.462,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kouklia Pafou (Lofoi Afroditis)",
+      "postal_code": "8509",
+      "country_code": "CY",
+      "latitude": 34.7337,
+      "longitude": 32.5446,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Pera Vasa",
+      "postal_code": "8624",
+      "country_code": "CY",
+      "latitude": 34.8444,
+      "longitude": 32.7058,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Mesana",
+      "postal_code": "8631",
+      "country_code": "CY",
+      "latitude": 34.8491,
+      "longitude": 32.7068,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Limni",
+      "postal_code": "8877",
+      "country_code": "CY",
+      "latitude": 35.0837,
+      "longitude": 32.5172,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Agios Nikolaos Ammochostou",
+      "postal_code": "5620",
+      "country_code": "CY",
+      "latitude": 35.2305,
+      "longitude": 33.8005,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Gypsou",
+      "postal_code": "5626",
+      "country_code": "CY",
+      "latitude": 35.2598,
+      "longitude": 33.7863,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Milia Ammochostou",
+      "postal_code": "5631",
+      "country_code": "CY",
+      "latitude": 35.2401,
+      "longitude": 33.7802,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Pyrga Ammochostou",
+      "postal_code": "5659",
+      "country_code": "CY",
+      "latitude": 35.1827,
+      "longitude": 33.7267,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Kontemenos",
+      "postal_code": "9617",
+      "country_code": "CY",
+      "latitude": 35.2686,
+      "longitude": 33.1247,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Palaiosofos",
+      "postal_code": "9637",
+      "country_code": "CY",
+      "latitude": 35.3256,
+      "longitude": 33.2071,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Pyla",
+      "postal_code": "7080",
+      "country_code": "CY",
+      "latitude": 35.0047,
+      "longitude": 33.6891,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Xylotymvou",
+      "postal_code": "7510",
+      "country_code": "CY",
+      "latitude": 35.0163,
+      "longitude": 33.7435,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Tochni",
+      "postal_code": "7740",
+      "country_code": "CY",
+      "latitude": 34.781,
+      "longitude": 33.3236,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Anglikos Stratos Lefkosias",
+      "postal_code": "1370",
+      "country_code": "CY",
+      "latitude": 34.6706,
+      "longitude": 32.9018,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agrokipia",
+      "postal_code": "2617",
+      "country_code": "CY",
+      "latitude": 35.0436,
+      "longitude": 33.1579,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Korakou",
+      "postal_code": "2836",
+      "country_code": "CY",
+      "latitude": 35.0411,
+      "longitude": 32.8874,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Koili",
+      "postal_code": "8543",
+      "country_code": "CY",
+      "latitude": 34.8596,
+      "longitude": 32.4551,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Paliampela",
+      "postal_code": "8871",
+      "country_code": "CY",
+      "latitude": 35.0837,
+      "longitude": 32.5172,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Angastina",
+      "postal_code": "5652",
+      "country_code": "CY",
+      "latitude": 35.2033,
+      "longitude": 33.5878,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Agios Georgios Ammochostou",
+      "postal_code": "5720",
+      "country_code": "CY",
+      "latitude": 35.3408,
+      "longitude": 33.9686,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Gerani",
+      "postal_code": "5764",
+      "country_code": "CY",
+      "latitude": 35.3592,
+      "longitude": 33.9223,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Eptakomi",
+      "postal_code": "5824",
+      "country_code": "CY",
+      "latitude": 35.4465,
+      "longitude": 34.0318,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Neta",
+      "postal_code": "5832",
+      "country_code": "CY",
+      "latitude": 35.4696,
+      "longitude": 34.2146,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Agios Georgios Keryneias",
+      "postal_code": "9390",
+      "country_code": "CY",
+      "latitude": 35.3422,
+      "longitude": 33.2753,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Karpaseia",
+      "postal_code": "9616",
+      "country_code": "CY",
+      "latitude": 35.2978,
+      "longitude": 33.07,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Ormideia",
+      "postal_code": "7530",
+      "country_code": "CY",
+      "latitude": 34.9918,
+      "longitude": 33.7772,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Synoikismos Anthoupolis",
+      "postal_code": "2350",
+      "country_code": "CY",
+      "latitude": 35.1735,
+      "longitude": 33.3405,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kythrea",
+      "postal_code": "2500",
+      "country_code": "CY",
+      "latitude": 35.2504,
+      "longitude": 33.4806,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Pyrogi",
+      "postal_code": "2531",
+      "country_code": "CY",
+      "latitude": 35.0764,
+      "longitude": 33.4903,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Trachoni Lefkosias",
+      "postal_code": "2532",
+      "country_code": "CY",
+      "latitude": 35.2244,
+      "longitude": 33.4786,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Louroukina",
+      "postal_code": "2567",
+      "country_code": "CY",
+      "latitude": 35.0102,
+      "longitude": 33.4647,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Morfou",
+      "postal_code": "2700",
+      "country_code": "CY",
+      "latitude": 35.1987,
+      "longitude": 32.9934,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Fterikoudi",
+      "postal_code": "2758",
+      "country_code": "CY",
+      "latitude": 34.9436,
+      "longitude": 33.0688,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agia Marina Xyliatou",
+      "postal_code": "2772",
+      "country_code": "CY",
+      "latitude": 35.0503,
+      "longitude": 33.0571,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agios Theodoros Soleas",
+      "postal_code": "2823",
+      "country_code": "CY",
+      "latitude": 35.0423,
+      "longitude": 32.9279,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Linou",
+      "postal_code": "2845",
+      "country_code": "CY",
+      "latitude": 35.0744,
+      "longitude": 32.8924,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Eptagoneia",
+      "postal_code": "4506",
+      "country_code": "CY",
+      "latitude": 34.8472,
+      "longitude": 33.1578,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Symvoulos",
+      "postal_code": "4634",
+      "country_code": "CY",
+      "latitude": 34.6976,
+      "longitude": 32.8768,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Stathmos Filagron",
+      "postal_code": "4749",
+      "country_code": "CY",
+      "latitude": 34.8437,
+      "longitude": 32.9104,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Pera Pedi",
+      "postal_code": "4779",
+      "country_code": "CY",
+      "latitude": 34.8598,
+      "longitude": 32.8757,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Troodos",
+      "postal_code": "4800",
+      "country_code": "CY",
+      "latitude": 34.9234,
+      "longitude": 32.8805,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Episkopi Pafou",
+      "postal_code": "8524",
+      "country_code": "CY",
+      "latitude": 34.7958,
+      "longitude": 32.5264,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Mamonia",
+      "postal_code": "8600",
+      "country_code": "CY",
+      "latitude": 34.7697,
+      "longitude": 32.6372,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Fylousa Kelokedaron",
+      "postal_code": "8811",
+      "country_code": "CY",
+      "latitude": 34.9655,
+      "longitude": 32.5027,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kalopsida",
+      "postal_code": "5563",
+      "country_code": "CY",
+      "latitude": 35.0964,
+      "longitude": 33.794,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Egkomi Ammochostou",
+      "postal_code": "5627",
+      "country_code": "CY",
+      "latitude": 35.1627,
+      "longitude": 33.8832,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Limnia",
+      "postal_code": "5628",
+      "country_code": "CY",
+      "latitude": 35.1996,
+      "longitude": 33.8586,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Trypimeni",
+      "postal_code": "5660",
+      "country_code": "CY",
+      "latitude": 35.31,
+      "longitude": 33.6336,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Agios Efstathios",
+      "postal_code": "5721",
+      "country_code": "CY",
+      "latitude": 35.3893,
+      "longitude": 34.0147,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Perivolia Trikomou",
+      "postal_code": "5733",
+      "country_code": "CY",
+      "latitude": 35.2862,
+      "longitude": 33.9101,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Aigialousa",
+      "postal_code": "5800",
+      "country_code": "CY",
+      "latitude": 35.5351,
+      "longitude": 34.1894,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Moni Archangelou Antifonitou",
+      "postal_code": "9573",
+      "country_code": "CY",
+      "latitude": 35.3175,
+      "longitude": 33.5118,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Pyla Touristiki Periochi",
+      "postal_code": "7081",
+      "country_code": "CY",
+      "latitude": 35.0047,
+      "longitude": 33.6891,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Moni Stavrovouniou",
+      "postal_code": "7645",
+      "country_code": "CY",
+      "latitude": 34.9336,
+      "longitude": 33.442,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Mandres Lefkosias",
+      "postal_code": "2534",
+      "country_code": "CY",
+      "latitude": 35.1681,
+      "longitude": 33.5067,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Lagoudera",
+      "postal_code": "2753",
+      "country_code": "CY",
+      "latitude": 34.9621,
+      "longitude": 33.0101,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kato Koutrafas",
+      "postal_code": "2770",
+      "country_code": "CY",
+      "latitude": 35.1028,
+      "longitude": 32.9776,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Pano Koutrafas",
+      "postal_code": "2771",
+      "country_code": "CY",
+      "latitude": 35.096,
+      "longitude": 32.9894,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Moni Kykkou",
+      "postal_code": "2865",
+      "country_code": "CY",
+      "latitude": 35.0084,
+      "longitude": 32.769,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Vasa Kellakiou",
+      "postal_code": "4504",
+      "country_code": "CY",
+      "latitude": 34.8225,
+      "longitude": 33.1891,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Gerasa",
+      "postal_code": "4543",
+      "country_code": "CY",
+      "latitude": 34.8025,
+      "longitude": 32.998,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Fasoula Lemesou",
+      "postal_code": "4551",
+      "country_code": "CY",
+      "latitude": 34.7639,
+      "longitude": 33.0272,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Avdimou",
+      "postal_code": "4600",
+      "country_code": "CY",
+      "latitude": 34.6941,
+      "longitude": 32.7626,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Kissousa",
+      "postal_code": "4775",
+      "country_code": "CY",
+      "latitude": 34.8108,
+      "longitude": 32.7948,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Kyperounta",
+      "postal_code": "4876",
+      "country_code": "CY",
+      "latitude": 34.9381,
+      "longitude": 32.9755,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Loutra Tis Afroditis",
+      "postal_code": "8853",
+      "country_code": "CY",
+      "latitude": 35.0096,
+      "longitude": 32.4214,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Vokolida",
+      "postal_code": "5726",
+      "country_code": "CY",
+      "latitude": 35.3796,
+      "longitude": 34.0714,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Davlos",
+      "postal_code": "5765",
+      "country_code": "CY",
+      "latitude": 35.4215,
+      "longitude": 33.9052,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Kantara",
+      "postal_code": "5766",
+      "country_code": "CY",
+      "latitude": 35.3885,
+      "longitude": 33.8988,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Melanarga",
+      "postal_code": "5831",
+      "country_code": "CY",
+      "latitude": 35.5147,
+      "longitude": 34.1968,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Karavas",
+      "postal_code": "9200",
+      "country_code": "CY",
+      "latitude": 35.3414,
+      "longitude": 33.1959,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Fota",
+      "postal_code": "9551",
+      "country_code": "CY",
+      "latitude": 35.2641,
+      "longitude": 33.2225,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Kellia",
+      "postal_code": "7503",
+      "country_code": "CY",
+      "latitude": 34.9761,
+      "longitude": 33.6232,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Prosfygikos Synoikismos Vattaina",
+      "postal_code": "7508",
+      "country_code": "CY",
+      "latitude": 35.0146,
+      "longitude": 33.6294,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Kalo Chorio Larnakas",
+      "postal_code": "7643",
+      "country_code": "CY",
+      "latitude": 34.9285,
+      "longitude": 33.5362,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Odou",
+      "postal_code": "7718",
+      "country_code": "CY",
+      "latitude": 34.8854,
+      "longitude": 33.1507,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Parsata",
+      "postal_code": "7721",
+      "country_code": "CY",
+      "latitude": 34.8265,
+      "longitude": 33.2662,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Drapeia",
+      "postal_code": "7722",
+      "country_code": "CY",
+      "latitude": 34.8023,
+      "longitude": 33.2796,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Eχο Metochi",
+      "postal_code": "2521",
+      "country_code": "CY",
+      "latitude": 35.2224,
+      "longitude": 33.506,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Mia Milia",
+      "postal_code": "2525",
+      "country_code": "CY",
+      "latitude": 35.2067,
+      "longitude": 33.4201,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kapedes",
+      "postal_code": "2645",
+      "country_code": "CY",
+      "latitude": 34.9759,
+      "longitude": 33.2537,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kyra",
+      "postal_code": "2727",
+      "country_code": "CY",
+      "latitude": 35.2039,
+      "longitude": 33.0603,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Vyzakia",
+      "postal_code": "2774",
+      "country_code": "CY",
+      "latitude": 35.0785,
+      "longitude": 33.0143,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Gerakies",
+      "postal_code": "2861",
+      "country_code": "CY",
+      "latitude": 35.0001,
+      "longitude": 32.8051,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kalopanagiotis",
+      "postal_code": "2862",
+      "country_code": "CY",
+      "latitude": 34.9904,
+      "longitude": 32.8273,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Mathikoloni",
+      "postal_code": "4547",
+      "country_code": "CY",
+      "latitude": 34.7752,
+      "longitude": 33.0491,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Koilani",
+      "postal_code": "4776",
+      "country_code": "CY",
+      "latitude": 34.8447,
+      "longitude": 32.8603,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Choletria",
+      "postal_code": "8526",
+      "country_code": "CY",
+      "latitude": 34.7632,
+      "longitude": 32.5988,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Prastio Pafou",
+      "postal_code": "8606",
+      "country_code": "CY",
+      "latitude": 34.7915,
+      "longitude": 32.6938,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Giolou",
+      "postal_code": "8720",
+      "country_code": "CY",
+      "latitude": 34.9242,
+      "longitude": 32.4747,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Melamiou",
+      "postal_code": "8745",
+      "country_code": "CY",
+      "latitude": 34.9183,
+      "longitude": 32.5435,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kritou Marottou",
+      "postal_code": "8747",
+      "country_code": "CY",
+      "latitude": 34.9268,
+      "longitude": 32.5626,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Lefkonoiko",
+      "postal_code": "5600",
+      "country_code": "CY",
+      "latitude": 35.2598,
+      "longitude": 33.7319,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Agios Therissos",
+      "postal_code": "5871",
+      "country_code": "CY",
+      "latitude": 35.5241,
+      "longitude": 34.2639,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Krini",
+      "postal_code": "9545",
+      "country_code": "CY",
+      "latitude": 35.288,
+      "longitude": 33.2375,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Charkeia (Chartzeia)",
+      "postal_code": "9577",
+      "country_code": "CY",
+      "latitude": 35.3175,
+      "longitude": 33.5118,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Mosfiloti",
+      "postal_code": "7647",
+      "country_code": "CY",
+      "latitude": 34.9532,
+      "longitude": 33.4252,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Vavla",
+      "postal_code": "7713",
+      "country_code": "CY",
+      "latitude": 34.8416,
+      "longitude": 33.2688,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Kalo Chorio Oreinis",
+      "postal_code": "2616",
+      "country_code": "CY",
+      "latitude": 34.9818,
+      "longitude": 33.1594,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Moni Agiou Panteleimonos Achera",
+      "postal_code": "2624",
+      "country_code": "CY",
+      "latitude": 34.9716,
+      "longitude": 33.1437,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Moni Agiou Irakleidiou",
+      "postal_code": "2648",
+      "country_code": "CY",
+      "latitude": 35.0222,
+      "longitude": 33.2707,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Evrychou",
+      "postal_code": "2831",
+      "country_code": "CY",
+      "latitude": 35.0414,
+      "longitude": 32.9023,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Stathmos Orgonta",
+      "postal_code": "2868",
+      "country_code": "CY",
+      "latitude": 35.0084,
+      "longitude": 32.769,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Peristeronari",
+      "postal_code": "2929",
+      "country_code": "CY",
+      "latitude": 35.1326,
+      "longitude": 32.8651,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Limnitis",
+      "postal_code": "2956",
+      "country_code": "CY",
+      "latitude": 35.1679,
+      "longitude": 32.7372,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Anglikos Stratos Akrotiriou",
+      "postal_code": "3370",
+      "country_code": "CY",
+      "latitude": 34.6009,
+      "longitude": 32.9554,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Lofou",
+      "postal_code": "4716",
+      "country_code": "CY",
+      "latitude": 34.816,
+      "longitude": 32.8754,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Potamiou",
+      "postal_code": "4780",
+      "country_code": "CY",
+      "latitude": 34.8241,
+      "longitude": 32.8067,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Agios Ioannis Lemesou",
+      "postal_code": "4871",
+      "country_code": "CY",
+      "latitude": 34.915,
+      "longitude": 32.993,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Marathounta",
+      "postal_code": "8520",
+      "country_code": "CY",
+      "latitude": 34.791,
+      "longitude": 32.4881,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Pegeia",
+      "postal_code": "8560",
+      "country_code": "CY",
+      "latitude": 34.8838,
+      "longitude": 32.3819,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kato Akourdaleia",
+      "postal_code": "8721",
+      "country_code": "CY",
+      "latitude": 34.945,
+      "longitude": 32.4524,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Pano Akourdaleia",
+      "postal_code": "8722",
+      "country_code": "CY",
+      "latitude": 34.9419,
+      "longitude": 32.4445,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Fyti",
+      "postal_code": "8748",
+      "country_code": "CY",
+      "latitude": 34.9287,
+      "longitude": 32.5448,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Melandra",
+      "postal_code": "8809",
+      "country_code": "CY",
+      "latitude": 34.9892,
+      "longitude": 32.525,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Peristerona Pafou",
+      "postal_code": "8810",
+      "country_code": "CY",
+      "latitude": 34.9905,
+      "longitude": 32.4901,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Pigi",
+      "postal_code": "5634",
+      "country_code": "CY",
+      "latitude": 35.2267,
+      "longitude": 33.7596,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Knodara",
+      "postal_code": "5656",
+      "country_code": "CY",
+      "latitude": 35.2648,
+      "longitude": 33.6604,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Koma Tou Gialou",
+      "postal_code": "5827",
+      "country_code": "CY",
+      "latitude": 35.4275,
+      "longitude": 34.131,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Leonarisso",
+      "postal_code": "5829",
+      "country_code": "CY",
+      "latitude": 35.4689,
+      "longitude": 34.1389,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Koroveia",
+      "postal_code": "5875",
+      "country_code": "CY",
+      "latitude": 35.5113,
+      "longitude": 34.274,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Thermeia",
+      "postal_code": "9510",
+      "country_code": "CY",
+      "latitude": 35.3276,
+      "longitude": 33.327,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Xylofagou",
+      "postal_code": "7520",
+      "country_code": "CY",
+      "latitude": 34.9774,
+      "longitude": 33.8489,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Alethriko",
+      "postal_code": "7570",
+      "country_code": "CY",
+      "latitude": 34.861,
+      "longitude": 33.4943,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Pano Deftera",
+      "postal_code": "2460",
+      "country_code": "CY",
+      "latitude": 35.0778,
+      "longitude": 33.2658,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Palaiometocho",
+      "postal_code": "2682",
+      "country_code": "CY",
+      "latitude": 35.1249,
+      "longitude": 33.191,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Askas",
+      "postal_code": "2752",
+      "country_code": "CY",
+      "latitude": 34.9297,
+      "longitude": 33.0778,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Dasikos Stathmos Panagias",
+      "postal_code": "2782",
+      "country_code": "CY",
+      "latitude": 35.0671,
+      "longitude": 33.0366,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Temvria",
+      "postal_code": "2842",
+      "country_code": "CY",
+      "latitude": 35.0278,
+      "longitude": 32.8918,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kampos",
+      "postal_code": "2863",
+      "country_code": "CY",
+      "latitude": 35.0403,
+      "longitude": 32.7324,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Karavostasi",
+      "postal_code": "2924",
+      "country_code": "CY",
+      "latitude": 35.1381,
+      "longitude": 32.8302,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Nikitas",
+      "postal_code": "2926",
+      "country_code": "CY",
+      "latitude": 35.1763,
+      "longitude": 32.9572,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Pentageia",
+      "postal_code": "2928",
+      "country_code": "CY",
+      "latitude": 35.1533,
+      "longitude": 32.8848,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Alevga",
+      "postal_code": "2953",
+      "country_code": "CY",
+      "latitude": 35.1544,
+      "longitude": 32.6063,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Platies Metalleia",
+      "postal_code": "4503",
+      "country_code": "CY",
+      "latitude": 34.8225,
+      "longitude": 33.1891,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Mouttagiaka Touristiki Periochi",
+      "postal_code": "4531",
+      "country_code": "CY",
+      "latitude": 34.7519,
+      "longitude": 33.0978,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Agios Thomas",
+      "postal_code": "4606",
+      "country_code": "CY",
+      "latitude": 34.7162,
+      "longitude": 32.7255,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Acheleia",
+      "postal_code": "8503",
+      "country_code": "CY",
+      "latitude": 34.7392,
+      "longitude": 32.4859,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Amargeti",
+      "postal_code": "8642",
+      "country_code": "CY",
+      "latitude": 34.8243,
+      "longitude": 32.5838,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Vretsia",
+      "postal_code": "8644",
+      "country_code": "CY",
+      "latitude": 34.8899,
+      "longitude": 32.6588,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Trimithousa",
+      "postal_code": "8813",
+      "country_code": "CY",
+      "latitude": 34.9742,
+      "longitude": 32.4875,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Agia Marina Chrysochous",
+      "postal_code": "8881",
+      "country_code": "CY",
+      "latitude": 35.1204,
+      "longitude": 32.5137,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Myrmigkofou",
+      "postal_code": "8883",
+      "country_code": "CY",
+      "latitude": 35.0707,
+      "longitude": 32.4972,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Vrysoules",
+      "postal_code": "5522",
+      "country_code": "CY",
+      "latitude": 35.1002,
+      "longitude": 33.8615,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Kazafani",
+      "postal_code": "9511",
+      "country_code": "CY",
+      "latitude": 35.3167,
+      "longitude": 33.35,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Onisia",
+      "postal_code": "9547",
+      "country_code": "CY",
+      "latitude": 35.2823,
+      "longitude": 33.3118,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Agridaki",
+      "postal_code": "9612",
+      "country_code": "CY",
+      "latitude": 35.3072,
+      "longitude": 33.1511,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Ftericha",
+      "postal_code": "9639",
+      "country_code": "CY",
+      "latitude": 35.3228,
+      "longitude": 33.2212,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Choirokoitia",
+      "postal_code": "7741",
+      "country_code": "CY",
+      "latitude": 34.7975,
+      "longitude": 33.3352,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Petra Tou Digeni",
+      "postal_code": "2530",
+      "country_code": "CY",
+      "latitude": 35.238,
+      "longitude": 33.5464,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Alampra",
+      "postal_code": "2563",
+      "country_code": "CY",
+      "latitude": 34.989,
+      "longitude": 33.3989,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Mathiatis",
+      "postal_code": "2568",
+      "country_code": "CY",
+      "latitude": 34.9635,
+      "longitude": 33.3363,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Margo",
+      "postal_code": "2569",
+      "country_code": "CY",
+      "latitude": 35.0833,
+      "longitude": 33.4833,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Mitsero",
+      "postal_code": "2622",
+      "country_code": "CY",
+      "latitude": 35.0427,
+      "longitude": 33.124,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Anageia",
+      "postal_code": "2640",
+      "country_code": "CY",
+      "latitude": 35.0756,
+      "longitude": 33.2543,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Potami",
+      "postal_code": "2780",
+      "country_code": "CY",
+      "latitude": 35.1044,
+      "longitude": 33.0298,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agia Eirini Lefkosias",
+      "postal_code": "2820",
+      "country_code": "CY",
+      "latitude": 34.9812,
+      "longitude": 32.9695,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agios Georgios Soleas",
+      "postal_code": "2822",
+      "country_code": "CY",
+      "latitude": 35.0508,
+      "longitude": 32.9186,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Lefka",
+      "postal_code": "2900",
+      "country_code": "CY",
+      "latitude": 35.112,
+      "longitude": 32.85,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kazivera",
+      "postal_code": "2923",
+      "country_code": "CY",
+      "latitude": 35.1717,
+      "longitude": 32.9164,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agios Theodoros Tillirias",
+      "postal_code": "2951",
+      "country_code": "CY",
+      "latitude": 35.1763,
+      "longitude": 32.6417,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Pentakomo",
+      "postal_code": "4528",
+      "country_code": "CY",
+      "latitude": 34.743,
+      "longitude": 33.1523,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Dierona",
+      "postal_code": "4564",
+      "country_code": "CY",
+      "latitude": 34.8299,
+      "longitude": 33.1111,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Alektora",
+      "postal_code": "4602",
+      "country_code": "CY",
+      "latitude": 34.7093,
+      "longitude": 32.6835,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Platanisteia",
+      "postal_code": "4605",
+      "country_code": "CY",
+      "latitude": 34.7124,
+      "longitude": 32.7109,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Stathmos Pissouriou",
+      "postal_code": "4608",
+      "country_code": "CY",
+      "latitude": 34.705,
+      "longitude": 32.7311,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Pano Kivides",
+      "postal_code": "4715",
+      "country_code": "CY",
+      "latitude": 34.7574,
+      "longitude": 32.8572,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Mesa Potamos",
+      "postal_code": "4745",
+      "country_code": "CY",
+      "latitude": 34.8437,
+      "longitude": 32.9104,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Moniatis",
+      "postal_code": "4747",
+      "country_code": "CY",
+      "latitude": 34.868,
+      "longitude": 32.8976,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Gerovasa",
+      "postal_code": "4773",
+      "country_code": "CY",
+      "latitude": 34.8128,
+      "longitude": 32.7393,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Pano Platres",
+      "postal_code": "4820",
+      "country_code": "CY",
+      "latitude": 34.8866,
+      "longitude": 32.8597,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Souskiou",
+      "postal_code": "8506",
+      "country_code": "CY",
+      "latitude": 34.7335,
+      "longitude": 32.6026,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Lemona",
+      "postal_code": "8545",
+      "country_code": "CY",
+      "latitude": 34.8623,
+      "longitude": 32.5577,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Pegeia (Agios Georgios Pegeias)",
+      "postal_code": "8570",
+      "country_code": "CY",
+      "latitude": 34.8646,
+      "longitude": 32.4199,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Goudi",
+      "postal_code": "8850",
+      "country_code": "CY",
+      "latitude": 34.9922,
+      "longitude": 32.442,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Agia Napa",
+      "postal_code": "5330",
+      "country_code": "CY",
+      "latitude": 34.9821,
+      "longitude": 34.0018,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Marathovounos",
+      "postal_code": "5650",
+      "country_code": "CY",
+      "latitude": 35.2229,
+      "longitude": 33.6178,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Vitsada",
+      "postal_code": "5653",
+      "country_code": "CY",
+      "latitude": 35.2443,
+      "longitude": 33.6466,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Chelones",
+      "postal_code": "5878",
+      "country_code": "CY",
+      "latitude": 35.5241,
+      "longitude": 34.2639,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Tremethousia",
+      "postal_code": "7624",
+      "country_code": "CY",
+      "latitude": 35.0413,
+      "longitude": 33.5679,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Agia Anna",
+      "postal_code": "7641",
+      "country_code": "CY",
+      "latitude": 34.9429,
+      "longitude": 33.4808,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Kato Drys",
+      "postal_code": "7714",
+      "country_code": "CY",
+      "latitude": 34.8511,
+      "longitude": 33.3043,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Maroni",
+      "postal_code": "7737",
+      "country_code": "CY",
+      "latitude": 34.7573,
+      "longitude": 33.3566,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Neo Chorio Lefkosias",
+      "postal_code": "2528",
+      "country_code": "CY",
+      "latitude": 35.2348,
+      "longitude": 33.4757,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Argaki",
+      "postal_code": "2721",
+      "country_code": "CY",
+      "latitude": 35.1799,
+      "longitude": 33.0352,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kalo Chorio (Kapouti)",
+      "postal_code": "2726",
+      "country_code": "CY",
+      "latitude": 35.2443,
+      "longitude": 33.0395,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Klonari",
+      "postal_code": "4507",
+      "country_code": "CY",
+      "latitude": 34.8259,
+      "longitude": 33.1814,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Akrounta",
+      "postal_code": "4522",
+      "country_code": "CY",
+      "latitude": 34.7652,
+      "longitude": 33.0816,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Paramali",
+      "postal_code": "4604",
+      "country_code": "CY",
+      "latitude": 34.6941,
+      "longitude": 32.7992,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Vouni",
+      "postal_code": "4772",
+      "country_code": "CY",
+      "latitude": 34.824,
+      "longitude": 32.8342,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Lemithou",
+      "postal_code": "4844",
+      "country_code": "CY",
+      "latitude": 34.9494,
+      "longitude": 32.8114,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Potamitissa",
+      "postal_code": "4879",
+      "country_code": "CY",
+      "latitude": 34.9073,
+      "longitude": 32.9897,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Nikokleia",
+      "postal_code": "8505",
+      "country_code": "CY",
+      "latitude": 34.7289,
+      "longitude": 32.5774,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kato Archimandrita",
+      "postal_code": "8602",
+      "country_code": "CY",
+      "latitude": 34.7354,
+      "longitude": 32.6788,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Moni Chrysorroiatissis",
+      "postal_code": "8649",
+      "country_code": "CY",
+      "latitude": 34.8851,
+      "longitude": 32.6167,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Kato Deryneia",
+      "postal_code": "5370",
+      "country_code": "CY",
+      "latitude": 35.0246,
+      "longitude": 33.9459,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Sotira Ammochostou",
+      "postal_code": "5390",
+      "country_code": "CY",
+      "latitude": 35.0262,
+      "longitude": 33.9518,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Agios Georgios Acheritou",
+      "postal_code": "5520",
+      "country_code": "CY",
+      "latitude": 35.1002,
+      "longitude": 33.8615,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Agios Andronikos Karpasias",
+      "postal_code": "5820",
+      "country_code": "CY",
+      "latitude": 35.4571,
+      "longitude": 34.1186,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Vavylas",
+      "postal_code": "9630",
+      "country_code": "CY",
+      "latitude": 35.342,
+      "longitude": 33.1292,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Livera",
+      "postal_code": "9633",
+      "country_code": "CY",
+      "latitude": 35.3833,
+      "longitude": 32.9526,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Meneou",
+      "postal_code": "7000",
+      "country_code": "CY",
+      "latitude": 34.8607,
+      "longitude": 33.5931,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Pano Lefkara",
+      "postal_code": "7700",
+      "country_code": "CY",
+      "latitude": 34.8167,
+      "longitude": 33.2833,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Kato Lefkara",
+      "postal_code": "7710",
+      "country_code": "CY",
+      "latitude": 34.8625,
+      "longitude": 33.3168,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Elliniki Dynamis Kyprou (EL.DY.K.)",
+      "postal_code": "1380",
+      "country_code": "CY",
+      "latitude": 35.1487,
+      "longitude": 33.3338,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Moni Profitou Iliou",
+      "postal_code": "2570",
+      "country_code": "CY",
+      "latitude": 35.0075,
+      "longitude": 33.4057,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Lazanias",
+      "postal_code": "2618",
+      "country_code": "CY",
+      "latitude": 34.9487,
+      "longitude": 33.1746,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kampi",
+      "postal_code": "2619",
+      "country_code": "CY",
+      "latitude": 34.9085,
+      "longitude": 33.129,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Farmakas",
+      "postal_code": "2620",
+      "country_code": "CY",
+      "latitude": 34.9124,
+      "longitude": 33.1362,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agia Marina Skyllouras",
+      "postal_code": "2670",
+      "country_code": "CY",
+      "latitude": 35.2265,
+      "longitude": 33.1298,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Agioi Trimithias",
+      "postal_code": "2671",
+      "country_code": "CY",
+      "latitude": 35.1146,
+      "longitude": 33.2104,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Ammadies",
+      "postal_code": "2954",
+      "country_code": "CY",
+      "latitude": 35.1568,
+      "longitude": 32.7165,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Prastio Kellakiou",
+      "postal_code": "4505",
+      "country_code": "CY",
+      "latitude": 34.8225,
+      "longitude": 33.1891,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Pyrgos Touristiki Periochi",
+      "postal_code": "4534",
+      "country_code": "CY",
+      "latitude": 34.7519,
+      "longitude": 33.0978,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Palodeia",
+      "postal_code": "4549",
+      "country_code": "CY",
+      "latitude": 34.745,
+      "longitude": 33.0058,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Kolossi",
+      "postal_code": "4632",
+      "country_code": "CY",
+      "latitude": 34.6976,
+      "longitude": 32.8768,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Sterakovou",
+      "postal_code": "4635",
+      "country_code": "CY",
+      "latitude": 34.7106,
+      "longitude": 32.8189,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Asomatos Lemesou",
+      "postal_code": "4645",
+      "country_code": "CY",
+      "latitude": 34.6377,
+      "longitude": 32.9596,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Pachna",
+      "postal_code": "4700",
+      "country_code": "CY",
+      "latitude": 34.7787,
+      "longitude": 32.7935,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Trimiklini",
+      "postal_code": "4730",
+      "country_code": "CY",
+      "latitude": 34.8472,
+      "longitude": 32.9123,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Sanatorio Kyperountas",
+      "postal_code": "4877",
+      "country_code": "CY",
+      "latitude": 34.915,
+      "longitude": 32.993,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Agia Marinouda",
+      "postal_code": "8240",
+      "country_code": "CY",
+      "latitude": 34.7598,
+      "longitude": 32.4759,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Lempa",
+      "postal_code": "8260",
+      "country_code": "CY",
+      "latitude": 34.8086,
+      "longitude": 32.4079,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Akoursos",
+      "postal_code": "8572",
+      "country_code": "CY",
+      "latitude": 34.8868,
+      "longitude": 32.4215,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Maronas",
+      "postal_code": "8604",
+      "country_code": "CY",
+      "latitude": 34.7683,
+      "longitude": 32.6672,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Thrinia",
+      "postal_code": "8743",
+      "country_code": "CY",
+      "latitude": 34.9183,
+      "longitude": 32.5435,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Galinoporni",
+      "postal_code": "5874",
+      "country_code": "CY",
+      "latitude": 35.5223,
+      "longitude": 34.3018,
+      "admin_name1": "Ammochostos"
+    },
+    {
+      "place_name": "Moni Agiou Panteleimonos",
+      "postal_code": "9621",
+      "country_code": "CY",
+      "latitude": 35.3004,
+      "longitude": 33.1737,
+      "admin_name1": "Keryneia"
+    },
+    {
+      "place_name": "Troulloi",
+      "postal_code": "7505",
+      "country_code": "CY",
+      "latitude": 35.0326,
+      "longitude": 33.6155,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Klavdia",
+      "postal_code": "7576",
+      "country_code": "CY",
+      "latitude": 34.8931,
+      "longitude": 33.5149,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Delikipos",
+      "postal_code": "7642",
+      "country_code": "CY",
+      "latitude": 34.9177,
+      "longitude": 33.3618,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Skarinou",
+      "postal_code": "7731",
+      "country_code": "CY",
+      "latitude": 34.8192,
+      "longitude": 33.3588,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Psematismenos",
+      "postal_code": "7743",
+      "country_code": "CY",
+      "latitude": 34.7495,
+      "longitude": 33.3504,
+      "admin_name1": "Larnaka"
+    },
+    {
+      "place_name": "Agios Sozomenos",
+      "postal_code": "2562",
+      "country_code": "CY",
+      "latitude": 35.0657,
+      "longitude": 33.4385,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Nikitari",
+      "postal_code": "2777",
+      "country_code": "CY",
+      "latitude": 35.0733,
+      "longitude": 32.9933,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Elia Lefkosias",
+      "postal_code": "2830",
+      "country_code": "CY",
+      "latitude": 35.1327,
+      "longitude": 32.9125,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Kourdali",
+      "postal_code": "2846",
+      "country_code": "CY",
+      "latitude": 34.9751,
+      "longitude": 32.9501,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Neo Livadi",
+      "postal_code": "2925",
+      "country_code": "CY",
+      "latitude": 35.1442,
+      "longitude": 32.8454,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Pachyammos",
+      "postal_code": "2961",
+      "country_code": "CY",
+      "latitude": 35.1716,
+      "longitude": 32.5847,
+      "admin_name1": "Lefkosia"
+    },
+    {
+      "place_name": "Moni Zoodochou Pigis",
+      "postal_code": "4508",
+      "country_code": "CY",
+      "latitude": 34.8225,
+      "longitude": 33.1891,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Agios Tychon Touristiki Periochi",
+      "postal_code": "4532",
+      "country_code": "CY",
+      "latitude": 34.7519,
+      "longitude": 33.0978,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Korfi",
+      "postal_code": "4545",
+      "country_code": "CY",
+      "latitude": 34.7959,
+      "longitude": 32.9648,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Fasouri",
+      "postal_code": "4653",
+      "country_code": "CY",
+      "latitude": 34.6469,
+      "longitude": 32.9737,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Agios Dimitrios",
+      "postal_code": "4842",
+      "country_code": "CY",
+      "latitude": 34.9256,
+      "longitude": 32.8092,
+      "admin_name1": "Lemesos"
+    },
+    {
+      "place_name": "Choulou",
+      "postal_code": "8552",
+      "country_code": "CY",
+      "latitude": 34.8726,
+      "longitude": 32.5582,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Malounta Pafou",
+      "postal_code": "8622",
+      "country_code": "CY",
+      "latitude": 34.8649,
+      "longitude": 32.6907,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Praitori",
+      "postal_code": "8630",
+      "country_code": "CY",
+      "latitude": 34.849,
+      "longitude": 32.7458,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Pano Arodes",
+      "postal_code": "8703",
+      "country_code": "CY",
+      "latitude": 34.9361,
+      "longitude": 32.4072,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Agios Isidoros",
+      "postal_code": "8872",
+      "country_code": "CY",
+      "latitude": 35.0052,
+      "longitude": 32.4714,
+      "admin_name1": "Pafos"
+    },
+    {
+      "place_name": "Pano Gialia",
+      "postal_code": "8875",
+      "country_code": "CY",
+      "latitude": 35.0837,
+      "longitude": 32.5172,
+      "admin_name1": "Pafos"
+    }
+  ]
+]

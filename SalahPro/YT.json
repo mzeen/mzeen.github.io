@@ -1,0 +1,140 @@
+[
+  [
+    {
+      "place_name": "Kani Kéli",
+      "postal_code": "97625",
+      "country_code": "YT",
+      "latitude": -12.9536,
+      "longitude": 45.1033,
+      "admin_name1": "Kani-Kéli"
+    },
+    {
+      "place_name": "Mamoudzou",
+      "postal_code": "97600",
+      "country_code": "YT",
+      "latitude": -12.7823,
+      "longitude": 45.2288,
+      "admin_name1": "Mamoudzou"
+    },
+    {
+      "place_name": "Chirongui",
+      "postal_code": "97620",
+      "country_code": "YT",
+      "latitude": -12.9319,
+      "longitude": 45.1483,
+      "admin_name1": "Chirongui"
+    },
+    {
+      "place_name": "Passamainty",
+      "postal_code": "97605",
+      "country_code": "YT",
+      "latitude": -12.802,
+      "longitude": 45.2082,
+      "admin_name1": "Mayotte (general)"
+    },
+    {
+      "place_name": "Acoua",
+      "postal_code": "97630",
+      "country_code": "YT",
+      "latitude": -12.7239,
+      "longitude": 45.0582,
+      "admin_name1": "Acoua"
+    },
+    {
+      "place_name": "M'Tsangamouji",
+      "postal_code": "97650",
+      "country_code": "YT",
+      "latitude": -12.7594,
+      "longitude": 45.0836,
+      "admin_name1": "M'Tsangamouji"
+    },
+    {
+      "place_name": "Bouéni",
+      "postal_code": "97620",
+      "country_code": "YT",
+      "latitude": -12.9025,
+      "longitude": 45.0761,
+      "admin_name1": "Bouéni"
+    },
+    {
+      "place_name": "Dzaoudzi",
+      "postal_code": "97615",
+      "country_code": "YT",
+      "latitude": -12.7783,
+      "longitude": 45.2837,
+      "admin_name1": "Dzaoudzi"
+    },
+    {
+      "place_name": "Pamandzi",
+      "postal_code": "97615",
+      "country_code": "YT",
+      "latitude": -12.7949,
+      "longitude": 45.282,
+      "admin_name1": "Pamandzi"
+    },
+    {
+      "place_name": "Koungou",
+      "postal_code": "97600",
+      "country_code": "YT",
+      "latitude": -12.7336,
+      "longitude": 45.2042,
+      "admin_name1": "Koungou"
+    },
+    {
+      "place_name": "Bandraboua",
+      "postal_code": "97650",
+      "country_code": "YT",
+      "latitude": -12.7044,
+      "longitude": 45.1223,
+      "admin_name1": "Bandraboua"
+    },
+    {
+      "place_name": "Ouangani",
+      "postal_code": "97670",
+      "country_code": "YT",
+      "latitude": -12.8464,
+      "longitude": 45.1361,
+      "admin_name1": "Ouangani"
+    },
+    {
+      "place_name": "Dembeni",
+      "postal_code": "97660",
+      "country_code": "YT",
+      "latitude": -12.8436,
+      "longitude": 45.1844,
+      "admin_name1": "Dembeni"
+    },
+    {
+      "place_name": "Chiconi",
+      "postal_code": "97670",
+      "country_code": "YT",
+      "latitude": -12.8333,
+      "longitude": 45.1106,
+      "admin_name1": "Chiconi"
+    },
+    {
+      "place_name": "Bandrélé",
+      "postal_code": "97660",
+      "country_code": "YT",
+      "latitude": -12.9128,
+      "longitude": 45.1926,
+      "admin_name1": "Bandrele"
+    },
+    {
+      "place_name": "Mtsamboro",
+      "postal_code": "97630",
+      "country_code": "YT",
+      "latitude": -12.6998,
+      "longitude": 45.0689,
+      "admin_name1": "Mtsamboro"
+    },
+    {
+      "place_name": "Tsingoni",
+      "postal_code": "97680",
+      "country_code": "YT",
+      "latitude": -12.7872,
+      "longitude": 45.1028,
+      "admin_name1": "Tsingoni"
+    }
+  ]
+]

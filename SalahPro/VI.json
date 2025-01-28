@@ -1,0 +1,36 @@
+[
+  [
+    {
+      "place_name": "Christiansted",
+      "postal_code": "00823",
+      "country_code": "VI",
+      "latitude": 17.7237,
+      "longitude": -64.7445,
+      "admin_name1": "Vi"
+    },
+    {
+      "place_name": "St Thomas",
+      "postal_code": "00803",
+      "country_code": "VI",
+      "latitude": 18.3223,
+      "longitude": -64.9637,
+      "admin_name1": "Vi"
+    },
+    {
+      "place_name": "Kingshill",
+      "postal_code": "00851",
+      "country_code": "VI",
+      "latitude": 17.7099,
+      "longitude": -64.7009,
+      "admin_name1": "Vi"
+    },
+    {
+      "place_name": "Frederiksted",
+      "postal_code": "00840",
+      "country_code": "VI",
+      "latitude": 17.7226,
+      "longitude": -64.8729,
+      "admin_name1": "Vi"
+    }
+  ]
+]

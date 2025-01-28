@@ -1,0 +1,3724 @@
+[
+  [
+    {
+      "place_name": "Vrhnika",
+      "postal_code": "1360",
+      "country_code": "SI",
+      "latitude": 45.6922,
+      "longitude": 14.5028,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljubljana",
+      "postal_code": "1522",
+      "country_code": "SI",
+      "latitude": 46.0511,
+      "longitude": 14.5051,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pohorje",
+      "postal_code": "2208",
+      "country_code": "SI",
+      "latitude": 46.5026,
+      "longitude": 15.573,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kog",
+      "postal_code": "2276",
+      "country_code": "SI",
+      "latitude": 46.4717,
+      "longitude": 16.2508,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Slovenska Bistrica",
+      "postal_code": "2310",
+      "country_code": "SI",
+      "latitude": 46.3928,
+      "longitude": 15.5744,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šmartno na Pohorju",
+      "postal_code": "2315",
+      "country_code": "SI",
+      "latitude": 46.4442,
+      "longitude": 15.5394,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Selnica ob Dravi",
+      "postal_code": "2352",
+      "country_code": "SI",
+      "latitude": 46.55,
+      "longitude": 15.495,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Maribor",
+      "postal_code": "2610",
+      "country_code": "SI",
+      "latitude": 46.5547,
+      "longitude": 15.6467,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Štore",
+      "postal_code": "3220",
+      "country_code": "SI",
+      "latitude": 46.2208,
+      "longitude": 15.3139,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ponikva",
+      "postal_code": "3232",
+      "country_code": "SI",
+      "latitude": 46.241,
+      "longitude": 15.4567,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kalobje",
+      "postal_code": "3233",
+      "country_code": "SI",
+      "latitude": 46.1672,
+      "longitude": 15.3944,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Buče",
+      "postal_code": "3255",
+      "country_code": "SI",
+      "latitude": 46.1079,
+      "longitude": 15.5701,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kal nad Kanalom",
+      "postal_code": "5214",
+      "country_code": "SI",
+      "latitude": 46.0833,
+      "longitude": 13.7403,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ilirska Bistrica-Trnovo",
+      "postal_code": "6251",
+      "country_code": "SI",
+      "latitude": 45.6192,
+      "longitude": 14.2205,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sečovlje/Sicciole",
+      "postal_code": "6333",
+      "country_code": "SI",
+      "latitude": 45.4767,
+      "longitude": 13.6233,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šentjernej",
+      "postal_code": "8310",
+      "country_code": "SI",
+      "latitude": 45.84,
+      "longitude": 15.3361,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Cankova",
+      "postal_code": "9261",
+      "country_code": "SI",
+      "latitude": 46.7208,
+      "longitude": 16.0225,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Radenci",
+      "postal_code": "9502",
+      "country_code": "SI",
+      "latitude": 46.642,
+      "longitude": 16.0378,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stara Cerkev",
+      "postal_code": "1332",
+      "country_code": "SI",
+      "latitude": 45.6722,
+      "longitude": 14.8397,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jarenina",
+      "postal_code": "2221",
+      "country_code": "SI",
+      "latitude": 46.5803,
+      "longitude": 15.7438,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lenart v Slovenskih goricah",
+      "postal_code": "2230",
+      "country_code": "SI",
+      "latitude": 46.5761,
+      "longitude": 15.8314,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Voličina",
+      "postal_code": "2232",
+      "country_code": "SI",
+      "latitude": 46.5838,
+      "longitude": 15.8478,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sv. Ana v Slovenskih goricah",
+      "postal_code": "2233",
+      "country_code": "SI",
+      "latitude": 46.5838,
+      "longitude": 15.8478,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zgornja Korena",
+      "postal_code": "2242",
+      "country_code": "SI",
+      "latitude": 46.524,
+      "longitude": 15.7723,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zavrč",
+      "postal_code": "2283",
+      "country_code": "SI",
+      "latitude": 46.3917,
+      "longitude": 16.0497,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kamnica",
+      "postal_code": "2351",
+      "country_code": "SI",
+      "latitude": 46.5744,
+      "longitude": 15.6142,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ribnica na Pohorju",
+      "postal_code": "2364",
+      "country_code": "SI",
+      "latitude": 46.535,
+      "longitude": 15.2728,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nazarje",
+      "postal_code": "3331",
+      "country_code": "SI",
+      "latitude": 46.3176,
+      "longitude": 14.9467,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šmartno ob Dreti",
+      "postal_code": "3341",
+      "country_code": "SI",
+      "latitude": 46.2839,
+      "longitude": 14.8903,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Celje",
+      "postal_code": "3505",
+      "country_code": "SI",
+      "latitude": 46.2309,
+      "longitude": 15.2604,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Deskle",
+      "postal_code": "5210",
+      "country_code": "SI",
+      "latitude": 46.0531,
+      "longitude": 13.6138,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kobarid",
+      "postal_code": "5222",
+      "country_code": "SI",
+      "latitude": 46.2481,
+      "longitude": 13.5772,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pivka",
+      "postal_code": "6257",
+      "country_code": "SI",
+      "latitude": 45.6829,
+      "longitude": 14.1959,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gračišče",
+      "postal_code": "6272",
+      "country_code": "SI",
+      "latitude": 45.505,
+      "longitude": 13.8769,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novo mesto - poštni predali",
+      "postal_code": "8001",
+      "country_code": "SI",
+      "latitude": 45.8296,
+      "longitude": 15.1997,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brežice",
+      "postal_code": "8250",
+      "country_code": "SI",
+      "latitude": 45.9033,
+      "longitude": 15.5911,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velika Polana",
+      "postal_code": "9225",
+      "country_code": "SI",
+      "latitude": 46.5719,
+      "longitude": 16.3469,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Primskovo",
+      "postal_code": "1276",
+      "country_code": "SI",
+      "latitude": 45.9717,
+      "longitude": 14.9104,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ig",
+      "postal_code": "1292",
+      "country_code": "SI",
+      "latitude": 45.9603,
+      "longitude": 14.5289,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kočevje",
+      "postal_code": "1330",
+      "country_code": "SI",
+      "latitude": 45.6433,
+      "longitude": 14.8633,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hotedršica",
+      "postal_code": "1372",
+      "country_code": "SI",
+      "latitude": 45.9303,
+      "longitude": 14.1422,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Maribor - poštni predali",
+      "postal_code": "2001",
+      "country_code": "SI",
+      "latitude": 46.5547,
+      "longitude": 15.6467,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lovrenc na Pohorju",
+      "postal_code": "2344",
+      "country_code": "SI",
+      "latitude": 46.5406,
+      "longitude": 15.3931,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Prevalje",
+      "postal_code": "2391",
+      "country_code": "SI",
+      "latitude": 46.5469,
+      "longitude": 14.9208,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šempeter v Savinjski dolini",
+      "postal_code": "3311",
+      "country_code": "SI",
+      "latitude": 46.2654,
+      "longitude": 15.0907,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljubno ob Savinji",
+      "postal_code": "3333",
+      "country_code": "SI",
+      "latitude": 46.3436,
+      "longitude": 14.8338,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Škofja Loka",
+      "postal_code": "4220",
+      "country_code": "SI",
+      "latitude": 46.1655,
+      "longitude": 14.3063,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Radovljica",
+      "postal_code": "4240",
+      "country_code": "SI",
+      "latitude": 46.3444,
+      "longitude": 14.1744,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Soča",
+      "postal_code": "5232",
+      "country_code": "SI",
+      "latitude": 46.3433,
+      "longitude": 13.6564,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Koper/Capodistria - dostava",
+      "postal_code": "6000",
+      "country_code": "SI",
+      "latitude": 45.5538,
+      "longitude": 13.7439,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Piran/Pirano",
+      "postal_code": "6330",
+      "country_code": "SI",
+      "latitude": 45.4767,
+      "longitude": 13.6233,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šentjanž",
+      "postal_code": "8297",
+      "country_code": "SI",
+      "latitude": 46.0114,
+      "longitude": 15.1672,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dvor",
+      "postal_code": "8361",
+      "country_code": "SI",
+      "latitude": 45.8139,
+      "longitude": 14.9711,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Beltinci",
+      "postal_code": "9231",
+      "country_code": "SI",
+      "latitude": 46.6053,
+      "longitude": 16.2406,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornja Radgona",
+      "postal_code": "9250",
+      "country_code": "SI",
+      "latitude": 46.6733,
+      "longitude": 15.9922,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mengeš",
+      "postal_code": "1234",
+      "country_code": "SI",
+      "latitude": 46.1669,
+      "longitude": 14.575,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Radomlje",
+      "postal_code": "1235",
+      "country_code": "SI",
+      "latitude": 46.1736,
+      "longitude": 14.6122,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ribnica",
+      "postal_code": "1310",
+      "country_code": "SI",
+      "latitude": 45.7386,
+      "longitude": 14.7275,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Log pri Brezovici",
+      "postal_code": "1358",
+      "country_code": "SI",
+      "latitude": 46.0167,
+      "longitude": 14.3667,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podkum",
+      "postal_code": "1414",
+      "country_code": "SI",
+      "latitude": 46.0714,
+      "longitude": 15.0286,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zgornja Kungota",
+      "postal_code": "2201",
+      "country_code": "SI",
+      "latitude": 46.6392,
+      "longitude": 15.6156,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gorišnica",
+      "postal_code": "2272",
+      "country_code": "SI",
+      "latitude": 46.4147,
+      "longitude": 16.0139,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rače",
+      "postal_code": "2327",
+      "country_code": "SI",
+      "latitude": 46.4519,
+      "longitude": 15.6814,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Slovenj Gradec",
+      "postal_code": "2380",
+      "country_code": "SI",
+      "latitude": 46.5103,
+      "longitude": 15.0806,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljubečna",
+      "postal_code": "3202",
+      "country_code": "SI",
+      "latitude": 46.2417,
+      "longitude": 15.3208,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rimske Toplice",
+      "postal_code": "3272",
+      "country_code": "SI",
+      "latitude": 46.1226,
+      "longitude": 15.1919,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velenje",
+      "postal_code": "3503",
+      "country_code": "SI",
+      "latitude": 46.3592,
+      "longitude": 15.1103,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čepovan",
+      "postal_code": "5253",
+      "country_code": "SI",
+      "latitude": 46.0494,
+      "longitude": 13.7969,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sežana",
+      "postal_code": "6210",
+      "country_code": "SI",
+      "latitude": 45.7092,
+      "longitude": 13.8733,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lokev",
+      "postal_code": "6219",
+      "country_code": "SI",
+      "latitude": 45.6611,
+      "longitude": 13.9281,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Koper",
+      "postal_code": "6505",
+      "country_code": "SI",
+      "latitude": 45.5469,
+      "longitude": 13.7294,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stopiče",
+      "postal_code": "8322",
+      "country_code": "SI",
+      "latitude": 45.7694,
+      "longitude": 15.2097,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Murska Sobota - dostava",
+      "postal_code": "9000",
+      "country_code": "SI",
+      "latitude": 46.6586,
+      "longitude": 16.162,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Turnišče",
+      "postal_code": "9224",
+      "country_code": "SI",
+      "latitude": 46.6278,
+      "longitude": 16.3203,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gabrovka",
+      "postal_code": "1274",
+      "country_code": "SI",
+      "latitude": 46.0167,
+      "longitude": 15.0,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Logatec",
+      "postal_code": "1370",
+      "country_code": "SI",
+      "latitude": 45.9144,
+      "longitude": 14.2258,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zagorje ob Savi",
+      "postal_code": "1410",
+      "country_code": "SI",
+      "latitude": 46.1318,
+      "longitude": 14.9969,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pesnica pri Mariboru",
+      "postal_code": "2211",
+      "country_code": "SI",
+      "latitude": 46.6069,
+      "longitude": 15.6767,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ravne na Koroškem",
+      "postal_code": "2390",
+      "country_code": "SI",
+      "latitude": 46.5431,
+      "longitude": 14.9692,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Frankolovo",
+      "postal_code": "3213",
+      "country_code": "SI",
+      "latitude": 46.3306,
+      "longitude": 15.3144,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dramlje",
+      "postal_code": "3222",
+      "country_code": "SI",
+      "latitude": 46.2736,
+      "longitude": 15.3947,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rogatec",
+      "postal_code": "3252",
+      "country_code": "SI",
+      "latitude": 46.2294,
+      "longitude": 15.7003,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pristava pri Mestinju",
+      "postal_code": "3253",
+      "country_code": "SI",
+      "latitude": 46.1967,
+      "longitude": 15.5961,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kranjska Gora",
+      "postal_code": "4280",
+      "country_code": "SI",
+      "latitude": 46.4839,
+      "longitude": 13.7894,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Volčja Draga",
+      "postal_code": "5293",
+      "country_code": "SI",
+      "latitude": 45.9069,
+      "longitude": 13.6775,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Komen",
+      "postal_code": "6223",
+      "country_code": "SI",
+      "latitude": 45.8153,
+      "longitude": 13.7483,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Postojna",
+      "postal_code": "6230",
+      "country_code": "SI",
+      "latitude": 45.7769,
+      "longitude": 14.2167,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Košana",
+      "postal_code": "6256",
+      "country_code": "SI",
+      "latitude": 45.6192,
+      "longitude": 14.2205,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kapele",
+      "postal_code": "8258",
+      "country_code": "SI",
+      "latitude": 45.9333,
+      "longitude": 15.6833,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bučka",
+      "postal_code": "8276",
+      "country_code": "SI",
+      "latitude": 45.9333,
+      "longitude": 15.3167,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Črnomelj",
+      "postal_code": "8340",
+      "country_code": "SI",
+      "latitude": 45.5711,
+      "longitude": 15.1889,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Straža",
+      "postal_code": "8351",
+      "country_code": "SI",
+      "latitude": 45.78,
+      "longitude": 15.0728,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grad",
+      "postal_code": "9264",
+      "country_code": "SI",
+      "latitude": 46.8,
+      "longitude": 16.1,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trzin",
+      "postal_code": "1236",
+      "country_code": "SI",
+      "latitude": 46.1333,
+      "longitude": 14.5667,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Škofljica",
+      "postal_code": "1291",
+      "country_code": "SI",
+      "latitude": 45.9833,
+      "longitude": 14.5767,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nova vas",
+      "postal_code": "1385",
+      "country_code": "SI",
+      "latitude": 45.7717,
+      "longitude": 14.5058,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sv. Trojica v Slovenskih goricah",
+      "postal_code": "2235",
+      "country_code": "SI",
+      "latitude": 46.5838,
+      "longitude": 15.8478,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Juršinci",
+      "postal_code": "2256",
+      "country_code": "SI",
+      "latitude": 46.4847,
+      "longitude": 15.9714,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Libeliče",
+      "postal_code": "2372",
+      "country_code": "SI",
+      "latitude": 46.62,
+      "longitude": 14.9497,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dobrna",
+      "postal_code": "3204",
+      "country_code": "SI",
+      "latitude": 46.3375,
+      "longitude": 15.2264,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Cerklje na Gorenjskem",
+      "postal_code": "4207",
+      "country_code": "SI",
+      "latitude": 46.2542,
+      "longitude": 14.4886,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Poljane nad Škofjo Loko",
+      "postal_code": "4223",
+      "country_code": "SI",
+      "latitude": 46.121,
+      "longitude": 14.1862,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ilirska Bistrica",
+      "postal_code": "6250",
+      "country_code": "SI",
+      "latitude": 45.5697,
+      "longitude": 14.2408,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Artiče",
+      "postal_code": "8253",
+      "country_code": "SI",
+      "latitude": 45.9539,
+      "longitude": 15.5878,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zabukovje",
+      "postal_code": "8292",
+      "country_code": "SI",
+      "latitude": 46.055,
+      "longitude": 15.3675,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novo mesto",
+      "postal_code": "8600",
+      "country_code": "SI",
+      "latitude": 45.804,
+      "longitude": 15.1689,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bogojina",
+      "postal_code": "9222",
+      "country_code": "SI",
+      "latitude": 46.6761,
+      "longitude": 16.2839,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Spodnji Ivanjci",
+      "postal_code": "9245",
+      "country_code": "SI",
+      "latitude": 46.5956,
+      "longitude": 15.9814,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljubljana - dostava",
+      "postal_code": "1000",
+      "country_code": "SI",
+      "latitude": 46.0511,
+      "longitude": 14.5051,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šmartno pri Litiji",
+      "postal_code": "1275",
+      "country_code": "SI",
+      "latitude": 46.0444,
+      "longitude": 14.8442,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zagradec",
+      "postal_code": "1303",
+      "country_code": "SI",
+      "latitude": 45.8614,
+      "longitude": 14.8342,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Draga",
+      "postal_code": "1319",
+      "country_code": "SI",
+      "latitude": 45.9395,
+      "longitude": 14.547,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brezovica pri Ljubljani",
+      "postal_code": "1351",
+      "country_code": "SI",
+      "latitude": 46.0333,
+      "longitude": 14.4,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Begunje pri Cerknici",
+      "postal_code": "1382",
+      "country_code": "SI",
+      "latitude": 45.8181,
+      "longitude": 14.3822,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Središče ob Dravi",
+      "postal_code": "2277",
+      "country_code": "SI",
+      "latitude": 46.3942,
+      "longitude": 16.2681,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Fram",
+      "postal_code": "2313",
+      "country_code": "SI",
+      "latitude": 46.4506,
+      "longitude": 15.6322,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vojnik",
+      "postal_code": "3212",
+      "country_code": "SI",
+      "latitude": 46.2933,
+      "longitude": 15.3033,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Žalec",
+      "postal_code": "3310",
+      "country_code": "SI",
+      "latitude": 46.2515,
+      "longitude": 15.1648,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Naklo",
+      "postal_code": "4202",
+      "country_code": "SI",
+      "latitude": 46.2728,
+      "longitude": 14.3172,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kamna Gorica",
+      "postal_code": "4246",
+      "country_code": "SI",
+      "latitude": 46.3167,
+      "longitude": 14.2,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trnovo pri Gorici",
+      "postal_code": "5252",
+      "country_code": "SI",
+      "latitude": 45.9742,
+      "longitude": 13.7433,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Miren",
+      "postal_code": "5291",
+      "country_code": "SI",
+      "latitude": 45.8956,
+      "longitude": 13.6075,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Prvačina",
+      "postal_code": "5297",
+      "country_code": "SI",
+      "latitude": 45.89,
+      "longitude": 13.7181,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veliki Gaber",
+      "postal_code": "8213",
+      "country_code": "SI",
+      "latitude": 45.9338,
+      "longitude": 14.9071,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bizeljsko",
+      "postal_code": "8259",
+      "country_code": "SI",
+      "latitude": 46.0133,
+      "longitude": 15.6967,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Križevci pri Ljutomeru",
+      "postal_code": "9242",
+      "country_code": "SI",
+      "latitude": 46.5683,
+      "longitude": 16.1386,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stahovica",
+      "postal_code": "1242",
+      "country_code": "SI",
+      "latitude": 46.2619,
+      "longitude": 14.6022,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kresnice",
+      "postal_code": "1281",
+      "country_code": "SI",
+      "latitude": 46.102,
+      "longitude": 14.7858,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dobovec",
+      "postal_code": "1423",
+      "country_code": "SI",
+      "latitude": 46.1131,
+      "longitude": 15.0572,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Radeče",
+      "postal_code": "1433",
+      "country_code": "SI",
+      "latitude": 46.0681,
+      "longitude": 15.1839,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Malečnik",
+      "postal_code": "2229",
+      "country_code": "SI",
+      "latitude": 46.5542,
+      "longitude": 15.7028,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pernica",
+      "postal_code": "2231",
+      "country_code": "SI",
+      "latitude": 46.58,
+      "longitude": 15.7278,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zgornja Ložnica",
+      "postal_code": "2316",
+      "country_code": "SI",
+      "latitude": 46.3833,
+      "longitude": 15.5167,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Limbuš",
+      "postal_code": "2341",
+      "country_code": "SI",
+      "latitude": 46.5536,
+      "longitude": 15.5836,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kotlje",
+      "postal_code": "2394",
+      "country_code": "SI",
+      "latitude": 46.5214,
+      "longitude": 14.9869,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vitanje",
+      "postal_code": "3205",
+      "country_code": "SI",
+      "latitude": 46.3817,
+      "longitude": 15.2958,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Teharje",
+      "postal_code": "3221",
+      "country_code": "SI",
+      "latitude": 46.2303,
+      "longitude": 15.3022,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jurklošter",
+      "postal_code": "3273",
+      "country_code": "SI",
+      "latitude": 46.0917,
+      "longitude": 15.3367,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rateče-Planica",
+      "postal_code": "4283",
+      "country_code": "SI",
+      "latitude": 46.4761,
+      "longitude": 13.8532,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nova Gorica - dostava",
+      "postal_code": "5000",
+      "country_code": "SI",
+      "latitude": 45.958,
+      "longitude": 13.6469,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Divača",
+      "postal_code": "6215",
+      "country_code": "SI",
+      "latitude": 45.6847,
+      "longitude": 13.9703,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Otočec",
+      "postal_code": "8222",
+      "country_code": "SI",
+      "latitude": 45.8675,
+      "longitude": 15.2733,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mokronog",
+      "postal_code": "8230",
+      "country_code": "SI",
+      "latitude": 45.9342,
+      "longitude": 15.1408,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šentrupert",
+      "postal_code": "8232",
+      "country_code": "SI",
+      "latitude": 45.9778,
+      "longitude": 15.0956,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čatež ob Savi",
+      "postal_code": "8251",
+      "country_code": "SI",
+      "latitude": 45.8894,
+      "longitude": 15.6025,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Škocjan",
+      "postal_code": "8275",
+      "country_code": "SI",
+      "latitude": 45.9067,
+      "longitude": 15.2914,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brestanica",
+      "postal_code": "8280",
+      "country_code": "SI",
+      "latitude": 45.9953,
+      "longitude": 15.4775,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Apače",
+      "postal_code": "9253",
+      "country_code": "SI",
+      "latitude": 46.6972,
+      "longitude": 15.9106,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ivančna Gorica",
+      "postal_code": "1295",
+      "country_code": "SI",
+      "latitude": 45.9383,
+      "longitude": 14.8044,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Marjeta na Dravskem polju",
+      "postal_code": "2206",
+      "country_code": "SI",
+      "latitude": 46.4525,
+      "longitude": 15.7369,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ptuj",
+      "postal_code": "2250",
+      "country_code": "SI",
+      "latitude": 46.4201,
+      "longitude": 15.8702,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ruše",
+      "postal_code": "2342",
+      "country_code": "SI",
+      "latitude": 46.5394,
+      "longitude": 15.5158,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Radlje ob Dravi",
+      "postal_code": "2360",
+      "country_code": "SI",
+      "latitude": 46.6142,
+      "longitude": 15.2264,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dravograd",
+      "postal_code": "2370",
+      "country_code": "SI",
+      "latitude": 46.5881,
+      "longitude": 15.0192,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Celje - dostava",
+      "postal_code": "3000",
+      "country_code": "SI",
+      "latitude": 45.5916,
+      "longitude": 14.1546,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šmartno v Rožni dolini",
+      "postal_code": "3201",
+      "country_code": "SI",
+      "latitude": 46.2945,
+      "longitude": 15.2431,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Loka pri Žusmu",
+      "postal_code": "3223",
+      "country_code": "SI",
+      "latitude": 46.1575,
+      "longitude": 15.5147,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šmarje pri Jelšah",
+      "postal_code": "3240",
+      "country_code": "SI",
+      "latitude": 46.2272,
+      "longitude": 15.5192,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velenje - poštni predali",
+      "postal_code": "3322",
+      "country_code": "SI",
+      "latitude": 46.3712,
+      "longitude": 15.0345,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vipava",
+      "postal_code": "5271",
+      "country_code": "SI",
+      "latitude": 45.8467,
+      "longitude": 13.9631,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Strunjan/Strugnano (sezonska pošta)",
+      "postal_code": "6323",
+      "country_code": "SI",
+      "latitude": 45.5143,
+      "longitude": 13.5921,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pišece",
+      "postal_code": "8255",
+      "country_code": "SI",
+      "latitude": 46.0017,
+      "longitude": 15.6411,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sromlje",
+      "postal_code": "8256",
+      "country_code": "SI",
+      "latitude": 45.9833,
+      "longitude": 15.6,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljutomer",
+      "postal_code": "9240",
+      "country_code": "SI",
+      "latitude": 46.5208,
+      "longitude": 16.1975,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljubljana Šentvid",
+      "postal_code": "1210",
+      "country_code": "SI",
+      "latitude": 46.0964,
+      "longitude": 14.4697,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Medvode",
+      "postal_code": "1215",
+      "country_code": "SI",
+      "latitude": 46.1333,
+      "longitude": 14.4333,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Turjak",
+      "postal_code": "1311",
+      "country_code": "SI",
+      "latitude": 45.8789,
+      "longitude": 14.6153,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ortnek",
+      "postal_code": "1316",
+      "country_code": "SI",
+      "latitude": 45.782,
+      "longitude": 14.6753,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Polhov Gradec",
+      "postal_code": "1355",
+      "country_code": "SI",
+      "latitude": 46.0669,
+      "longitude": 14.3161,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Miklavž na Dravskem polju",
+      "postal_code": "2204",
+      "country_code": "SI",
+      "latitude": 46.5058,
+      "longitude": 15.6972,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sladki Vrh",
+      "postal_code": "2214",
+      "country_code": "SI",
+      "latitude": 46.7075,
+      "longitude": 15.8011,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jurovski Dol",
+      "postal_code": "2223",
+      "country_code": "SI",
+      "latitude": 46.6064,
+      "longitude": 15.7847,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kranj - dostava",
+      "postal_code": "4000",
+      "country_code": "SI",
+      "latitude": 46.2389,
+      "longitude": 14.3556,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bovec",
+      "postal_code": "5230",
+      "country_code": "SI",
+      "latitude": 46.3375,
+      "longitude": 13.5528,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grgar",
+      "postal_code": "5251",
+      "country_code": "SI",
+      "latitude": 45.9986,
+      "longitude": 13.6739,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Idrija",
+      "postal_code": "5280",
+      "country_code": "SI",
+      "latitude": 46.0028,
+      "longitude": 14.0306,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ankaran/Ancarano",
+      "postal_code": "6280",
+      "country_code": "SI",
+      "latitude": 45.5664,
+      "longitude": 13.7994,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Metlika",
+      "postal_code": "8330",
+      "country_code": "SI",
+      "latitude": 45.6472,
+      "longitude": 15.3142,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dobrovnik/Dobronak",
+      "postal_code": "9223",
+      "country_code": "SI",
+      "latitude": 46.655,
+      "longitude": 16.2946,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dolenja vas",
+      "postal_code": "1331",
+      "country_code": "SI",
+      "latitude": 45.7061,
+      "longitude": 14.7544,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zidani Most",
+      "postal_code": "1432",
+      "country_code": "SI",
+      "latitude": 46.0882,
+      "longitude": 15.1728,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Miklavž pri Ormožu",
+      "postal_code": "2275",
+      "country_code": "SI",
+      "latitude": 46.46,
+      "longitude": 16.2136,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stoperce",
+      "postal_code": "2289",
+      "country_code": "SI",
+      "latitude": 46.29,
+      "longitude": 15.7167,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Orehova vas",
+      "postal_code": "2312",
+      "country_code": "SI",
+      "latitude": 46.4701,
+      "longitude": 15.6686,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Poljčane",
+      "postal_code": "2319",
+      "country_code": "SI",
+      "latitude": 46.3119,
+      "longitude": 15.5792,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Makole",
+      "postal_code": "2321",
+      "country_code": "SI",
+      "latitude": 46.3172,
+      "longitude": 15.6672,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Muta",
+      "postal_code": "2366",
+      "country_code": "SI",
+      "latitude": 46.6114,
+      "longitude": 15.1661,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gorica pri Slivnici",
+      "postal_code": "3263",
+      "country_code": "SI",
+      "latitude": 46.1872,
+      "longitude": 15.4325,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Prebold",
+      "postal_code": "3312",
+      "country_code": "SI",
+      "latitude": 46.2369,
+      "longitude": 15.0925,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velenje - dostava",
+      "postal_code": "3320",
+      "country_code": "SI",
+      "latitude": 46.3712,
+      "longitude": 15.0345,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Preddvor",
+      "postal_code": "4205",
+      "country_code": "SI",
+      "latitude": 46.3025,
+      "longitude": 14.4231,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šenčur",
+      "postal_code": "4208",
+      "country_code": "SI",
+      "latitude": 46.2456,
+      "longitude": 14.4197,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bohinjska Bela",
+      "postal_code": "4263",
+      "country_code": "SI",
+      "latitude": 46.3489,
+      "longitude": 14.0639,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Begunje na Gorenjskem",
+      "postal_code": "4275",
+      "country_code": "SI",
+      "latitude": 46.3833,
+      "longitude": 14.2167,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podbrdo",
+      "postal_code": "5243",
+      "country_code": "SI",
+      "latitude": 46.21,
+      "longitude": 13.9644,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šempeter pri Gorici",
+      "postal_code": "5290",
+      "country_code": "SI",
+      "latitude": 45.9275,
+      "longitude": 13.6411,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Planina",
+      "postal_code": "6232",
+      "country_code": "SI",
+      "latitude": 45.8339,
+      "longitude": 14.2561,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dekani",
+      "postal_code": "6271",
+      "country_code": "SI",
+      "latitude": 45.5497,
+      "longitude": 13.8136,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Leskovec pri Krškem",
+      "postal_code": "8273",
+      "country_code": "SI",
+      "latitude": 45.9357,
+      "longitude": 15.4718,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljubljana Črnuče",
+      "postal_code": "1231",
+      "country_code": "SI",
+      "latitude": 46.1527,
+      "longitude": 14.5952,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Litija",
+      "postal_code": "1270",
+      "country_code": "SI",
+      "latitude": 46.0586,
+      "longitude": 14.8225,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Notranje Gorice",
+      "postal_code": "1357",
+      "country_code": "SI",
+      "latitude": 45.9875,
+      "longitude": 14.3989,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Polenšak",
+      "postal_code": "2257",
+      "country_code": "SI",
+      "latitude": 46.4746,
+      "longitude": 16.0031,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ormož",
+      "postal_code": "2270",
+      "country_code": "SI",
+      "latitude": 46.4114,
+      "longitude": 16.1544,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velika Nedelja",
+      "postal_code": "2274",
+      "country_code": "SI",
+      "latitude": 46.4178,
+      "longitude": 16.1097,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zgornji Leskovec",
+      "postal_code": "2285",
+      "country_code": "SI",
+      "latitude": 46.3303,
+      "longitude": 15.9369,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šentjur",
+      "postal_code": "3230",
+      "country_code": "SI",
+      "latitude": 46.2172,
+      "longitude": 15.3975,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podčetrtek",
+      "postal_code": "3254",
+      "country_code": "SI",
+      "latitude": 46.1569,
+      "longitude": 15.5986,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podsreda",
+      "postal_code": "3257",
+      "country_code": "SI",
+      "latitude": 46.0414,
+      "longitude": 15.5906,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Braslovče",
+      "postal_code": "3314",
+      "country_code": "SI",
+      "latitude": 46.2897,
+      "longitude": 15.0389,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rečica ob Savinji",
+      "postal_code": "3332",
+      "country_code": "SI",
+      "latitude": 46.3167,
+      "longitude": 14.9167,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Luče",
+      "postal_code": "3334",
+      "country_code": "SI",
+      "latitude": 46.3561,
+      "longitude": 14.7467,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gorenja vas",
+      "postal_code": "4224",
+      "country_code": "SI",
+      "latitude": 46.1667,
+      "longitude": 14.15,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bohinjska Bistrica",
+      "postal_code": "4264",
+      "country_code": "SI",
+      "latitude": 46.2722,
+      "longitude": 13.9535,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nova Gorica",
+      "postal_code": "5600",
+      "country_code": "SI",
+      "latitude": 45.956,
+      "longitude": 13.6484,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mirna",
+      "postal_code": "8233",
+      "country_code": "SI",
+      "latitude": 45.9553,
+      "longitude": 15.0619,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krška vas",
+      "postal_code": "8262",
+      "country_code": "SI",
+      "latitude": 45.9,
+      "longitude": 15.5667,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hinje",
+      "postal_code": "8362",
+      "country_code": "SI",
+      "latitude": 45.7656,
+      "longitude": 14.8822,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lendava/Lendva",
+      "postal_code": "9220",
+      "country_code": "SI",
+      "latitude": 46.655,
+      "longitude": 16.2946,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Martjanci",
+      "postal_code": "9221",
+      "country_code": "SI",
+      "latitude": 46.6864,
+      "longitude": 16.1978,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sv. Jurij ob Ščavnici",
+      "postal_code": "9244",
+      "country_code": "SI",
+      "latitude": 46.5594,
+      "longitude": 16.1077,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Borovnica",
+      "postal_code": "1353",
+      "country_code": "SI",
+      "latitude": 45.9158,
+      "longitude": 14.3631,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Starše",
+      "postal_code": "2205",
+      "country_code": "SI",
+      "latitude": 46.4658,
+      "longitude": 15.7672,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šentilj v Slovenskih goricah",
+      "postal_code": "2212",
+      "country_code": "SI",
+      "latitude": 46.6792,
+      "longitude": 15.6532,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Markovci",
+      "postal_code": "2281",
+      "country_code": "SI",
+      "latitude": 46.3833,
+      "longitude": 15.95,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ožbalt",
+      "postal_code": "2361",
+      "country_code": "SI",
+      "latitude": 46.5869,
+      "longitude": 15.3989,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Slovenske Konjice",
+      "postal_code": "3210",
+      "country_code": "SI",
+      "latitude": 46.3367,
+      "longitude": 15.4258,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rogaška Slatina",
+      "postal_code": "3250",
+      "country_code": "SI",
+      "latitude": 46.2375,
+      "longitude": 15.6397,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kozje",
+      "postal_code": "3260",
+      "country_code": "SI",
+      "latitude": 46.075,
+      "longitude": 15.5603,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Polzela",
+      "postal_code": "3313",
+      "country_code": "SI",
+      "latitude": 46.2833,
+      "longitude": 15.0667,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Duplje",
+      "postal_code": "4203",
+      "country_code": "SI",
+      "latitude": 46.2821,
+      "longitude": 14.3831,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Žirovnica",
+      "postal_code": "4274",
+      "country_code": "SI",
+      "latitude": 46.4047,
+      "longitude": 14.14,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mojstrana",
+      "postal_code": "4281",
+      "country_code": "SI",
+      "latitude": 46.4611,
+      "longitude": 13.9369,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Slap ob Idrijci",
+      "postal_code": "5283",
+      "country_code": "SI",
+      "latitude": 46.1233,
+      "longitude": 13.8047,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stari trg ob Kolpi",
+      "postal_code": "8342",
+      "country_code": "SI",
+      "latitude": 45.4936,
+      "longitude": 15.0772,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mala Nedelja",
+      "postal_code": "9243",
+      "country_code": "SI",
+      "latitude": 46.5289,
+      "longitude": 16.0558,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Spodnji Duplek",
+      "postal_code": "2241",
+      "country_code": "SI",
+      "latitude": 46.5031,
+      "longitude": 15.7453,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Cirkulane",
+      "postal_code": "2282",
+      "country_code": "SI",
+      "latitude": 46.3441,
+      "longitude": 15.9947,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podgorje pri Slovenj Gradcu",
+      "postal_code": "2381",
+      "country_code": "SI",
+      "latitude": 46.4719,
+      "longitude": 15.0836,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Laško",
+      "postal_code": "3270",
+      "country_code": "SI",
+      "latitude": 46.1546,
+      "longitude": 15.2355,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šmartno ob Paki",
+      "postal_code": "3327",
+      "country_code": "SI",
+      "latitude": 46.3333,
+      "longitude": 15.0333,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Žabnica",
+      "postal_code": "4209",
+      "country_code": "SI",
+      "latitude": 46.1986,
+      "longitude": 14.3331,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Žiri",
+      "postal_code": "4226",
+      "country_code": "SI",
+      "latitude": 46.0422,
+      "longitude": 14.1072,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Selca",
+      "postal_code": "4227",
+      "country_code": "SI",
+      "latitude": 46.2244,
+      "longitude": 14.2056,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dobrovo v Brdih",
+      "postal_code": "5212",
+      "country_code": "SI",
+      "latitude": 45.9964,
+      "longitude": 13.5264,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trebnje",
+      "postal_code": "8210",
+      "country_code": "SI",
+      "latitude": 45.9042,
+      "longitude": 15.0217,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Tišina",
+      "postal_code": "9251",
+      "country_code": "SI",
+      "latitude": 46.6836,
+      "longitude": 16.0525,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Struge",
+      "postal_code": "1313",
+      "country_code": "SI",
+      "latitude": 45.7817,
+      "longitude": 14.7747,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Cerknica",
+      "postal_code": "1380",
+      "country_code": "SI",
+      "latitude": 45.7931,
+      "longitude": 14.3625,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podgorci",
+      "postal_code": "2273",
+      "country_code": "SI",
+      "latitude": 46.4292,
+      "longitude": 16.0636,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zgornja Polskava",
+      "postal_code": "2314",
+      "country_code": "SI",
+      "latitude": 46.4256,
+      "longitude": 15.6122,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bresternica",
+      "postal_code": "2354",
+      "country_code": "SI",
+      "latitude": 46.5697,
+      "longitude": 15.575,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podvelka",
+      "postal_code": "2363",
+      "country_code": "SI",
+      "latitude": 46.5869,
+      "longitude": 15.3306,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Petrovče",
+      "postal_code": "3301",
+      "country_code": "SI",
+      "latitude": 46.2417,
+      "longitude": 15.19,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gomilsko",
+      "postal_code": "3303",
+      "country_code": "SI",
+      "latitude": 46.2528,
+      "longitude": 15.0422,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Topolšica",
+      "postal_code": "3326",
+      "country_code": "SI",
+      "latitude": 46.4003,
+      "longitude": 15.0216,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Solčava",
+      "postal_code": "3335",
+      "country_code": "SI",
+      "latitude": 46.4194,
+      "longitude": 14.6936,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Golnik",
+      "postal_code": "4204",
+      "country_code": "SI",
+      "latitude": 46.3333,
+      "longitude": 14.3333,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šempas",
+      "postal_code": "5261",
+      "country_code": "SI",
+      "latitude": 45.9303,
+      "longitude": 13.7436,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Portorož/Portorose",
+      "postal_code": "6320",
+      "country_code": "SI",
+      "latitude": 45.5143,
+      "longitude": 13.5921,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brusnice",
+      "postal_code": "8321",
+      "country_code": "SI",
+      "latitude": 45.7514,
+      "longitude": 15.1715,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Suhor",
+      "postal_code": "8331",
+      "country_code": "SI",
+      "latitude": 45.5296,
+      "longitude": 14.8708,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šalovci",
+      "postal_code": "9204",
+      "country_code": "SI",
+      "latitude": 46.825,
+      "longitude": 16.2981,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljubljana - poštni predali",
+      "postal_code": "1001",
+      "country_code": "SI",
+      "latitude": 46.0511,
+      "longitude": 14.5051,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lukovica",
+      "postal_code": "1225",
+      "country_code": "SI",
+      "latitude": 46.1667,
+      "longitude": 14.7,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Domžale",
+      "postal_code": "1230",
+      "country_code": "SI",
+      "latitude": 46.1377,
+      "longitude": 14.5937,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rob",
+      "postal_code": "1314",
+      "country_code": "SI",
+      "latitude": 45.8486,
+      "longitude": 14.5722,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kisovec",
+      "postal_code": "1412",
+      "country_code": "SI",
+      "latitude": 46.1391,
+      "longitude": 14.9629,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dol pri Hrastniku",
+      "postal_code": "1431",
+      "country_code": "SI",
+      "latitude": 46.1419,
+      "longitude": 15.1128,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lovrenc na Dravskem polju",
+      "postal_code": "2324",
+      "country_code": "SI",
+      "latitude": 46.3736,
+      "longitude": 15.7792,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Črna na Koroškem",
+      "postal_code": "2393",
+      "country_code": "SI",
+      "latitude": 46.4705,
+      "longitude": 14.8501,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Loče",
+      "postal_code": "3215",
+      "country_code": "SI",
+      "latitude": 46.283,
+      "longitude": 15.258,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Griže",
+      "postal_code": "3302",
+      "country_code": "SI",
+      "latitude": 46.2294,
+      "longitude": 15.1506,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Godovič",
+      "postal_code": "5275",
+      "country_code": "SI",
+      "latitude": 45.9578,
+      "longitude": 14.0936,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Renče",
+      "postal_code": "5292",
+      "country_code": "SI",
+      "latitude": 45.89,
+      "longitude": 13.6686,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podgrad",
+      "postal_code": "6244",
+      "country_code": "SI",
+      "latitude": 45.5217,
+      "longitude": 14.1461,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Marezige",
+      "postal_code": "6273",
+      "country_code": "SI",
+      "latitude": 45.5097,
+      "longitude": 13.8031,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Izola/Isola",
+      "postal_code": "6310",
+      "country_code": "SI",
+      "latitude": 45.4955,
+      "longitude": 13.6077,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šmarješke Toplice",
+      "postal_code": "8220",
+      "country_code": "SI",
+      "latitude": 45.8624,
+      "longitude": 15.2219,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trebelno",
+      "postal_code": "8231",
+      "country_code": "SI",
+      "latitude": 45.9167,
+      "longitude": 15.15,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zdole",
+      "postal_code": "8272",
+      "country_code": "SI",
+      "latitude": 45.9772,
+      "longitude": 15.5458,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dragatuš",
+      "postal_code": "8343",
+      "country_code": "SI",
+      "latitude": 45.5208,
+      "longitude": 15.1756,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vinica",
+      "postal_code": "8344",
+      "country_code": "SI",
+      "latitude": 45.4601,
+      "longitude": 15.254,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Črenšovci",
+      "postal_code": "9232",
+      "country_code": "SI",
+      "latitude": 46.5744,
+      "longitude": 16.2906,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Veržej",
+      "postal_code": "9241",
+      "country_code": "SI",
+      "latitude": 46.5836,
+      "longitude": 16.1653,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bodonci",
+      "postal_code": "9265",
+      "country_code": "SI",
+      "latitude": 46.7442,
+      "longitude": 16.0922,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljubljana-Dobrunje",
+      "postal_code": "1261",
+      "country_code": "SI",
+      "latitude": 46.0333,
+      "longitude": 14.5833,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rovte",
+      "postal_code": "1373",
+      "country_code": "SI",
+      "latitude": 45.9853,
+      "longitude": 14.1775,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jakobski Dol",
+      "postal_code": "2222",
+      "country_code": "SI",
+      "latitude": 46.5803,
+      "longitude": 15.7438,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Cerkvenjak",
+      "postal_code": "2236",
+      "country_code": "SI",
+      "latitude": 46.5706,
+      "longitude": 15.9436,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dornava",
+      "postal_code": "2252",
+      "country_code": "SI",
+      "latitude": 46.4367,
+      "longitude": 15.9536,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Destrnik",
+      "postal_code": "2253",
+      "country_code": "SI",
+      "latitude": 46.5006,
+      "longitude": 15.875,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ivanjkovci",
+      "postal_code": "2259",
+      "country_code": "SI",
+      "latitude": 46.4622,
+      "longitude": 16.1458,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šentjanž pri Dravogradu",
+      "postal_code": "2373",
+      "country_code": "SI",
+      "latitude": 46.5611,
+      "longitude": 15.0389,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stranice",
+      "postal_code": "3206",
+      "country_code": "SI",
+      "latitude": 46.3636,
+      "longitude": 15.3653,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podplat",
+      "postal_code": "3241",
+      "country_code": "SI",
+      "latitude": 46.2461,
+      "longitude": 15.5764,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bohinjsko jezero",
+      "postal_code": "4265",
+      "country_code": "SI",
+      "latitude": 46.3218,
+      "longitude": 14.0141,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Blejska Dobrava",
+      "postal_code": "4273",
+      "country_code": "SI",
+      "latitude": 46.4,
+      "longitude": 14.1,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kanal",
+      "postal_code": "5213",
+      "country_code": "SI",
+      "latitude": 46.0886,
+      "longitude": 13.6397,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ročinj",
+      "postal_code": "5215",
+      "country_code": "SI",
+      "latitude": 46.1128,
+      "longitude": 13.67,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Materija",
+      "postal_code": "6242",
+      "country_code": "SI",
+      "latitude": 45.5814,
+      "longitude": 13.9967,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krmelj",
+      "postal_code": "8296",
+      "country_code": "SI",
+      "latitude": 45.9847,
+      "longitude": 15.1894,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Fokovci",
+      "postal_code": "9208",
+      "country_code": "SI",
+      "latitude": 46.7333,
+      "longitude": 16.2667,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Smlednik",
+      "postal_code": "1216",
+      "country_code": "SI",
+      "latitude": 46.1642,
+      "longitude": 14.4325,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dol pri Ljubljani",
+      "postal_code": "1262",
+      "country_code": "SI",
+      "latitude": 46.0886,
+      "longitude": 14.6008,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Videm-Dobrepolje",
+      "postal_code": "1312",
+      "country_code": "SI",
+      "latitude": 45.85,
+      "longitude": 14.6942,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Osilnica",
+      "postal_code": "1337",
+      "country_code": "SI",
+      "latitude": 45.5278,
+      "longitude": 14.6944,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stari trg pri Ložu",
+      "postal_code": "1386",
+      "country_code": "SI",
+      "latitude": 45.7148,
+      "longitude": 14.471,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Maribor - dostava",
+      "postal_code": "2000",
+      "country_code": "SI",
+      "latitude": 46.5547,
+      "longitude": 15.6467,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Laporje",
+      "postal_code": "2318",
+      "country_code": "SI",
+      "latitude": 46.3467,
+      "longitude": 15.5947,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kidričevo",
+      "postal_code": "2325",
+      "country_code": "SI",
+      "latitude": 46.4036,
+      "longitude": 15.7911,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Planina pri Sevnici",
+      "postal_code": "3225",
+      "country_code": "SI",
+      "latitude": 46.1114,
+      "longitude": 15.4094,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vransko",
+      "postal_code": "3305",
+      "country_code": "SI",
+      "latitude": 46.2439,
+      "longitude": 14.9514,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mavčiče",
+      "postal_code": "4211",
+      "country_code": "SI",
+      "latitude": 46.1818,
+      "longitude": 14.3948,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bled",
+      "postal_code": "4260",
+      "country_code": "SI",
+      "latitude": 46.3692,
+      "longitude": 14.1136,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hrušica",
+      "postal_code": "4276",
+      "country_code": "SI",
+      "latitude": 46.445,
+      "longitude": 14.0178,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Log pod Mangartom",
+      "postal_code": "5231",
+      "country_code": "SI",
+      "latitude": 46.4019,
+      "longitude": 13.5969,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Spodnja Idrija",
+      "postal_code": "5281",
+      "country_code": "SI",
+      "latitude": 46.0319,
+      "longitude": 14.0272,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vremski Britof",
+      "postal_code": "6217",
+      "country_code": "SI",
+      "latitude": 45.6571,
+      "longitude": 14.0301,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kozina",
+      "postal_code": "6240",
+      "country_code": "SI",
+      "latitude": 45.61,
+      "longitude": 13.9356,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Obrov",
+      "postal_code": "6243",
+      "country_code": "SI",
+      "latitude": 45.5425,
+      "longitude": 14.0869,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Knežak",
+      "postal_code": "6253",
+      "country_code": "SI",
+      "latitude": 45.6245,
+      "longitude": 14.2448,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Črni Kal",
+      "postal_code": "6275",
+      "country_code": "SI",
+      "latitude": 45.55,
+      "longitude": 13.88,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velika Loka",
+      "postal_code": "8212",
+      "country_code": "SI",
+      "latitude": 45.9289,
+      "longitude": 14.9678,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Tržišče",
+      "postal_code": "8295",
+      "country_code": "SI",
+      "latitude": 45.9589,
+      "longitude": 15.1972,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Žužemberk",
+      "postal_code": "8360",
+      "country_code": "SI",
+      "latitude": 45.8339,
+      "longitude": 14.9292,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Murska Sobota - poštni predali",
+      "postal_code": "9001",
+      "country_code": "SI",
+      "latitude": 46.6612,
+      "longitude": 16.1651,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Prosenjakovci/Partosfalva",
+      "postal_code": "9207",
+      "country_code": "SI",
+      "latitude": 46.7408,
+      "longitude": 16.3175,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kobilje",
+      "postal_code": "9227",
+      "country_code": "SI",
+      "latitude": 46.6847,
+      "longitude": 16.3978,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Murska Sobota",
+      "postal_code": "9600",
+      "country_code": "SI",
+      "latitude": 46.6625,
+      "longitude": 16.1664,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Komenda",
+      "postal_code": "1218",
+      "country_code": "SI",
+      "latitude": 46.2048,
+      "longitude": 14.5384,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljubljana Polje",
+      "postal_code": "1260",
+      "country_code": "SI",
+      "latitude": 46.0667,
+      "longitude": 14.5833,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Izlake",
+      "postal_code": "1411",
+      "country_code": "SI",
+      "latitude": 46.15,
+      "longitude": 14.95,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trnovska vas",
+      "postal_code": "2254",
+      "country_code": "SI",
+      "latitude": 46.5202,
+      "longitude": 15.8866,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Žetale",
+      "postal_code": "2287",
+      "country_code": "SI",
+      "latitude": 46.275,
+      "longitude": 15.7939,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Oplotnica",
+      "postal_code": "2317",
+      "country_code": "SI",
+      "latitude": 46.3878,
+      "longitude": 15.4467,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bistrica ob Dravi",
+      "postal_code": "2345",
+      "country_code": "SI",
+      "latitude": 46.5572,
+      "longitude": 15.5144,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vuzenica",
+      "postal_code": "2367",
+      "country_code": "SI",
+      "latitude": 46.5964,
+      "longitude": 15.1672,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lesce",
+      "postal_code": "4248",
+      "country_code": "SI",
+      "latitude": 46.3611,
+      "longitude": 14.1578,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gozd Martuljek",
+      "postal_code": "4282",
+      "country_code": "SI",
+      "latitude": 46.4833,
+      "longitude": 13.8333,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grahovo ob Bači",
+      "postal_code": "5242",
+      "country_code": "SI",
+      "latitude": 46.1539,
+      "longitude": 13.8619,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jelšane",
+      "postal_code": "6254",
+      "country_code": "SI",
+      "latitude": 45.5028,
+      "longitude": 14.2717,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podbočje",
+      "postal_code": "8312",
+      "country_code": "SI",
+      "latitude": 45.8667,
+      "longitude": 15.4667,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mačkovci",
+      "postal_code": "9202",
+      "country_code": "SI",
+      "latitude": 46.7814,
+      "longitude": 16.1689,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Petrovci",
+      "postal_code": "9203",
+      "country_code": "SI",
+      "latitude": 46.8053,
+      "longitude": 16.2225,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trojane",
+      "postal_code": "1222",
+      "country_code": "SI",
+      "latitude": 46.1883,
+      "longitude": 14.8831,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Blagovica",
+      "postal_code": "1223",
+      "country_code": "SI",
+      "latitude": 46.1769,
+      "longitude": 14.8072,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šmarje-Sap",
+      "postal_code": "1293",
+      "country_code": "SI",
+      "latitude": 45.9762,
+      "longitude": 14.6118,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hoče",
+      "postal_code": "2311",
+      "country_code": "SI",
+      "latitude": 46.4918,
+      "longitude": 15.6231,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dobje pri Planini",
+      "postal_code": "3224",
+      "country_code": "SI",
+      "latitude": 46.1367,
+      "longitude": 15.4089,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bistrica ob Sotli",
+      "postal_code": "3256",
+      "country_code": "SI",
+      "latitude": 46.0589,
+      "longitude": 15.6642,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Železniki",
+      "postal_code": "4228",
+      "country_code": "SI",
+      "latitude": 46.2333,
+      "longitude": 14.1667,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zgornje Gorje",
+      "postal_code": "4247",
+      "country_code": "SI",
+      "latitude": 46.3796,
+      "longitude": 14.0694,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Srednja vas v Bohinju",
+      "postal_code": "4267",
+      "country_code": "SI",
+      "latitude": 46.297,
+      "longitude": 13.9256,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Breginj",
+      "postal_code": "5223",
+      "country_code": "SI",
+      "latitude": 46.2647,
+      "longitude": 13.4278,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Branik",
+      "postal_code": "5295",
+      "country_code": "SI",
+      "latitude": 45.8572,
+      "longitude": 13.7842,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hruševje",
+      "postal_code": "6225",
+      "country_code": "SI",
+      "latitude": 45.7606,
+      "longitude": 14.1064,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dobova",
+      "postal_code": "8257",
+      "country_code": "SI",
+      "latitude": 45.8972,
+      "longitude": 15.6637,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dolenjske Toplice",
+      "postal_code": "8350",
+      "country_code": "SI",
+      "latitude": 45.7566,
+      "longitude": 15.0592,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Motnik",
+      "postal_code": "1221",
+      "country_code": "SI",
+      "latitude": 46.2153,
+      "longitude": 14.8911,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grosuplje",
+      "postal_code": "1290",
+      "country_code": "SI",
+      "latitude": 45.9556,
+      "longitude": 14.6589,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kočevska Reka",
+      "postal_code": "1338",
+      "country_code": "SI",
+      "latitude": 45.5764,
+      "longitude": 14.7969,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Lesično",
+      "postal_code": "3261",
+      "country_code": "SI",
+      "latitude": 46.1025,
+      "longitude": 15.5142,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šoštanj",
+      "postal_code": "3325",
+      "country_code": "SI",
+      "latitude": 46.38,
+      "longitude": 15.0486,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Gornji Grad",
+      "postal_code": "3342",
+      "country_code": "SI",
+      "latitude": 46.2953,
+      "longitude": 14.8083,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kranj - poštni predali",
+      "postal_code": "4001",
+      "country_code": "SI",
+      "latitude": 46.2389,
+      "longitude": 14.3556,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zgornja Besnica",
+      "postal_code": "4201",
+      "country_code": "SI",
+      "latitude": 46.2667,
+      "longitude": 14.2833,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kranj",
+      "postal_code": "4600",
+      "country_code": "SI",
+      "latitude": 46.2389,
+      "longitude": 14.3556,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Solkan",
+      "postal_code": "5250",
+      "country_code": "SI",
+      "latitude": 45.9714,
+      "longitude": 13.6494,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kostanjevica na Krasu",
+      "postal_code": "5296",
+      "country_code": "SI",
+      "latitude": 45.845,
+      "longitude": 13.6417,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šmarje",
+      "postal_code": "6274",
+      "country_code": "SI",
+      "latitude": 45.5014,
+      "longitude": 13.7178,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Semič",
+      "postal_code": "8333",
+      "country_code": "SI",
+      "latitude": 45.6461,
+      "longitude": 15.1822,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Adlešiči",
+      "postal_code": "8341",
+      "country_code": "SI",
+      "latitude": 45.5222,
+      "longitude": 15.3065,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Moravske Toplice",
+      "postal_code": "9226",
+      "country_code": "SI",
+      "latitude": 46.6831,
+      "longitude": 16.2208,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ljubljana-Šmartno",
+      "postal_code": "1211",
+      "country_code": "SI",
+      "latitude": 46.168,
+      "longitude": 14.5217,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krka",
+      "postal_code": "1301",
+      "country_code": "SI",
+      "latitude": 45.8813,
+      "longitude": 14.7781,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Velike Lašče",
+      "postal_code": "1315",
+      "country_code": "SI",
+      "latitude": 45.8322,
+      "longitude": 14.6364,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šmartno pri Slovenj Gradcu",
+      "postal_code": "2383",
+      "country_code": "SI",
+      "latitude": 46.4894,
+      "longitude": 15.1067,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Škofja vas",
+      "postal_code": "3211",
+      "country_code": "SI",
+      "latitude": 46.2679,
+      "longitude": 15.2912,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mozirje",
+      "postal_code": "3330",
+      "country_code": "SI",
+      "latitude": 46.3394,
+      "longitude": 14.9633,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Črniče",
+      "postal_code": "5262",
+      "country_code": "SI",
+      "latitude": 45.9106,
+      "longitude": 13.7767,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podnanos",
+      "postal_code": "5272",
+      "country_code": "SI",
+      "latitude": 45.7969,
+      "longitude": 13.9714,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Cerkno",
+      "postal_code": "5282",
+      "country_code": "SI",
+      "latitude": 46.1256,
+      "longitude": 13.9817,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Laze v Tuhinju",
+      "postal_code": "1219",
+      "country_code": "SI",
+      "latitude": 46.2194,
+      "longitude": 14.7611,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vače",
+      "postal_code": "1252",
+      "country_code": "SI",
+      "latitude": 46.12,
+      "longitude": 14.8392,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dole pri Litiji",
+      "postal_code": "1273",
+      "country_code": "SI",
+      "latitude": 46.0353,
+      "longitude": 15.0189,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sodražica",
+      "postal_code": "1317",
+      "country_code": "SI",
+      "latitude": 45.7611,
+      "longitude": 14.6356,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Preserje",
+      "postal_code": "1352",
+      "country_code": "SI",
+      "latitude": 45.9569,
+      "longitude": 14.4189,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trbovlje",
+      "postal_code": "1420",
+      "country_code": "SI",
+      "latitude": 46.155,
+      "longitude": 15.0533,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vitomarci",
+      "postal_code": "2255",
+      "country_code": "SI",
+      "latitude": 46.5275,
+      "longitude": 15.9394,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sveti Tomaž",
+      "postal_code": "2258",
+      "country_code": "SI",
+      "latitude": 46.4842,
+      "longitude": 16.0836,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ptujska Gora",
+      "postal_code": "2323",
+      "country_code": "SI",
+      "latitude": 46.355,
+      "longitude": 15.76,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sv. Duh na Ostrem Vrhu",
+      "postal_code": "2353",
+      "country_code": "SI",
+      "latitude": 46.5647,
+      "longitude": 15.5614,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Celje - poštni predali",
+      "postal_code": "3001",
+      "country_code": "SI",
+      "latitude": 45.5916,
+      "longitude": 14.1546,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Prestranek",
+      "postal_code": "6258",
+      "country_code": "SI",
+      "latitude": 45.7303,
+      "longitude": 14.1862,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sevnica",
+      "postal_code": "8290",
+      "country_code": "SI",
+      "latitude": 46.0078,
+      "longitude": 15.3156,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hodoš/Hodos",
+      "postal_code": "9205",
+      "country_code": "SI",
+      "latitude": 46.7688,
+      "longitude": 16.2396,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Polšnik",
+      "postal_code": "1272",
+      "country_code": "SI",
+      "latitude": 46.0667,
+      "longitude": 14.95,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Horjul",
+      "postal_code": "1354",
+      "country_code": "SI",
+      "latitude": 46.0236,
+      "longitude": 14.2992,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rakek",
+      "postal_code": "1381",
+      "country_code": "SI",
+      "latitude": 45.8133,
+      "longitude": 14.3111,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hrastnik",
+      "postal_code": "1430",
+      "country_code": "SI",
+      "latitude": 46.1461,
+      "longitude": 15.0814,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kapla",
+      "postal_code": "2362",
+      "country_code": "SI",
+      "latitude": 46.2483,
+      "longitude": 15.0094,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Trbonje",
+      "postal_code": "2371",
+      "country_code": "SI",
+      "latitude": 46.6028,
+      "longitude": 15.1075,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nova Cerkev",
+      "postal_code": "3203",
+      "country_code": "SI",
+      "latitude": 46.3128,
+      "longitude": 15.2856,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zreče",
+      "postal_code": "3214",
+      "country_code": "SI",
+      "latitude": 46.3822,
+      "longitude": 15.3792,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Tržič",
+      "postal_code": "4290",
+      "country_code": "SI",
+      "latitude": 46.3636,
+      "longitude": 14.3105,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Tolmin",
+      "postal_code": "5220",
+      "country_code": "SI",
+      "latitude": 46.183,
+      "longitude": 13.7332,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dobravlje",
+      "postal_code": "5263",
+      "country_code": "SI",
+      "latitude": 45.8839,
+      "longitude": 13.8453,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dornberk",
+      "postal_code": "5294",
+      "country_code": "SI",
+      "latitude": 45.8897,
+      "longitude": 13.7369,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Prem",
+      "postal_code": "6255",
+      "country_code": "SI",
+      "latitude": 45.6048,
+      "longitude": 14.1834,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pobegi",
+      "postal_code": "6276",
+      "country_code": "SI",
+      "latitude": 45.5394,
+      "longitude": 13.7961,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mirna Peč",
+      "postal_code": "8216",
+      "country_code": "SI",
+      "latitude": 45.8603,
+      "longitude": 15.0833,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Globoko",
+      "postal_code": "8254",
+      "country_code": "SI",
+      "latitude": 45.955,
+      "longitude": 15.6286,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Odranci",
+      "postal_code": "9233",
+      "country_code": "SI",
+      "latitude": 46.5867,
+      "longitude": 16.2803,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kamnik",
+      "postal_code": "1241",
+      "country_code": "SI",
+      "latitude": 46.2259,
+      "longitude": 14.6121,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Videm pri Ptuju",
+      "postal_code": "2284",
+      "country_code": "SI",
+      "latitude": 46.3686,
+      "longitude": 15.9064,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hajdina",
+      "postal_code": "2288",
+      "country_code": "SI",
+      "latitude": 46.4089,
+      "longitude": 15.8469,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vuhred",
+      "postal_code": "2365",
+      "country_code": "SI",
+      "latitude": 46.5947,
+      "longitude": 15.2375,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mislinja",
+      "postal_code": "2382",
+      "country_code": "SI",
+      "latitude": 46.4411,
+      "longitude": 15.1956,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mežica",
+      "postal_code": "2392",
+      "country_code": "SI",
+      "latitude": 46.5214,
+      "longitude": 14.8544,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Prevorje",
+      "postal_code": "3262",
+      "country_code": "SI",
+      "latitude": 46.1255,
+      "longitude": 15.4774,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Brnik aerodrom",
+      "postal_code": "4210",
+      "country_code": "SI",
+      "latitude": 46.2264,
+      "longitude": 14.4064,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ajdovščina",
+      "postal_code": "5270",
+      "country_code": "SI",
+      "latitude": 45.886,
+      "longitude": 13.9095,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dutovlje",
+      "postal_code": "6221",
+      "country_code": "SI",
+      "latitude": 45.7581,
+      "longitude": 13.8322,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dobrnič",
+      "postal_code": "8211",
+      "country_code": "SI",
+      "latitude": 45.875,
+      "longitude": 14.98,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Višnja Gora",
+      "postal_code": "1294",
+      "country_code": "SI",
+      "latitude": 45.9539,
+      "longitude": 14.7453,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Šentvid pri Stični",
+      "postal_code": "1296",
+      "country_code": "SI",
+      "latitude": 45.95,
+      "longitude": 14.8434,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dobrova",
+      "postal_code": "1356",
+      "country_code": "SI",
+      "latitude": 46.055,
+      "longitude": 14.4172,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Čemšenik",
+      "postal_code": "1413",
+      "country_code": "SI",
+      "latitude": 46.1792,
+      "longitude": 14.9444,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ceršak",
+      "postal_code": "2215",
+      "country_code": "SI",
+      "latitude": 46.6992,
+      "longitude": 15.6692,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sorica",
+      "postal_code": "4229",
+      "country_code": "SI",
+      "latitude": 46.2167,
+      "longitude": 14.0333,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Jesenice na Dolenjskem",
+      "postal_code": "8261",
+      "country_code": "SI",
+      "latitude": 45.8917,
+      "longitude": 15.5397,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Cerklje ob Krki",
+      "postal_code": "8263",
+      "country_code": "SI",
+      "latitude": 45.8834,
+      "longitude": 15.5128,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Loški Potok",
+      "postal_code": "1318",
+      "country_code": "SI",
+      "latitude": 45.8236,
+      "longitude": 14.6531,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grahovo",
+      "postal_code": "1384",
+      "country_code": "SI",
+      "latitude": 45.7692,
+      "longitude": 14.4222,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Loka pri Zidanem Mostu",
+      "postal_code": "1434",
+      "country_code": "SI",
+      "latitude": 46.0575,
+      "longitude": 15.2072,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Benedikt",
+      "postal_code": "2234",
+      "country_code": "SI",
+      "latitude": 46.6086,
+      "longitude": 15.8883,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podlehnik",
+      "postal_code": "2286",
+      "country_code": "SI",
+      "latitude": 46.3353,
+      "longitude": 15.88,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Majšperk",
+      "postal_code": "2322",
+      "country_code": "SI",
+      "latitude": 46.3517,
+      "longitude": 15.7336,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Cirkovce",
+      "postal_code": "2326",
+      "country_code": "SI",
+      "latitude": 46.3999,
+      "longitude": 15.7312,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sveti Štefan",
+      "postal_code": "3264",
+      "country_code": "SI",
+      "latitude": 46.1862,
+      "longitude": 15.4933,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zgornje Jezersko",
+      "postal_code": "4206",
+      "country_code": "SI",
+      "latitude": 46.3833,
+      "longitude": 14.4667,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Križe",
+      "postal_code": "4294",
+      "country_code": "SI",
+      "latitude": 46.3428,
+      "longitude": 14.3014,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Nova Gorica - poštni predali",
+      "postal_code": "5001",
+      "country_code": "SI",
+      "latitude": 45.9431,
+      "longitude": 13.6393,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Koper/Capodistria - poštni predali",
+      "postal_code": "6001",
+      "country_code": "SI",
+      "latitude": 45.5472,
+      "longitude": 13.7258,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Štanjel",
+      "postal_code": "6222",
+      "country_code": "SI",
+      "latitude": 45.8233,
+      "longitude": 13.8436,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Senožeče",
+      "postal_code": "6224",
+      "country_code": "SI",
+      "latitude": 45.7211,
+      "longitude": 14.0411,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Škofije",
+      "postal_code": "6281",
+      "country_code": "SI",
+      "latitude": 45.5664,
+      "longitude": 13.7994,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Boštanj",
+      "postal_code": "8294",
+      "country_code": "SI",
+      "latitude": 46.0144,
+      "longitude": 15.2825,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Rogašovci",
+      "postal_code": "9262",
+      "country_code": "SI",
+      "latitude": 46.8,
+      "longitude": 16.0333,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Zgornja Velka",
+      "postal_code": "2213",
+      "country_code": "SI",
+      "latitude": 46.6753,
+      "longitude": 15.7692,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Pragersko",
+      "postal_code": "2331",
+      "country_code": "SI",
+      "latitude": 46.3967,
+      "longitude": 15.66,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sovodenj",
+      "postal_code": "4225",
+      "country_code": "SI",
+      "latitude": 46.0864,
+      "longitude": 14.0436,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Podnart",
+      "postal_code": "4244",
+      "country_code": "SI",
+      "latitude": 46.2952,
+      "longitude": 14.2557,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kropa",
+      "postal_code": "4245",
+      "country_code": "SI",
+      "latitude": 46.3,
+      "longitude": 14.2,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kojsko",
+      "postal_code": "5211",
+      "country_code": "SI",
+      "latitude": 46.0092,
+      "longitude": 13.5797,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Most na Soči",
+      "postal_code": "5216",
+      "country_code": "SI",
+      "latitude": 46.1469,
+      "longitude": 13.7389,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Srpenica",
+      "postal_code": "5224",
+      "country_code": "SI",
+      "latitude": 46.2917,
+      "longitude": 13.4988,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Črni Vrh nad Idrijo",
+      "postal_code": "5274",
+      "country_code": "SI",
+      "latitude": 45.8726,
+      "longitude": 13.9885,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Novo mesto - dostava",
+      "postal_code": "8000",
+      "country_code": "SI",
+      "latitude": 45.8363,
+      "longitude": 15.1899,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Krško",
+      "postal_code": "8270",
+      "country_code": "SI",
+      "latitude": 45.9591,
+      "longitude": 15.4917,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Senovo",
+      "postal_code": "8281",
+      "country_code": "SI",
+      "latitude": 46.0236,
+      "longitude": 15.4769,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kostanjevica na Krki",
+      "postal_code": "8311",
+      "country_code": "SI",
+      "latitude": 45.8461,
+      "longitude": 15.4222,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Uršna sela",
+      "postal_code": "8323",
+      "country_code": "SI",
+      "latitude": 45.7333,
+      "longitude": 15.1333,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Puconci",
+      "postal_code": "9201",
+      "country_code": "SI",
+      "latitude": 46.7067,
+      "longitude": 16.1564,
+      "admin_name1": null
+    }
+  ]
+]

@@ -1,0 +1,1964 @@
+[
+  [
+    {
+      "place_name": "Pitrufquén",
+      "postal_code": "4950000",
+      "country_code": "CL",
+      "latitude": -39.105,
+      "longitude": -72.9019,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Lebu",
+      "postal_code": "4350000",
+      "country_code": "CL",
+      "latitude": -37.6778,
+      "longitude": -73.5906,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Arauco",
+      "postal_code": "4360000",
+      "country_code": "CL",
+      "latitude": -37.2886,
+      "longitude": -73.3994,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Contulmo",
+      "postal_code": "4400000",
+      "country_code": "CL",
+      "latitude": -38.0527,
+      "longitude": -73.2124,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "San Fernando",
+      "postal_code": "3070000",
+      "country_code": "CL",
+      "latitude": -34.7433,
+      "longitude": -70.6033,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Palmilla",
+      "postal_code": "3160000",
+      "country_code": "CL",
+      "latitude": -34.5282,
+      "longitude": -71.3529,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Molina",
+      "postal_code": "3380000",
+      "country_code": "CL",
+      "latitude": -35.3534,
+      "longitude": -70.9095,
+      "admin_name1": "Región del Maule"
+    },
+    {
+      "place_name": "Sagrada Familia",
+      "postal_code": "3390000",
+      "country_code": "CL",
+      "latitude": -35.1043,
+      "longitude": -71.4959,
+      "admin_name1": "Región del Maule"
+    },
+    {
+      "place_name": "Santiago",
+      "postal_code": "8320000",
+      "country_code": "CL",
+      "latitude": -33.4541,
+      "longitude": -70.656,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Maullín",
+      "postal_code": "5580000",
+      "country_code": "CL",
+      "latitude": -41.6324,
+      "longitude": -73.5083,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Palena",
+      "postal_code": "5880000",
+      "country_code": "CL",
+      "latitude": -43.6824,
+      "longitude": -71.9833,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Huara",
+      "postal_code": "1140000",
+      "country_code": "CL",
+      "latitude": -19.5359,
+      "longitude": -69.9848,
+      "admin_name1": "Región de Tarapacá"
+    },
+    {
+      "place_name": "Corral",
+      "postal_code": "5190000",
+      "country_code": "CL",
+      "latitude": -39.9849,
+      "longitude": -73.3715,
+      "admin_name1": "Región de los Ríos"
+    },
+    {
+      "place_name": "Calle Larga",
+      "postal_code": "2130000",
+      "country_code": "CL",
+      "latitude": -32.9504,
+      "longitude": -70.545,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "Antofagasta",
+      "postal_code": "1240000",
+      "country_code": "CL",
+      "latitude": -24.2739,
+      "longitude": -69.4097,
+      "admin_name1": "Región de Antofagasta"
+    },
+    {
+      "place_name": "Nueva Imperial",
+      "postal_code": "5020000",
+      "country_code": "CL",
+      "latitude": -38.7509,
+      "longitude": -72.9725,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Lumaco",
+      "postal_code": "4740000",
+      "country_code": "CL",
+      "latitude": -38.2871,
+      "longitude": -73.0459,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Tirua",
+      "postal_code": "4410000",
+      "country_code": "CL",
+      "latitude": -38.2975,
+      "longitude": -73.3957,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Quinta De Tilcoco",
+      "postal_code": "2960000",
+      "country_code": "CL",
+      "latitude": -34.3592,
+      "longitude": -70.9982,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Chépica",
+      "postal_code": "3120000",
+      "country_code": "CL",
+      "latitude": -34.7913,
+      "longitude": -71.3593,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Talagante",
+      "postal_code": "9670000",
+      "country_code": "CL",
+      "latitude": -33.6823,
+      "longitude": -70.8951,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Chonchi",
+      "postal_code": "5770000",
+      "country_code": "CL",
+      "latitude": -42.6821,
+      "longitude": -73.9306,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Puerto Octay",
+      "postal_code": "5370000",
+      "country_code": "CL",
+      "latitude": -40.9336,
+      "longitude": -72.5994,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "General Lagos",
+      "postal_code": "1080000",
+      "country_code": "CL",
+      "latitude": -17.8286,
+      "longitude": -69.5749,
+      "admin_name1": "Región de Arica y Parinacota"
+    },
+    {
+      "place_name": "Los Lagos",
+      "postal_code": "5170000",
+      "country_code": "CL",
+      "latitude": -39.8784,
+      "longitude": -72.5546,
+      "admin_name1": "Región de los Ríos"
+    },
+    {
+      "place_name": "Paillaco",
+      "postal_code": "5230000",
+      "country_code": "CL",
+      "latitude": -40.0741,
+      "longitude": -72.8436,
+      "admin_name1": "Región de los Ríos"
+    },
+    {
+      "place_name": "Río Bueno",
+      "postal_code": "5240000",
+      "country_code": "CL",
+      "latitude": -40.4959,
+      "longitude": -72.5357,
+      "admin_name1": "Región de los Ríos"
+    },
+    {
+      "place_name": "El Tabo",
+      "postal_code": "2690000",
+      "country_code": "CL",
+      "latitude": -33.4586,
+      "longitude": -71.6619,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "Llaillay",
+      "postal_code": "2220000",
+      "country_code": "CL",
+      "latitude": -32.8879,
+      "longitude": -70.9024,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "Villa Alemana",
+      "postal_code": "6500000",
+      "country_code": "CL",
+      "latitude": -33.0679,
+      "longitude": -71.3305,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "Carahue",
+      "postal_code": "5010000",
+      "country_code": "CL",
+      "latitude": -38.6109,
+      "longitude": -73.2698,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "San Rosendo",
+      "postal_code": "4570000",
+      "country_code": "CL",
+      "latitude": -37.213,
+      "longitude": -72.7211,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Pencahue",
+      "postal_code": "3550000",
+      "country_code": "CL",
+      "latitude": -35.3277,
+      "longitude": -71.8171,
+      "admin_name1": "Región del Maule"
+    },
+    {
+      "place_name": "Vichuquén",
+      "postal_code": "3420000",
+      "country_code": "CL",
+      "latitude": -34.841,
+      "longitude": -72.0228,
+      "admin_name1": "Región del Maule"
+    },
+    {
+      "place_name": "Rauco",
+      "postal_code": "3430000",
+      "country_code": "CL",
+      "latitude": -34.9382,
+      "longitude": -71.4264,
+      "admin_name1": "Región del Maule"
+    },
+    {
+      "place_name": "Pedro Aguirre Cerda",
+      "postal_code": "8460000",
+      "country_code": "CL",
+      "latitude": -33.4919,
+      "longitude": -70.6762,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Cochamo",
+      "postal_code": "5560000",
+      "country_code": "CL",
+      "latitude": -41.7611,
+      "longitude": -72.0929,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Frutillar",
+      "postal_code": "5620000",
+      "country_code": "CL",
+      "latitude": -41.0872,
+      "longitude": -73.0956,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Mafil",
+      "postal_code": "5200000",
+      "country_code": "CL",
+      "latitude": -39.692,
+      "longitude": -72.8638,
+      "admin_name1": "Región de los Ríos"
+    },
+    {
+      "place_name": "Viña Del Mar",
+      "postal_code": "2520000",
+      "country_code": "CL",
+      "latitude": -33.0288,
+      "longitude": -71.5159,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "Chile Chico",
+      "postal_code": "6050000",
+      "country_code": "CL",
+      "latitude": -46.7668,
+      "longitude": -72.5847,
+      "admin_name1": "Región Aysén"
+    },
+    {
+      "place_name": "Río Ibanez",
+      "postal_code": "6060000",
+      "country_code": "CL",
+      "latitude": -46.2993,
+      "longitude": -72.4866,
+      "admin_name1": "Región Aysén"
+    },
+    {
+      "place_name": "San Pedro De Atacama",
+      "postal_code": "1410000",
+      "country_code": "CL",
+      "latitude": -23.4011,
+      "longitude": -67.9111,
+      "admin_name1": "Región de Antofagasta"
+    },
+    {
+      "place_name": "Lautaro",
+      "postal_code": "4860000",
+      "country_code": "CL",
+      "latitude": -38.5432,
+      "longitude": -72.2894,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Renaico",
+      "postal_code": "4670000",
+      "country_code": "CL",
+      "latitude": -37.7178,
+      "longitude": -72.5757,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Graneros",
+      "postal_code": "2880000",
+      "country_code": "CL",
+      "latitude": -34.0657,
+      "longitude": -70.747,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Río Claro",
+      "postal_code": "3510000",
+      "country_code": "CL",
+      "latitude": -35.2609,
+      "longitude": -71.2695,
+      "admin_name1": "Región del Maule"
+    },
+    {
+      "place_name": "Chanco",
+      "postal_code": "3720000",
+      "country_code": "CL",
+      "latitude": -35.6988,
+      "longitude": -72.4849,
+      "admin_name1": "Región del Maule"
+    },
+    {
+      "place_name": "Penalolén",
+      "postal_code": "7910000",
+      "country_code": "CL",
+      "latitude": -33.4862,
+      "longitude": -70.5249,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Ancud",
+      "postal_code": "5710000",
+      "country_code": "CL",
+      "latitude": -42.0176,
+      "longitude": -73.8022,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "San Juan De La Costa",
+      "postal_code": "5400000",
+      "country_code": "CL",
+      "latitude": -40.5086,
+      "longitude": -73.5594,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Concón",
+      "postal_code": "2510000",
+      "country_code": "CL",
+      "latitude": -32.9534,
+      "longitude": -71.4678,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "Sierra Gorda",
+      "postal_code": "1320000",
+      "country_code": "CL",
+      "latitude": -23.2542,
+      "longitude": -69.3072,
+      "admin_name1": "Región de Antofagasta"
+    },
+    {
+      "place_name": "Antártica",
+      "postal_code": "6360000",
+      "country_code": "CL",
+      "latitude": -75.0009,
+      "longitude": -71.5931,
+      "admin_name1": "Región de Magallanes y Antártica Chilena"
+    },
+    {
+      "place_name": "Tiltil",
+      "postal_code": "9420000",
+      "country_code": "CL",
+      "latitude": -33.0624,
+      "longitude": -70.876,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Puerto Montt",
+      "postal_code": "5480000",
+      "country_code": "CL",
+      "latitude": -41.4892,
+      "longitude": -72.7953,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Río Negro",
+      "postal_code": "5390000",
+      "country_code": "CL",
+      "latitude": -40.7702,
+      "longitude": -73.4175,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Cisnes",
+      "postal_code": "6010000",
+      "country_code": "CL",
+      "latitude": -44.4577,
+      "longitude": -73.1374,
+      "admin_name1": "Región Aysén"
+    },
+    {
+      "place_name": "Hualqui",
+      "postal_code": "4180000",
+      "country_code": "CL",
+      "latitude": -37.0447,
+      "longitude": -72.8704,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Ovalle",
+      "postal_code": "1840000",
+      "country_code": "CL",
+      "latitude": -30.674,
+      "longitude": -71.4062,
+      "admin_name1": "Región de Coquimbo"
+    },
+    {
+      "place_name": "Laguna Blanca",
+      "postal_code": "6250000",
+      "country_code": "CL",
+      "latitude": -52.3294,
+      "longitude": -71.2398,
+      "admin_name1": "Región de Magallanes y Antártica Chilena"
+    },
+    {
+      "place_name": "Pudahuel",
+      "postal_code": "9020000",
+      "country_code": "CL",
+      "latitude": -33.424,
+      "longitude": -70.8549,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Quellón",
+      "postal_code": "5790000",
+      "country_code": "CL",
+      "latitude": -43.1518,
+      "longitude": -73.9954,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Cunco",
+      "postal_code": "4890000",
+      "country_code": "CL",
+      "latitude": -38.977,
+      "longitude": -71.9917,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Toltén",
+      "postal_code": "4980000",
+      "country_code": "CL",
+      "latitude": -39.2121,
+      "longitude": -73.0784,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Huasco",
+      "postal_code": "1640000",
+      "country_code": "CL",
+      "latitude": -28.2584,
+      "longitude": -71.0178,
+      "admin_name1": "Región de Atacama"
+    },
+    {
+      "place_name": "Chiguayante",
+      "postal_code": "4100000",
+      "country_code": "CL",
+      "latitude": -36.9008,
+      "longitude": -73.005,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Pelluhue",
+      "postal_code": "3710000",
+      "country_code": "CL",
+      "latitude": -35.9115,
+      "longitude": -72.6076,
+      "admin_name1": "Región del Maule"
+    },
+    {
+      "place_name": "Estación Central",
+      "postal_code": "9160000",
+      "country_code": "CL",
+      "latitude": -33.4645,
+      "longitude": -70.6986,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Quemchi",
+      "postal_code": "5720000",
+      "country_code": "CL",
+      "latitude": -42.1338,
+      "longitude": -73.5172,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Putre",
+      "postal_code": "1070000",
+      "country_code": "CL",
+      "latitude": -18.4287,
+      "longitude": -69.3116,
+      "admin_name1": "Región de Arica y Parinacota"
+    },
+    {
+      "place_name": "Collipulli",
+      "postal_code": "4680000",
+      "country_code": "CL",
+      "latitude": -38.0318,
+      "longitude": -72.1152,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Curanilahue",
+      "postal_code": "4370000",
+      "country_code": "CL",
+      "latitude": -37.483,
+      "longitude": -73.2351,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Monte Patria",
+      "postal_code": "1880000",
+      "country_code": "CL",
+      "latitude": -30.8352,
+      "longitude": -70.6509,
+      "admin_name1": "Región de Coquimbo"
+    },
+    {
+      "place_name": "Lolol",
+      "postal_code": "3140000",
+      "country_code": "CL",
+      "latitude": -34.7684,
+      "longitude": -71.6484,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Vitacura",
+      "postal_code": "7630000",
+      "country_code": "CL",
+      "latitude": -33.3799,
+      "longitude": -70.5724,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Quilicura",
+      "postal_code": "8700000",
+      "country_code": "CL",
+      "latitude": -33.3554,
+      "longitude": -70.7361,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Pozo Almonte",
+      "postal_code": "1180000",
+      "country_code": "CL",
+      "latitude": -20.7702,
+      "longitude": -69.5045,
+      "admin_name1": "Región de Tarapacá"
+    },
+    {
+      "place_name": "Gorbea",
+      "postal_code": "4960000",
+      "country_code": "CL",
+      "latitude": -39.1717,
+      "longitude": -72.6692,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Tomé",
+      "postal_code": "4160000",
+      "country_code": "CL",
+      "latitude": -36.6171,
+      "longitude": -72.858,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Tucapel",
+      "postal_code": "4480000",
+      "country_code": "CL",
+      "latitude": -37.2253,
+      "longitude": -71.7455,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Lo Barnechea",
+      "postal_code": "7690000",
+      "country_code": "CL",
+      "latitude": -33.2991,
+      "longitude": -70.3687,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Curacaví",
+      "postal_code": "9630000",
+      "country_code": "CL",
+      "latitude": -33.3664,
+      "longitude": -71.0802,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Chol Chol",
+      "postal_code": "5040000",
+      "country_code": "CL",
+      "latitude": -38.5832,
+      "longitude": -72.9019,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Licantén",
+      "postal_code": "3410000",
+      "country_code": "CL",
+      "latitude": -34.9743,
+      "longitude": -72.0604,
+      "admin_name1": "Región del Maule"
+    },
+    {
+      "place_name": "Colbún",
+      "postal_code": "3610000",
+      "country_code": "CL",
+      "latitude": -36.0777,
+      "longitude": -70.9783,
+      "admin_name1": "Región del Maule"
+    },
+    {
+      "place_name": "Ñuñoa",
+      "postal_code": "7750000",
+      "country_code": "CL",
+      "latitude": -33.4593,
+      "longitude": -70.6003,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Maipu",
+      "postal_code": "9250000",
+      "country_code": "CL",
+      "latitude": -33.5066,
+      "longitude": -70.8123,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Pirque",
+      "postal_code": "9480000",
+      "country_code": "CL",
+      "latitude": -33.7187,
+      "longitude": -70.5066,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Dalcahue",
+      "postal_code": "5730000",
+      "country_code": "CL",
+      "latitude": -42.309,
+      "longitude": -73.8338,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Curaco De Vélez",
+      "postal_code": "5740000",
+      "country_code": "CL",
+      "latitude": -42.4268,
+      "longitude": -73.5787,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "La Ligua",
+      "postal_code": "2030000",
+      "country_code": "CL",
+      "latitude": -32.3537,
+      "longitude": -71.2721,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "El Quisco",
+      "postal_code": "2700000",
+      "country_code": "CL",
+      "latitude": -33.4161,
+      "longitude": -71.6512,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "Traiguén",
+      "postal_code": "4730000",
+      "country_code": "CL",
+      "latitude": -38.2471,
+      "longitude": -72.6551,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Coronel",
+      "postal_code": "4190000",
+      "country_code": "CL",
+      "latitude": -37.007,
+      "longitude": -73.1252,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Hualpén",
+      "postal_code": "4600000",
+      "country_code": "CL",
+      "latitude": -36.7869,
+      "longitude": -73.1052,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Mulchén",
+      "postal_code": "4530000",
+      "country_code": "CL",
+      "latitude": -37.8384,
+      "longitude": -72.0972,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Yungay",
+      "postal_code": "3920000",
+      "country_code": "CL",
+      "latitude": -37.1044,
+      "longitude": -71.9308,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Quirihue",
+      "postal_code": "4000000",
+      "country_code": "CL",
+      "latitude": -36.2819,
+      "longitude": -72.5441,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Peralillo",
+      "postal_code": "3170000",
+      "country_code": "CL",
+      "latitude": -34.4662,
+      "longitude": -71.4967,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Las Condes",
+      "postal_code": "7550000",
+      "country_code": "CL",
+      "latitude": -33.4207,
+      "longitude": -70.5019,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Alto Biobío",
+      "postal_code": "4590000",
+      "country_code": "CL",
+      "latitude": -37.8654,
+      "longitude": -71.3474,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Mostazal",
+      "postal_code": "2890000",
+      "country_code": "CL",
+      "latitude": -33.956,
+      "longitude": -70.5694,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Quinta Normal",
+      "postal_code": "8500000",
+      "country_code": "CL",
+      "latitude": -33.4284,
+      "longitude": -70.7008,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Puqueldón",
+      "postal_code": "5760000",
+      "country_code": "CL",
+      "latitude": -42.627,
+      "longitude": -73.6369,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Purranque",
+      "postal_code": "5380000",
+      "country_code": "CL",
+      "latitude": -40.9351,
+      "longitude": -73.4583,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Camina",
+      "postal_code": "1150000",
+      "country_code": "CL",
+      "latitude": -19.3737,
+      "longitude": -69.5056,
+      "admin_name1": "Región de Tarapacá"
+    },
+    {
+      "place_name": "Lago Ranco",
+      "postal_code": "5250000",
+      "country_code": "CL",
+      "latitude": -40.3732,
+      "longitude": -72.1658,
+      "admin_name1": "Región de los Ríos"
+    },
+    {
+      "place_name": "Vallenar",
+      "postal_code": "1610000",
+      "country_code": "CL",
+      "latitude": -28.5948,
+      "longitude": -70.6025,
+      "admin_name1": "Región de Atacama"
+    },
+    {
+      "place_name": "Penco",
+      "postal_code": "4150000",
+      "country_code": "CL",
+      "latitude": -36.7484,
+      "longitude": -72.9437,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Negrete",
+      "postal_code": "4540000",
+      "country_code": "CL",
+      "latitude": -37.6083,
+      "longitude": -72.5766,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Coihueco",
+      "postal_code": "3870000",
+      "country_code": "CL",
+      "latitude": -36.7021,
+      "longitude": -71.5811,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "La Serena",
+      "postal_code": "1700000",
+      "country_code": "CL",
+      "latitude": -29.7892,
+      "longitude": -71.0612,
+      "admin_name1": "Región de Coquimbo"
+    },
+    {
+      "place_name": "Paiguano",
+      "postal_code": "1770000",
+      "country_code": "CL",
+      "latitude": -30.2384,
+      "longitude": -70.3707,
+      "admin_name1": "Región de Coquimbo"
+    },
+    {
+      "place_name": "Torres Del Paine",
+      "postal_code": "6170000",
+      "country_code": "CL",
+      "latitude": -51.0503,
+      "longitude": -72.8295,
+      "admin_name1": "Región de Magallanes y Antártica Chilena"
+    },
+    {
+      "place_name": "Curepto",
+      "postal_code": "3570000",
+      "country_code": "CL",
+      "latitude": -35.1297,
+      "longitude": -71.9533,
+      "admin_name1": "Región del Maule"
+    },
+    {
+      "place_name": "Hualañé",
+      "postal_code": "3400000",
+      "country_code": "CL",
+      "latitude": -34.9525,
+      "longitude": -71.709,
+      "admin_name1": "Región del Maule"
+    },
+    {
+      "place_name": "Longaví",
+      "postal_code": "3620000",
+      "country_code": "CL",
+      "latitude": -36.1107,
+      "longitude": -71.4412,
+      "admin_name1": "Región del Maule"
+    },
+    {
+      "place_name": "Lo Espejo",
+      "postal_code": "9120000",
+      "country_code": "CL",
+      "latitude": -33.5209,
+      "longitude": -70.6901,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Buin",
+      "postal_code": "9500000",
+      "country_code": "CL",
+      "latitude": -33.7481,
+      "longitude": -70.7393,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "María Pinto",
+      "postal_code": "9620000",
+      "country_code": "CL",
+      "latitude": -33.4981,
+      "longitude": -71.2108,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Puyehue",
+      "postal_code": "5360000",
+      "country_code": "CL",
+      "latitude": -40.7255,
+      "longitude": -72.3841,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Hualaihue",
+      "postal_code": "5860000",
+      "country_code": "CL",
+      "latitude": -42.1772,
+      "longitude": -72.377,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Teodoro Schmidt",
+      "postal_code": "4990000",
+      "country_code": "CL",
+      "latitude": -38.9848,
+      "longitude": -73.1147,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Diego De Almagro",
+      "postal_code": "1500000",
+      "country_code": "CL",
+      "latitude": -26.2373,
+      "longitude": -69.1873,
+      "admin_name1": "Región de Atacama"
+    },
+    {
+      "place_name": "Bulnes",
+      "postal_code": "3930000",
+      "country_code": "CL",
+      "latitude": -36.7905,
+      "longitude": -72.2901,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Quillón",
+      "postal_code": "3940000",
+      "country_code": "CL",
+      "latitude": -36.8186,
+      "longitude": -72.5017,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Cobquecura",
+      "postal_code": "3990000",
+      "country_code": "CL",
+      "latitude": -36.1811,
+      "longitude": -72.721,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Coltauco",
+      "postal_code": "3000000",
+      "country_code": "CL",
+      "latitude": -34.26,
+      "longitude": -71.0779,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Nancagua",
+      "postal_code": "3110000",
+      "country_code": "CL",
+      "latitude": -34.6678,
+      "longitude": -71.1919,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Pumanque",
+      "postal_code": "3150000",
+      "country_code": "CL",
+      "latitude": -34.5962,
+      "longitude": -71.6915,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Paine",
+      "postal_code": "9540000",
+      "country_code": "CL",
+      "latitude": -33.8637,
+      "longitude": -70.7581,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Tortel",
+      "postal_code": "6120000",
+      "country_code": "CL",
+      "latitude": -48.0271,
+      "longitude": -74.1592,
+      "admin_name1": "Región Aysén"
+    },
+    {
+      "place_name": "Mejillones",
+      "postal_code": "1310000",
+      "country_code": "CL",
+      "latitude": -22.936,
+      "longitude": -70.1986,
+      "admin_name1": "Región de Antofagasta"
+    },
+    {
+      "place_name": "Curarrehue",
+      "postal_code": "4910000",
+      "country_code": "CL",
+      "latitude": -39.3358,
+      "longitude": -71.5393,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Copiapó",
+      "postal_code": "1530000",
+      "country_code": "CL",
+      "latitude": -27.3202,
+      "longitude": -69.8277,
+      "admin_name1": "Región de Atacama"
+    },
+    {
+      "place_name": "Canete",
+      "postal_code": "4390000",
+      "country_code": "CL",
+      "latitude": -37.8741,
+      "longitude": -73.3177,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Antuco",
+      "postal_code": "4490000",
+      "country_code": "CL",
+      "latitude": -37.3277,
+      "longitude": -71.3666,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Quilleco",
+      "postal_code": "4500000",
+      "country_code": "CL",
+      "latitude": -37.4368,
+      "longitude": -71.8614,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Niquén",
+      "postal_code": "3850000",
+      "country_code": "CL",
+      "latitude": -36.3024,
+      "longitude": -71.8974,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "San Fabián",
+      "postal_code": "3860000",
+      "country_code": "CL",
+      "latitude": -36.5799,
+      "longitude": -71.2874,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Ninhue",
+      "postal_code": "4010000",
+      "country_code": "CL",
+      "latitude": -36.3568,
+      "longitude": -72.4097,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Los Vilos",
+      "postal_code": "1940000",
+      "country_code": "CL",
+      "latitude": -31.9778,
+      "longitude": -71.3041,
+      "admin_name1": "Región de Coquimbo"
+    },
+    {
+      "place_name": "Malloa",
+      "postal_code": "2950000",
+      "country_code": "CL",
+      "latitude": -34.4762,
+      "longitude": -70.8734,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Pichilemu",
+      "postal_code": "3220000",
+      "country_code": "CL",
+      "latitude": -34.3841,
+      "longitude": -71.9106,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Macul",
+      "postal_code": "7810000",
+      "country_code": "CL",
+      "latitude": -33.4902,
+      "longitude": -70.6011,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Cerro Navia",
+      "postal_code": "9080000",
+      "country_code": "CL",
+      "latitude": -33.4228,
+      "longitude": -70.745,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Calera De Tango",
+      "postal_code": "9560000",
+      "country_code": "CL",
+      "latitude": -33.6234,
+      "longitude": -70.7904,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Olmué",
+      "postal_code": "2330000",
+      "country_code": "CL",
+      "latitude": -33.0358,
+      "longitude": -71.1107,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "Padre Las Casas",
+      "postal_code": "4850000",
+      "country_code": "CL",
+      "latitude": -38.792,
+      "longitude": -72.5792,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Pemuco",
+      "postal_code": "3910000",
+      "country_code": "CL",
+      "latitude": -36.9829,
+      "longitude": -72.0675,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Doñihue",
+      "postal_code": "3020000",
+      "country_code": "CL",
+      "latitude": -34.197,
+      "longitude": -70.9236,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Litueche",
+      "postal_code": "3240000",
+      "country_code": "CL",
+      "latitude": -34.1074,
+      "longitude": -71.7336,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Colchane",
+      "postal_code": "1160000",
+      "country_code": "CL",
+      "latitude": -19.3531,
+      "longitude": -68.847,
+      "admin_name1": "Región de Tarapacá"
+    },
+    {
+      "place_name": "Calama",
+      "postal_code": "1390000",
+      "country_code": "CL",
+      "latitude": -22.1639,
+      "longitude": -68.6295,
+      "admin_name1": "Región de Antofagasta"
+    },
+    {
+      "place_name": "Yumbel",
+      "postal_code": "4580000",
+      "country_code": "CL",
+      "latitude": -37.0884,
+      "longitude": -72.616,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Ranquil",
+      "postal_code": "3950000",
+      "country_code": "CL",
+      "latitude": -36.6406,
+      "longitude": -72.5878,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Andacollo",
+      "postal_code": "1750000",
+      "country_code": "CL",
+      "latitude": -30.2606,
+      "longitude": -71.1005,
+      "admin_name1": "Región de Coquimbo"
+    },
+    {
+      "place_name": "Marchihue",
+      "postal_code": "3260000",
+      "country_code": "CL",
+      "latitude": -34.3727,
+      "longitude": -71.6716,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Chimbarongo",
+      "postal_code": "3090000",
+      "country_code": "CL",
+      "latitude": -34.7517,
+      "longitude": -70.9811,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Pelarco",
+      "postal_code": "3500000",
+      "country_code": "CL",
+      "latitude": -35.3832,
+      "longitude": -71.3506,
+      "admin_name1": "Región del Maule"
+    },
+    {
+      "place_name": "Cauquenes",
+      "postal_code": "3690000",
+      "country_code": "CL",
+      "latitude": -35.9713,
+      "longitude": -72.28,
+      "admin_name1": "Región del Maule"
+    },
+    {
+      "place_name": "Fresia",
+      "postal_code": "5600000",
+      "country_code": "CL",
+      "latitude": -41.1544,
+      "longitude": -73.6065,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Catemu",
+      "postal_code": "2230000",
+      "country_code": "CL",
+      "latitude": -32.7073,
+      "longitude": -70.9452,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "Temuco",
+      "postal_code": "4780000",
+      "country_code": "CL",
+      "latitude": -38.6731,
+      "longitude": -72.6633,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Galvarino",
+      "postal_code": "5030000",
+      "country_code": "CL",
+      "latitude": -38.4479,
+      "longitude": -72.7912,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Angol",
+      "postal_code": "4650000",
+      "country_code": "CL",
+      "latitude": -37.769,
+      "longitude": -72.7954,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Lonquimay",
+      "postal_code": "4690000",
+      "country_code": "CL",
+      "latitude": -38.4747,
+      "longitude": -71.2392,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Ercilla",
+      "postal_code": "4710000",
+      "country_code": "CL",
+      "latitude": -38.0828,
+      "longitude": -72.3535,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Quilaco",
+      "postal_code": "4520000",
+      "country_code": "CL",
+      "latitude": -37.982,
+      "longitude": -71.5973,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Papudo",
+      "postal_code": "2070000",
+      "country_code": "CL",
+      "latitude": -32.5075,
+      "longitude": -71.4431,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "O’Higgins",
+      "postal_code": "6110000",
+      "country_code": "CL",
+      "latitude": -48.4862,
+      "longitude": -72.9106,
+      "admin_name1": "Región Aysén"
+    },
+    {
+      "place_name": "Taltal",
+      "postal_code": "1300000",
+      "country_code": "CL",
+      "latitude": -25.3136,
+      "longitude": -69.8657,
+      "admin_name1": "Región de Antofagasta"
+    },
+    {
+      "place_name": "Ollague",
+      "postal_code": "1420000",
+      "country_code": "CL",
+      "latitude": -21.4566,
+      "longitude": -68.3134,
+      "admin_name1": "Región de Antofagasta"
+    },
+    {
+      "place_name": "Natales",
+      "postal_code": "6160000",
+      "country_code": "CL",
+      "latitude": -50.6742,
+      "longitude": -73.9259,
+      "admin_name1": "Región de Magallanes y Antártica Chilena"
+    },
+    {
+      "place_name": "Recoleta",
+      "postal_code": "8420000",
+      "country_code": "CL",
+      "latitude": -33.4088,
+      "longitude": -70.6364,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Isla De Maipo",
+      "postal_code": "9790000",
+      "country_code": "CL",
+      "latitude": -33.7485,
+      "longitude": -70.9457,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Puerto Varas",
+      "postal_code": "5550000",
+      "country_code": "CL",
+      "latitude": -41.1914,
+      "longitude": -72.3881,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Petorca",
+      "postal_code": "2040000",
+      "country_code": "CL",
+      "latitude": -32.1903,
+      "longitude": -70.8704,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "Coyhaique",
+      "postal_code": "5950000",
+      "country_code": "CL",
+      "latitude": -45.5539,
+      "longitude": -71.9913,
+      "admin_name1": "Región Aysén"
+    },
+    {
+      "place_name": "Tocopilla",
+      "postal_code": "1340000",
+      "country_code": "CL",
+      "latitude": -22.002,
+      "longitude": -70.0146,
+      "admin_name1": "Región de Antofagasta"
+    },
+    {
+      "place_name": "Pucón",
+      "postal_code": "4920000",
+      "country_code": "CL",
+      "latitude": -39.2702,
+      "longitude": -71.7905,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Illapel",
+      "postal_code": "1930000",
+      "country_code": "CL",
+      "latitude": -31.5493,
+      "longitude": -70.9706,
+      "admin_name1": "Región de Coquimbo"
+    },
+    {
+      "place_name": "Combarbalá",
+      "postal_code": "1890000",
+      "country_code": "CL",
+      "latitude": -31.1469,
+      "longitude": -70.9657,
+      "admin_name1": "Región de Coquimbo"
+    },
+    {
+      "place_name": "Requinoa",
+      "postal_code": "2930000",
+      "country_code": "CL",
+      "latitude": -34.335,
+      "longitude": -70.6591,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Curicó",
+      "postal_code": "3340000",
+      "country_code": "CL",
+      "latitude": -35.1991,
+      "longitude": -70.8957,
+      "admin_name1": "Región del Maule"
+    },
+    {
+      "place_name": "Conchalí",
+      "postal_code": "8540000",
+      "country_code": "CL",
+      "latitude": -33.3837,
+      "longitude": -70.6774,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Calbuco",
+      "postal_code": "5570000",
+      "country_code": "CL",
+      "latitude": -41.7231,
+      "longitude": -73.1951,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Lanco",
+      "postal_code": "5160000",
+      "country_code": "CL",
+      "latitude": -39.5121,
+      "longitude": -72.6215,
+      "admin_name1": "Región de los Ríos"
+    },
+    {
+      "place_name": "La Cisterna",
+      "postal_code": "7970000",
+      "country_code": "CL",
+      "latitude": -33.5302,
+      "longitude": -70.6641,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Lo Prado",
+      "postal_code": "8980000",
+      "country_code": "CL",
+      "latitude": -33.4473,
+      "longitude": -70.7235,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Melipilla",
+      "postal_code": "9580000",
+      "country_code": "CL",
+      "latitude": -33.7439,
+      "longitude": -71.194,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Quinchao",
+      "postal_code": "5750000",
+      "country_code": "CL",
+      "latitude": -42.6446,
+      "longitude": -73.2776,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Freirina",
+      "postal_code": "1630000",
+      "country_code": "CL",
+      "latitude": -28.8442,
+      "longitude": -71.1954,
+      "admin_name1": "Región de Atacama"
+    },
+    {
+      "place_name": "Talcahuano",
+      "postal_code": "4260000",
+      "country_code": "CL",
+      "latitude": -36.7434,
+      "longitude": -73.0982,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Placilla",
+      "postal_code": "3100000",
+      "country_code": "CL",
+      "latitude": -34.6192,
+      "longitude": -71.0862,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Huechuraba",
+      "postal_code": "8580000",
+      "country_code": "CL",
+      "latitude": -33.3603,
+      "longitude": -70.6375,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Queilen",
+      "postal_code": "5780000",
+      "country_code": "CL",
+      "latitude": -42.8557,
+      "longitude": -73.5644,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Futrono",
+      "postal_code": "5180000",
+      "country_code": "CL",
+      "latitude": -40.1189,
+      "longitude": -72.1154,
+      "admin_name1": "Región de los Ríos"
+    },
+    {
+      "place_name": "Purén",
+      "postal_code": "4750000",
+      "country_code": "CL",
+      "latitude": -38.0121,
+      "longitude": -73.0504,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "San Pedro De La Paz",
+      "postal_code": "4130000",
+      "country_code": "CL",
+      "latitude": -36.8408,
+      "longitude": -73.1031,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Machalí",
+      "postal_code": "2910000",
+      "country_code": "CL",
+      "latitude": -34.3207,
+      "longitude": -70.3196,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Peumo",
+      "postal_code": "2990000",
+      "country_code": "CL",
+      "latitude": -34.3294,
+      "longitude": -71.2219,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Chaitén",
+      "postal_code": "5850000",
+      "country_code": "CL",
+      "latitude": -43.0941,
+      "longitude": -72.5759,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Alto Hospicio",
+      "postal_code": "1130000",
+      "country_code": "CL",
+      "latitude": -20.1913,
+      "longitude": -70.0119,
+      "admin_name1": "Región de Tarapacá"
+    },
+    {
+      "place_name": "Panguipulli",
+      "postal_code": "5210000",
+      "country_code": "CL",
+      "latitude": -39.7146,
+      "longitude": -72.0299,
+      "admin_name1": "Región de los Ríos"
+    },
+    {
+      "place_name": "Melipeuco",
+      "postal_code": "4900000",
+      "country_code": "CL",
+      "latitude": -38.8248,
+      "longitude": -71.611,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Coelemu",
+      "postal_code": "3970000",
+      "country_code": "CL",
+      "latitude": -36.5051,
+      "longitude": -72.7503,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Punitaqui",
+      "postal_code": "1900000",
+      "country_code": "CL",
+      "latitude": -30.9464,
+      "longitude": -71.3331,
+      "admin_name1": "Región de Coquimbo"
+    },
+    {
+      "place_name": "Pichidegua",
+      "postal_code": "2980000",
+      "country_code": "CL",
+      "latitude": -34.3712,
+      "longitude": -71.3394,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Coinco",
+      "postal_code": "3010000",
+      "country_code": "CL",
+      "latitude": -34.2822,
+      "longitude": -70.9711,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Timaukel",
+      "postal_code": "6320000",
+      "country_code": "CL",
+      "latitude": -54.195,
+      "longitude": -69.5323,
+      "admin_name1": "Región de Magallanes y Antártica Chilena"
+    },
+    {
+      "place_name": "Talca",
+      "postal_code": "3460000",
+      "country_code": "CL",
+      "latitude": -35.428,
+      "longitude": -71.6028,
+      "admin_name1": "Región del Maule"
+    },
+    {
+      "place_name": "San Jose De Maipo",
+      "postal_code": "9460000",
+      "country_code": "CL",
+      "latitude": -33.7048,
+      "longitude": -70.0969,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Padre Hurtado",
+      "postal_code": "9710000",
+      "country_code": "CL",
+      "latitude": -33.5572,
+      "longitude": -70.8708,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Llanquihue",
+      "postal_code": "5610000",
+      "country_code": "CL",
+      "latitude": -41.2381,
+      "longitude": -73.1396,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Rancagua",
+      "postal_code": "2820000",
+      "country_code": "CL",
+      "latitude": -34.1261,
+      "longitude": -70.8166,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Codegua",
+      "postal_code": "2900000",
+      "country_code": "CL",
+      "latitude": -34.0574,
+      "longitude": -70.5471,
+      "admin_name1": "Región del Libertador General Bernardo O’Higgins"
+    },
+    {
+      "place_name": "Alhue",
+      "postal_code": "9650000",
+      "country_code": "CL",
+      "latitude": -34.043,
+      "longitude": -71.0566,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Puchuncaví",
+      "postal_code": "2500000",
+      "country_code": "CL",
+      "latitude": -32.7176,
+      "longitude": -71.4111,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "Putaendo",
+      "postal_code": "2190000",
+      "country_code": "CL",
+      "latitude": -32.4808,
+      "longitude": -70.5214,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "Panquehue",
+      "postal_code": "2210000",
+      "country_code": "CL",
+      "latitude": -32.7938,
+      "longitude": -70.829,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "Perquenco",
+      "postal_code": "4870000",
+      "country_code": "CL",
+      "latitude": -38.4283,
+      "longitude": -72.4365,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Curacautín",
+      "postal_code": "4700000",
+      "country_code": "CL",
+      "latitude": -38.4326,
+      "longitude": -71.7711,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Chillán",
+      "postal_code": "3780000",
+      "country_code": "CL",
+      "latitude": -36.6288,
+      "longitude": -72.0496,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Cabo De Hornos",
+      "postal_code": "6350000",
+      "country_code": "CL",
+      "latitude": -55.0225,
+      "longitude": -69.2283,
+      "admin_name1": "Región de Magallanes y Antártica Chilena"
+    },
+    {
+      "place_name": "Futaleufú",
+      "postal_code": "5870000",
+      "country_code": "CL",
+      "latitude": -43.1811,
+      "longitude": -72.0071,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Aysén",
+      "postal_code": "6000000",
+      "country_code": "CL",
+      "latitude": -45.9887,
+      "longitude": -73.7735,
+      "admin_name1": "Región Aysén"
+    },
+    {
+      "place_name": "Guaitecas",
+      "postal_code": "6020000",
+      "country_code": "CL",
+      "latitude": -43.8665,
+      "longitude": -74.0516,
+      "admin_name1": "Región Aysén"
+    },
+    {
+      "place_name": "Vilcún",
+      "postal_code": "4880000",
+      "country_code": "CL",
+      "latitude": -38.7047,
+      "longitude": -72.1136,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Chañaral",
+      "postal_code": "1490000",
+      "country_code": "CL",
+      "latitude": -26.3737,
+      "longitude": -70.3383,
+      "admin_name1": "Región de Atacama"
+    },
+    {
+      "place_name": "Chillán Viejo",
+      "postal_code": "3820000",
+      "country_code": "CL",
+      "latitude": -36.6803,
+      "longitude": -72.199,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Treguaco",
+      "postal_code": "3980000",
+      "country_code": "CL",
+      "latitude": -36.4281,
+      "longitude": -72.6595,
+      "admin_name1": "Región del Biobío"
+    },
+    {
+      "place_name": "Renca",
+      "postal_code": "8640000",
+      "country_code": "CL",
+      "latitude": -33.4021,
+      "longitude": -70.7279,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Juan Fernández",
+      "postal_code": "2600000",
+      "country_code": "CL",
+      "latitude": -33.6387,
+      "longitude": -78.8583,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "Isla De Pascua",
+      "postal_code": "2770000",
+      "country_code": "CL",
+      "latitude": -27.1288,
+      "longitude": -109.36,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "Hijuelas",
+      "postal_code": "2310000",
+      "country_code": "CL",
+      "latitude": -32.8693,
+      "longitude": -71.0816,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "Quilpue",
+      "postal_code": "2430000",
+      "country_code": "CL",
+      "latitude": -33.1473,
+      "longitude": -71.2543,
+      "admin_name1": "Región de Valparaíso"
+    },
+    {
+      "place_name": "Freire",
+      "postal_code": "4940000",
+      "country_code": "CL",
+      "latitude": -38.9496,
+      "longitude": -72.5758,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Loncoche",
+      "postal_code": "4970000",
+      "country_code": "CL",
+      "latitude": -39.3561,
+      "longitude": -72.5825,
+      "admin_name1": "Región de la Araucanía"
+    },
+    {
+      "place_name": "Alto Del Carmen",
+      "postal_code": "1650000",
+      "country_code": "CL",
+      "latitude": -28.9936,
+      "longitude": -70.153,
+      "admin_name1": "Región de Atacama"
+    },
+    {
+      "place_name": "Río Hurtado",
+      "postal_code": "1870000",
+      "country_code": "CL",
+      "latitude": -30.2667,
+      "longitude": -70.6667,
+      "admin_name1": "Región de Coquimbo"
+    },
+    {
+      "place_name": "La Pintana",
+      "postal_code": "8820000",
+      "country_code": "CL",
+      "latitude": -33.5843,
+      "longitude": -70.6376,
+      "admin_name1": "Región Metropolitana"
+    },
+    {
+      "place_name": "Los Muermos",
+      "postal_code": "5590000",
+      "country_code": "CL",
+      "latitude": -41.398,
+      "longitude": -73.5826,
+      "admin_name1": "Región de los Lagos"
+    },
+    {
+      "place_name": "Mariquina",
+      "postal_code": "5150000",
+      "country_code": "CL",
+      "latitude": -39.5131,
+      "longitude": -73.0196,
+      "admin_name1": "Región de los Ríos"
+    }
+  ]
+]

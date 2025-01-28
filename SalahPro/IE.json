@@ -1,0 +1,876 @@
+[
+  [
+    {
+      "place_name": "Macroom",
+      "postal_code": "P12",
+      "country_code": "IE",
+      "latitude": 51.9,
+      "longitude": -8.95,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Bantry",
+      "postal_code": "P75",
+      "country_code": "IE",
+      "latitude": 51.6833,
+      "longitude": -9.45,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Shannon",
+      "postal_code": "V14",
+      "country_code": "IE",
+      "latitude": 52.7039,
+      "longitude": -8.8642,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Carrick On Shannon",
+      "postal_code": "N41",
+      "country_code": "IE",
+      "latitude": 53.9469,
+      "longitude": -8.09,
+      "admin_name1": "Connacht"
+    },
+    {
+      "place_name": "Crookstown",
+      "postal_code": "P14",
+      "country_code": "IE",
+      "latitude": 53.0153,
+      "longitude": -6.8106,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Birr",
+      "postal_code": "R42",
+      "country_code": "IE",
+      "latitude": 53.0914,
+      "longitude": -7.9133,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Naas",
+      "postal_code": "W91",
+      "country_code": "IE",
+      "latitude": 53.2158,
+      "longitude": -6.6669,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Gorey",
+      "postal_code": "Y25",
+      "country_code": "IE",
+      "latitude": 52.6747,
+      "longitude": -6.2925,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Castleblayney",
+      "postal_code": "A75",
+      "country_code": "IE",
+      "latitude": 54.1167,
+      "longitude": -6.7333,
+      "admin_name1": "Ulster"
+    },
+    {
+      "place_name": "Mitchelstown",
+      "postal_code": "P67",
+      "country_code": "IE",
+      "latitude": 52.2658,
+      "longitude": -8.2681,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Miltown Malbay",
+      "postal_code": "V95",
+      "country_code": "IE",
+      "latitude": 52.8553,
+      "longitude": -9.3983,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Boyle",
+      "postal_code": "F52",
+      "country_code": "IE",
+      "latitude": 53.9667,
+      "longitude": -8.3,
+      "admin_name1": "Connacht"
+    },
+    {
+      "place_name": "Dublin 5",
+      "postal_code": "D05",
+      "country_code": "IE",
+      "latitude": 53.3842,
+      "longitude": -6.1921,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Dublin 10",
+      "postal_code": "D10",
+      "country_code": "IE",
+      "latitude": 53.3409,
+      "longitude": -6.3545,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Dublin 16",
+      "postal_code": "D16",
+      "country_code": "IE",
+      "latitude": 53.3419,
+      "longitude": -6.279,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Dublin 6W",
+      "postal_code": "D6W",
+      "country_code": "IE",
+      "latitude": 53.3087,
+      "longitude": -6.3012,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Balbriggan",
+      "postal_code": "K32",
+      "country_code": "IE",
+      "latitude": 53.6128,
+      "longitude": -6.1819,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Portlaoise",
+      "postal_code": "R32",
+      "country_code": "IE",
+      "latitude": 53.0344,
+      "longitude": -7.2998,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Arklow",
+      "postal_code": "Y14",
+      "country_code": "IE",
+      "latitude": 52.7931,
+      "longitude": -6.1414,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Ballyhaunis",
+      "postal_code": "F35",
+      "country_code": "IE",
+      "latitude": 53.7667,
+      "longitude": -8.7667,
+      "admin_name1": "Connacht"
+    },
+    {
+      "place_name": "Dublin 18",
+      "postal_code": "D18",
+      "country_code": "IE",
+      "latitude": 53.2469,
+      "longitude": -6.1774,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Watergrasshill",
+      "postal_code": "T56",
+      "country_code": "IE",
+      "latitude": 52.0114,
+      "longitude": -8.3442,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Newcastle West",
+      "postal_code": "V42",
+      "country_code": "IE",
+      "latitude": 52.4492,
+      "longitude": -9.0611,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Sligo",
+      "postal_code": "F91",
+      "country_code": "IE",
+      "latitude": 54.2697,
+      "longitude": -8.4694,
+      "admin_name1": "Connacht"
+    },
+    {
+      "place_name": "Dublin 6",
+      "postal_code": "D06",
+      "country_code": "IE",
+      "latitude": 53.3088,
+      "longitude": -6.2631,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Kenmare",
+      "postal_code": "V93",
+      "country_code": "IE",
+      "latitude": 51.8833,
+      "longitude": -9.5833,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Kells",
+      "postal_code": "A82",
+      "country_code": "IE",
+      "latitude": 53.7264,
+      "longitude": -6.8792,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Dublin 7",
+      "postal_code": "D07",
+      "country_code": "IE",
+      "latitude": 53.3615,
+      "longitude": -6.2918,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Cobh",
+      "postal_code": "P24",
+      "country_code": "IE",
+      "latitude": 51.8572,
+      "longitude": -8.2992,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Kilmallock",
+      "postal_code": "V35",
+      "country_code": "IE",
+      "latitude": 52.4,
+      "longitude": -8.5772,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Dungarvan",
+      "postal_code": "X35",
+      "country_code": "IE",
+      "latitude": 52.0881,
+      "longitude": -7.6253,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Dublin 11",
+      "postal_code": "D11",
+      "country_code": "IE",
+      "latitude": 53.3899,
+      "longitude": -6.293,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Carlow",
+      "postal_code": "R93",
+      "country_code": "IE",
+      "latitude": 52.8408,
+      "longitude": -6.9261,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Cork city southside",
+      "postal_code": "T12",
+      "country_code": "IE",
+      "latitude": 51.8728,
+      "longitude": -8.4902,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Letterkenny",
+      "postal_code": "F92",
+      "country_code": "IE",
+      "latitude": 54.95,
+      "longitude": -7.7333,
+      "admin_name1": "Ulster"
+    },
+    {
+      "place_name": "Roscommon",
+      "postal_code": "F42",
+      "country_code": "IE",
+      "latitude": 53.6333,
+      "longitude": -8.1833,
+      "admin_name1": "Connacht"
+    },
+    {
+      "place_name": "Dublin 15",
+      "postal_code": "D15",
+      "country_code": "IE",
+      "latitude": 53.3832,
+      "longitude": -6.4165,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Athy",
+      "postal_code": "R14",
+      "country_code": "IE",
+      "latitude": 52.9914,
+      "longitude": -6.9803,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Nenagh",
+      "postal_code": "E45",
+      "country_code": "IE",
+      "latitude": 52.8619,
+      "longitude": -8.1967,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Rylane",
+      "postal_code": "P32",
+      "country_code": "IE",
+      "latitude": 51.9833,
+      "longitude": -8.8333,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Limerick",
+      "postal_code": "V94",
+      "country_code": "IE",
+      "latitude": 52.6647,
+      "longitude": -8.6231,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Monaghan",
+      "postal_code": "H18",
+      "country_code": "IE",
+      "latitude": 54.25,
+      "longitude": -6.9667,
+      "admin_name1": "Ulster"
+    },
+    {
+      "place_name": "Castlerea",
+      "postal_code": "F45",
+      "country_code": "IE",
+      "latitude": 53.7667,
+      "longitude": -8.5,
+      "admin_name1": "Connacht"
+    },
+    {
+      "place_name": "Clonmel",
+      "postal_code": "E91",
+      "country_code": "IE",
+      "latitude": 52.355,
+      "longitude": -7.7039,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Listowel",
+      "postal_code": "V31",
+      "country_code": "IE",
+      "latitude": 52.4464,
+      "longitude": -9.485,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Lifford",
+      "postal_code": "F93",
+      "country_code": "IE",
+      "latitude": 54.8319,
+      "longitude": -7.4836,
+      "admin_name1": "Ulster"
+    },
+    {
+      "place_name": "Castlebar",
+      "postal_code": "F23",
+      "country_code": "IE",
+      "latitude": 53.85,
+      "longitude": -9.3,
+      "admin_name1": "Connacht"
+    },
+    {
+      "place_name": "Ballinrobe",
+      "postal_code": "F31",
+      "country_code": "IE",
+      "latitude": 53.6333,
+      "longitude": -9.2333,
+      "admin_name1": "Connacht"
+    },
+    {
+      "place_name": "Ballymote",
+      "postal_code": "F56",
+      "country_code": "IE",
+      "latitude": 54.0833,
+      "longitude": -8.5167,
+      "admin_name1": "Connacht"
+    },
+    {
+      "place_name": "Dublin 13",
+      "postal_code": "D13",
+      "country_code": "IE",
+      "latitude": 53.3946,
+      "longitude": -6.1495,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Skerries",
+      "postal_code": "K34",
+      "country_code": "IE",
+      "latitude": 53.5828,
+      "longitude": -6.1083,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Edenderry",
+      "postal_code": "R45",
+      "country_code": "IE",
+      "latitude": 53.3453,
+      "longitude": -7.0497,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Athenry",
+      "postal_code": "H65",
+      "country_code": "IE",
+      "latitude": 53.2964,
+      "longitude": -8.7431,
+      "admin_name1": "Connacht"
+    },
+    {
+      "place_name": "Dublin 22",
+      "postal_code": "D22",
+      "country_code": "IE",
+      "latitude": 53.3275,
+      "longitude": -6.4006,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Mullingar",
+      "postal_code": "N91",
+      "country_code": "IE",
+      "latitude": 53.5333,
+      "longitude": -7.35,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Cashel",
+      "postal_code": "E25",
+      "country_code": "IE",
+      "latitude": 52.5158,
+      "longitude": -7.8856,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Fermoy",
+      "postal_code": "P61",
+      "country_code": "IE",
+      "latitude": 52.1358,
+      "longitude": -8.2758,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Carrignavar",
+      "postal_code": "T34",
+      "country_code": "IE",
+      "latitude": 51.9886,
+      "longitude": -8.4797,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Monasterevin",
+      "postal_code": "W34",
+      "country_code": "IE",
+      "latitude": 53.1406,
+      "longitude": -7.0664,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Dunmanway",
+      "postal_code": "P47",
+      "country_code": "IE",
+      "latitude": 51.7167,
+      "longitude": -9.1167,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Tralee",
+      "postal_code": "V92",
+      "country_code": "IE",
+      "latitude": 52.2704,
+      "longitude": -9.7026,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Dublin 14",
+      "postal_code": "D14",
+      "country_code": "IE",
+      "latitude": 53.296,
+      "longitude": -6.2593,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Cahir",
+      "postal_code": "E21",
+      "country_code": "IE",
+      "latitude": 52.3769,
+      "longitude": -7.9217,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Dublin 8",
+      "postal_code": "D08",
+      "country_code": "IE",
+      "latitude": 53.3346,
+      "longitude": -6.2733,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Tuam",
+      "postal_code": "H54",
+      "country_code": "IE",
+      "latitude": 53.5167,
+      "longitude": -8.85,
+      "admin_name1": "Connacht"
+    },
+    {
+      "place_name": "Loughrea",
+      "postal_code": "H62",
+      "country_code": "IE",
+      "latitude": 53.1969,
+      "longitude": -8.5669,
+      "admin_name1": "Connacht"
+    },
+    {
+      "place_name": "Dublin 1",
+      "postal_code": "D01",
+      "country_code": "IE",
+      "latitude": 53.354,
+      "longitude": -6.2545,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Dublin 4",
+      "postal_code": "D04",
+      "country_code": "IE",
+      "latitude": 53.3334,
+      "longitude": -6.2335,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Dublin 9",
+      "postal_code": "D09",
+      "country_code": "IE",
+      "latitude": 53.3818,
+      "longitude": -6.2465,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Clonakilty",
+      "postal_code": "P85",
+      "country_code": "IE",
+      "latitude": 51.6231,
+      "longitude": -8.8706,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Dunshaughlin",
+      "postal_code": "A85",
+      "country_code": "IE",
+      "latitude": 53.5125,
+      "longitude": -6.54,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Dublin 17",
+      "postal_code": "D17",
+      "country_code": "IE",
+      "latitude": 53.4006,
+      "longitude": -6.2058,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Kilrush",
+      "postal_code": "V15",
+      "country_code": "IE",
+      "latitude": 52.6397,
+      "longitude": -9.4833,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Greystones",
+      "postal_code": "A63",
+      "country_code": "IE",
+      "latitude": 53.1408,
+      "longitude": -6.0631,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Drogheda",
+      "postal_code": "A92",
+      "country_code": "IE",
+      "latitude": 53.7189,
+      "longitude": -6.3478,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Dublin 2",
+      "postal_code": "D02",
+      "country_code": "IE",
+      "latitude": 53.34,
+      "longitude": -6.2543,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Ballincollig",
+      "postal_code": "P31",
+      "country_code": "IE",
+      "latitude": 51.8833,
+      "longitude": -8.5833,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Dun Laoghaire",
+      "postal_code": "A96",
+      "country_code": "IE",
+      "latitude": 53.294,
+      "longitude": -6.1359,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Trim",
+      "postal_code": "C15",
+      "country_code": "IE",
+      "latitude": 53.555,
+      "longitude": -6.7917,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Dublin 24",
+      "postal_code": "D24",
+      "country_code": "IE",
+      "latitude": 53.2851,
+      "longitude": -6.3713,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Swords",
+      "postal_code": "K67",
+      "country_code": "IE",
+      "latitude": 53.4597,
+      "longitude": -6.2181,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Midleton",
+      "postal_code": "P25",
+      "country_code": "IE",
+      "latitude": 51.9153,
+      "longitude": -8.1805,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Caherciveen",
+      "postal_code": "V23",
+      "country_code": "IE",
+      "latitude": 51.9486,
+      "longitude": -10.2222,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Clones",
+      "postal_code": "H23",
+      "country_code": "IE",
+      "latitude": 54.1833,
+      "longitude": -7.2333,
+      "admin_name1": "Ulster"
+    },
+    {
+      "place_name": "Wicklow",
+      "postal_code": "A67",
+      "country_code": "IE",
+      "latitude": 52.975,
+      "longitude": -6.0494,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Bagenalstown",
+      "postal_code": "R21",
+      "country_code": "IE",
+      "latitude": 52.7003,
+      "longitude": -6.9618,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Roscrea",
+      "postal_code": "E53",
+      "country_code": "IE",
+      "latitude": 52.9511,
+      "longitude": -7.8017,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Dublin 3",
+      "postal_code": "D03",
+      "country_code": "IE",
+      "latitude": 53.3645,
+      "longitude": -6.2378,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Dublin 12",
+      "postal_code": "D12",
+      "country_code": "IE",
+      "latitude": 53.322,
+      "longitude": -6.3165,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Maynooth",
+      "postal_code": "W23",
+      "country_code": "IE",
+      "latitude": 53.385,
+      "longitude": -6.5936,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Skibbereen",
+      "postal_code": "P81",
+      "country_code": "IE",
+      "latitude": 51.55,
+      "longitude": -9.2667,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Ballinasloe",
+      "postal_code": "H53",
+      "country_code": "IE",
+      "latitude": 53.3275,
+      "longitude": -8.2194,
+      "admin_name1": "Connacht"
+    },
+    {
+      "place_name": "Garristown",
+      "postal_code": "A42",
+      "country_code": "IE",
+      "latitude": 53.5661,
+      "longitude": -6.3856,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Thurles",
+      "postal_code": "E41",
+      "country_code": "IE",
+      "latitude": 52.6819,
+      "longitude": -7.8022,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Dunboyne",
+      "postal_code": "A86",
+      "country_code": "IE",
+      "latitude": 53.4,
+      "longitude": -6.4667,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Enniscorthy",
+      "postal_code": "Y21",
+      "country_code": "IE",
+      "latitude": 52.5008,
+      "longitude": -6.5578,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Youghal",
+      "postal_code": "P36",
+      "country_code": "IE",
+      "latitude": 51.95,
+      "longitude": -7.8506,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Cork city northside",
+      "postal_code": "T23",
+      "country_code": "IE",
+      "latitude": 51.8972,
+      "longitude": -8.4702,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Kilmacthomas",
+      "postal_code": "X42",
+      "country_code": "IE",
+      "latitude": 52.2097,
+      "longitude": -7.4258,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Carrigaline",
+      "postal_code": "P43",
+      "country_code": "IE",
+      "latitude": 51.8117,
+      "longitude": -8.3986,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Malahide",
+      "postal_code": "K36",
+      "country_code": "IE",
+      "latitude": 53.4508,
+      "longitude": -6.1544,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Cootehill",
+      "postal_code": "H16",
+      "country_code": "IE",
+      "latitude": 54.0725,
+      "longitude": -7.0819,
+      "admin_name1": "Ulster"
+    },
+    {
+      "place_name": "Ballyboughal",
+      "postal_code": "A41",
+      "country_code": "IE",
+      "latitude": 53.5195,
+      "longitude": -6.2667,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Dublin 20",
+      "postal_code": "D20",
+      "country_code": "IE",
+      "latitude": 53.3518,
+      "longitude": -6.3693,
+      "admin_name1": "Leinster"
+    },
+    {
+      "place_name": "Carrick on Suir",
+      "postal_code": "E32",
+      "country_code": "IE",
+      "latitude": 52.3492,
+      "longitude": -7.4131,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Mallow",
+      "postal_code": "P51",
+      "country_code": "IE",
+      "latitude": 52.1333,
+      "longitude": -8.6333,
+      "admin_name1": "Munster"
+    },
+    {
+      "place_name": "Carrickmacross",
+      "postal_code": "A81",
+      "country_code": "IE",
+      "latitude": 53.9728,
+      "longitude": -6.7189,
+      "admin_name1": "Ulster"
+    },
+    {
+      "place_name": "Bundoran",
+      "postal_code": "F94",
+      "country_code": "IE",
+      "latitude": 54.4778,
+      "longitude": -8.2809,
+      "admin_name1": "Ulster"
+    },
+    {
+      "place_name": "Belturbet",
+      "postal_code": "H14",
+      "country_code": "IE",
+      "latitude": 54.1,
+      "longitude": -7.45,
+      "admin_name1": "Ulster"
+    }
+  ]
+]

@@ -1,0 +1,28 @@
+[
+  [
+    {
+      "place_name": "Sigave",
+      "postal_code": "98620",
+      "country_code": "WF",
+      "latitude": -14.2667,
+      "longitude": -178.1667,
+      "admin_name1": "Circonscription de Sigave"
+    },
+    {
+      "place_name": "Alo",
+      "postal_code": "98610",
+      "country_code": "WF",
+      "latitude": -14.3066,
+      "longitude": -178.1188,
+      "admin_name1": "Circonscription d'Alo"
+    },
+    {
+      "place_name": "Uvéa",
+      "postal_code": "98600",
+      "country_code": "WF",
+      "latitude": -13.2988,
+      "longitude": -176.2205,
+      "admin_name1": "Circonscription d'Uvéa"
+    }
+  ]
+]

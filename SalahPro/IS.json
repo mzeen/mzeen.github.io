@@ -1,0 +1,788 @@
+[
+  [
+    {
+      "place_name": "Hafnarfirði",
+      "postal_code": "222",
+      "country_code": "IS",
+      "latitude": 64.068,
+      "longitude": -21.9566,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Borgarnesi",
+      "postal_code": "310",
+      "country_code": "IS",
+      "latitude": 64.5383,
+      "longitude": -21.9206,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Egilsstöðum",
+      "postal_code": "701",
+      "country_code": "IS",
+      "latitude": 65.2669,
+      "longitude": -14.3948,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Reykjavík - 10",
+      "postal_code": "130",
+      "country_code": "IS",
+      "latitude": 64.1182,
+      "longitude": -21.7967,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Búðardal",
+      "postal_code": "371",
+      "country_code": "IS",
+      "latitude": 65.1094,
+      "longitude": -21.7639,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Suðureyri",
+      "postal_code": "430",
+      "country_code": "IS",
+      "latitude": 66.1304,
+      "longitude": -23.528,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Drangsnesi",
+      "postal_code": "520",
+      "country_code": "IS",
+      "latitude": 65.6892,
+      "longitude": -21.4435,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sauðárkróki",
+      "postal_code": "551",
+      "country_code": "IS",
+      "latitude": 65.7461,
+      "longitude": -19.6394,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Höfn í Hornafirði",
+      "postal_code": "780",
+      "country_code": "IS",
+      "latitude": 64.2539,
+      "longitude": -15.2121,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Eyrarbakka",
+      "postal_code": "820",
+      "country_code": "IS",
+      "latitude": 63.8632,
+      "longitude": -21.1491,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Reykjavík - 8",
+      "postal_code": "128",
+      "country_code": "IS",
+      "latitude": 64.1366,
+      "longitude": -21.8807,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Seltjarnarnesi",
+      "postal_code": "170",
+      "country_code": "IS",
+      "latitude": 64.1531,
+      "longitude": -21.995,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mosfellsbæ",
+      "postal_code": "276",
+      "country_code": "IS",
+      "latitude": 64.3015,
+      "longitude": -21.7845,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vopnafirði",
+      "postal_code": "690",
+      "country_code": "IS",
+      "latitude": 65.7566,
+      "longitude": -14.8278,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Laugarvatni",
+      "postal_code": "840",
+      "country_code": "IS",
+      "latitude": 64.2176,
+      "longitude": -20.7339,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hellu",
+      "postal_code": "850",
+      "country_code": "IS",
+      "latitude": 63.8348,
+      "longitude": -20.4008,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Reykjavík - 5",
+      "postal_code": "125",
+      "country_code": "IS",
+      "latitude": 64.1366,
+      "longitude": -21.8807,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Blönduósi",
+      "postal_code": "541",
+      "country_code": "IS",
+      "latitude": 65.6593,
+      "longitude": -20.2808,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Þorlákshöfn",
+      "postal_code": "815",
+      "country_code": "IS",
+      "latitude": 63.8559,
+      "longitude": -21.3834,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Reykjanesbæ",
+      "postal_code": "230",
+      "country_code": "IS",
+      "latitude": 64.0026,
+      "longitude": -22.5632,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Akranesi",
+      "postal_code": "301",
+      "country_code": "IS",
+      "latitude": 64.3218,
+      "longitude": -22.075,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hellissandi",
+      "postal_code": "360",
+      "country_code": "IS",
+      "latitude": 64.9176,
+      "longitude": -23.8856,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Patreksfirði",
+      "postal_code": "450",
+      "country_code": "IS",
+      "latitude": 65.5978,
+      "longitude": -23.996,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hofsós",
+      "postal_code": "565",
+      "country_code": "IS",
+      "latitude": 65.899,
+      "longitude": -19.413,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Öræfum",
+      "postal_code": "785",
+      "country_code": "IS",
+      "latitude": 63.8873,
+      "longitude": -16.6965,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hvammstanga",
+      "postal_code": "531",
+      "country_code": "IS",
+      "latitude": 65.3971,
+      "longitude": -20.9435,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Dalvík",
+      "postal_code": "620",
+      "country_code": "IS",
+      "latitude": 65.9702,
+      "longitude": -18.5286,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bakkafirði",
+      "postal_code": "685",
+      "country_code": "IS",
+      "latitude": 66.0377,
+      "longitude": -14.7931,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mjóafirði",
+      "postal_code": "715",
+      "country_code": "IS",
+      "latitude": 65.1885,
+      "longitude": -14.0326,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Reykjavík - 12",
+      "postal_code": "132",
+      "country_code": "IS",
+      "latitude": 64.1345,
+      "longitude": -21.7986,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ísafirði",
+      "postal_code": "401",
+      "country_code": "IS",
+      "latitude": 66.0747,
+      "longitude": -23.135,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Súðavík",
+      "postal_code": "420",
+      "country_code": "IS",
+      "latitude": 66.0383,
+      "longitude": -22.9859,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kópaskeri",
+      "postal_code": "670",
+      "country_code": "IS",
+      "latitude": 66.3018,
+      "longitude": -16.4445,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Selfossi",
+      "postal_code": "802",
+      "country_code": "IS",
+      "latitude": 63.9369,
+      "longitude": -20.9949,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hvolsvelli",
+      "postal_code": "860",
+      "country_code": "IS",
+      "latitude": 63.7507,
+      "longitude": -20.2245,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kópavogi",
+      "postal_code": "203",
+      "country_code": "IS",
+      "latitude": 64.0885,
+      "longitude": -21.8312,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Garðabæ",
+      "postal_code": "212",
+      "country_code": "IS",
+      "latitude": 64.091,
+      "longitude": -21.9255,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grundarfirði",
+      "postal_code": "350",
+      "country_code": "IS",
+      "latitude": 64.9243,
+      "longitude": -23.2631,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Seyðisfirði",
+      "postal_code": "710",
+      "country_code": "IS",
+      "latitude": 65.2601,
+      "longitude": -14.0058,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Reykjavík - 13",
+      "postal_code": "113",
+      "country_code": "IS",
+      "latitude": 64.1286,
+      "longitude": -21.7572,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Flateyri",
+      "postal_code": "425",
+      "country_code": "IS",
+      "latitude": 66.0512,
+      "longitude": -23.5155,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Fljótum",
+      "postal_code": "570",
+      "country_code": "IS",
+      "latitude": 66.0514,
+      "longitude": -19.0166,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Akureyri",
+      "postal_code": "600",
+      "country_code": "IS",
+      "latitude": 65.6835,
+      "longitude": -18.0878,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Húsavík",
+      "postal_code": "641",
+      "country_code": "IS",
+      "latitude": 66.0415,
+      "longitude": -17.3383,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Reyðarfirði",
+      "postal_code": "730",
+      "country_code": "IS",
+      "latitude": 65.0316,
+      "longitude": -14.2183,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grímsey",
+      "postal_code": "611",
+      "country_code": "IS",
+      "latitude": 66.5394,
+      "longitude": -18.0135,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Borgarfirði (eystri)",
+      "postal_code": "720",
+      "country_code": "IS",
+      "latitude": 65.5255,
+      "longitude": -13.8038,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Reykjavík - 9",
+      "postal_code": "109",
+      "country_code": "IS",
+      "latitude": 64.1098,
+      "longitude": -21.8358,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Reykjavík",
+      "postal_code": "155",
+      "country_code": "IS",
+      "latitude": 64.1256,
+      "longitude": -21.8061,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Garði",
+      "postal_code": "250",
+      "country_code": "IS",
+      "latitude": 64.0699,
+      "longitude": -22.6511,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Snæfellsbæ",
+      "postal_code": "356",
+      "country_code": "IS",
+      "latitude": 64.8943,
+      "longitude": -23.7092,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hólmavík",
+      "postal_code": "510",
+      "country_code": "IS",
+      "latitude": 65.7077,
+      "longitude": -21.6706,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grenivík",
+      "postal_code": "610",
+      "country_code": "IS",
+      "latitude": 65.951,
+      "longitude": -18.1749,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Fáskrúðsfirði",
+      "postal_code": "750",
+      "country_code": "IS",
+      "latitude": 64.9313,
+      "longitude": -14.0189,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stykkishólmi",
+      "postal_code": "340",
+      "country_code": "IS",
+      "latitude": 65.0754,
+      "longitude": -22.7298,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Reykhólahreppi",
+      "postal_code": "380",
+      "country_code": "IS",
+      "latitude": 65.4461,
+      "longitude": -22.1899,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Laugum",
+      "postal_code": "650",
+      "country_code": "IS",
+      "latitude": 65.7215,
+      "longitude": -17.3606,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vogum",
+      "postal_code": "190",
+      "country_code": "IS",
+      "latitude": 63.9816,
+      "longitude": -22.3847,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Reykholt í Borgarfirði",
+      "postal_code": "320",
+      "country_code": "IS",
+      "latitude": 64.6644,
+      "longitude": -21.2915,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Reykjavík - 1",
+      "postal_code": "101",
+      "country_code": "IS",
+      "latitude": 64.1432,
+      "longitude": -21.9466,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Reykjavík - 3",
+      "postal_code": "103",
+      "country_code": "IS",
+      "latitude": 64.1303,
+      "longitude": -21.8961,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kjalarnesi",
+      "postal_code": "116",
+      "country_code": "IS",
+      "latitude": 64.2406,
+      "longitude": -21.8367,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Þórshöfn",
+      "postal_code": "680",
+      "country_code": "IS",
+      "latitude": 66.1981,
+      "longitude": -15.3368,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Reykjavík - 4",
+      "postal_code": "124",
+      "country_code": "IS",
+      "latitude": 64.1366,
+      "longitude": -21.8807,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Siglufirði",
+      "postal_code": "580",
+      "country_code": "IS",
+      "latitude": 66.152,
+      "longitude": -18.9081,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stöðvarfirði",
+      "postal_code": "755",
+      "country_code": "IS",
+      "latitude": 64.833,
+      "longitude": -13.8749,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vestmannaeyjum",
+      "postal_code": "902",
+      "country_code": "IS",
+      "latitude": 63.4406,
+      "longitude": -20.267,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hrísey",
+      "postal_code": "630",
+      "country_code": "IS",
+      "latitude": 65.9784,
+      "longitude": -18.3778,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Flúðum",
+      "postal_code": "845",
+      "country_code": "IS",
+      "latitude": 64.1343,
+      "longitude": -20.3226,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stað",
+      "postal_code": "500",
+      "country_code": "IS",
+      "latitude": 65.7681,
+      "longitude": -21.864,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Sandgerði",
+      "postal_code": "245",
+      "country_code": "IS",
+      "latitude": 64.0381,
+      "longitude": -22.7031,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bíldudal",
+      "postal_code": "465",
+      "country_code": "IS",
+      "latitude": 65.6853,
+      "longitude": -23.5999,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Varmahlíð",
+      "postal_code": "560",
+      "country_code": "IS",
+      "latitude": 65.5526,
+      "longitude": -19.4465,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Mývatni",
+      "postal_code": "660",
+      "country_code": "IS",
+      "latitude": 65.6207,
+      "longitude": -16.9823,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Djúpavogi",
+      "postal_code": "765",
+      "country_code": "IS",
+      "latitude": 64.6571,
+      "longitude": -14.2852,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Reykjavík - 11",
+      "postal_code": "111",
+      "country_code": "IS",
+      "latitude": 64.1054,
+      "longitude": -21.8166,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ólafsvík",
+      "postal_code": "355",
+      "country_code": "IS",
+      "latitude": 64.8943,
+      "longitude": -23.7092,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Fosshólli",
+      "postal_code": "645",
+      "country_code": "IS",
+      "latitude": 65.6859,
+      "longitude": -17.5386,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Breiðdalsvík",
+      "postal_code": "760",
+      "country_code": "IS",
+      "latitude": 64.7921,
+      "longitude": -14.0065,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Vík",
+      "postal_code": "870",
+      "country_code": "IS",
+      "latitude": 63.4194,
+      "longitude": -19.0097,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Grindavík",
+      "postal_code": "240",
+      "country_code": "IS",
+      "latitude": 63.8394,
+      "longitude": -22.4383,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Tálknafirði",
+      "postal_code": "460",
+      "country_code": "IS",
+      "latitude": 65.6265,
+      "longitude": -23.8246,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Þingeyri",
+      "postal_code": "471",
+      "country_code": "IS",
+      "latitude": 65.879,
+      "longitude": -23.4929,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Raufarhöfn",
+      "postal_code": "675",
+      "country_code": "IS",
+      "latitude": 66.4543,
+      "longitude": -15.9511,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Eskifirði",
+      "postal_code": "735",
+      "country_code": "IS",
+      "latitude": 65.0731,
+      "longitude": -14.0152,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Reykjavík - 7",
+      "postal_code": "127",
+      "country_code": "IS",
+      "latitude": 64.1504,
+      "longitude": -21.9851,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Skagaströnd",
+      "postal_code": "545",
+      "country_code": "IS",
+      "latitude": 65.8232,
+      "longitude": -20.3025,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Kirkjubæjarklaustri",
+      "postal_code": "880",
+      "country_code": "IS",
+      "latitude": 63.7893,
+      "longitude": -18.0527,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Álftanesi",
+      "postal_code": "225",
+      "country_code": "IS",
+      "latitude": 64.1,
+      "longitude": -22.0167,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Keflavíkurflugvelli",
+      "postal_code": "235",
+      "country_code": "IS",
+      "latitude": 63.9742,
+      "longitude": -22.577,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Ólafsfirði",
+      "postal_code": "625",
+      "country_code": "IS",
+      "latitude": 66.0672,
+      "longitude": -18.644,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hnífsdal",
+      "postal_code": "410",
+      "country_code": "IS",
+      "latitude": 66.1113,
+      "longitude": -23.1204,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Bolungarvík",
+      "postal_code": "415",
+      "country_code": "IS",
+      "latitude": 66.1592,
+      "longitude": -23.2494,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Neskaupstað",
+      "postal_code": "740",
+      "country_code": "IS",
+      "latitude": 65.1482,
+      "longitude": -13.6837,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Hveragerði",
+      "postal_code": "810",
+      "country_code": "IS",
+      "latitude": 64.0004,
+      "longitude": -21.186,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Stokkseyri",
+      "postal_code": "825",
+      "country_code": "IS",
+      "latitude": 63.8379,
+      "longitude": -21.0587,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Flatey á Breiðafirði",
+      "postal_code": "345",
+      "country_code": "IS",
+      "latitude": 65.3759,
+      "longitude": -22.9179,
+      "admin_name1": null
+    },
+    {
+      "place_name": "Norðurfirði",
+      "postal_code": "524",
+      "country_code": "IS",
+      "latitude": 66.0079,
+      "longitude": -21.5346,
+      "admin_name1": null
+    }
+  ]
+]
